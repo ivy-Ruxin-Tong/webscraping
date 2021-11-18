@@ -43,7 +43,7 @@ def get_state_link(state:str):
     state_detail_link = []
     for td in table.find_all("td"):
         name = td.find('a')
-        if str(name) == "None":
+        if name is None:
             continue
         else:
             if 'zip-code' in name['href']:
@@ -101,6 +101,7 @@ def combined_csv():
     combined_csv.to_csv("combined_csv.csv", index=False, encoding='utf-8-sig')
 
 # print(get_state_link('AK'))
+# print(len(get_state_link('AK')))
 # parse_table(get_state_link('AK'),'AK')
 
 
