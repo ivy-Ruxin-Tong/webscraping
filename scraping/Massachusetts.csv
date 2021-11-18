@@ -1,0 +1,681 @@
+01002,Amherst,Massachusetts ,HAMPSHIRE,25,015,MA 
+01007,Belchertown,Massachusetts ,HAMPSHIRE,25,015,MA 
+01005,Barre,Massachusetts ,WORCESTER,25,027,MA 
+01004,Amherst,Massachusetts ,HAMPSHIRE,25,015,MA 
+01009,Bondsville,Massachusetts ,HAMPDEN,25,013,MA 
+01003,Amherst,Massachusetts ,HAMPSHIRE,25,015,MA 
+01008,Blandford,Massachusetts ,HAMPDEN,25,013,MA 
+01001,Agawam,Massachusetts ,HAMPDEN,25,013,MA 
+01014,Chicopee,Massachusetts ,HAMPDEN,25,013,MA 
+01011,Chester,Massachusetts ,HAMPDEN,25,013,MA 
+01021,Chicopee,Massachusetts ,HAMPDEN,25,013,MA 
+01013,Chicopee,Massachusetts ,HAMPDEN,25,013,MA 
+01020,Chicopee,Massachusetts ,HAMPDEN,25,013,MA 
+01010,Brimfield,Massachusetts ,HAMPDEN,25,013,MA 
+01012,Chesterfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01022,Chicopee,Massachusetts ,HAMPDEN,25,013,MA 
+01027,Easthampton,Massachusetts ,HAMPSHIRE,25,015,MA 
+01031,Gilbertville,Massachusetts ,WORCESTER,25,027,MA 
+01028,East Longmeadow,Massachusetts ,HAMPDEN,25,013,MA 
+01033,Granby,Massachusetts ,HAMPSHIRE,25,015,MA 
+01029,East Otis,Massachusetts ,BERKSHIRE,25,003,MA 
+01030,Feeding Hills,Massachusetts ,HAMPDEN,25,013,MA 
+01032,Goshen,Massachusetts ,HAMPSHIRE,25,015,MA 
+01026,Cummington,Massachusetts ,HAMPSHIRE,25,015,MA 
+01034,Granville,Massachusetts ,HAMPDEN,25,013,MA 
+01040,Holyoke,Massachusetts ,HAMPDEN,25,013,MA 
+01039,Haydenville,Massachusetts ,HAMPSHIRE,25,015,MA 
+01037,Hardwick,Massachusetts ,WORCESTER,25,027,MA 
+01036,Hampden,Massachusetts ,HAMPDEN,25,013,MA 
+01038,Hatfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01035,Hadley,Massachusetts ,HAMPSHIRE,25,015,MA 
+01041,Holyoke,Massachusetts ,HAMPDEN,25,013,MA 
+01050,Huntington,Massachusetts ,HAMPSHIRE,25,015,MA 
+01053,Leeds,Massachusetts ,HAMPSHIRE,25,015,MA 
+01059,North Amherst,Massachusetts ,HAMPSHIRE,25,015,MA 
+01056,Ludlow,Massachusetts ,HAMPDEN,25,013,MA 
+01060,Northampton,Massachusetts ,HAMPSHIRE,25,015,MA 
+01057,Monson,Massachusetts ,HAMPDEN,25,013,MA 
+01061,Northampton,Massachusetts ,HAMPSHIRE,25,015,MA 
+01054,Leverett,Massachusetts ,FRANKLIN,25,011,MA 
+01062,Florence,Massachusetts ,HAMPSHIRE,25,015,MA 
+01062,Florence,Massachusetts ,HAMPSHIRE,25,015,MA 
+01063,Northampton,Massachusetts ,HAMPSHIRE,25,015,MA 
+01066,North Hatfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01069,Palmer,Massachusetts ,HAMPDEN,25,013,MA 
+01071,Russell,Massachusetts ,HAMPDEN,25,013,MA 
+01070,Plainfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01072,Shutesbury,Massachusetts ,FRANKLIN,25,011,MA 
+01068,Oakham,Massachusetts ,WORCESTER,25,027,MA 
+01073,Southampton,Massachusetts ,HAMPSHIRE,25,015,MA 
+01075,South Hadley,Massachusetts ,HAMPSHIRE,25,015,MA 
+01074,South Barre,Massachusetts ,WORCESTER,25,027,MA 
+01082,Ware,Massachusetts ,HAMPSHIRE,25,015,MA 
+01079,Thorndike,Massachusetts ,HAMPDEN,25,013,MA 
+01081,Wales,Massachusetts ,HAMPDEN,25,013,MA 
+01080,Three Rivers,Massachusetts ,HAMPDEN,25,013,MA 
+01077,Southwick,Massachusetts ,HAMPDEN,25,013,MA 
+01083,Warren,Massachusetts ,WORCESTER,25,027,MA 
+01085,Westfield,Massachusetts ,HAMPDEN,25,013,MA 
+01084,West Chesterfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01090,West Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01086,Westfield,Massachusetts ,HAMPDEN,25,013,MA 
+01089,West Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01092,West Warren,Massachusetts ,WORCESTER,25,027,MA 
+01088,West Hatfield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01095,Wilbraham,Massachusetts ,HAMPDEN,25,013,MA 
+01093,Whately,Massachusetts ,FRANKLIN,25,011,MA 
+01094,Wheelwright,Massachusetts ,WORCESTER,25,027,MA 
+01096,Williamsburg,Massachusetts ,HAMPSHIRE,25,015,MA 
+01098,Worthington,Massachusetts ,HAMPSHIRE,25,015,MA 
+01102,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01105,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01097,Woronoco,Massachusetts ,HAMPDEN,25,013,MA 
+01103,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01101,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01104,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01107,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01108,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01118,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01109,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01115,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01111,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01106,Longmeadow,Massachusetts ,HAMPDEN,25,013,MA 
+01116,Longmeadow,Massachusetts ,HAMPDEN,25,013,MA 
+01119,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01151,Indian Orchard,Massachusetts ,HAMPDEN,25,013,MA 
+01138,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01129,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01144,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01139,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01128,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01152,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01199,Springfield,Massachusetts ,HAMPDEN,25,013,MA 
+01201,Pittsfield,Massachusetts ,BERKSHIRE,25,003,MA 
+01202,Pittsfield,Massachusetts ,BERKSHIRE,25,003,MA 
+01203,Pittsfield,Massachusetts ,BERKSHIRE,25,003,MA 
+01224,Berkshire,Massachusetts ,BERKSHIRE,25,003,MA 
+01222,Ashley Falls,Massachusetts ,BERKSHIRE,25,003,MA 
+01220,Adams,Massachusetts ,BERKSHIRE,25,003,MA 
+01223,Becket,Massachusetts ,BERKSHIRE,25,003,MA 
+01225,Cheshire,Massachusetts ,BERKSHIRE,25,003,MA 
+01229,Glendale,Massachusetts ,BERKSHIRE,25,003,MA 
+01226,Dalton,Massachusetts ,BERKSHIRE,25,003,MA 
+01230,Great Barrington,Massachusetts ,BERKSHIRE,25,003,MA 
+01235,Hinsdale,Massachusetts ,BERKSHIRE,25,003,MA 
+01227,Dalton,Massachusetts ,BERKSHIRE,25,003,MA 
+01237,Lanesborough,Massachusetts ,BERKSHIRE,25,003,MA 
+01236,Housatonic,Massachusetts ,BERKSHIRE,25,003,MA 
+01238,Lee,Massachusetts ,BERKSHIRE,25,003,MA 
+01240,Lenox,Massachusetts ,BERKSHIRE,25,003,MA 
+01243,Middlefield,Massachusetts ,HAMPSHIRE,25,015,MA 
+01252,North Egremont,Massachusetts ,BERKSHIRE,25,003,MA 
+01245,Monterey,Massachusetts ,BERKSHIRE,25,003,MA 
+01244,Mill River,Massachusetts ,BERKSHIRE,25,003,MA 
+01247,North Adams,Massachusetts ,BERKSHIRE,25,003,MA 
+01242,Lenox Dale,Massachusetts ,BERKSHIRE,25,003,MA 
+01253,Otis,Massachusetts ,BERKSHIRE,25,003,MA 
+01254,Richmond,Massachusetts ,BERKSHIRE,25,003,MA 
+01255,Sandisfield,Massachusetts ,BERKSHIRE,25,003,MA 
+01258,South Egremont,Massachusetts ,BERKSHIRE,25,003,MA 
+01257,Sheffield,Massachusetts ,BERKSHIRE,25,003,MA 
+01259,Southfield,Massachusetts ,BERKSHIRE,25,003,MA 
+01256,Savoy,Massachusetts ,BERKSHIRE,25,003,MA 
+01263,Stockbridge,Massachusetts ,BERKSHIRE,25,003,MA 
+01260,South Lee,Massachusetts ,BERKSHIRE,25,003,MA 
+01262,Stockbridge,Massachusetts ,BERKSHIRE,25,003,MA 
+01264,Tyringham,Massachusetts ,BERKSHIRE,25,003,MA 
+01270,Windsor,Massachusetts ,BERKSHIRE,25,003,MA 
+01330,Ashfield,Massachusetts ,FRANKLIN,25,011,MA 
+01267,Williamstown,Massachusetts ,BERKSHIRE,25,003,MA 
+01266,West Stockbridge,Massachusetts ,BERKSHIRE,25,003,MA 
+01331,Athol,Massachusetts ,WORCESTER,25,027,MA 
+01302,Greenfield,Massachusetts ,FRANKLIN,25,011,MA 
+01301,Greenfield,Massachusetts ,FRANKLIN,25,011,MA 
+01337,Bernardston,Massachusetts ,FRANKLIN,25,011,MA 
+01342,Deerfield,Massachusetts ,FRANKLIN,25,011,MA 
+01341,Conway,Massachusetts ,FRANKLIN,25,011,MA 
+01340,Colrain,Massachusetts ,FRANKLIN,25,011,MA 
+01339,Charlemont,Massachusetts ,FRANKLIN,25,011,MA 
+01338,Buckland,Massachusetts ,FRANKLIN,25,011,MA 
+01343,Drury,Massachusetts ,BERKSHIRE,25,003,MA 
+01346,Heath,Massachusetts ,FRANKLIN,25,011,MA 
+01347,Lake Pleasant,Massachusetts ,FRANKLIN,25,011,MA 
+01344,Erving,Massachusetts ,FRANKLIN,25,011,MA 
+01354,Gill,Massachusetts ,FRANKLIN,25,011,MA 
+01349,Millers Falls,Massachusetts ,FRANKLIN,25,011,MA 
+01355,New Salem,Massachusetts ,FRANKLIN,25,011,MA 
+01350,Monroe Bridge,Massachusetts ,FRANKLIN,25,011,MA 
+01351,Montague,Massachusetts ,FRANKLIN,25,011,MA 
+01364,Orange,Massachusetts ,FRANKLIN,25,011,MA 
+01375,Sunderland,Massachusetts ,FRANKLIN,25,011,MA 
+01360,Northfield,Massachusetts ,FRANKLIN,25,011,MA 
+01366,Petersham,Massachusetts ,WORCESTER,25,027,MA 
+01368,Royalston,Massachusetts ,WORCESTER,25,027,MA 
+01370,Shelburne Falls,Massachusetts ,FRANKLIN,25,011,MA 
+01367,Rowe,Massachusetts ,FRANKLIN,25,011,MA 
+01373,South Deerfield,Massachusetts ,FRANKLIN,25,011,MA 
+01376,Turners Falls,Massachusetts ,FRANKLIN,25,011,MA 
+01378,Warwick,Massachusetts ,FRANKLIN,25,011,MA 
+01430,Ashburnham,Massachusetts ,WORCESTER,25,027,MA 
+01431,Ashby,Massachusetts ,MIDDLESEX,25,017,MA 
+01380,Wendell Depot,Massachusetts ,FRANKLIN,25,011,MA 
+01420,Fitchburg,Massachusetts ,WORCESTER,25,027,MA 
+01432,Ayer,Massachusetts ,MIDDLESEX,25,017,MA 
+01379,Wendell,Massachusetts ,FRANKLIN,25,011,MA 
+01434,Devens,Massachusetts ,MIDDLESEX,25,017,MA 
+01436,Baldwinville,Massachusetts ,WORCESTER,25,027,MA 
+01440,Gardner,Massachusetts ,WORCESTER,25,027,MA 
+01438,East Templeton,Massachusetts ,WORCESTER,25,027,MA 
+01441,Westminster,Massachusetts ,WORCESTER,25,027,MA 
+01450,Groton,Massachusetts ,MIDDLESEX,25,017,MA 
+01451,Harvard,Massachusetts ,WORCESTER,25,027,MA 
+01452,Hubbardston,Massachusetts ,WORCESTER,25,027,MA 
+01453,Leominster,Massachusetts ,WORCESTER,25,027,MA 
+01460,Littleton,Massachusetts ,MIDDLESEX,25,017,MA 
+01463,Pepperell,Massachusetts ,MIDDLESEX,25,017,MA 
+01462,Lunenburg,Massachusetts ,WORCESTER,25,027,MA 
+01468,Templeton,Massachusetts ,WORCESTER,25,027,MA 
+01469,Townsend,Massachusetts ,MIDDLESEX,25,017,MA 
+01464,Shirley,Massachusetts ,MIDDLESEX,25,017,MA 
+01467,Still River,Massachusetts ,WORCESTER,25,027,MA 
+01470,Groton,Massachusetts ,MIDDLESEX,25,017,MA 
+01471,Groton,Massachusetts ,MIDDLESEX,25,017,MA 
+01473,Westminster,Massachusetts ,WORCESTER,25,027,MA 
+01474,West Townsend,Massachusetts ,MIDDLESEX,25,017,MA 
+01472,West Groton,Massachusetts ,MIDDLESEX,25,017,MA 
+01503,Berlin,Massachusetts ,WORCESTER,25,027,MA 
+01475,Winchendon,Massachusetts ,WORCESTER,25,027,MA 
+01501,Auburn,Massachusetts ,WORCESTER,25,027,MA 
+01504,Blackstone,Massachusetts ,WORCESTER,25,027,MA 
+01505,Boylston,Massachusetts ,WORCESTER,25,027,MA 
+01506,Brookfield,Massachusetts ,WORCESTER,25,027,MA 
+01508,Charlton City,Massachusetts ,WORCESTER,25,027,MA 
+01509,Charlton Depot,Massachusetts ,WORCESTER,25,027,MA 
+01507,Charlton,Massachusetts ,WORCESTER,25,027,MA 
+01516,Douglas,Massachusetts ,WORCESTER,25,027,MA 
+01510,Clinton,Massachusetts ,WORCESTER,25,027,MA 
+01515,East Brookfield,Massachusetts ,WORCESTER,25,027,MA 
+01518,Fiskdale,Massachusetts ,WORCESTER,25,027,MA 
+01519,Grafton,Massachusetts ,WORCESTER,25,027,MA 
+01521,Holland,Massachusetts ,HAMPDEN,25,013,MA 
+01522,Jefferson,Massachusetts ,WORCESTER,25,027,MA 
+01520,Holden,Massachusetts ,WORCESTER,25,027,MA 
+01525,Linwood,Massachusetts ,WORCESTER,25,027,MA 
+01526,Manchaug,Massachusetts ,WORCESTER,25,027,MA 
+01527,Millbury,Massachusetts ,WORCESTER,25,027,MA 
+01523,Lancaster,Massachusetts ,WORCESTER,25,027,MA 
+01524,Leicester,Massachusetts ,WORCESTER,25,027,MA 
+01529,Millville,Massachusetts ,WORCESTER,25,027,MA 
+01531,New Braintree,Massachusetts ,WORCESTER,25,027,MA 
+01532,Northborough,Massachusetts ,WORCESTER,25,027,MA 
+01534,Northbridge,Massachusetts ,WORCESTER,25,027,MA 
+01535,North Brookfield,Massachusetts ,WORCESTER,25,027,MA 
+01536,North Grafton,Massachusetts ,WORCESTER,25,027,MA 
+01538,North Uxbridge,Massachusetts ,WORCESTER,25,027,MA 
+01537,North Oxford,Massachusetts ,WORCESTER,25,027,MA 
+01543,Rutland,Massachusetts ,WORCESTER,25,027,MA 
+01540,Oxford,Massachusetts ,WORCESTER,25,027,MA 
+01541,Princeton,Massachusetts ,WORCESTER,25,027,MA 
+01542,Rochdale,Massachusetts ,WORCESTER,25,027,MA 
+01545,Shrewsbury,Massachusetts ,WORCESTER,25,027,MA 
+01546,Shrewsbury,Massachusetts ,WORCESTER,25,027,MA 
+01550,Southbridge,Massachusetts ,WORCESTER,25,027,MA 
+01560,South Grafton,Massachusetts ,WORCESTER,25,027,MA 
+01561,South Lancaster,Massachusetts ,WORCESTER,25,027,MA 
+01566,Sturbridge,Massachusetts ,WORCESTER,25,027,MA 
+01562,Spencer,Massachusetts ,WORCESTER,25,027,MA 
+01564,Sterling,Massachusetts ,WORCESTER,25,027,MA 
+01568,Upton,Massachusetts ,WORCESTER,25,027,MA 
+01569,Uxbridge,Massachusetts ,WORCESTER,25,027,MA 
+01570,Webster,Massachusetts ,WORCESTER,25,027,MA 
+01571,Dudley,Massachusetts ,WORCESTER,25,027,MA 
+01585,West Brookfield,Massachusetts ,WORCESTER,25,027,MA 
+01586,West Millbury,Massachusetts ,WORCESTER,25,027,MA 
+01588,Whitinsville,Massachusetts ,WORCESTER,25,027,MA 
+01581,Westborough,Massachusetts ,WORCESTER,25,027,MA 
+01590,Sutton,Massachusetts ,WORCESTER,25,027,MA 
+01583,West Boylston,Massachusetts ,WORCESTER,25,027,MA 
+01601,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01602,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01607,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01608,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01605,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01609,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01603,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01606,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01604,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01610,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01611,Cherry Valley,Massachusetts ,WORCESTER,25,027,MA 
+01612,Paxton,Massachusetts ,WORCESTER,25,027,MA 
+01614,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01613,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01655,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01701,Framingham,Massachusetts ,MIDDLESEX,25,017,MA 
+01653,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01615,Worcester,Massachusetts ,WORCESTER,25,027,MA 
+01702,Framingham,Massachusetts ,MIDDLESEX,25,017,MA 
+01703,Framingham,Massachusetts ,MIDDLESEX,25,017,MA 
+01704,Framingham,Massachusetts ,MIDDLESEX,25,017,MA 
+01721,Ashland,Massachusetts ,MIDDLESEX,25,017,MA 
+01720,Acton,Massachusetts ,MIDDLESEX,25,017,MA 
+01719,Boxborough,Massachusetts ,MIDDLESEX,25,017,MA 
+01718,Acton,Massachusetts ,MIDDLESEX,25,017,MA 
+01705,Framingham,Massachusetts ,MIDDLESEX,25,017,MA 
+01730,Bedford,Massachusetts ,MIDDLESEX,25,017,MA 
+01731,Hanscom AFB,Massachusetts ,MIDDLESEX,25,017,MA 
+01740,Bolton,Massachusetts ,WORCESTER,25,027,MA 
+01742,Concord,Massachusetts ,MIDDLESEX,25,017,MA 
+01746,Holliston,Massachusetts ,MIDDLESEX,25,017,MA 
+01748,Hopkinton,Massachusetts ,MIDDLESEX,25,017,MA 
+01747,Hopedale,Massachusetts ,WORCESTER,25,027,MA 
+01741,Carlisle,Massachusetts ,MIDDLESEX,25,017,MA 
+01745,Fayville,Massachusetts ,WORCESTER,25,027,MA 
+01749,Hudson,Massachusetts ,MIDDLESEX,25,017,MA 
+01752,Marlborough,Massachusetts ,MIDDLESEX,25,017,MA 
+01756,Mendon,Massachusetts ,WORCESTER,25,027,MA 
+01760,Natick,Massachusetts ,MIDDLESEX,25,017,MA 
+01773,Lincoln,Massachusetts ,MIDDLESEX,25,017,MA 
+01757,Milford,Massachusetts ,WORCESTER,25,027,MA 
+01770,Sherborn,Massachusetts ,MIDDLESEX,25,017,MA 
+01772,Southborough,Massachusetts ,WORCESTER,25,027,MA 
+01775,Stow,Massachusetts ,MIDDLESEX,25,017,MA 
+01754,Maynard,Massachusetts ,MIDDLESEX,25,017,MA 
+01805,Burlington,Massachusetts ,MIDDLESEX,25,017,MA 
+01803,Burlington,Massachusetts ,MIDDLESEX,25,017,MA 
+01801,Woburn,Massachusetts ,MIDDLESEX,25,017,MA 
+01776,Sudbury,Massachusetts ,MIDDLESEX,25,017,MA 
+01778,Wayland,Massachusetts ,MIDDLESEX,25,017,MA 
+01810,Andover,Massachusetts ,ESSEX,25,009,MA 
+01784,Woodville,Massachusetts ,MIDDLESEX,25,017,MA 
+01812,Andover,Massachusetts ,ESSEX,25,009,MA 
+01824,Chelmsford,Massachusetts ,MIDDLESEX,25,017,MA 
+01821,Billerica,Massachusetts ,MIDDLESEX,25,017,MA 
+01815,Woburn,Massachusetts ,MIDDLESEX,25,017,MA 
+01822,Billerica,Massachusetts ,MIDDLESEX,25,017,MA 
+01827,Dunstable,Massachusetts ,MIDDLESEX,25,017,MA 
+01826,Dracut,Massachusetts ,MIDDLESEX,25,017,MA 
+01813,Woburn,Massachusetts ,MIDDLESEX,25,017,MA 
+01830,Haverhill,Massachusetts ,ESSEX,25,009,MA 
+01831,Haverhill,Massachusetts ,ESSEX,25,009,MA 
+01832,Haverhill,Massachusetts ,ESSEX,25,009,MA 
+01833,Georgetown,Massachusetts ,ESSEX,25,009,MA 
+01840,Lawrence,Massachusetts ,ESSEX,25,009,MA 
+01841,Lawrence,Massachusetts ,ESSEX,25,009,MA 
+01835,Haverhill,Massachusetts ,ESSEX,25,009,MA 
+01834,Groveland,Massachusetts ,ESSEX,25,009,MA 
+01842,Lawrence,Massachusetts ,ESSEX,25,009,MA 
+01843,Lawrence,Massachusetts ,ESSEX,25,009,MA 
+01852,Lowell,Massachusetts ,MIDDLESEX,25,017,MA 
+01845,North Andover,Massachusetts ,ESSEX,25,009,MA 
+01851,Lowell,Massachusetts ,MIDDLESEX,25,017,MA 
+01844,Methuen,Massachusetts ,ESSEX,25,009,MA 
+01854,Lowell,Massachusetts ,MIDDLESEX,25,017,MA 
+01860,Merrimac,Massachusetts ,ESSEX,25,009,MA 
+01853,Lowell,Massachusetts ,MIDDLESEX,25,017,MA 
+01850,Lowell,Massachusetts ,MIDDLESEX,25,017,MA 
+01862,North Billerica,Massachusetts ,MIDDLESEX,25,017,MA 
+01867,Reading,Massachusetts ,MIDDLESEX,25,017,MA 
+01876,Tewksbury,Massachusetts ,MIDDLESEX,25,017,MA 
+01866,Pinehurst,Massachusetts ,MIDDLESEX,25,017,MA 
+01879,Tyngsboro,Massachusetts ,MIDDLESEX,25,017,MA 
+01865,Nutting Lake,Massachusetts ,MIDDLESEX,25,017,MA 
+01864,North Reading,Massachusetts ,MIDDLESEX,25,017,MA 
+01863,North Chelmsford,Massachusetts ,MIDDLESEX,25,017,MA 
+01880,Wakefield,Massachusetts ,MIDDLESEX,25,017,MA 
+01885,West Boxford,Massachusetts ,ESSEX,25,009,MA 
+01887,Wilmington,Massachusetts ,MIDDLESEX,25,017,MA 
+01886,Westford,Massachusetts ,MIDDLESEX,25,017,MA 
+01888,Woburn,Massachusetts ,MIDDLESEX,25,017,MA 
+01890,Winchester,Massachusetts ,MIDDLESEX,25,017,MA 
+01889,North Reading,Massachusetts ,MIDDLESEX,25,017,MA 
+01899,Andover,Massachusetts ,ESSEX,25,009,MA 
+01901,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01902,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01904,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01908,Nahant,Massachusetts ,ESSEX,25,009,MA 
+01910,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01907,Swampscott,Massachusetts ,ESSEX,25,009,MA 
+01905,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01903,Lynn,Massachusetts ,ESSEX,25,009,MA 
+01906,Saugus,Massachusetts ,ESSEX,25,009,MA 
+01913,Amesbury,Massachusetts ,ESSEX,25,009,MA 
+01921,Boxford,Massachusetts ,ESSEX,25,009,MA 
+01922,Byfield,Massachusetts ,ESSEX,25,009,MA 
+01923,Danvers,Massachusetts ,ESSEX,25,009,MA 
+01931,Gloucester,Massachusetts ,ESSEX,25,009,MA 
+01936,Hamilton,Massachusetts ,ESSEX,25,009,MA 
+01915,Beverly,Massachusetts ,ESSEX,25,009,MA 
+01930,Gloucester,Massachusetts ,ESSEX,25,009,MA 
+01929,Essex,Massachusetts ,ESSEX,25,009,MA 
+01938,Ipswich,Massachusetts ,ESSEX,25,009,MA 
+01944,Manchester,Massachusetts ,ESSEX,25,009,MA 
+01951,Newbury,Massachusetts ,ESSEX,25,009,MA 
+01940,Lynnfield,Massachusetts ,ESSEX,25,009,MA 
+01937,Hathorne,Massachusetts ,ESSEX,25,009,MA 
+01945,Marblehead,Massachusetts ,ESSEX,25,009,MA 
+01949,Middleton,Massachusetts ,ESSEX,25,009,MA 
+01950,Newburyport,Massachusetts ,ESSEX,25,009,MA 
+01952,Salisbury,Massachusetts ,ESSEX,25,009,MA 
+01961,Peabody,Massachusetts ,ESSEX,25,009,MA 
+01969,Rowley,Massachusetts ,ESSEX,25,009,MA 
+01966,Rockport,Massachusetts ,ESSEX,25,009,MA 
+01965,Prides Crossing,Massachusetts ,ESSEX,25,009,MA 
+01960,Peabody,Massachusetts ,ESSEX,25,009,MA 
+01971,Salem,Massachusetts ,ESSEX,25,009,MA 
+01970,Salem,Massachusetts ,ESSEX,25,009,MA 
+01982,South Hamilton,Massachusetts ,ESSEX,25,009,MA 
+01983,Topsfield,Massachusetts ,ESSEX,25,009,MA 
+01984,Wenham,Massachusetts ,ESSEX,25,009,MA 
+01985,West Newbury,Massachusetts ,ESSEX,25,009,MA 
+02018,Accord,Massachusetts ,PLYMOUTH,25,023,MA 
+02021,Canton,Massachusetts ,NORFOLK,25,021,MA 
+02020,Brant Rock,Massachusetts ,PLYMOUTH,25,023,MA 
+02019,Bellingham,Massachusetts ,NORFOLK,25,021,MA 
+02025,Cohasset,Massachusetts ,NORFOLK,25,021,MA 
+02026,Dedham,Massachusetts ,NORFOLK,25,021,MA 
+02027,Dedham,Massachusetts ,NORFOLK,25,021,MA 
+02030,Dover,Massachusetts ,NORFOLK,25,021,MA 
+02038,Franklin,Massachusetts ,NORFOLK,25,021,MA 
+02032,East Walpole,Massachusetts ,NORFOLK,25,021,MA 
+02035,Foxboro,Massachusetts ,NORFOLK,25,021,MA 
+02041,Green Harbor,Massachusetts ,PLYMOUTH,25,023,MA 
+02040,Greenbush,Massachusetts ,PLYMOUTH,25,023,MA 
+02043,Hingham,Massachusetts ,PLYMOUTH,25,023,MA 
+02051,Marshfield Hills,Massachusetts ,PLYMOUTH,25,023,MA 
+02044,Hingham,Massachusetts ,PLYMOUTH,25,023,MA 
+02052,Medfield,Massachusetts ,NORFOLK,25,021,MA 
+02047,Humarock,Massachusetts ,PLYMOUTH,25,023,MA 
+02045,Hull,Massachusetts ,PLYMOUTH,25,023,MA 
+02048,Mansfield,Massachusetts ,BRISTOL,25,005,MA 
+02050,Marshfield,Massachusetts ,PLYMOUTH,25,023,MA 
+02053,Medway,Massachusetts ,NORFOLK,25,021,MA 
+02059,North Marshfield,Massachusetts ,PLYMOUTH,25,023,MA 
+02062,Norwood,Massachusetts ,NORFOLK,25,021,MA 
+02054,Millis,Massachusetts ,NORFOLK,25,021,MA 
+02056,Norfolk,Massachusetts ,NORFOLK,25,021,MA 
+02055,Minot,Massachusetts ,PLYMOUTH,25,023,MA 
+02061,Norwell,Massachusetts ,PLYMOUTH,25,023,MA 
+02060,North Scituate,Massachusetts ,PLYMOUTH,25,023,MA 
+02066,Scituate,Massachusetts ,PLYMOUTH,25,023,MA 
+02071,South Walpole,Massachusetts ,NORFOLK,25,021,MA 
+02090,Westwood,Massachusetts ,NORFOLK,25,021,MA 
+02070,Sheldonville,Massachusetts ,NORFOLK,25,021,MA 
+02067,Sharon,Massachusetts ,NORFOLK,25,021,MA 
+02065,Ocean Bluff,Massachusetts ,PLYMOUTH,25,023,MA 
+02072,Stoughton,Massachusetts ,NORFOLK,25,021,MA 
+02081,Walpole,Massachusetts ,NORFOLK,25,021,MA 
+02109,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02108,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02111,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02110,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02112,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02093,Wrentham,Massachusetts ,NORFOLK,25,021,MA 
+02114,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02113,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02117,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02115,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02116,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02118,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02120,Roxbury Crossing,Massachusetts ,SUFFOLK,25,025,MA 
+02119,Roxbury,Massachusetts ,SUFFOLK,25,025,MA 
+02121,Dorchester,Massachusetts ,SUFFOLK,25,025,MA 
+02122,Dorchester,Massachusetts ,SUFFOLK,25,025,MA 
+02124,Dorchester Center,Massachusetts ,SUFFOLK,25,025,MA 
+02123,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02129,Charlestown,Massachusetts ,SUFFOLK,25,025,MA 
+02128,East Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02127,South Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02126,Mattapan,Massachusetts ,SUFFOLK,25,025,MA 
+02130,Jamaica Plain,Massachusetts ,SUFFOLK,25,025,MA 
+02125,Dorchester,Massachusetts ,SUFFOLK,25,025,MA 
+02131,Roslindale,Massachusetts ,SUFFOLK,25,025,MA 
+02135,Brighton,Massachusetts ,SUFFOLK,25,025,MA 
+02136,Hyde Park,Massachusetts ,SUFFOLK,25,025,MA 
+02134,Allston,Massachusetts ,SUFFOLK,25,025,MA 
+02133,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02132,West Roxbury,Massachusetts ,SUFFOLK,25,025,MA 
+02137,Readville,Massachusetts ,SUFFOLK,25,025,MA 
+02138,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02139,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02142,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02141,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02143,Somerville,Massachusetts ,MIDDLESEX,25,017,MA 
+02140,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02148,Malden,Massachusetts ,MIDDLESEX,25,017,MA 
+02145,Somerville,Massachusetts ,MIDDLESEX,25,017,MA 
+02144,Somerville,Massachusetts ,MIDDLESEX,25,017,MA 
+02149,Everett,Massachusetts ,MIDDLESEX,25,017,MA 
+02150,Chelsea,Massachusetts ,SUFFOLK,25,025,MA 
+02153,Medford,Massachusetts ,MIDDLESEX,25,017,MA 
+02151,Revere,Massachusetts ,SUFFOLK,25,025,MA 
+02152,Winthrop,Massachusetts ,SUFFOLK,25,025,MA 
+02156,West Medford,Massachusetts ,MIDDLESEX,25,017,MA 
+02163,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02155,Medford,Massachusetts ,MIDDLESEX,25,017,MA 
+02169,Quincy,Massachusetts ,NORFOLK,25,021,MA 
+02170,Quincy,Massachusetts ,NORFOLK,25,021,MA 
+02171,Quincy,Massachusetts ,NORFOLK,25,021,MA 
+02176,Melrose,Massachusetts ,MIDDLESEX,25,017,MA 
+02185,Braintree,Massachusetts ,NORFOLK,25,021,MA 
+02184,Braintree,Massachusetts ,NORFOLK,25,021,MA 
+02180,Stoneham,Massachusetts ,MIDDLESEX,25,017,MA 
+02186,Milton,Massachusetts ,NORFOLK,25,021,MA 
+02187,Milton Village,Massachusetts ,NORFOLK,25,021,MA 
+02188,Weymouth,Massachusetts ,NORFOLK,25,021,MA 
+02189,East Weymouth,Massachusetts ,NORFOLK,25,021,MA 
+02196,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02191,North Weymouth,Massachusetts ,NORFOLK,25,021,MA 
+02190,South Weymouth,Massachusetts ,NORFOLK,25,021,MA 
+02199,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02203,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02204,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02201,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02205,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02211,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02206,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02210,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02222,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02215,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02217,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02238,Cambridge,Massachusetts ,MIDDLESEX,25,017,MA 
+02212,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02269,Quincy,Massachusetts ,NORFOLK,25,021,MA 
+02293,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02283,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02297,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02284,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02241,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02298,Boston,Massachusetts ,SUFFOLK,25,025,MA 
+02301,Brockton,Massachusetts ,PLYMOUTH,25,023,MA 
+02302,Brockton,Massachusetts ,PLYMOUTH,25,023,MA 
+02304,Brockton,Massachusetts ,PLYMOUTH,25,023,MA 
+02305,Brockton,Massachusetts ,PLYMOUTH,25,023,MA 
+02303,Brockton,Massachusetts ,PLYMOUTH,25,023,MA 
+02327,Bryantville,Massachusetts ,PLYMOUTH,25,023,MA 
+02322,Avon,Massachusetts ,NORFOLK,25,021,MA 
+02325,Bridgewater,Massachusetts ,PLYMOUTH,25,023,MA 
+02324,Bridgewater,Massachusetts ,PLYMOUTH,25,023,MA 
+02330,Carver,Massachusetts ,PLYMOUTH,25,023,MA 
+02331,Duxbury,Massachusetts ,PLYMOUTH,25,023,MA 
+02333,East Bridgewater,Massachusetts ,PLYMOUTH,25,023,MA 
+02334,Easton,Massachusetts ,BRISTOL,25,005,MA 
+02337,Elmwood,Massachusetts ,PLYMOUTH,25,023,MA 
+02332,Duxbury,Massachusetts ,PLYMOUTH,25,023,MA 
+02338,Halifax,Massachusetts ,PLYMOUTH,25,023,MA 
+02339,Hanover,Massachusetts ,PLYMOUTH,25,023,MA 
+02343,Holbrook,Massachusetts ,NORFOLK,25,021,MA 
+02341,Hanson,Massachusetts ,PLYMOUTH,25,023,MA 
+02344,Middleboro,Massachusetts ,PLYMOUTH,25,023,MA 
+02347,Lakeville,Massachusetts ,PLYMOUTH,25,023,MA 
+02348,Lakeville,Massachusetts ,PLYMOUTH,25,023,MA 
+02349,Middleboro,Massachusetts ,PLYMOUTH,25,023,MA 
+02346,Middleboro,Massachusetts ,PLYMOUTH,25,023,MA 
+02345,Manomet,Massachusetts ,PLYMOUTH,25,023,MA 
+02355,North Carver,Massachusetts ,PLYMOUTH,25,023,MA 
+02350,Monponsett,Massachusetts ,PLYMOUTH,25,023,MA 
+02351,Abington,Massachusetts ,PLYMOUTH,25,023,MA 
+02358,North Pembroke,Massachusetts ,PLYMOUTH,25,023,MA 
+02356,North Easton,Massachusetts ,BRISTOL,25,005,MA 
+02360,Plymouth,Massachusetts ,PLYMOUTH,25,023,MA 
+02359,Pembroke,Massachusetts ,PLYMOUTH,25,023,MA 
+02357,North Easton,Massachusetts ,BRISTOL,25,005,MA 
+02361,Plymouth,Massachusetts ,PLYMOUTH,25,023,MA 
+02364,Kingston,Massachusetts ,PLYMOUTH,25,023,MA 
+02362,Plymouth,Massachusetts ,PLYMOUTH,25,023,MA 
+02370,Rockland,Massachusetts ,PLYMOUTH,25,023,MA 
+02366,South Carver,Massachusetts ,PLYMOUTH,25,023,MA 
+02375,South Easton,Massachusetts ,BRISTOL,25,005,MA 
+02367,Plympton,Massachusetts ,PLYMOUTH,25,023,MA 
+02382,Whitman,Massachusetts ,PLYMOUTH,25,023,MA 
+02379,West Bridgewater,Massachusetts ,PLYMOUTH,25,023,MA 
+02368,Randolph,Massachusetts ,NORFOLK,25,021,MA 
+02381,White Horse Beach,Massachusetts ,PLYMOUTH,25,023,MA 
+02420,Lexington,Massachusetts ,MIDDLESEX,25,017,MA 
+02421,Lexington,Massachusetts ,MIDDLESEX,25,017,MA 
+02445,Brookline,Massachusetts ,NORFOLK,25,021,MA 
+02451,Waltham,Massachusetts ,MIDDLESEX,25,017,MA 
+02452,Waltham,Massachusetts ,MIDDLESEX,25,017,MA 
+02453,Waltham,Massachusetts ,MIDDLESEX,25,017,MA 
+02446,Brookline,Massachusetts ,NORFOLK,25,021,MA 
+02447,Brookline Village,Massachusetts ,NORFOLK,25,021,MA 
+02454,Waltham,Massachusetts ,MIDDLESEX,25,017,MA 
+02457,Babson Park,Massachusetts ,NORFOLK,25,021,MA 
+02455,North Waltham,Massachusetts ,MIDDLESEX,25,017,MA 
+02458,Newton,Massachusetts ,MIDDLESEX,25,017,MA 
+02456,New Town,Massachusetts ,MIDDLESEX,25,017,MA 
+02461,Newton Highlands,Massachusetts ,MIDDLESEX,25,017,MA 
+02460,Newtonville,Massachusetts ,MIDDLESEX,25,017,MA 
+02459,Newton Center,Massachusetts ,MIDDLESEX,25,017,MA 
+02462,Newton Lower Falls,Massachusetts ,MIDDLESEX,25,017,MA 
+02464,Newton Upper Falls,Massachusetts ,MIDDLESEX,25,017,MA 
+02466,Auburndale,Massachusetts ,MIDDLESEX,25,017,MA 
+02467,Chestnut Hill,Massachusetts ,MIDDLESEX,25,017,MA 
+02468,Waban,Massachusetts ,MIDDLESEX,25,017,MA 
+02471,Watertown,Massachusetts ,MIDDLESEX,25,017,MA 
+02465,West Newton,Massachusetts ,MIDDLESEX,25,017,MA 
+02474,Arlington,Massachusetts ,MIDDLESEX,25,017,MA 
+02472,Watertown,Massachusetts ,MIDDLESEX,25,017,MA 
+02475,Arlington Heights,Massachusetts ,MIDDLESEX,25,017,MA 
+02476,Arlington,Massachusetts ,MIDDLESEX,25,017,MA 
+02477,Watertown,Massachusetts ,MIDDLESEX,25,017,MA 
+02479,Waverley,Massachusetts ,MIDDLESEX,25,017,MA 
+02478,Belmont,Massachusetts ,MIDDLESEX,25,017,MA 
+02482,Wellesley,Massachusetts ,NORFOLK,25,021,MA 
+02481,Wellesley Hills,Massachusetts ,NORFOLK,25,021,MA 
+02493,Weston,Massachusetts ,MIDDLESEX,25,017,MA 
+02492,Needham,Massachusetts ,NORFOLK,25,021,MA 
+02494,Needham Heights,Massachusetts ,NORFOLK,25,021,MA 
+02495,Nonantum,Massachusetts ,MIDDLESEX,25,017,MA 
+02537,East Sandwich,Massachusetts ,BARNSTABLE,25,001,MA 
+02532,Buzzards Bay,Massachusetts ,BARNSTABLE,25,001,MA 
+02536,East Falmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02535,Chilmark,Massachusetts ,DUKES,25,007,MA 
+02538,East Wareham,Massachusetts ,PLYMOUTH,25,023,MA 
+02534,Cataumet,Massachusetts ,BARNSTABLE,25,001,MA 
+02540,Falmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02539,Edgartown,Massachusetts ,DUKES,25,007,MA 
+02543,Woods Hole,Massachusetts ,BARNSTABLE,25,001,MA 
+02542,Buzzards Bay,Massachusetts ,BARNSTABLE,25,001,MA 
+02541,Falmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02552,Menemsha,Massachusetts ,DUKES,25,007,MA 
+02554,Nantucket,Massachusetts ,NANTUCKET,25,019,MA 
+02553,Monument Beach,Massachusetts ,BARNSTABLE,25,001,MA 
+02556,North Falmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02557,Oak Bluffs,Massachusetts ,DUKES,25,007,MA 
+02558,Onset,Massachusetts ,PLYMOUTH,25,023,MA 
+02563,Sandwich,Massachusetts ,BARNSTABLE,25,001,MA 
+02562,Sagamore Beach,Massachusetts ,BARNSTABLE,25,001,MA 
+02568,Vineyard Haven,Massachusetts ,DUKES,25,007,MA 
+02571,Wareham,Massachusetts ,PLYMOUTH,25,023,MA 
+02564,Siasconset,Massachusetts ,NANTUCKET,25,019,MA 
+02559,Pocasset,Massachusetts ,BARNSTABLE,25,001,MA 
+02561,Sagamore,Massachusetts ,BARNSTABLE,25,001,MA 
+02574,West Falmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02575,West Tisbury,Massachusetts ,DUKES,25,007,MA 
+02584,Nantucket,Massachusetts ,NANTUCKET,25,019,MA 
+02576,West Wareham,Massachusetts ,PLYMOUTH,25,023,MA 
+02601,Hyannis,Massachusetts ,BARNSTABLE,25,001,MA 
+02630,Barnstable,Massachusetts ,BARNSTABLE,25,001,MA 
+02632,Centerville,Massachusetts ,BARNSTABLE,25,001,MA 
+02631,Brewster,Massachusetts ,BARNSTABLE,25,001,MA 
+02639,Dennis Port,Massachusetts ,BARNSTABLE,25,001,MA 
+02634,Centerville,Massachusetts ,BARNSTABLE,25,001,MA 
+02635,Cotuit,Massachusetts ,BARNSTABLE,25,001,MA 
+02633,Chatham,Massachusetts ,BARNSTABLE,25,001,MA 
+02637,Cummaquid,Massachusetts ,BARNSTABLE,25,001,MA 
+02638,Dennis,Massachusetts ,BARNSTABLE,25,001,MA 
+02641,East Dennis,Massachusetts ,BARNSTABLE,25,001,MA 
+02642,Eastham,Massachusetts ,BARNSTABLE,25,001,MA 
+02647,Hyannis Port,Massachusetts ,BARNSTABLE,25,001,MA 
+02648,Marstons Mills,Massachusetts ,BARNSTABLE,25,001,MA 
+02643,East Orleans,Massachusetts ,BARNSTABLE,25,001,MA 
+02644,Forestdale,Massachusetts ,BARNSTABLE,25,001,MA 
+02646,Harwich Port,Massachusetts ,BARNSTABLE,25,001,MA 
+02645,Harwich,Massachusetts ,BARNSTABLE,25,001,MA 
+02650,North Chatham,Massachusetts ,BARNSTABLE,25,001,MA 
+02649,Mashpee,Massachusetts ,BARNSTABLE,25,001,MA 
+02652,North Truro,Massachusetts ,BARNSTABLE,25,001,MA 
+02659,South Chatham,Massachusetts ,BARNSTABLE,25,001,MA 
+02653,Orleans,Massachusetts ,BARNSTABLE,25,001,MA 
+02655,Osterville,Massachusetts ,BARNSTABLE,25,001,MA 
+02651,North Eastham,Massachusetts ,BARNSTABLE,25,001,MA 
+02657,Provincetown,Massachusetts ,BARNSTABLE,25,001,MA 
+02660,South Dennis,Massachusetts ,BARNSTABLE,25,001,MA 
+02661,South Harwich,Massachusetts ,BARNSTABLE,25,001,MA 
+02662,South Orleans,Massachusetts ,BARNSTABLE,25,001,MA 
+02663,South Wellfleet,Massachusetts ,BARNSTABLE,25,001,MA 
+02664,South Yarmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02670,West Dennis,Massachusetts ,BARNSTABLE,25,001,MA 
+02667,Wellfleet,Massachusetts ,BARNSTABLE,25,001,MA 
+02669,West Chatham,Massachusetts ,BARNSTABLE,25,001,MA 
+02666,Truro,Massachusetts ,BARNSTABLE,25,001,MA 
+02668,West Barnstable,Massachusetts ,BARNSTABLE,25,001,MA 
+02671,West Harwich,Massachusetts ,BARNSTABLE,25,001,MA 
+02672,West Hyannisport,Massachusetts ,BARNSTABLE,25,001,MA 
+02713,Cuttyhunk,Massachusetts ,DUKES,25,007,MA 
+02673,West Yarmouth,Massachusetts ,BARNSTABLE,25,001,MA 
+02712,Chartley,Massachusetts ,BRISTOL,25,005,MA 
+02703,Attleboro,Massachusetts ,BRISTOL,25,005,MA 
+02675,Yarmouth Port,Massachusetts ,BARNSTABLE,25,001,MA 
+02702,Assonet,Massachusetts ,BRISTOL,25,005,MA 
+02714,Dartmouth,Massachusetts ,BRISTOL,25,005,MA 
+02715,Dighton,Massachusetts ,BRISTOL,25,005,MA 
+02720,Fall River,Massachusetts ,BRISTOL,25,005,MA 
+02721,Fall River,Massachusetts ,BRISTOL,25,005,MA 
+02722,Fall River,Massachusetts ,BRISTOL,25,005,MA 
+02718,East Taunton,Massachusetts ,BRISTOL,25,005,MA 
+02719,Fairhaven,Massachusetts ,BRISTOL,25,005,MA 
+02724,Fall River,Massachusetts ,BRISTOL,25,005,MA 
+02723,Fall River,Massachusetts ,BRISTOL,25,005,MA 
+02725,Somerset,Massachusetts ,BRISTOL,25,005,MA 
+02717,East Freetown,Massachusetts ,BRISTOL,25,005,MA 
+02739,Mattapoisett,Massachusetts ,PLYMOUTH,25,023,MA 
+02726,Somerset,Massachusetts ,BRISTOL,25,005,MA 
+02738,Marion,Massachusetts ,PLYMOUTH,25,023,MA 
+02740,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02741,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02742,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02744,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02743,Acushnet,Massachusetts ,BRISTOL,25,005,MA 
+02747,North Dartmouth,Massachusetts ,BRISTOL,25,005,MA 
+02745,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02760,North Attleboro,Massachusetts ,BRISTOL,25,005,MA 
+02763,Attleboro Falls,Massachusetts ,BRISTOL,25,005,MA 
+02748,South Dartmouth,Massachusetts ,BRISTOL,25,005,MA 
+02762,Plainville,Massachusetts ,NORFOLK,25,021,MA 
+02746,New Bedford,Massachusetts ,BRISTOL,25,005,MA 
+02761,North Attleboro,Massachusetts ,BRISTOL,25,005,MA 
+02766,Norton,Massachusetts ,BRISTOL,25,005,MA 
+02764,North Dighton,Massachusetts ,BRISTOL,25,005,MA 
+02767,Raynham,Massachusetts ,BRISTOL,25,005,MA 
+02768,Raynham Center,Massachusetts ,BRISTOL,25,005,MA 
+02769,Rehoboth,Massachusetts ,BRISTOL,25,005,MA 
+02770,Rochester,Massachusetts ,PLYMOUTH,25,023,MA 
+02771,Seekonk,Massachusetts ,BRISTOL,25,005,MA 
+02777,Swansea,Massachusetts ,BRISTOL,25,005,MA 
+02779,Berkley,Massachusetts ,BRISTOL,25,005,MA 
+02790,Westport,Massachusetts ,BRISTOL,25,005,MA 
+02780,Taunton,Massachusetts ,BRISTOL,25,005,MA 
+02791,Westport Point,Massachusetts ,BRISTOL,25,005,MA 
+05501,Andover,Massachusetts ,ESSEX,25,009,MA 

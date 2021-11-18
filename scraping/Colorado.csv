@@ -1,0 +1,642 @@
+80010,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80005,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80002,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80003,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80007,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80006,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80004,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80001,Arvada,Colorado ,JEFFERSON,08,059,CO 
+80011,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80012,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80015,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80016,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80014,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80013,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80017,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80018,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80019,Aurora,Colorado ,ADAMS,08,001,CO 
+80020,Broomfield,Colorado ,BROOMFIELD,08,014,CO 
+80022,Commerce City,Colorado ,ADAMS,08,001,CO 
+80021,Broomfield,Colorado ,JEFFERSON,08,059,CO 
+80025,Eldorado Springs,Colorado ,BOULDER,08,013,CO 
+80024,Dupont,Colorado ,ADAMS,08,001,CO 
+80023,Broomfield,Colorado ,BROOMFIELD,08,014,CO 
+80026,Lafayette,Colorado ,BOULDER,08,013,CO 
+80027,Louisville,Colorado ,BOULDER,08,013,CO 
+80030,Westminster,Colorado ,ADAMS,08,001,CO 
+80033,Wheat Ridge,Colorado ,JEFFERSON,08,059,CO 
+80036,Westminster,Colorado ,ADAMS,08,001,CO 
+80031,Westminster,Colorado ,ADAMS,08,001,CO 
+80035,Westminster,Colorado ,ADAMS,08,001,CO 
+80034,Wheat Ridge,Colorado ,JEFFERSON,08,059,CO 
+80037,Commerce City,Colorado ,ADAMS,08,001,CO 
+80040,Aurora,Colorado ,ADAMS,08,001,CO 
+80038,Broomfield,Colorado ,BROOMFIELD,08,014,CO 
+80042,Aurora,Colorado ,ADAMS,08,001,CO 
+80045,Aurora,Colorado ,ADAMS,08,001,CO 
+80044,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80046,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80041,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80047,Aurora,Colorado ,ARAPAHOE,08,005,CO 
+80101,Agate,Colorado ,ELBERT,08,039,CO 
+80102,Bennett,Colorado ,ADAMS,08,001,CO 
+80103,Byers,Colorado ,ARAPAHOE,08,005,CO 
+80105,Deer Trail,Colorado ,ARAPAHOE,08,005,CO 
+80104,Castle Rock,Colorado ,DOUGLAS,08,035,CO 
+80107,Elizabeth,Colorado ,ELBERT,08,039,CO 
+80106,Elbert,Colorado ,EL PASO,08,041,CO 
+80108,Castle Rock,Colorado ,DOUGLAS,08,035,CO 
+80110,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80109,Castle Rock,Colorado ,DOUGLAS,08,035,CO 
+80111,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80113,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80116,Franktown,Colorado ,DOUGLAS,08,035,CO 
+80121,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80120,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80112,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80118,Larkspur,Colorado ,DOUGLAS,08,035,CO 
+80117,Kiowa,Colorado ,ELBERT,08,039,CO 
+80122,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80123,Littleton,Colorado ,JEFFERSON,08,059,CO 
+80124,Lone Tree,Colorado ,DOUGLAS,08,035,CO 
+80125,Littleton,Colorado ,DOUGLAS,08,035,CO 
+80128,Littleton,Colorado ,JEFFERSON,08,059,CO 
+80126,Littleton,Colorado ,DOUGLAS,08,035,CO 
+80129,Littleton,Colorado ,DOUGLAS,08,035,CO 
+80127,Littleton,Colorado ,JEFFERSON,08,059,CO 
+80130,Littleton,Colorado ,DOUGLAS,08,035,CO 
+80131,Louviers,Colorado ,DOUGLAS,08,035,CO 
+80132,Monument,Colorado ,EL PASO,08,041,CO 
+80133,Palmer Lake,Colorado ,EL PASO,08,041,CO 
+80134,Parker,Colorado ,DOUGLAS,08,035,CO 
+80135,Sedalia,Colorado ,DOUGLAS,08,035,CO 
+80136,Strasburg,Colorado ,ADAMS,08,001,CO 
+80150,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80151,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80137,Watkins,Colorado ,ADAMS,08,001,CO 
+80138,Parker,Colorado ,DOUGLAS,08,035,CO 
+80160,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80201,Denver,Colorado ,DENVER,08,031,CO 
+80155,Englewood,Colorado ,ARAPAHOE,08,005,CO 
+80163,Littleton,Colorado ,DOUGLAS,08,035,CO 
+80161,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80165,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80162,Littleton,Colorado ,JEFFERSON,08,059,CO 
+80166,Littleton,Colorado ,ARAPAHOE,08,005,CO 
+80202,Denver,Colorado ,DENVER,08,031,CO 
+80205,Denver,Colorado ,DENVER,08,031,CO 
+80209,Denver,Colorado ,DENVER,08,031,CO 
+80207,Denver,Colorado ,DENVER,08,031,CO 
+80206,Denver,Colorado ,DENVER,08,031,CO 
+80203,Denver,Colorado ,DENVER,08,031,CO 
+80208,Denver,Colorado ,DENVER,08,031,CO 
+80210,Denver,Colorado ,DENVER,08,031,CO 
+80204,Denver,Colorado ,DENVER,08,031,CO 
+80211,Denver,Colorado ,DENVER,08,031,CO 
+80215,Denver,Colorado ,JEFFERSON,08,059,CO 
+80212,Denver,Colorado ,DENVER,08,031,CO 
+80217,Denver,Colorado ,DENVER,08,031,CO 
+80214,Denver,Colorado ,JEFFERSON,08,059,CO 
+80218,Denver,Colorado ,DENVER,08,031,CO 
+80216,Denver,Colorado ,DENVER,08,031,CO 
+80219,Denver,Colorado ,DENVER,08,031,CO 
+80220,Denver,Colorado ,DENVER,08,031,CO 
+80224,Denver,Colorado ,DENVER,08,031,CO 
+80223,Denver,Colorado ,DENVER,08,031,CO 
+80222,Denver,Colorado ,DENVER,08,031,CO 
+80221,Denver,Colorado ,ADAMS,08,001,CO 
+80225,Denver,Colorado ,JEFFERSON,08,059,CO 
+80227,Denver,Colorado ,JEFFERSON,08,059,CO 
+80226,Denver,Colorado ,JEFFERSON,08,059,CO 
+80228,Denver,Colorado ,JEFFERSON,08,059,CO 
+80230,Denver,Colorado ,DENVER,08,031,CO 
+80229,Denver,Colorado ,ADAMS,08,001,CO 
+80236,Denver,Colorado ,DENVER,08,031,CO 
+80235,Denver,Colorado ,JEFFERSON,08,059,CO 
+80233,Denver,Colorado ,ADAMS,08,001,CO 
+80232,Denver,Colorado ,JEFFERSON,08,059,CO 
+80231,Denver,Colorado ,DENVER,08,031,CO 
+80234,Denver,Colorado ,ADAMS,08,001,CO 
+80237,Denver,Colorado ,DENVER,08,031,CO 
+80238,Denver,Colorado ,DENVER,08,031,CO 
+80239,Denver,Colorado ,DENVER,08,031,CO 
+80244,Denver,Colorado ,DENVER,08,031,CO 
+80247,Denver,Colorado ,ARAPAHOE,08,005,CO 
+80243,Denver,Colorado ,DENVER,08,031,CO 
+80241,Thornton,Colorado ,ADAMS,08,001,CO 
+80246,Denver,Colorado ,DENVER,08,031,CO 
+80248,Denver,Colorado ,DENVER,08,031,CO 
+80249,Denver,Colorado ,DENVER,08,031,CO 
+80250,Denver,Colorado ,DENVER,08,031,CO 
+80259,Denver,Colorado ,DENVER,08,031,CO 
+80257,Denver,Colorado ,DENVER,08,031,CO 
+80260,Denver,Colorado ,ADAMS,08,001,CO 
+80261,Denver,Colorado ,DENVER,08,031,CO 
+80256,Denver,Colorado ,DENVER,08,031,CO 
+80262,Denver,Colorado ,DENVER,08,031,CO 
+80263,Denver,Colorado ,DENVER,08,031,CO 
+80264,Denver,Colorado ,DENVER,08,031,CO 
+80274,Denver,Colorado ,DENVER,08,031,CO 
+80273,Denver,Colorado ,DENVER,08,031,CO 
+80265,Denver,Colorado ,DENVER,08,031,CO 
+80266,Denver,Colorado ,DENVER,08,031,CO 
+80271,Denver,Colorado ,DENVER,08,031,CO 
+80281,Denver,Colorado ,DENVER,08,031,CO 
+80290,Denver,Colorado ,DENVER,08,031,CO 
+80291,Denver,Colorado ,DENVER,08,031,CO 
+80294,Denver,Colorado ,DENVER,08,031,CO 
+80293,Denver,Colorado ,DENVER,08,031,CO 
+80299,Denver,Colorado ,DENVER,08,031,CO 
+80302,Boulder,Colorado ,BOULDER,08,013,CO 
+80304,Boulder,Colorado ,BOULDER,08,013,CO 
+80301,Boulder,Colorado ,BOULDER,08,013,CO 
+80303,Boulder,Colorado ,BOULDER,08,013,CO 
+80305,Boulder,Colorado ,BOULDER,08,013,CO 
+80308,Boulder,Colorado ,BOULDER,08,013,CO 
+80314,Boulder,Colorado ,BOULDER,08,013,CO 
+80307,Boulder,Colorado ,BOULDER,08,013,CO 
+80310,Boulder,Colorado ,BOULDER,08,013,CO 
+80309,Boulder,Colorado ,BOULDER,08,013,CO 
+80401,Golden,Colorado ,JEFFERSON,08,059,CO 
+80306,Boulder,Colorado ,BOULDER,08,013,CO 
+80402,Golden,Colorado ,JEFFERSON,08,059,CO 
+80420,Alma,Colorado ,PARK,08,093,CO 
+80424,Breckenridge,Colorado ,SUMMIT,08,117,CO 
+80421,Bailey,Colorado ,PARK,08,093,CO 
+80419,Golden,Colorado ,JEFFERSON,08,059,CO 
+80403,Golden,Colorado ,JEFFERSON,08,059,CO 
+80422,Black Hawk,Colorado ,GILPIN,08,047,CO 
+80423,Bond,Colorado ,EAGLE,08,037,CO 
+80425,Buffalo Creek,Colorado ,JEFFERSON,08,059,CO 
+80426,Burns,Colorado ,EAGLE,08,037,CO 
+80429,Climax,Colorado ,LAKE,08,065,CO 
+80427,Central City,Colorado ,GILPIN,08,047,CO 
+80428,Clark,Colorado ,ROUTT,08,107,CO 
+80433,Conifer,Colorado ,JEFFERSON,08,059,CO 
+80434,Cowdrey,Colorado ,JACKSON,08,057,CO 
+80430,Coalmont,Colorado ,JACKSON,08,057,CO 
+80432,Como,Colorado ,PARK,08,093,CO 
+80435,Dillon,Colorado ,SUMMIT,08,117,CO 
+80442,Fraser,Colorado ,GRAND,08,049,CO 
+80439,Evergreen,Colorado ,JEFFERSON,08,059,CO 
+80443,Frisco,Colorado ,SUMMIT,08,117,CO 
+80440,Fairplay,Colorado ,PARK,08,093,CO 
+80436,Dumont,Colorado ,CLEAR CREEK,08,019,CO 
+80438,Empire,Colorado ,CLEAR CREEK,08,019,CO 
+80437,Evergreen,Colorado ,JEFFERSON,08,059,CO 
+80444,Georgetown,Colorado ,CLEAR CREEK,08,019,CO 
+80446,Granby,Colorado ,GRAND,08,049,CO 
+80451,Hot Sulphur Springs,Colorado ,GRAND,08,049,CO 
+80453,Idledale,Colorado ,JEFFERSON,08,059,CO 
+80448,Grant,Colorado ,PARK,08,093,CO 
+80447,Grand Lake,Colorado ,GRAND,08,049,CO 
+80452,Idaho Springs,Colorado ,CLEAR CREEK,08,019,CO 
+80454,Indian Hills,Colorado ,JEFFERSON,08,059,CO 
+80449,Hartsel,Colorado ,PARK,08,093,CO 
+80455,Jamestown,Colorado ,BOULDER,08,013,CO 
+80456,Jefferson,Colorado ,PARK,08,093,CO 
+80465,Morrison,Colorado ,JEFFERSON,08,059,CO 
+80457,Kittredge,Colorado ,JEFFERSON,08,059,CO 
+80461,Leadville,Colorado ,LAKE,08,065,CO 
+80466,Nederland,Colorado ,BOULDER,08,013,CO 
+80463,Mc Coy,Colorado ,EAGLE,08,037,CO 
+80459,Kremmling,Colorado ,GRAND,08,049,CO 
+80467,Oak Creek,Colorado ,ROUTT,08,107,CO 
+80468,Parshall,Colorado ,GRAND,08,049,CO 
+80474,Rollinsville,Colorado ,GILPIN,08,047,CO 
+80470,Pine,Colorado ,JEFFERSON,08,059,CO 
+80475,Shawnee,Colorado ,PARK,08,093,CO 
+80469,Phippsburg,Colorado ,ROUTT,08,107,CO 
+80473,Rand,Colorado ,JACKSON,08,057,CO 
+80471,Pinecliffe,Colorado ,BOULDER,08,013,CO 
+80476,Silver Plume,Colorado ,CLEAR CREEK,08,019,CO 
+80477,Steamboat Springs,Colorado ,ROUTT,08,107,CO 
+80479,Toponas,Colorado ,ROUTT,08,107,CO 
+80483,Yampa,Colorado ,ROUTT,08,107,CO 
+80478,Tabernash,Colorado ,GRAND,08,049,CO 
+80480,Walden,Colorado ,JACKSON,08,057,CO 
+80482,Winter Park,Colorado ,GRAND,08,049,CO 
+80481,Ward,Colorado ,BOULDER,08,013,CO 
+80487,Steamboat Springs,Colorado ,ROUTT,08,107,CO 
+80488,Steamboat Springs,Colorado ,ROUTT,08,107,CO 
+80504,Longmont,Colorado ,WELD,08,123,CO 
+80501,Longmont,Colorado ,BOULDER,08,013,CO 
+80497,Silverthorne,Colorado ,SUMMIT,08,117,CO 
+80502,Longmont,Colorado ,BOULDER,08,013,CO 
+80498,Silverthorne,Colorado ,SUMMIT,08,117,CO 
+80510,Allenspark,Colorado ,BOULDER,08,013,CO 
+80511,Estes Park,Colorado ,LARIMER,08,069,CO 
+80503,Longmont,Colorado ,BOULDER,08,013,CO 
+80513,Berthoud,Colorado ,LARIMER,08,069,CO 
+80516,Erie,Colorado ,BOULDER,08,013,CO 
+80514,Dacono,Colorado ,WELD,08,123,CO 
+80512,Bellvue,Colorado ,LARIMER,08,069,CO 
+80517,Estes Park,Colorado ,LARIMER,08,069,CO 
+80515,Drake,Colorado ,LARIMER,08,069,CO 
+80521,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80520,Firestone,Colorado ,WELD,08,123,CO 
+80522,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80523,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80525,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80526,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80528,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80527,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80530,Frederick,Colorado ,WELD,08,123,CO 
+80524,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80532,Glen Haven,Colorado ,LARIMER,08,069,CO 
+80533,Hygiene,Colorado ,BOULDER,08,013,CO 
+80534,Johnstown,Colorado ,WELD,08,123,CO 
+80537,Loveland,Colorado ,LARIMER,08,069,CO 
+80539,Loveland,Colorado ,LARIMER,08,069,CO 
+80538,Loveland,Colorado ,LARIMER,08,069,CO 
+80536,Livermore,Colorado ,LARIMER,08,069,CO 
+80535,Laporte,Colorado ,LARIMER,08,069,CO 
+80540,Lyons,Colorado ,BOULDER,08,013,CO 
+80543,Milliken,Colorado ,WELD,08,123,CO 
+80544,Niwot,Colorado ,BOULDER,08,013,CO 
+80547,Timnath,Colorado ,LARIMER,08,069,CO 
+80545,Red Feather Lakes,Colorado ,LARIMER,08,069,CO 
+80541,Masonville,Colorado ,LARIMER,08,069,CO 
+80542,Mead,Colorado ,WELD,08,123,CO 
+80549,Wellington,Colorado ,LARIMER,08,069,CO 
+80546,Severance,Colorado ,WELD,08,123,CO 
+80553,Fort Collins,Colorado ,LARIMER,08,069,CO 
+80601,Brighton,Colorado ,ADAMS,08,001,CO 
+80611,Briggsdale,Colorado ,WELD,08,123,CO 
+80550,Windsor,Colorado ,WELD,08,123,CO 
+80602,Brighton,Colorado ,ADAMS,08,001,CO 
+80610,Ault,Colorado ,WELD,08,123,CO 
+80551,Windsor,Colorado ,WELD,08,123,CO 
+80603,Brighton,Colorado ,WELD,08,123,CO 
+80612,Carr,Colorado ,WELD,08,123,CO 
+80615,Eaton,Colorado ,WELD,08,123,CO 
+80620,Evans,Colorado ,WELD,08,123,CO 
+80614,Eastlake,Colorado ,ADAMS,08,001,CO 
+80622,Galeton,Colorado ,WELD,08,123,CO 
+80621,Fort Lupton,Colorado ,WELD,08,123,CO 
+80624,Gill,Colorado ,WELD,08,123,CO 
+80623,Gilcrest,Colorado ,WELD,08,123,CO 
+80631,Greeley,Colorado ,WELD,08,123,CO 
+80639,Greeley,Colorado ,WELD,08,123,CO 
+80632,Greeley,Colorado ,WELD,08,123,CO 
+80638,Greeley,Colorado ,WELD,08,123,CO 
+80633,Greeley,Colorado ,WELD,08,123,CO 
+80640,Henderson,Colorado ,ADAMS,08,001,CO 
+80642,Hudson,Colorado ,WELD,08,123,CO 
+80634,Greeley,Colorado ,WELD,08,123,CO 
+80643,Keenesburg,Colorado ,WELD,08,123,CO 
+80645,La Salle,Colorado ,WELD,08,123,CO 
+80644,Kersey,Colorado ,WELD,08,123,CO 
+80646,Lucerne,Colorado ,WELD,08,123,CO 
+80651,Platteville,Colorado ,WELD,08,123,CO 
+80648,Nunn,Colorado ,WELD,08,123,CO 
+80650,Pierce,Colorado ,WELD,08,123,CO 
+80649,Orchard,Colorado ,MORGAN,08,087,CO 
+80652,Roggen,Colorado ,WELD,08,123,CO 
+80653,Weldona,Colorado ,MORGAN,08,087,CO 
+80701,Fort Morgan,Colorado ,MORGAN,08,087,CO 
+80721,Amherst,Colorado ,PHILLIPS,08,095,CO 
+80705,Log Lane Village,Colorado ,MORGAN,08,087,CO 
+80720,Akron,Colorado ,WASHINGTON,08,121,CO 
+80654,Wiggins,Colorado ,MORGAN,08,087,CO 
+80722,Atwood,Colorado ,LOGAN,08,075,CO 
+80723,Brush,Colorado ,MORGAN,08,087,CO 
+80726,Crook,Colorado ,LOGAN,08,075,CO 
+80727,Eckley,Colorado ,YUMA,08,125,CO 
+80733,Hillrose,Colorado ,MORGAN,08,087,CO 
+80732,Hereford,Colorado ,WELD,08,123,CO 
+80729,Grover,Colorado ,WELD,08,123,CO 
+80728,Fleming,Colorado ,LOGAN,08,075,CO 
+80731,Haxtun,Colorado ,PHILLIPS,08,095,CO 
+80734,Holyoke,Colorado ,PHILLIPS,08,095,CO 
+80735,Idalia,Colorado ,YUMA,08,125,CO 
+80736,Iliff,Colorado ,LOGAN,08,075,CO 
+80737,Julesburg,Colorado ,SEDGWICK,08,115,CO 
+80740,Lindon,Colorado ,WASHINGTON,08,121,CO 
+80744,Ovid,Colorado ,SEDGWICK,08,115,CO 
+80742,New Raymer,Colorado ,WELD,08,123,CO 
+80741,Merino,Colorado ,LOGAN,08,075,CO 
+80745,Padroni,Colorado ,LOGAN,08,075,CO 
+80743,Otis,Colorado ,WASHINGTON,08,121,CO 
+80746,Paoli,Colorado ,PHILLIPS,08,095,CO 
+80757,Woodrow,Colorado ,WASHINGTON,08,121,CO 
+80747,Peetz,Colorado ,LOGAN,08,075,CO 
+80751,Sterling,Colorado ,LOGAN,08,075,CO 
+80755,Vernon,Colorado ,YUMA,08,125,CO 
+80749,Sedgwick,Colorado ,SEDGWICK,08,115,CO 
+80754,Stoneham,Colorado ,WELD,08,123,CO 
+80750,Snyder,Colorado ,MORGAN,08,087,CO 
+80758,Wray,Colorado ,YUMA,08,125,CO 
+80808,Calhan,Colorado ,EL PASO,08,041,CO 
+80801,Anton,Colorado ,WASHINGTON,08,121,CO 
+80807,Burlington,Colorado ,KIT CARSON,08,063,CO 
+80802,Arapahoe,Colorado ,CHEYENNE,08,017,CO 
+80804,Arriba,Colorado ,LINCOLN,08,073,CO 
+80805,Bethune,Colorado ,KIT CARSON,08,063,CO 
+80759,Yuma,Colorado ,YUMA,08,125,CO 
+80809,Cascade,Colorado ,EL PASO,08,041,CO 
+80813,Cripple Creek,Colorado ,TELLER,08,119,CO 
+80812,Cope,Colorado ,WASHINGTON,08,121,CO 
+80810,Cheyenne Wells,Colorado ,CHEYENNE,08,017,CO 
+80814,Divide,Colorado ,TELLER,08,119,CO 
+80816,Florissant,Colorado ,TELLER,08,119,CO 
+80817,Fountain,Colorado ,EL PASO,08,041,CO 
+80818,Genoa,Colorado ,LINCOLN,08,073,CO 
+80815,Flagler,Colorado ,KIT CARSON,08,063,CO 
+80819,Green Mountain Falls,Colorado ,EL PASO,08,041,CO 
+80822,Joes,Colorado ,YUMA,08,125,CO 
+80821,Hugo,Colorado ,LINCOLN,08,073,CO 
+80825,Kit Carson,Colorado ,CHEYENNE,08,017,CO 
+80826,Limon,Colorado ,LINCOLN,08,073,CO 
+80820,Guffey,Colorado ,PARK,08,093,CO 
+80824,Kirk,Colorado ,YUMA,08,125,CO 
+80823,Karval,Colorado ,LINCOLN,08,073,CO 
+80827,Lake George,Colorado ,PARK,08,093,CO 
+80829,Manitou Springs,Colorado ,EL PASO,08,041,CO 
+80832,Ramah,Colorado ,EL PASO,08,041,CO 
+80831,Peyton,Colorado ,EL PASO,08,041,CO 
+80828,Limon,Colorado ,LINCOLN,08,073,CO 
+80833,Rush,Colorado ,EL PASO,08,041,CO 
+80834,Seibert,Colorado ,KIT CARSON,08,063,CO 
+80830,Matheson,Colorado ,ELBERT,08,039,CO 
+80835,Simla,Colorado ,ELBERT,08,039,CO 
+80836,Stratton,Colorado ,KIT CARSON,08,063,CO 
+80840,USAF Academy,Colorado ,EL PASO,08,041,CO 
+80841,USAF Academy,Colorado ,EL PASO,08,041,CO 
+80860,Victor,Colorado ,TELLER,08,119,CO 
+80862,Wild Horse,Colorado ,CHEYENNE,08,017,CO 
+80861,Vona,Colorado ,KIT CARSON,08,063,CO 
+80864,Yoder,Colorado ,EL PASO,08,041,CO 
+80863,Woodland Park,Colorado ,TELLER,08,119,CO 
+80866,Woodland Park,Colorado ,TELLER,08,119,CO 
+80901,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80902,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80903,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80904,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80905,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80907,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80906,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80908,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80909,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80911,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80912,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80913,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80914,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80910,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80915,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80917,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80916,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80918,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80919,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80923,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80920,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80922,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80921,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80925,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80924,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80927,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80926,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80932,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80931,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80930,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80928,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80929,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80933,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80934,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80935,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80937,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80936,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80941,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80938,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80939,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80942,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80946,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80947,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80949,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80962,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80977,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80951,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80995,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80960,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80950,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+80970,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+81002,Pueblo,Colorado ,PUEBLO,08,101,CO 
+80997,Colorado Springs,Colorado ,EL PASO,08,041,CO 
+81007,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81005,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81006,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81001,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81003,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81004,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81008,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81012,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81011,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81010,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81019,Colorado City,Colorado ,PUEBLO,08,101,CO 
+81020,Aguilar,Colorado ,LAS ANIMAS,08,071,CO 
+81021,Arlington,Colorado ,KIOWA,08,061,CO 
+81022,Avondale,Colorado ,PUEBLO,08,101,CO 
+81023,Beulah,Colorado ,PUEBLO,08,101,CO 
+81027,Branson,Colorado ,LAS ANIMAS,08,071,CO 
+81029,Campo,Colorado ,BACA,08,009,CO 
+81030,Cheraw,Colorado ,OTERO,08,089,CO 
+81025,Boone,Colorado ,PUEBLO,08,101,CO 
+81024,Boncarbo,Colorado ,LAS ANIMAS,08,071,CO 
+81009,Pueblo,Colorado ,PUEBLO,08,101,CO 
+81033,Crowley,Colorado ,CROWLEY,08,025,CO 
+81034,Ordway,Colorado ,CROWLEY,08,025,CO 
+81043,Hartman,Colorado ,PROWERS,08,099,CO 
+81041,Granada,Colorado ,PROWERS,08,099,CO 
+81040,Gardner,Colorado ,HUERFANO,08,055,CO 
+81039,Fowler,Colorado ,OTERO,08,089,CO 
+81038,Fort Lyon,Colorado ,BENT,08,011,CO 
+81036,Eads,Colorado ,KIOWA,08,061,CO 
+81044,Hasty,Colorado ,BENT,08,011,CO 
+81049,Kim,Colorado ,LAS ANIMAS,08,071,CO 
+81046,Hoehne,Colorado ,LAS ANIMAS,08,071,CO 
+81055,La Veta,Colorado ,HUERFANO,08,055,CO 
+81050,La Junta,Colorado ,OTERO,08,089,CO 
+81052,Lamar,Colorado ,PROWERS,08,099,CO 
+81054,Las Animas,Colorado ,BENT,08,011,CO 
+81047,Holly,Colorado ,PROWERS,08,099,CO 
+81045,Haswell,Colorado ,KIOWA,08,061,CO 
+81058,Manzanola,Colorado ,OTERO,08,089,CO 
+81057,Mc Clave,Colorado ,BENT,08,011,CO 
+81059,Model,Colorado ,LAS ANIMAS,08,071,CO 
+81067,Rocky Ford,Colorado ,OTERO,08,089,CO 
+81062,Olney Springs,Colorado ,CROWLEY,08,025,CO 
+81063,Ordway,Colorado ,CROWLEY,08,025,CO 
+81069,Rye,Colorado ,PUEBLO,08,101,CO 
+81064,Pritchett,Colorado ,BACA,08,009,CO 
+81071,Sheridan Lake,Colorado ,KIOWA,08,061,CO 
+81073,Springfield,Colorado ,BACA,08,009,CO 
+81076,Sugar City,Colorado ,CROWLEY,08,025,CO 
+81087,Vilas,Colorado ,BACA,08,009,CO 
+81082,Trinidad,Colorado ,LAS ANIMAS,08,071,CO 
+81081,Trinchera,Colorado ,LAS ANIMAS,08,071,CO 
+81084,Two Buttes,Colorado ,BACA,08,009,CO 
+81077,Swink,Colorado ,OTERO,08,089,CO 
+81089,Walsenburg,Colorado ,HUERFANO,08,055,CO 
+81090,Walsh,Colorado ,BACA,08,009,CO 
+81092,Wiley,Colorado ,PROWERS,08,099,CO 
+81102,Alamosa,Colorado ,ALAMOSA,08,003,CO 
+81120,Antonito,Colorado ,CONEJOS,08,021,CO 
+81091,Weston,Colorado ,LAS ANIMAS,08,071,CO 
+81101,Alamosa,Colorado ,ALAMOSA,08,003,CO 
+81123,Blanca,Colorado ,COSTILLA,08,023,CO 
+81121,Arboles,Colorado ,ARCHULETA,08,007,CO 
+81122,Bayfield,Colorado ,LA PLATA,08,067,CO 
+81129,Conejos,Colorado ,CONEJOS,08,021,CO 
+81124,Capulin,Colorado ,CONEJOS,08,021,CO 
+81128,Chromo,Colorado ,ARCHULETA,08,007,CO 
+81125,Center,Colorado ,RIO GRANDE,08,105,CO 
+81126,Chama,Colorado ,COSTILLA,08,023,CO 
+81131,Crestone,Colorado ,SAGUACHE,08,109,CO 
+81130,Creede,Colorado ,MINERAL,08,079,CO 
+81132,Del Norte,Colorado ,RIO GRANDE,08,105,CO 
+81133,Fort Garland,Colorado ,COSTILLA,08,023,CO 
+81135,Homelake,Colorado ,RIO GRANDE,08,105,CO 
+81138,Jaroso,Colorado ,COSTILLA,08,023,CO 
+81143,Moffat,Colorado ,SAGUACHE,08,109,CO 
+81137,Ignacio,Colorado ,LA PLATA,08,067,CO 
+81141,Manassa,Colorado ,CONEJOS,08,021,CO 
+81136,Hooper,Colorado ,ALAMOSA,08,003,CO 
+81140,La Jara,Colorado ,CONEJOS,08,021,CO 
+81144,Monte Vista,Colorado ,RIO GRANDE,08,105,CO 
+81146,Mosca,Colorado ,ALAMOSA,08,003,CO 
+81151,Sanford,Colorado ,CONEJOS,08,021,CO 
+81149,Saguache,Colorado ,SAGUACHE,08,109,CO 
+81154,South Fork,Colorado ,RIO GRANDE,08,105,CO 
+81147,Pagosa Springs,Colorado ,ARCHULETA,08,007,CO 
+81152,San Luis,Colorado ,COSTILLA,08,023,CO 
+81155,Villa Grove,Colorado ,SAGUACHE,08,109,CO 
+81148,Romeo,Colorado ,CONEJOS,08,021,CO 
+81157,Pagosa Springs,Colorado ,ARCHULETA,08,007,CO 
+81201,Salida,Colorado ,CHAFFEE,08,015,CO 
+81212,Canon City,Colorado ,FREMONT,08,043,CO 
+81211,Buena Vista,Colorado ,CHAFFEE,08,015,CO 
+81215,Canon City,Colorado ,FREMONT,08,043,CO 
+81210,Almont,Colorado ,GUNNISON,08,051,CO 
+81220,Cimarron,Colorado ,MONTROSE,08,085,CO 
+81221,Coal Creek,Colorado ,FREMONT,08,043,CO 
+81222,Coaldale,Colorado ,FREMONT,08,043,CO 
+81227,Monarch,Colorado ,CHAFFEE,08,015,CO 
+81223,Cotopaxi,Colorado ,FREMONT,08,043,CO 
+81224,Crested Butte,Colorado ,GUNNISON,08,051,CO 
+81226,Florence,Colorado ,FREMONT,08,043,CO 
+81228,Granite,Colorado ,CHAFFEE,08,015,CO 
+81225,Crested Butte,Colorado ,GUNNISON,08,051,CO 
+81230,Gunnison,Colorado ,GUNNISON,08,051,CO 
+81231,Gunnison,Colorado ,GUNNISON,08,051,CO 
+81235,Lake City,Colorado ,HINSDALE,08,053,CO 
+81233,Howard,Colorado ,FREMONT,08,043,CO 
+81232,Hillside,Colorado ,FREMONT,08,043,CO 
+81237,Ohio City,Colorado ,GUNNISON,08,051,CO 
+81236,Nathrop,Colorado ,CHAFFEE,08,015,CO 
+81239,Parlin,Colorado ,GUNNISON,08,051,CO 
+81240,Penrose,Colorado ,FREMONT,08,043,CO 
+81241,Pitkin,Colorado ,GUNNISON,08,051,CO 
+81243,Powderhorn,Colorado ,GUNNISON,08,051,CO 
+81251,Twin Lakes,Colorado ,LAKE,08,065,CO 
+81248,Sargents,Colorado ,SAGUACHE,08,109,CO 
+81242,Poncha Springs,Colorado ,CHAFFEE,08,015,CO 
+81252,Westcliffe,Colorado ,CUSTER,08,027,CO 
+81290,Florence,Colorado ,FREMONT,08,043,CO 
+81244,Rockvale,Colorado ,FREMONT,08,043,CO 
+81253,Wetmore,Colorado ,CUSTER,08,027,CO 
+81301,Durango,Colorado ,LA PLATA,08,067,CO 
+81302,Durango,Colorado ,LA PLATA,08,067,CO 
+81303,Durango,Colorado ,LA PLATA,08,067,CO 
+81324,Dove Creek,Colorado ,DOLORES,08,033,CO 
+81323,Dolores,Colorado ,MONTEZUMA,08,083,CO 
+81321,Cortez,Colorado ,MONTEZUMA,08,083,CO 
+81320,Cahone,Colorado ,DOLORES,08,033,CO 
+81325,Egnar,Colorado ,SAN MIGUEL,08,113,CO 
+81326,Hesperus,Colorado ,LA PLATA,08,067,CO 
+81327,Lewis,Colorado ,MONTEZUMA,08,083,CO 
+81329,Marvel,Colorado ,LA PLATA,08,067,CO 
+81331,Pleasant View,Colorado ,MONTEZUMA,08,083,CO 
+81328,Mancos,Colorado ,MONTEZUMA,08,083,CO 
+81332,Rico,Colorado ,DOLORES,08,033,CO 
+81330,Mesa Verde National Park,Colorado ,MONTEZUMA,08,083,CO 
+81334,Towaoc,Colorado ,MONTEZUMA,08,083,CO 
+81335,Yellow Jacket,Colorado ,MONTEZUMA,08,083,CO 
+81411,Bedrock,Colorado ,MONTROSE,08,085,CO 
+81401,Montrose,Colorado ,MONTROSE,08,085,CO 
+81402,Montrose,Colorado ,MONTROSE,08,085,CO 
+81403,Montrose,Colorado ,MONTROSE,08,085,CO 
+81413,Cedaredge,Colorado ,DELTA,08,029,CO 
+81410,Austin,Colorado ,DELTA,08,029,CO 
+81414,Cory,Colorado ,DELTA,08,029,CO 
+81416,Delta,Colorado ,DELTA,08,029,CO 
+81418,Eckert,Colorado ,DELTA,08,029,CO 
+81415,Crawford,Colorado ,DELTA,08,029,CO 
+81423,Norwood,Colorado ,SAN MIGUEL,08,113,CO 
+81419,Hotchkiss,Colorado ,DELTA,08,029,CO 
+81422,Naturita,Colorado ,MONTROSE,08,085,CO 
+81420,Lazear,Colorado ,DELTA,08,029,CO 
+81424,Nucla,Colorado ,MONTROSE,08,085,CO 
+81426,Ophir,Colorado ,SAN MIGUEL,08,113,CO 
+81430,Placerville,Colorado ,SAN MIGUEL,08,113,CO 
+81427,Ouray,Colorado ,OURAY,08,091,CO 
+81429,Paradox,Colorado ,MONTROSE,08,085,CO 
+81428,Paonia,Colorado ,DELTA,08,029,CO 
+81425,Olathe,Colorado ,MONTROSE,08,085,CO 
+81431,Redvale,Colorado ,MONTROSE,08,085,CO 
+81432,Ridgway,Colorado ,OURAY,08,091,CO 
+81433,Silverton,Colorado ,SAN JUAN,08,111,CO 
+81502,Grand Junction,Colorado ,MESA,08,077,CO 
+81435,Telluride,Colorado ,SAN MIGUEL,08,113,CO 
+81434,Somerset,Colorado ,GUNNISON,08,051,CO 
+81503,Grand Junction,Colorado ,MESA,08,077,CO 
+81501,Grand Junction,Colorado ,MESA,08,077,CO 
+81505,Grand Junction,Colorado ,MESA,08,077,CO 
+81504,Grand Junction,Colorado ,MESA,08,077,CO 
+81506,Grand Junction,Colorado ,MESA,08,077,CO 
+81520,Clifton,Colorado ,MESA,08,077,CO 
+81524,Loma,Colorado ,MESA,08,077,CO 
+81522,Gateway,Colorado ,MESA,08,077,CO 
+81525,Mack,Colorado ,MESA,08,077,CO 
+81521,Fruita,Colorado ,MESA,08,077,CO 
+81523,Glade Park,Colorado ,MESA,08,077,CO 
+81507,Grand Junction,Colorado ,MESA,08,077,CO 
+81615,Snowmass Village,Colorado ,PITKIN,08,097,CO 
+81526,Palisade,Colorado ,MESA,08,077,CO 
+81527,Whitewater,Colorado ,MESA,08,077,CO 
+81602,Glenwood Springs,Colorado ,GARFIELD,08,045,CO 
+81601,Glenwood Springs,Colorado ,GARFIELD,08,045,CO 
+81612,Aspen,Colorado ,PITKIN,08,097,CO 
+81611,Aspen,Colorado ,PITKIN,08,097,CO 
+81610,Dinosaur,Colorado ,MOFFAT,08,081,CO 
+81620,Avon,Colorado ,EAGLE,08,037,CO 
+81623,Carbondale,Colorado ,GARFIELD,08,045,CO 
+81621,Basalt,Colorado ,EAGLE,08,037,CO 
+81624,Collbran,Colorado ,MESA,08,077,CO 
+81630,De Beque,Colorado ,MESA,08,077,CO 
+81626,Craig,Colorado ,MOFFAT,08,081,CO 
+81625,Craig,Colorado ,MOFFAT,08,081,CO 
+81632,Edwards,Colorado ,EAGLE,08,037,CO 
+81635,Parachute,Colorado ,GARFIELD,08,045,CO 
+81636,Battlement Mesa,Colorado ,GARFIELD,08,045,CO 
+81631,Eagle,Colorado ,EAGLE,08,037,CO 
+81637,Gypsum,Colorado ,EAGLE,08,037,CO 
+81638,Hamilton,Colorado ,MOFFAT,08,081,CO 
+81639,Hayden,Colorado ,ROUTT,08,107,CO 
+81633,Dinosaur,Colorado ,MOFFAT,08,081,CO 
+81640,Maybell,Colorado ,MOFFAT,08,081,CO 
+81645,Minturn,Colorado ,EAGLE,08,037,CO 
+81641,Meeker,Colorado ,RIO BLANCO,08,103,CO 
+81648,Rangely,Colorado ,RIO BLANCO,08,103,CO 
+81643,Mesa,Colorado ,MESA,08,077,CO 
+81647,New Castle,Colorado ,GARFIELD,08,045,CO 
+81646,Molina,Colorado ,MESA,08,077,CO 
+81642,Meredith,Colorado ,PITKIN,08,097,CO 
+81649,Red Cliff,Colorado ,EAGLE,08,037,CO 
+81654,Snowmass,Colorado ,PITKIN,08,097,CO 
+81650,Rifle,Colorado ,GARFIELD,08,045,CO 
+81657,Vail,Colorado ,EAGLE,08,037,CO 
+81653,Slater,Colorado ,MOFFAT,08,081,CO 
+81656,Woody Creek,Colorado ,PITKIN,08,097,CO 
+81655,Wolcott,Colorado ,EAGLE,08,037,CO 
+81652,Silt,Colorado ,GARFIELD,08,045,CO 
+81658,Vail,Colorado ,EAGLE,08,037,CO 

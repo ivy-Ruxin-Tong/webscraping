@@ -1,0 +1,944 @@
+40003,Bagdad,Kentucky ,SHELBY,21,211,KY 
+40008,Bloomfield,Kentucky ,NELSON,21,179,KY 
+40004,Bardstown,Kentucky ,NELSON,21,179,KY 
+40010,Buckner,Kentucky ,OLDHAM,21,185,KY 
+40006,Bedford,Kentucky ,TRIMBLE,21,223,KY 
+40011,Campbellsburg,Kentucky ,HENRY,21,103,KY 
+40009,Bradfordsville,Kentucky ,MARION,21,155,KY 
+40007,Bethlehem,Kentucky ,HENRY,21,103,KY 
+40012,Chaplin,Kentucky ,NELSON,21,179,KY 
+40019,Eminence,Kentucky ,HENRY,21,103,KY 
+40014,Crestwood,Kentucky ,OLDHAM,21,185,KY 
+40013,Coxs Creek,Kentucky ,NELSON,21,179,KY 
+40020,Fairfield,Kentucky ,NELSON,21,179,KY 
+40022,Finchville,Kentucky ,SHELBY,21,211,KY 
+40018,Eastwood,Kentucky ,JEFFERSON,21,111,KY 
+40023,Fisherville,Kentucky ,JEFFERSON,21,111,KY 
+40025,Glenview,Kentucky ,JEFFERSON,21,111,KY 
+40026,Goshen,Kentucky ,OLDHAM,21,185,KY 
+40027,Harrods Creek,Kentucky ,JEFFERSON,21,111,KY 
+40036,Lockport,Kentucky ,HENRY,21,103,KY 
+40033,Lebanon,Kentucky ,MARION,21,155,KY 
+40032,La Grange,Kentucky ,OLDHAM,21,185,KY 
+40031,La Grange,Kentucky ,OLDHAM,21,185,KY 
+40037,Loretto,Kentucky ,MARION,21,155,KY 
+40040,Mackville,Kentucky ,WASHINGTON,21,229,KY 
+40041,Masonic Home,Kentucky ,JEFFERSON,21,111,KY 
+40045,Milton,Kentucky ,TRIMBLE,21,223,KY 
+40046,Mount Eden,Kentucky ,SPENCER,21,215,KY 
+40051,New Haven,Kentucky ,NELSON,21,179,KY 
+40047,Mount Washington,Kentucky ,BULLITT,21,029,KY 
+40048,Nazareth,Kentucky ,NELSON,21,179,KY 
+40049,Nerinx,Kentucky ,MARION,21,155,KY 
+40050,New Castle,Kentucky ,HENRY,21,103,KY 
+40055,Pendleton,Kentucky ,HENRY,21,103,KY 
+40052,New Hope,Kentucky ,NELSON,21,179,KY 
+40056,Pewee Valley,Kentucky ,OLDHAM,21,185,KY 
+40058,Port Royal,Kentucky ,HENRY,21,103,KY 
+40061,Saint Catharine,Kentucky ,WASHINGTON,21,229,KY 
+40057,Pleasureville,Kentucky ,HENRY,21,103,KY 
+40060,Raywick,Kentucky ,MARION,21,155,KY 
+40059,Prospect,Kentucky ,JEFFERSON,21,111,KY 
+40062,Saint Francis,Kentucky ,MARION,21,155,KY 
+40063,Saint Mary,Kentucky ,MARION,21,155,KY 
+40065,Shelbyville,Kentucky ,SHELBY,21,211,KY 
+40068,Smithfield,Kentucky ,HENRY,21,103,KY 
+40070,Sulphur,Kentucky ,HENRY,21,103,KY 
+40066,Shelbyville,Kentucky ,SHELBY,21,211,KY 
+40067,Simpsonville,Kentucky ,SHELBY,21,211,KY 
+40069,Springfield,Kentucky ,WASHINGTON,21,229,KY 
+40076,Waddy,Kentucky ,SHELBY,21,211,KY 
+40075,Turners Station,Kentucky ,HENRY,21,103,KY 
+40071,Taylorsville,Kentucky ,SPENCER,21,215,KY 
+40077,Westport,Kentucky ,OLDHAM,21,185,KY 
+40108,Brandenburg,Kentucky ,MEADE,21,163,KY 
+40104,Battletown,Kentucky ,MEADE,21,163,KY 
+40109,Brooks,Kentucky ,BULLITT,21,029,KY 
+40110,Clermont,Kentucky ,BULLITT,21,029,KY 
+40111,Cloverport,Kentucky ,BRECKINRIDGE,21,027,KY 
+40078,Willisburg,Kentucky ,WASHINGTON,21,229,KY 
+40115,Custer,Kentucky ,BRECKINRIDGE,21,027,KY 
+40107,Boston,Kentucky ,NELSON,21,179,KY 
+40118,Fairdale,Kentucky ,JEFFERSON,21,111,KY 
+40117,Ekron,Kentucky ,MEADE,21,163,KY 
+40119,Falls Of Rough,Kentucky ,GRAYSON,21,085,KY 
+40122,Fort Knox,Kentucky ,HARDIN,21,093,KY 
+40121,Fort Knox,Kentucky ,HARDIN,21,093,KY 
+40129,Hillview,Kentucky ,BULLITT,21,029,KY 
+40140,Garfield,Kentucky ,BRECKINRIDGE,21,027,KY 
+40142,Guston,Kentucky ,MEADE,21,163,KY 
+40145,Hudson,Kentucky ,BRECKINRIDGE,21,027,KY 
+40146,Irvington,Kentucky ,BRECKINRIDGE,21,027,KY 
+40144,Harned,Kentucky ,BRECKINRIDGE,21,027,KY 
+40150,Lebanon Junction,Kentucky ,BULLITT,21,029,KY 
+40143,Hardinsburg,Kentucky ,BRECKINRIDGE,21,027,KY 
+40152,Mc Daniels,Kentucky ,BRECKINRIDGE,21,027,KY 
+40153,Mc Quady,Kentucky ,BRECKINRIDGE,21,027,KY 
+40155,Muldraugh,Kentucky ,MEADE,21,163,KY 
+40160,Radcliff,Kentucky ,HARDIN,21,093,KY 
+40166,Shepherdsville,Kentucky ,BULLITT,21,029,KY 
+40157,Payneville,Kentucky ,MEADE,21,163,KY 
+40165,Shepherdsville,Kentucky ,BULLITT,21,029,KY 
+40170,Stephensport,Kentucky ,BRECKINRIDGE,21,027,KY 
+40161,Rhodelia,Kentucky ,MEADE,21,163,KY 
+40162,Rineyville,Kentucky ,HARDIN,21,093,KY 
+40159,Radcliff,Kentucky ,HARDIN,21,093,KY 
+40176,Webster,Kentucky ,BRECKINRIDGE,21,027,KY 
+40171,Union Star,Kentucky ,BRECKINRIDGE,21,027,KY 
+40175,Vine Grove,Kentucky ,HARDIN,21,093,KY 
+40201,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40202,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40203,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40178,Westview,Kentucky ,BRECKINRIDGE,21,027,KY 
+40177,West Point,Kentucky ,HARDIN,21,093,KY 
+40204,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40206,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40210,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40205,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40209,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40211,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40208,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40207,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40212,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40216,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40214,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40215,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40213,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40219,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40218,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40217,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40224,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40220,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40228,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40222,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40223,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40229,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40221,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40225,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40231,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40232,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40233,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40242,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40245,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40243,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40241,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40250,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40251,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40252,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40253,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40257,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40259,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40258,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40255,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40261,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40266,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40268,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40280,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40272,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40269,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40270,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40256,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40281,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40282,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40283,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40290,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40289,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40285,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40287,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40291,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40292,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40293,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40294,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40295,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40296,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40299,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40298,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40297,Louisville,Kentucky ,JEFFERSON,21,111,KY 
+40312,Clay City,Kentucky ,POWELL,21,197,KY 
+40316,Denniston,Kentucky ,MENIFEE,21,165,KY 
+40313,Clearfield,Kentucky ,ROWAN,21,205,KY 
+40319,Farmers,Kentucky ,ROWAN,21,205,KY 
+40317,Elliottville,Kentucky ,ROWAN,21,205,KY 
+40322,Frenchburg,Kentucky ,MENIFEE,21,165,KY 
+40324,Georgetown,Kentucky ,SCOTT,21,209,KY 
+40311,Carlisle,Kentucky ,NICHOLAS,21,181,KY 
+40310,Burgin,Kentucky ,MERCER,21,167,KY 
+40330,Harrodsburg,Kentucky ,MERCER,21,167,KY 
+40328,Gravel Switch,Kentucky ,MARION,21,155,KY 
+40340,Nicholasville,Kentucky ,JESSAMINE,21,113,KY 
+40336,Irvine,Kentucky ,ESTILL,21,065,KY 
+40339,Keene,Kentucky ,JESSAMINE,21,113,KY 
+40337,Jeffersonville,Kentucky ,MONTGOMERY,21,173,KY 
+40342,Lawrenceburg,Kentucky ,ANDERSON,21,005,KY 
+40347,Midway,Kentucky ,WOODFORD,21,239,KY 
+40346,Means,Kentucky ,MENIFEE,21,165,KY 
+40334,Hope,Kentucky ,BATH,21,011,KY 
+40355,New Liberty,Kentucky ,OWEN,21,187,KY 
+40351,Morehead,Kentucky ,ROWAN,21,205,KY 
+40350,Moorefield,Kentucky ,NICHOLAS,21,181,KY 
+40348,Millersburg,Kentucky ,BOURBON,21,017,KY 
+40353,Mount Sterling,Kentucky ,MONTGOMERY,21,173,KY 
+40356,Nicholasville,Kentucky ,JESSAMINE,21,113,KY 
+40357,North Middletown,Kentucky ,BOURBON,21,017,KY 
+40360,Owingsville,Kentucky ,BATH,21,011,KY 
+40359,Owenton,Kentucky ,OWEN,21,187,KY 
+40358,Olympia,Kentucky ,BATH,21,011,KY 
+40362,Paris,Kentucky ,BOURBON,21,017,KY 
+40361,Paris,Kentucky ,BOURBON,21,017,KY 
+40363,Perry Park,Kentucky ,OWEN,21,187,KY 
+40371,Salt Lick,Kentucky ,BATH,21,011,KY 
+40370,Sadieville,Kentucky ,SCOTT,21,209,KY 
+40372,Salvisa,Kentucky ,MERCER,21,167,KY 
+40374,Sharpsburg,Kentucky ,BATH,21,011,KY 
+40379,Stamping Ground,Kentucky ,SCOTT,21,209,KY 
+40376,Slade,Kentucky ,POWELL,21,197,KY 
+40384,Versailles,Kentucky ,WOODFORD,21,239,KY 
+40383,Versailles,Kentucky ,WOODFORD,21,239,KY 
+40385,Waco,Kentucky ,MADISON,21,151,KY 
+40380,Stanton,Kentucky ,POWELL,21,197,KY 
+40387,Wellington,Kentucky ,MENIFEE,21,165,KY 
+40390,Wilmore,Kentucky ,JESSAMINE,21,113,KY 
+40392,Winchester,Kentucky ,CLARK,21,049,KY 
+40403,Berea,Kentucky ,MADISON,21,151,KY 
+40402,Annville,Kentucky ,JACKSON,21,109,KY 
+40404,Berea,Kentucky ,MADISON,21,151,KY 
+40391,Winchester,Kentucky ,CLARK,21,049,KY 
+40405,Bighill,Kentucky ,MADISON,21,151,KY 
+40409,Brodhead,Kentucky ,ROCKCASTLE,21,203,KY 
+40410,Bryantsville,Kentucky ,GARRARD,21,079,KY 
+40440,Junction City,Kentucky ,BOYLE,21,021,KY 
+40419,Crab Orchard,Kentucky ,LINCOLN,21,137,KY 
+40437,Hustonville,Kentucky ,LINCOLN,21,137,KY 
+40423,Danville,Kentucky ,BOYLE,21,021,KY 
+40434,Gray Hawk,Kentucky ,JACKSON,21,109,KY 
+40422,Danville,Kentucky ,BOYLE,21,021,KY 
+40442,Kings Mountain,Kentucky ,LINCOLN,21,137,KY 
+40444,Lancaster,Kentucky ,GARRARD,21,079,KY 
+40445,Livingston,Kentucky ,ROCKCASTLE,21,203,KY 
+40448,Mc Kinney,Kentucky ,LINCOLN,21,137,KY 
+40456,Mount Vernon,Kentucky ,ROCKCASTLE,21,203,KY 
+40460,Orlando,Kentucky ,ROCKCASTLE,21,203,KY 
+40447,Mc Kee,Kentucky ,JACKSON,21,109,KY 
+40452,Mitchellsburg,Kentucky ,BOYLE,21,021,KY 
+40461,Paint Lick,Kentucky ,GARRARD,21,079,KY 
+40464,Parksville,Kentucky ,BOYLE,21,021,KY 
+40472,Ravenna,Kentucky ,ESTILL,21,065,KY 
+40468,Perryville,Kentucky ,BOYLE,21,021,KY 
+40473,Renfro Valley,Kentucky ,ROCKCASTLE,21,203,KY 
+40476,Richmond,Kentucky ,MADISON,21,151,KY 
+40475,Richmond,Kentucky ,MADISON,21,151,KY 
+40484,Stanford,Kentucky ,LINCOLN,21,137,KY 
+40481,Sandgap,Kentucky ,JACKSON,21,109,KY 
+40489,Waynesburg,Kentucky ,LINCOLN,21,137,KY 
+40492,Wildie,Kentucky ,ROCKCASTLE,21,203,KY 
+40488,Waneta,Kentucky ,JACKSON,21,109,KY 
+40486,Tyner,Kentucky ,JACKSON,21,109,KY 
+40503,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40505,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40502,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40504,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40507,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40506,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40509,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40508,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40511,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40512,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40513,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40510,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40516,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40517,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40515,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40514,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40524,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40526,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40522,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40523,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40544,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40533,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40536,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40546,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40550,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40555,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40574,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40575,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40576,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40577,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40579,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40578,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40580,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40581,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40582,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40583,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40588,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40591,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40601,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40598,Lexington,Kentucky ,FAYETTE,21,067,KY 
+40602,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40603,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40618,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40604,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40620,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40619,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40621,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40622,Frankfort,Kentucky ,FRANKLIN,21,073,KY 
+40701,Corbin,Kentucky ,WHITLEY,21,235,KY 
+40702,Corbin,Kentucky ,WHITLEY,21,235,KY 
+40729,East Bernstadt,Kentucky ,LAUREL,21,125,KY 
+40724,Bush,Kentucky ,LAUREL,21,125,KY 
+40740,Lily,Kentucky ,LAUREL,21,125,KY 
+40737,Keavy,Kentucky ,LAUREL,21,125,KY 
+40734,Gray,Kentucky ,KNOX,21,121,KY 
+40730,Emlyn,Kentucky ,WHITLEY,21,235,KY 
+40741,London,Kentucky ,LAUREL,21,125,KY 
+40742,London,Kentucky ,LAUREL,21,125,KY 
+40743,London,Kentucky ,LAUREL,21,125,KY 
+40744,London,Kentucky ,LAUREL,21,125,KY 
+40745,London,Kentucky ,LAUREL,21,125,KY 
+40750,London,Kentucky ,LAUREL,21,125,KY 
+40759,Rockholds,Kentucky ,WHITLEY,21,235,KY 
+40755,Pittsburg,Kentucky ,LAUREL,21,125,KY 
+40769,Williamsburg,Kentucky ,WHITLEY,21,235,KY 
+40763,Siler,Kentucky ,WHITLEY,21,235,KY 
+40801,Ages Brookside,Kentucky ,HARLAN,21,095,KY 
+40771,Woodbine,Kentucky ,KNOX,21,121,KY 
+40803,Asher,Kentucky ,LESLIE,21,131,KY 
+40806,Baxter,Kentucky ,HARLAN,21,095,KY 
+40807,Benham,Kentucky ,HARLAN,21,095,KY 
+40810,Bledsoe,Kentucky ,HARLAN,21,095,KY 
+40808,Big Laurel,Kentucky ,HARLAN,21,095,KY 
+40813,Calvin,Kentucky ,BELL,21,013,KY 
+40815,Cawood,Kentucky ,HARLAN,21,095,KY 
+40816,Chappell,Kentucky ,LESLIE,21,131,KY 
+40819,Coldiron,Kentucky ,HARLAN,21,095,KY 
+40818,Coalgood,Kentucky ,HARLAN,21,095,KY 
+40820,Cranks,Kentucky ,HARLAN,21,095,KY 
+40826,Eolia,Kentucky ,LETCHER,21,133,KY 
+40823,Cumberland,Kentucky ,HARLAN,21,095,KY 
+40824,Dayhoit,Kentucky ,HARLAN,21,095,KY 
+40827,Essie,Kentucky ,LESLIE,21,131,KY 
+40828,Evarts,Kentucky ,HARLAN,21,095,KY 
+40830,Gulston,Kentucky ,HARLAN,21,095,KY 
+40831,Harlan,Kentucky ,HARLAN,21,095,KY 
+40840,Helton,Kentucky ,LESLIE,21,131,KY 
+40844,Hoskinston,Kentucky ,LESLIE,21,131,KY 
+40845,Hulen,Kentucky ,BELL,21,013,KY 
+40847,Kenvir,Kentucky ,HARLAN,21,095,KY 
+40843,Holmes Mill,Kentucky ,HARLAN,21,095,KY 
+40829,Grays Knob,Kentucky ,HARLAN,21,095,KY 
+40849,Lejunior,Kentucky ,HARLAN,21,095,KY 
+40854,Loyall,Kentucky ,HARLAN,21,095,KY 
+40862,Partridge,Kentucky ,LETCHER,21,133,KY 
+40863,Pathfork,Kentucky ,HARLAN,21,095,KY 
+40858,Mozelle,Kentucky ,LESLIE,21,131,KY 
+40856,Miracle,Kentucky ,BELL,21,013,KY 
+40855,Lynch,Kentucky ,HARLAN,21,095,KY 
+40865,Putney,Kentucky ,HARLAN,21,095,KY 
+40870,Totz,Kentucky ,HARLAN,21,095,KY 
+40868,Stinnett,Kentucky ,LESLIE,21,131,KY 
+40873,Wallins Creek,Kentucky ,HARLAN,21,095,KY 
+40874,Warbranch,Kentucky ,LESLIE,21,131,KY 
+40902,Arjay,Kentucky ,BELL,21,013,KY 
+40906,Barbourville,Kentucky ,KNOX,21,121,KY 
+40903,Artemus,Kentucky ,KNOX,21,121,KY 
+40914,Big Creek,Kentucky ,CLAY,21,051,KY 
+40915,Bimble,Kentucky ,KNOX,21,121,KY 
+40913,Beverly,Kentucky ,BELL,21,013,KY 
+40921,Bryants Store,Kentucky ,KNOX,21,121,KY 
+40927,Closplint,Kentucky ,HARLAN,21,095,KY 
+40930,Dewitt,Kentucky ,KNOX,21,121,KY 
+40923,Cannon,Kentucky ,KNOX,21,121,KY 
+40940,Frakes,Kentucky ,BELL,21,013,KY 
+40932,Fall Rock,Kentucky ,CLAY,21,051,KY 
+40939,Fourmile,Kentucky ,BELL,21,013,KY 
+40935,Flat Lick,Kentucky ,KNOX,21,121,KY 
+40941,Garrard,Kentucky ,CLAY,21,051,KY 
+40946,Green Road,Kentucky ,KNOX,21,121,KY 
+40949,Heidrick,Kentucky ,KNOX,21,121,KY 
+40955,Ingram,Kentucky ,BELL,21,013,KY 
+40951,Hima,Kentucky ,CLAY,21,051,KY 
+40953,Hinkle,Kentucky ,KNOX,21,121,KY 
+40958,Kettle Island,Kentucky ,BELL,21,013,KY 
+40943,Girdler,Kentucky ,KNOX,21,121,KY 
+40944,Goose Rock,Kentucky ,CLAY,21,051,KY 
+40962,Manchester,Kentucky ,CLAY,21,051,KY 
+40965,Middlesboro,Kentucky ,BELL,21,013,KY 
+40977,Pineville,Kentucky ,BELL,21,013,KY 
+40964,Mary Alice,Kentucky ,HARLAN,21,095,KY 
+40972,Oneida,Kentucky ,CLAY,21,051,KY 
+40979,Roark,Kentucky ,LESLIE,21,131,KY 
+40982,Scalf,Kentucky ,KNOX,21,121,KY 
+40981,Saul,Kentucky ,PERRY,21,193,KY 
+40983,Sextons Creek,Kentucky ,CLAY,21,051,KY 
+40997,Walker,Kentucky ,KNOX,21,121,KY 
+40988,Stoney Fork,Kentucky ,BELL,21,013,KY 
+41001,Alexandria,Kentucky ,CAMPBELL,21,037,KY 
+41002,Augusta,Kentucky ,BRACKEN,21,023,KY 
+40995,Trosper,Kentucky ,KNOX,21,121,KY 
+41003,Berry,Kentucky ,HARRISON,21,097,KY 
+41004,Brooksville,Kentucky ,BRACKEN,21,023,KY 
+41005,Burlington,Kentucky ,BOONE,21,015,KY 
+41006,Butler,Kentucky ,PENDLETON,21,191,KY 
+41011,Covington,Kentucky ,KENTON,21,117,KY 
+41008,Carrollton,Kentucky ,CARROLL,21,041,KY 
+41007,California,Kentucky ,CAMPBELL,21,037,KY 
+41010,Corinth,Kentucky ,GRANT,21,081,KY 
+41012,Covington,Kentucky ,KENTON,21,117,KY 
+41014,Covington,Kentucky ,KENTON,21,117,KY 
+41015,Latonia,Kentucky ,KENTON,21,117,KY 
+41016,Covington,Kentucky ,KENTON,21,117,KY 
+41017,Ft Mitchell,Kentucky ,KENTON,21,117,KY 
+41021,Hebron,Kentucky ,BOONE,21,015,KY 
+41018,Erlanger,Kentucky ,KENTON,21,117,KY 
+41022,Florence,Kentucky ,BOONE,21,015,KY 
+41019,Covington,Kentucky ,KENTON,21,117,KY 
+41030,Crittenden,Kentucky ,GRANT,21,081,KY 
+41025,Erlanger,Kentucky ,KENTON,21,117,KY 
+41031,Cynthiana,Kentucky ,HARRISON,21,097,KY 
+41033,De Mossville,Kentucky ,PENDLETON,21,191,KY 
+41035,Dry Ridge,Kentucky ,GRANT,21,081,KY 
+41034,Dover,Kentucky ,MASON,21,161,KY 
+41039,Ewing,Kentucky ,FLEMING,21,069,KY 
+41041,Flemingsburg,Kentucky ,FLEMING,21,069,KY 
+41037,Elizaville,Kentucky ,FLEMING,21,069,KY 
+41040,Falmouth,Kentucky ,PENDLETON,21,191,KY 
+41051,Independence,Kentucky ,KENTON,21,117,KY 
+41043,Foster,Kentucky ,BRACKEN,21,023,KY 
+41045,Ghent,Kentucky ,CARROLL,21,041,KY 
+41048,Hebron,Kentucky ,BOONE,21,015,KY 
+41044,Germantown,Kentucky ,BRACKEN,21,023,KY 
+41049,Hillsboro,Kentucky ,FLEMING,21,069,KY 
+41046,Glencoe,Kentucky ,GALLATIN,21,077,KY 
+41042,Florence,Kentucky ,BOONE,21,015,KY 
+41052,Jonesville,Kentucky ,GRANT,21,081,KY 
+41054,Mason,Kentucky ,GRANT,21,081,KY 
+41053,Kenton,Kentucky ,KENTON,21,117,KY 
+41059,Melbourne,Kentucky ,CAMPBELL,21,037,KY 
+41062,Minerva,Kentucky ,MASON,21,161,KY 
+41056,Maysville,Kentucky ,MASON,21,161,KY 
+41061,Milford,Kentucky ,BRACKEN,21,023,KY 
+41055,Mayslick,Kentucky ,MASON,21,161,KY 
+41064,Mount Olivet,Kentucky ,ROBERTSON,21,201,KY 
+41072,Newport,Kentucky ,CAMPBELL,21,037,KY 
+41074,Dayton,Kentucky ,CAMPBELL,21,037,KY 
+41075,Fort Thomas,Kentucky ,CAMPBELL,21,037,KY 
+41073,Bellevue,Kentucky ,CAMPBELL,21,037,KY 
+41071,Newport,Kentucky ,CAMPBELL,21,037,KY 
+41076,Newport,Kentucky ,CAMPBELL,21,037,KY 
+41063,Morning View,Kentucky ,KENTON,21,117,KY 
+41080,Petersburg,Kentucky ,BOONE,21,015,KY 
+41085,Silver Grove,Kentucky ,CAMPBELL,21,037,KY 
+41083,Sanders,Kentucky ,CARROLL,21,041,KY 
+41091,Union,Kentucky ,BOONE,21,015,KY 
+41092,Verona,Kentucky ,BOONE,21,015,KY 
+41086,Sparta,Kentucky ,GALLATIN,21,077,KY 
+41094,Walton,Kentucky ,BOONE,21,015,KY 
+41081,Plummers Landing,Kentucky ,FLEMING,21,069,KY 
+41093,Wallingford,Kentucky ,FLEMING,21,069,KY 
+41095,Warsaw,Kentucky ,GALLATIN,21,077,KY 
+41096,Washington,Kentucky ,MASON,21,161,KY 
+41098,Worthville,Kentucky ,CARROLL,21,041,KY 
+41099,Newport,Kentucky ,CAMPBELL,21,037,KY 
+41097,Williamstown,Kentucky ,GRANT,21,081,KY 
+41101,Ashland,Kentucky ,BOYD,21,019,KY 
+41102,Ashland,Kentucky ,BOYD,21,019,KY 
+41105,Ashland,Kentucky ,BOYD,21,019,KY 
+41114,Ashland,Kentucky ,BOYD,21,019,KY 
+41121,Argillite,Kentucky ,GREENUP,21,089,KY 
+41124,Blaine,Kentucky ,LAWRENCE,21,127,KY 
+41129,Catlettsburg,Kentucky ,BOYD,21,019,KY 
+41128,Carter,Kentucky ,CARTER,21,043,KY 
+41132,Denton,Kentucky ,CARTER,21,043,KY 
+41135,Emerson,Kentucky ,LEWIS,21,135,KY 
+41139,Flatwoods,Kentucky ,GREENUP,21,089,KY 
+41141,Garrison,Kentucky ,LEWIS,21,135,KY 
+41142,Grahn,Kentucky ,CARTER,21,043,KY 
+41143,Grayson,Kentucky ,CARTER,21,043,KY 
+41149,Isonville,Kentucky ,ELLIOTT,21,063,KY 
+41146,Hitchins,Kentucky ,CARTER,21,043,KY 
+41144,Greenup,Kentucky ,GREENUP,21,089,KY 
+41159,Martha,Kentucky ,LAWRENCE,21,127,KY 
+41160,Mazie,Kentucky ,LAWRENCE,21,127,KY 
+41164,Olive Hill,Kentucky ,CARTER,21,043,KY 
+41166,Quincy,Kentucky ,LEWIS,21,135,KY 
+41174,South Portsmouth,Kentucky ,GREENUP,21,089,KY 
+41175,South Shore,Kentucky ,GREENUP,21,089,KY 
+41171,Sandy Hook,Kentucky ,ELLIOTT,21,063,KY 
+41173,Soldier,Kentucky ,CARTER,21,043,KY 
+41179,Vanceburg,Kentucky ,LEWIS,21,135,KY 
+41168,Rush,Kentucky ,BOYD,21,019,KY 
+41169,Russell,Kentucky ,GREENUP,21,089,KY 
+41183,Worthington,Kentucky ,GREENUP,21,089,KY 
+41201,Adams,Kentucky ,LAWRENCE,21,127,KY 
+41203,Beauty,Kentucky ,MARTIN,21,159,KY 
+41181,Willard,Kentucky ,CARTER,21,043,KY 
+41189,Tollesboro,Kentucky ,LEWIS,21,135,KY 
+41180,Webbville,Kentucky ,LAWRENCE,21,127,KY 
+41214,Debord,Kentucky ,MARTIN,21,159,KY 
+41204,Boons Camp,Kentucky ,JOHNSON,21,115,KY 
+41216,East Point,Kentucky ,JOHNSON,21,115,KY 
+41231,Lovely,Kentucky ,MARTIN,21,159,KY 
+41222,Hagerhill,Kentucky ,JOHNSON,21,115,KY 
+41224,Inez,Kentucky ,MARTIN,21,159,KY 
+41219,Flatgap,Kentucky ,JOHNSON,21,115,KY 
+41230,Louisa,Kentucky ,LAWRENCE,21,127,KY 
+41232,Lowmansville,Kentucky ,LAWRENCE,21,127,KY 
+41226,Keaton,Kentucky ,JOHNSON,21,115,KY 
+41234,Meally,Kentucky ,JOHNSON,21,115,KY 
+41238,Oil Springs,Kentucky ,JOHNSON,21,115,KY 
+41257,Stambaugh,Kentucky ,JOHNSON,21,115,KY 
+41254,River,Kentucky ,JOHNSON,21,115,KY 
+41250,Pilgrim,Kentucky ,MARTIN,21,159,KY 
+41255,Sitka,Kentucky ,JOHNSON,21,115,KY 
+41240,Paintsville,Kentucky ,JOHNSON,21,115,KY 
+41256,Staffordsville,Kentucky ,JOHNSON,21,115,KY 
+41260,Thelma,Kentucky ,JOHNSON,21,115,KY 
+41262,Tomahawk,Kentucky ,MARTIN,21,159,KY 
+41263,Tutor Key,Kentucky ,JOHNSON,21,115,KY 
+41264,Ulysses,Kentucky ,LAWRENCE,21,127,KY 
+41267,Warfield,Kentucky ,MARTIN,21,159,KY 
+41265,Van Lear,Kentucky ,JOHNSON,21,115,KY 
+41268,West Van Lear,Kentucky ,JOHNSON,21,115,KY 
+41271,Williamsport,Kentucky ,JOHNSON,21,115,KY 
+41274,Wittensville,Kentucky ,JOHNSON,21,115,KY 
+41301,Campton,Kentucky ,WOLFE,21,237,KY 
+41310,Bays,Kentucky ,BREATHITT,21,025,KY 
+41311,Beattyville,Kentucky ,LEE,21,129,KY 
+41348,Lost Creek,Kentucky ,BREATHITT,21,025,KY 
+41347,Lone,Kentucky ,LEE,21,129,KY 
+41339,Jackson,Kentucky ,BREATHITT,21,025,KY 
+41332,Hazel Green,Kentucky ,WOLFE,21,237,KY 
+41314,Booneville,Kentucky ,OWSLEY,21,189,KY 
+41351,Mistletoe,Kentucky ,OWSLEY,21,189,KY 
+41352,Mize,Kentucky ,MORGAN,21,175,KY 
+41360,Pine Ridge,Kentucky ,WOLFE,21,237,KY 
+41317,Clayhole,Kentucky ,BREATHITT,21,025,KY 
+41367,Rowdy,Kentucky ,PERRY,21,193,KY 
+41364,Ricetown,Kentucky ,OWSLEY,21,189,KY 
+41366,Rousseau,Kentucky ,BREATHITT,21,025,KY 
+41365,Rogers,Kentucky ,WOLFE,21,237,KY 
+41368,Saint Helens,Kentucky ,LEE,21,129,KY 
+41385,Vancleve,Kentucky ,BREATHITT,21,025,KY 
+41421,Elkfork,Kentucky ,MORGAN,21,175,KY 
+41390,Whick,Kentucky ,BREATHITT,21,025,KY 
+41413,Crockett,Kentucky ,MORGAN,21,175,KY 
+41408,Cannel City,Kentucky ,MORGAN,21,175,KY 
+41397,Zoe,Kentucky ,LEE,21,129,KY 
+41386,Vincent,Kentucky ,OWSLEY,21,189,KY 
+41451,Malone,Kentucky ,MORGAN,21,175,KY 
+41425,Ezel,Kentucky ,MORGAN,21,175,KY 
+41501,Pikeville,Kentucky ,PIKE,21,195,KY 
+41464,Royalton,Kentucky ,MAGOFFIN,21,153,KY 
+41465,Salyersville,Kentucky ,MAGOFFIN,21,153,KY 
+41426,Falcon,Kentucky ,MAGOFFIN,21,153,KY 
+41477,Wrigley,Kentucky ,MORGAN,21,175,KY 
+41472,West Liberty,Kentucky ,MORGAN,21,175,KY 
+41502,Pikeville,Kentucky ,PIKE,21,195,KY 
+41514,Belfry,Kentucky ,PIKE,21,195,KY 
+41503,South Williamson,Kentucky ,PIKE,21,195,KY 
+41513,Belcher,Kentucky ,PIKE,21,195,KY 
+41512,Ashcamp,Kentucky ,PIKE,21,195,KY 
+41520,Dorton,Kentucky ,PIKE,21,195,KY 
+41517,Burdine,Kentucky ,LETCHER,21,133,KY 
+41519,Canada,Kentucky ,PIKE,21,195,KY 
+41522,Elkhorn City,Kentucky ,PIKE,21,195,KY 
+41524,Fedscreek,Kentucky ,PIKE,21,195,KY 
+41526,Fords Branch,Kentucky ,PIKE,21,195,KY 
+41531,Hardy,Kentucky ,PIKE,21,195,KY 
+41527,Forest Hills,Kentucky ,PIKE,21,195,KY 
+41535,Huddy,Kentucky ,PIKE,21,195,KY 
+41528,Freeburn,Kentucky ,PIKE,21,195,KY 
+41534,Hellier,Kentucky ,PIKE,21,195,KY 
+41537,Jenkins,Kentucky ,LETCHER,21,133,KY 
+41538,Jonancy,Kentucky ,PIKE,21,195,KY 
+41539,Kimper,Kentucky ,PIKE,21,195,KY 
+41542,Lookout,Kentucky ,PIKE,21,195,KY 
+41544,Mc Carr,Kentucky ,PIKE,21,195,KY 
+41543,Mc Andrews,Kentucky ,PIKE,21,195,KY 
+41547,Majestic,Kentucky ,PIKE,21,195,KY 
+41540,Lick Creek,Kentucky ,PIKE,21,195,KY 
+41548,Mouthcard,Kentucky ,PIKE,21,195,KY 
+41549,Myra,Kentucky ,PIKE,21,195,KY 
+41553,Phelps,Kentucky ,PIKE,21,195,KY 
+41560,Robinson Creek,Kentucky ,PIKE,21,195,KY 
+41555,Pinsonfork,Kentucky ,PIKE,21,195,KY 
+41558,Ransom,Kentucky ,PIKE,21,195,KY 
+41559,Regina,Kentucky ,PIKE,21,195,KY 
+41554,Phyllis,Kentucky ,PIKE,21,195,KY 
+41557,Raccoon,Kentucky ,PIKE,21,195,KY 
+41561,Rockhouse,Kentucky ,PIKE,21,195,KY 
+41562,Shelbiana,Kentucky ,PIKE,21,195,KY 
+41563,Shelby Gap,Kentucky ,PIKE,21,195,KY 
+41566,Steele,Kentucky ,PIKE,21,195,KY 
+41567,Stone,Kentucky ,PIKE,21,195,KY 
+41571,Varney,Kentucky ,PIKE,21,195,KY 
+41564,Sidney,Kentucky ,PIKE,21,195,KY 
+41568,Stopover,Kentucky ,PIKE,21,195,KY 
+41601,Allen,Kentucky ,FLOYD,21,071,KY 
+41572,Virgie,Kentucky ,PIKE,21,195,KY 
+41602,Auxier,Kentucky ,FLOYD,21,071,KY 
+41606,Bevinsville,Kentucky ,FLOYD,21,071,KY 
+41605,Betsy Layne,Kentucky ,FLOYD,21,071,KY 
+41603,Banner,Kentucky ,FLOYD,21,071,KY 
+41604,Beaver,Kentucky ,FLOYD,21,071,KY 
+41607,Blue River,Kentucky ,FLOYD,21,071,KY 
+41612,Bypro,Kentucky ,FLOYD,21,071,KY 
+41615,Dana,Kentucky ,FLOYD,21,071,KY 
+41616,David,Kentucky ,FLOYD,21,071,KY 
+41621,Dwale,Kentucky ,FLOYD,21,071,KY 
+41630,Garrett,Kentucky ,FLOYD,21,071,KY 
+41622,Eastern,Kentucky ,FLOYD,21,071,KY 
+41619,Drift,Kentucky ,FLOYD,21,071,KY 
+41632,Gunlock,Kentucky ,MAGOFFIN,21,153,KY 
+41631,Grethel,Kentucky ,FLOYD,21,071,KY 
+41636,Hi Hat,Kentucky ,FLOYD,21,071,KY 
+41642,Ivel,Kentucky ,FLOYD,21,071,KY 
+41640,Hueysville,Kentucky ,FLOYD,21,071,KY 
+41635,Harold,Kentucky ,FLOYD,21,071,KY 
+41643,Lackey,Kentucky ,FLOYD,21,071,KY 
+41650,Melvin,Kentucky ,FLOYD,21,071,KY 
+41647,Mc Dowell,Kentucky ,FLOYD,21,071,KY 
+41649,Martin,Kentucky ,FLOYD,21,071,KY 
+41653,Prestonsburg,Kentucky ,FLOYD,21,071,KY 
+41645,Langley,Kentucky ,FLOYD,21,071,KY 
+41651,Minnie,Kentucky ,FLOYD,21,071,KY 
+41655,Printer,Kentucky ,FLOYD,21,071,KY 
+41659,Stanville,Kentucky ,FLOYD,21,071,KY 
+41660,Teaberry,Kentucky ,FLOYD,21,071,KY 
+41663,Tram,Kentucky ,FLOYD,21,071,KY 
+41666,Wayland,Kentucky ,FLOYD,21,071,KY 
+41669,Wheelwright,Kentucky ,FLOYD,21,071,KY 
+41667,Weeksbury,Kentucky ,FLOYD,21,071,KY 
+41701,Hazard,Kentucky ,PERRY,21,193,KY 
+41702,Hazard,Kentucky ,PERRY,21,193,KY 
+41714,Bear Branch,Kentucky ,LESLIE,21,131,KY 
+41712,Ary,Kentucky ,PERRY,21,193,KY 
+41713,Avawam,Kentucky ,PERRY,21,193,KY 
+41719,Bonnyman,Kentucky ,PERRY,21,193,KY 
+41722,Bulan,Kentucky ,PERRY,21,193,KY 
+41721,Buckhorn,Kentucky ,PERRY,21,193,KY 
+41723,Busy,Kentucky ,PERRY,21,193,KY 
+41725,Carrie,Kentucky ,KNOTT,21,119,KY 
+41727,Chavies,Kentucky ,PERRY,21,193,KY 
+41729,Combs,Kentucky ,PERRY,21,193,KY 
+41731,Cornettsville,Kentucky ,PERRY,21,193,KY 
+41736,Dice,Kentucky ,PERRY,21,193,KY 
+41735,Delphia,Kentucky ,PERRY,21,193,KY 
+41739,Dwarf,Kentucky ,PERRY,21,193,KY 
+41740,Emmalena,Kentucky ,KNOTT,21,119,KY 
+41743,Fisty,Kentucky ,KNOTT,21,119,KY 
+41749,Hyden,Kentucky ,LESLIE,21,131,KY 
+41746,Happy,Kentucky ,PERRY,21,193,KY 
+41745,Gays Creek,Kentucky ,PERRY,21,193,KY 
+41760,Scuddy,Kentucky ,PERRY,21,193,KY 
+41759,Sassafras,Kentucky ,KNOTT,21,119,KY 
+41754,Krypton,Kentucky ,PERRY,21,193,KY 
+41751,Jeff,Kentucky ,PERRY,21,193,KY 
+41762,Sizerock,Kentucky ,LESLIE,21,131,KY 
+41763,Slemp,Kentucky ,PERRY,21,193,KY 
+41766,Thousandsticks,Kentucky ,LESLIE,21,131,KY 
+41764,Smilax,Kentucky ,LESLIE,21,131,KY 
+41773,Vicco,Kentucky ,PERRY,21,193,KY 
+41775,Wendover,Kentucky ,LESLIE,21,131,KY 
+41772,Vest,Kentucky ,KNOTT,21,119,KY 
+41774,Viper,Kentucky ,PERRY,21,193,KY 
+41778,Yerkes,Kentucky ,PERRY,21,193,KY 
+41776,Wooton,Kentucky ,LESLIE,21,131,KY 
+41777,Yeaddiss,Kentucky ,LESLIE,21,131,KY 
+41804,Blackey,Kentucky ,LETCHER,21,133,KY 
+41812,Deane,Kentucky ,LETCHER,21,133,KY 
+41810,Cromona,Kentucky ,LETCHER,21,133,KY 
+41815,Ermine,Kentucky ,LETCHER,21,133,KY 
+41817,Garner,Kentucky ,KNOTT,21,119,KY 
+41824,Isom,Kentucky ,LETCHER,21,133,KY 
+41821,Hallie,Kentucky ,LETCHER,21,133,KY 
+41822,Hindman,Kentucky ,KNOTT,21,119,KY 
+41819,Gordon,Kentucky ,LETCHER,21,133,KY 
+41826,Jeremiah,Kentucky ,LETCHER,21,133,KY 
+41825,Jackhorn,Kentucky ,LETCHER,21,133,KY 
+41831,Leburn,Kentucky ,KNOTT,21,119,KY 
+41828,Kite,Kentucky ,KNOTT,21,119,KY 
+41832,Letcher,Kentucky ,LETCHER,21,133,KY 
+41835,Mc Roberts,Kentucky ,LETCHER,21,133,KY 
+41834,Littcarr,Kentucky ,KNOTT,21,119,KY 
+41833,Linefork,Kentucky ,LETCHER,21,133,KY 
+41838,Millstone,Kentucky ,LETCHER,21,133,KY 
+41837,Mayking,Kentucky ,LETCHER,21,133,KY 
+41836,Mallie,Kentucky ,KNOTT,21,119,KY 
+41839,Mousie,Kentucky ,KNOTT,21,119,KY 
+41840,Neon,Kentucky ,LETCHER,21,133,KY 
+41843,Pine Top,Kentucky ,KNOTT,21,119,KY 
+41844,Pippa Passes,Kentucky ,KNOTT,21,119,KY 
+41845,Premium,Kentucky ,LETCHER,21,133,KY 
+41848,Roxana,Kentucky ,LETCHER,21,133,KY 
+41847,Redfox,Kentucky ,KNOTT,21,119,KY 
+41849,Seco,Kentucky ,LETCHER,21,133,KY 
+41855,Thornton,Kentucky ,LETCHER,21,133,KY 
+41858,Whitesburg,Kentucky ,LETCHER,21,133,KY 
+41862,Topmost,Kentucky ,KNOTT,21,119,KY 
+41859,Dema,Kentucky ,KNOTT,21,119,KY 
+41861,Raven,Kentucky ,KNOTT,21,119,KY 
+42020,Almo,Kentucky ,CALLOWAY,21,035,KY 
+42021,Arlington,Kentucky ,CARLISLE,21,039,KY 
+42003,Paducah,Kentucky ,MCCRACKEN,21,145,KY 
+42001,Paducah,Kentucky ,MCCRACKEN,21,145,KY 
+42002,Paducah,Kentucky ,MCCRACKEN,21,145,KY 
+42023,Bardwell,Kentucky ,CARLISLE,21,039,KY 
+42022,Bandana,Kentucky ,BALLARD,21,007,KY 
+42024,Barlow,Kentucky ,BALLARD,21,007,KY 
+42029,Calvert City,Kentucky ,MARSHALL,21,157,KY 
+42028,Burna,Kentucky ,LIVINGSTON,21,139,KY 
+42027,Boaz,Kentucky ,GRAVES,21,083,KY 
+42031,Clinton,Kentucky ,HICKMAN,21,105,KY 
+42025,Benton,Kentucky ,MARSHALL,21,157,KY 
+42033,Crayne,Kentucky ,CRITTENDEN,21,055,KY 
+42032,Columbus,Kentucky ,HICKMAN,21,105,KY 
+42035,Cunningham,Kentucky ,CARLISLE,21,039,KY 
+42036,Dexter,Kentucky ,CALLOWAY,21,035,KY 
+42039,Fancy Farm,Kentucky ,GRAVES,21,083,KY 
+42040,Farmington,Kentucky ,GRAVES,21,083,KY 
+42037,Dycusburg,Kentucky ,CRITTENDEN,21,055,KY 
+42045,Grand Rivers,Kentucky ,LIVINGSTON,21,139,KY 
+42044,Gilbertsville,Kentucky ,MARSHALL,21,157,KY 
+42038,Eddyville,Kentucky ,LYON,21,143,KY 
+42041,Fulton,Kentucky ,FULTON,21,075,KY 
+42049,Hazel,Kentucky ,CALLOWAY,21,035,KY 
+42048,Hardin,Kentucky ,MARSHALL,21,157,KY 
+42047,Hampton,Kentucky ,LIVINGSTON,21,139,KY 
+42051,Hickory,Kentucky ,GRAVES,21,083,KY 
+42055,Kuttawa,Kentucky ,LYON,21,143,KY 
+42054,Kirksey,Kentucky ,CALLOWAY,21,035,KY 
+42050,Hickman,Kentucky ,FULTON,21,075,KY 
+42053,Kevil,Kentucky ,MCCRACKEN,21,145,KY 
+42056,La Center,Kentucky ,BALLARD,21,007,KY 
+42058,Ledbetter,Kentucky ,LIVINGSTON,21,139,KY 
+42064,Marion,Kentucky ,CRITTENDEN,21,055,KY 
+42069,Melber,Kentucky ,GRAVES,21,083,KY 
+42063,Lynnville,Kentucky ,GRAVES,21,083,KY 
+42066,Mayfield,Kentucky ,GRAVES,21,083,KY 
+42061,Lowes,Kentucky ,GRAVES,21,083,KY 
+42060,Lovelaceville,Kentucky ,BALLARD,21,007,KY 
+42070,Milburn,Kentucky ,CARLISLE,21,039,KY 
+42071,Murray,Kentucky ,CALLOWAY,21,035,KY 
+42076,New Concord,Kentucky ,CALLOWAY,21,035,KY 
+42079,Sedalia,Kentucky ,GRAVES,21,083,KY 
+42081,Smithland,Kentucky ,LIVINGSTON,21,139,KY 
+42082,Symsonia,Kentucky ,GRAVES,21,083,KY 
+42083,Tiline,Kentucky ,LIVINGSTON,21,139,KY 
+42078,Salem,Kentucky ,LIVINGSTON,21,139,KY 
+42085,Water Valley,Kentucky ,GRAVES,21,083,KY 
+42086,West Paducah,Kentucky ,MCCRACKEN,21,145,KY 
+42088,Wingo,Kentucky ,GRAVES,21,083,KY 
+42087,Wickliffe,Kentucky ,BALLARD,21,007,KY 
+42101,Bowling Green,Kentucky ,WARREN,21,227,KY 
+42102,Bowling Green,Kentucky ,WARREN,21,227,KY 
+42103,Bowling Green,Kentucky ,WARREN,21,227,KY 
+42104,Bowling Green,Kentucky ,WARREN,21,227,KY 
+42120,Adolphus,Kentucky ,ALLEN,21,003,KY 
+42122,Alvaton,Kentucky ,WARREN,21,227,KY 
+42124,Beaumont,Kentucky ,METCALFE,21,169,KY 
+42127,Cave City,Kentucky ,BARREN,21,009,KY 
+42123,Austin,Kentucky ,BARREN,21,009,KY 
+42130,Eighty Eight,Kentucky ,BARREN,21,009,KY 
+42128,Bowling Green,Kentucky ,WARREN,21,227,KY 
+42129,Edmonton,Kentucky ,METCALFE,21,169,KY 
+42131,Etoile,Kentucky ,BARREN,21,009,KY 
+42133,Fountain Run,Kentucky ,MONROE,21,171,KY 
+42135,Franklin,Kentucky ,SIMPSON,21,213,KY 
+42134,Franklin,Kentucky ,SIMPSON,21,213,KY 
+42152,Hiseville,Kentucky ,BARREN,21,009,KY 
+42141,Glasgow,Kentucky ,BARREN,21,009,KY 
+42140,Gamaliel,Kentucky ,MONROE,21,171,KY 
+42142,Glasgow,Kentucky ,BARREN,21,009,KY 
+42153,Holland,Kentucky ,ALLEN,21,003,KY 
+42151,Hestand,Kentucky ,MONROE,21,171,KY 
+42154,Knob Lick,Kentucky ,METCALFE,21,169,KY 
+42159,Oakland,Kentucky ,WARREN,21,227,KY 
+42163,Rocky Hill,Kentucky ,EDMONSON,21,061,KY 
+42156,Lucas,Kentucky ,BARREN,21,009,KY 
+42164,Scottsville,Kentucky ,ALLEN,21,003,KY 
+42160,Park City,Kentucky ,BARREN,21,009,KY 
+42166,Summer Shade,Kentucky ,METCALFE,21,169,KY 
+42157,Mount Hermon,Kentucky ,MONROE,21,171,KY 
+42171,Smiths Grove,Kentucky ,WARREN,21,227,KY 
+42201,Aberdeen,Kentucky ,BUTLER,21,031,KY 
+42202,Adairville,Kentucky ,LOGAN,21,141,KY 
+42170,Woodburn,Kentucky ,WARREN,21,227,KY 
+42204,Allensville,Kentucky ,TODD,21,219,KY 
+42206,Auburn,Kentucky ,LOGAN,21,141,KY 
+42167,Tompkinsville,Kentucky ,MONROE,21,171,KY 
+42207,Bee Spring,Kentucky ,EDMONSON,21,061,KY 
+42211,Cadiz,Kentucky ,TRIGG,21,221,KY 
+42216,Clifty,Kentucky ,TODD,21,219,KY 
+42217,Crofton,Kentucky ,CHRISTIAN,21,047,KY 
+42220,Elkton,Kentucky ,TODD,21,219,KY 
+42210,Brownsville,Kentucky ,EDMONSON,21,061,KY 
+42214,Center,Kentucky ,METCALFE,21,169,KY 
+42215,Cerulean,Kentucky ,TRIGG,21,221,KY 
+42219,Dunbar,Kentucky ,BUTLER,21,031,KY 
+42221,Fairview,Kentucky ,CHRISTIAN,21,047,KY 
+42223,Fort Campbell,Kentucky ,CHRISTIAN,21,047,KY 
+42236,Herndon,Kentucky ,CHRISTIAN,21,047,KY 
+42252,Jetson,Kentucky ,BUTLER,21,031,KY 
+42232,Gracey,Kentucky ,CHRISTIAN,21,047,KY 
+42234,Guthrie,Kentucky ,TODD,21,219,KY 
+42241,Hopkinsville,Kentucky ,CHRISTIAN,21,047,KY 
+42240,Hopkinsville,Kentucky ,CHRISTIAN,21,047,KY 
+42254,La Fayette,Kentucky ,CHRISTIAN,21,047,KY 
+42256,Lewisburg,Kentucky ,LOGAN,21,141,KY 
+42265,Olmstead,Kentucky ,LOGAN,21,141,KY 
+42262,Oak Grove,Kentucky ,CHRISTIAN,21,047,KY 
+42259,Mammoth Cave,Kentucky ,EDMONSON,21,061,KY 
+42266,Pembroke,Kentucky ,CHRISTIAN,21,047,KY 
+42261,Morgantown,Kentucky ,BUTLER,21,031,KY 
+42273,Rochester,Kentucky ,BUTLER,21,031,KY 
+42274,Rockfield,Kentucky ,WARREN,21,227,KY 
+42275,Roundhill,Kentucky ,EDMONSON,21,061,KY 
+42276,Russellville,Kentucky ,LOGAN,21,141,KY 
+42286,Trenton,Kentucky ,TODD,21,219,KY 
+42301,Owensboro,Kentucky ,DAVIESS,21,059,KY 
+42285,Sweeden,Kentucky ,EDMONSON,21,061,KY 
+42288,Woodbury,Kentucky ,BUTLER,21,031,KY 
+42280,Sharon Grove,Kentucky ,TODD,21,219,KY 
+42302,Owensboro,Kentucky ,DAVIESS,21,059,KY 
+42303,Owensboro,Kentucky ,DAVIESS,21,059,KY 
+42304,Owensboro,Kentucky ,DAVIESS,21,059,KY 
+42320,Beaver Dam,Kentucky ,OHIO,21,183,KY 
+42326,Browder,Kentucky ,MUHLENBERG,21,177,KY 
+42322,Beech Grove,Kentucky ,MCLEAN,21,149,KY 
+42323,Beechmont,Kentucky ,MUHLENBERG,21,177,KY 
+42321,Beech Creek,Kentucky ,MUHLENBERG,21,177,KY 
+42325,Bremen,Kentucky ,MUHLENBERG,21,177,KY 
+42324,Belton,Kentucky ,MUHLENBERG,21,177,KY 
+42327,Calhoun,Kentucky ,MCLEAN,21,149,KY 
+42330,Central City,Kentucky ,MUHLENBERG,21,177,KY 
+42332,Cleaton,Kentucky ,MUHLENBERG,21,177,KY 
+42338,Dundee,Kentucky ,OHIO,21,183,KY 
+42328,Centertown,Kentucky ,OHIO,21,183,KY 
+42334,Curdsville,Kentucky ,DAVIESS,21,059,KY 
+42333,Cromwell,Kentucky ,OHIO,21,183,KY 
+42337,Drakesboro,Kentucky ,MUHLENBERG,21,177,KY 
+42339,Dunmor,Kentucky ,MUHLENBERG,21,177,KY 
+42344,Graham,Kentucky ,MUHLENBERG,21,177,KY 
+42343,Fordsville,Kentucky ,OHIO,21,183,KY 
+42348,Hawesville,Kentucky ,HANCOCK,21,091,KY 
+42345,Greenville,Kentucky ,MUHLENBERG,21,177,KY 
+42350,Island,Kentucky ,MCLEAN,21,149,KY 
+42349,Horse Branch,Kentucky ,OHIO,21,183,KY 
+42347,Hartford,Kentucky ,OHIO,21,183,KY 
+42351,Lewisport,Kentucky ,HANCOCK,21,091,KY 
+42354,Mc Henry,Kentucky ,OHIO,21,183,KY 
+42367,Powderly,Kentucky ,MUHLENBERG,21,177,KY 
+42352,Livermore,Kentucky ,MCLEAN,21,149,KY 
+42356,Maple Mount,Kentucky ,DAVIESS,21,059,KY 
+42361,Olaton,Kentucky ,OHIO,21,183,KY 
+42364,Hawesville,Kentucky ,HANCOCK,21,091,KY 
+42366,Philpot,Kentucky ,DAVIESS,21,059,KY 
+42355,Maceo,Kentucky ,DAVIESS,21,059,KY 
+42369,Rockport,Kentucky ,OHIO,21,183,KY 
+42371,Rumsey,Kentucky ,MCLEAN,21,149,KY 
+42372,Sacramento,Kentucky ,MCLEAN,21,149,KY 
+42370,Rosine,Kentucky ,OHIO,21,183,KY 
+42368,Reynolds Station,Kentucky ,OHIO,21,183,KY 
+42374,South Carrollton,Kentucky ,MUHLENBERG,21,177,KY 
+42377,West Louisville,Kentucky ,DAVIESS,21,059,KY 
+42378,Whitesville,Kentucky ,DAVIESS,21,059,KY 
+42402,Baskett,Kentucky ,HENDERSON,21,101,KY 
+42376,Utica,Kentucky ,DAVIESS,21,059,KY 
+42404,Clay,Kentucky ,WEBSTER,21,233,KY 
+42409,Dixon,Kentucky ,WEBSTER,21,233,KY 
+42406,Corydon,Kentucky ,HENDERSON,21,101,KY 
+42410,Earlington,Kentucky ,HOPKINS,21,107,KY 
+42408,Dawson Springs,Kentucky ,HOPKINS,21,107,KY 
+42411,Fredonia,Kentucky ,CALDWELL,21,033,KY 
+42436,Manitou,Kentucky ,HOPKINS,21,107,KY 
+42413,Hanson,Kentucky ,HOPKINS,21,107,KY 
+42420,Henderson,Kentucky ,HENDERSON,21,101,KY 
+42437,Morganfield,Kentucky ,UNION,21,225,KY 
+42440,Mortons Gap,Kentucky ,HOPKINS,21,107,KY 
+42431,Madisonville,Kentucky ,HOPKINS,21,107,KY 
+42441,Nebo,Kentucky ,HOPKINS,21,107,KY 
+42419,Henderson,Kentucky ,HENDERSON,21,101,KY 
+42450,Providence,Kentucky ,WEBSTER,21,233,KY 
+42444,Poole,Kentucky ,WEBSTER,21,233,KY 
+42455,Sebree,Kentucky ,WEBSTER,21,233,KY 
+42451,Reed,Kentucky ,HENDERSON,21,101,KY 
+42453,Saint Charles,Kentucky ,HOPKINS,21,107,KY 
+42442,Nortonville,Kentucky ,HOPKINS,21,107,KY 
+42445,Princeton,Kentucky ,CALDWELL,21,033,KY 
+42452,Robards,Kentucky ,HENDERSON,21,101,KY 
+42461,Uniontown,Kentucky ,UNION,21,225,KY 
+42462,Waverly,Kentucky ,UNION,21,225,KY 
+42460,Sullivan,Kentucky ,UNION,21,225,KY 
+42457,Smith Mills,Kentucky ,HENDERSON,21,101,KY 
+42458,Spottsville,Kentucky ,HENDERSON,21,101,KY 
+42459,Sturgis,Kentucky ,UNION,21,225,KY 
+42456,Slaughters,Kentucky ,WEBSTER,21,233,KY 
+42463,Wheatcroft,Kentucky ,WEBSTER,21,233,KY 
+42518,Bronston,Kentucky ,PULASKI,21,199,KY 
+42519,Burnside,Kentucky ,PULASKI,21,199,KY 
+42502,Somerset,Kentucky ,PULASKI,21,199,KY 
+42501,Somerset,Kentucky ,PULASKI,21,199,KY 
+42464,White Plains,Kentucky ,HOPKINS,21,107,KY 
+42516,Bethelridge,Kentucky ,CASEY,21,045,KY 
+42503,Somerset,Kentucky ,PULASKI,21,199,KY 
+42528,Dunnville,Kentucky ,CASEY,21,045,KY 
+42539,Liberty,Kentucky ,CASEY,21,045,KY 
+42544,Nancy,Kentucky ,PULASKI,21,199,KY 
+42564,West Somerset,Kentucky ,PULASKI,21,199,KY 
+42558,Tateville,Kentucky ,PULASKI,21,199,KY 
+42541,Middleburg,Kentucky ,CASEY,21,045,KY 
+42533,Ferguson,Kentucky ,PULASKI,21,199,KY 
+42553,Science Hill,Kentucky ,PULASKI,21,199,KY 
+42565,Windsor,Kentucky ,CASEY,21,045,KY 
+42566,Yosemite,Kentucky ,CASEY,21,045,KY 
+42603,Alpha,Kentucky ,CLINTON,21,053,KY 
+42631,Marshes Siding,Kentucky ,MCCREARY,21,147,KY 
+42633,Monticello,Kentucky ,WAYNE,21,231,KY 
+42567,Eubank,Kentucky ,PULASKI,21,199,KY 
+42634,Parkers Lake,Kentucky ,MCCREARY,21,147,KY 
+42629,Jamestown,Kentucky ,RUSSELL,21,207,KY 
+42602,Albany,Kentucky ,CLINTON,21,053,KY 
+42635,Pine Knot,Kentucky ,MCCREARY,21,147,KY 
+42638,Revelo,Kentucky ,MCCREARY,21,147,KY 
+42649,Strunk,Kentucky ,MCCREARY,21,147,KY 
+42653,Whitley City,Kentucky ,MCCREARY,21,147,KY 
+42647,Stearns,Kentucky ,MCCREARY,21,147,KY 
+42702,Elizabethtown,Kentucky ,HARDIN,21,093,KY 
+42642,Russell Springs,Kentucky ,RUSSELL,21,207,KY 
+42701,Elizabethtown,Kentucky ,HARDIN,21,093,KY 
+42712,Big Clifty,Kentucky ,GRAYSON,21,085,KY 
+42713,Bonnieville,Kentucky ,HART,21,099,KY 
+42715,Breeding,Kentucky ,ADAIR,21,001,KY 
+42719,Campbellsville,Kentucky ,TAYLOR,21,217,KY 
+42717,Burkesville,Kentucky ,CUMBERLAND,21,057,KY 
+42716,Buffalo,Kentucky ,LARUE,21,123,KY 
+42718,Campbellsville,Kentucky ,TAYLOR,21,217,KY 
+42720,Cane Valley,Kentucky ,ADAIR,21,001,KY 
+42721,Caneyville,Kentucky ,GRAYSON,21,085,KY 
+42722,Canmer,Kentucky ,HART,21,099,KY 
+42724,Cecilia,Kentucky ,HARDIN,21,093,KY 
+42728,Columbia,Kentucky ,ADAIR,21,001,KY 
+42726,Clarkson,Kentucky ,GRAYSON,21,085,KY 
+42733,Elk Horn,Kentucky ,TAYLOR,21,217,KY 
+42729,Cub Run,Kentucky ,HART,21,099,KY 
+42732,Eastview,Kentucky ,HARDIN,21,093,KY 
+42740,Glendale,Kentucky ,HARDIN,21,093,KY 
+42741,Glens Fork,Kentucky ,ADAIR,21,001,KY 
+42742,Gradyville,Kentucky ,ADAIR,21,001,KY 
+42748,Hodgenville,Kentucky ,LARUE,21,123,KY 
+42746,Hardyville,Kentucky ,HART,21,099,KY 
+42749,Horse Cave,Kentucky ,HART,21,099,KY 
+42743,Greensburg,Kentucky ,GREEN,21,087,KY 
+42753,Knifley,Kentucky ,ADAIR,21,001,KY 
+42755,Leitchfield,Kentucky ,GRAYSON,21,085,KY 
+42754,Leitchfield,Kentucky ,GRAYSON,21,085,KY 
+42757,Magnolia,Kentucky ,LARUE,21,123,KY 
+42758,Mannsville,Kentucky ,TAYLOR,21,217,KY 
+42762,Millwood,Kentucky ,GRAYSON,21,085,KY 
+42759,Marrowbone,Kentucky ,CUMBERLAND,21,057,KY 
+42764,Mount Sherman,Kentucky ,LARUE,21,123,KY 
+42776,Sonora,Kentucky ,HARDIN,21,093,KY 
+42765,Munfordville,Kentucky ,HART,21,099,KY 
+42784,Upton,Kentucky ,HARDIN,21,093,KY 
+42782,Summersville,Kentucky ,GREEN,21,087,KY 
+42788,White Mills,Kentucky ,HARDIN,21,093,KY 

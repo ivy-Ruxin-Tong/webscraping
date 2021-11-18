@@ -1,0 +1,959 @@
+46001,Alexandria,Indiana ,MADISON,18,095,IN 
+46017,Anderson,Indiana ,MADISON,18,095,IN 
+46014,Anderson,Indiana ,MADISON,18,095,IN 
+46012,Anderson,Indiana ,MADISON,18,095,IN 
+46013,Anderson,Indiana ,MADISON,18,095,IN 
+46016,Anderson,Indiana ,MADISON,18,095,IN 
+46011,Anderson,Indiana ,MADISON,18,095,IN 
+46015,Anderson,Indiana ,MADISON,18,095,IN 
+46033,Carmel,Indiana ,HAMILTON,18,057,IN 
+46032,Carmel,Indiana ,HAMILTON,18,057,IN 
+46030,Arcadia,Indiana ,HAMILTON,18,057,IN 
+46034,Cicero,Indiana ,HAMILTON,18,057,IN 
+46036,Elwood,Indiana ,MADISON,18,095,IN 
+46018,Anderson,Indiana ,MADISON,18,095,IN 
+46031,Atlanta,Indiana ,HAMILTON,18,057,IN 
+46035,Colfax,Indiana ,CLINTON,18,023,IN 
+46038,Fishers,Indiana ,HAMILTON,18,057,IN 
+46041,Frankfort,Indiana ,CLINTON,18,023,IN 
+46040,Fortville,Indiana ,HANCOCK,18,059,IN 
+46039,Forest,Indiana ,CLINTON,18,023,IN 
+46045,Goldsmith,Indiana ,TIPTON,18,159,IN 
+46044,Frankton,Indiana ,MADISON,18,095,IN 
+46037,Fishers,Indiana ,HAMILTON,18,057,IN 
+46047,Hobbs,Indiana ,TIPTON,18,159,IN 
+46049,Kempton,Indiana ,TIPTON,18,159,IN 
+46050,Kirklin,Indiana ,CLINTON,18,023,IN 
+46048,Ingalls,Indiana ,MADISON,18,095,IN 
+46057,Michigantown,Indiana ,CLINTON,18,023,IN 
+46056,Markleville,Indiana ,MADISON,18,095,IN 
+46055,Mccordsville,Indiana ,HANCOCK,18,059,IN 
+46052,Lebanon,Indiana ,BOONE,18,011,IN 
+46051,Lapel,Indiana ,MADISON,18,095,IN 
+46060,Noblesville,Indiana ,HAMILTON,18,057,IN 
+46062,Noblesville,Indiana ,HAMILTON,18,057,IN 
+46064,Pendleton,Indiana ,MADISON,18,095,IN 
+46061,Noblesville,Indiana ,HAMILTON,18,057,IN 
+46065,Rossville,Indiana ,CLINTON,18,023,IN 
+46067,Sedalia,Indiana ,CLINTON,18,023,IN 
+46058,Mulberry,Indiana ,CLINTON,18,023,IN 
+46063,Orestes,Indiana ,MADISON,18,095,IN 
+46069,Sheridan,Indiana ,HAMILTON,18,057,IN 
+46068,Sharpsville,Indiana ,TIPTON,18,159,IN 
+46071,Thorntown,Indiana ,BOONE,18,011,IN 
+46070,Summitville,Indiana ,MADISON,18,095,IN 
+46072,Tipton,Indiana ,TIPTON,18,159,IN 
+46075,Whitestown,Indiana ,BOONE,18,011,IN 
+46074,Westfield,Indiana ,HAMILTON,18,057,IN 
+46076,Windfall,Indiana ,TIPTON,18,159,IN 
+46082,Carmel,Indiana ,HAMILTON,18,057,IN 
+46105,Bainbridge,Indiana ,PUTNAM,18,133,IN 
+46077,Zionsville,Indiana ,BOONE,18,011,IN 
+46104,Arlington,Indiana ,RUSH,18,139,IN 
+46102,Advance,Indiana ,BOONE,18,011,IN 
+46106,Bargersville,Indiana ,JOHNSON,18,081,IN 
+46103,Amo,Indiana ,HENDRICKS,18,063,IN 
+46085,Fishers,Indiana ,HAMILTON,18,057,IN 
+46113,Camby,Indiana ,MORGAN,18,109,IN 
+46115,Carthage,Indiana ,RUSH,18,139,IN 
+46107,Beech Grove,Indiana ,MARION,18,097,IN 
+46117,Charlottesville,Indiana ,HANCOCK,18,059,IN 
+46111,Brooklyn,Indiana ,MORGAN,18,109,IN 
+46112,Brownsburg,Indiana ,HENDRICKS,18,063,IN 
+46110,Boggstown,Indiana ,SHELBY,18,145,IN 
+46118,Clayton,Indiana ,HENDRICKS,18,063,IN 
+46120,Cloverdale,Indiana ,PUTNAM,18,133,IN 
+46122,Danville,Indiana ,HENDRICKS,18,063,IN 
+46123,Avon,Indiana ,HENDRICKS,18,063,IN 
+46121,Coatesville,Indiana ,PUTNAM,18,133,IN 
+46126,Fairland,Indiana ,SHELBY,18,145,IN 
+46125,Eminence,Indiana ,MORGAN,18,109,IN 
+46127,Falmouth,Indiana ,RUSH,18,139,IN 
+46124,Edinburgh,Indiana ,JOHNSON,18,081,IN 
+46129,Finly,Indiana ,HANCOCK,18,059,IN 
+46130,Fountaintown,Indiana ,SHELBY,18,145,IN 
+46142,Greenwood,Indiana ,JOHNSON,18,081,IN 
+46133,Glenwood,Indiana ,FAYETTE,18,041,IN 
+46128,Fillmore,Indiana ,PUTNAM,18,133,IN 
+46131,Franklin,Indiana ,JOHNSON,18,081,IN 
+46140,Greenfield,Indiana ,HANCOCK,18,059,IN 
+46135,Greencastle,Indiana ,PUTNAM,18,133,IN 
+46143,Greenwood,Indiana ,JOHNSON,18,081,IN 
+46144,Gwynneville,Indiana ,SHELBY,18,145,IN 
+46146,Homer,Indiana ,RUSH,18,139,IN 
+46147,Jamestown,Indiana ,BOONE,18,011,IN 
+46149,Lizton,Indiana ,HENDRICKS,18,063,IN 
+46151,Martinsville,Indiana ,MORGAN,18,109,IN 
+46150,Manilla,Indiana ,RUSH,18,139,IN 
+46148,Knightstown,Indiana ,HENRY,18,065,IN 
+46154,Maxwell,Indiana ,HANCOCK,18,059,IN 
+46155,Mays,Indiana ,RUSH,18,139,IN 
+46157,Monrovia,Indiana ,MORGAN,18,109,IN 
+46158,Mooresville,Indiana ,MORGAN,18,109,IN 
+46162,Needham,Indiana ,JOHNSON,18,081,IN 
+46160,Morgantown,Indiana ,MORGAN,18,109,IN 
+46161,Morristown,Indiana ,SHELBY,18,145,IN 
+46156,Milroy,Indiana ,RUSH,18,139,IN 
+46163,New Palestine,Indiana ,HANCOCK,18,059,IN 
+46164,Nineveh,Indiana ,JOHNSON,18,081,IN 
+46167,Pittsboro,Indiana ,HENDRICKS,18,063,IN 
+46165,North Salem,Indiana ,HENDRICKS,18,063,IN 
+46166,Paragon,Indiana ,MORGAN,18,109,IN 
+46170,Putnamville,Indiana ,PUTNAM,18,133,IN 
+46171,Reelsville,Indiana ,PUTNAM,18,133,IN 
+46172,Roachdale,Indiana ,PUTNAM,18,133,IN 
+46168,Plainfield,Indiana ,HENDRICKS,18,063,IN 
+46173,Rushville,Indiana ,RUSH,18,139,IN 
+46175,Russellville,Indiana ,PUTNAM,18,133,IN 
+46176,Shelbyville,Indiana ,SHELBY,18,145,IN 
+46181,Trafalgar,Indiana ,JOHNSON,18,081,IN 
+46180,Stilesville,Indiana ,HENDRICKS,18,063,IN 
+46186,Wilkinson,Indiana ,HANCOCK,18,059,IN 
+46182,Waldron,Indiana ,SHELBY,18,145,IN 
+46183,West Newton,Indiana ,MARION,18,097,IN 
+46184,Whiteland,Indiana ,JOHNSON,18,081,IN 
+46204,Indianapolis,Indiana ,MARION,18,097,IN 
+46203,Indianapolis,Indiana ,MARION,18,097,IN 
+46201,Indianapolis,Indiana ,MARION,18,097,IN 
+46206,Indianapolis,Indiana ,MARION,18,097,IN 
+46208,Indianapolis,Indiana ,MARION,18,097,IN 
+46202,Indianapolis,Indiana ,MARION,18,097,IN 
+46207,Indianapolis,Indiana ,MARION,18,097,IN 
+46205,Indianapolis,Indiana ,MARION,18,097,IN 
+46214,Indianapolis,Indiana ,MARION,18,097,IN 
+46213,Indianapolis,Indiana ,MARION,18,097,IN 
+46209,Indianapolis,Indiana ,MARION,18,097,IN 
+46216,Indianapolis,Indiana ,MARION,18,097,IN 
+46219,Indianapolis,Indiana ,MARION,18,097,IN 
+46220,Indianapolis,Indiana ,MARION,18,097,IN 
+46218,Indianapolis,Indiana ,MARION,18,097,IN 
+46217,Indianapolis,Indiana ,MARION,18,097,IN 
+46224,Indianapolis,Indiana ,MARION,18,097,IN 
+46221,Indianapolis,Indiana ,MARION,18,097,IN 
+46226,Indianapolis,Indiana ,MARION,18,097,IN 
+46227,Indianapolis,Indiana ,MARION,18,097,IN 
+46225,Indianapolis,Indiana ,MARION,18,097,IN 
+46224,Indianapolis,Indiana ,MARION,18,097,IN 
+46222,Indianapolis,Indiana ,MARION,18,097,IN 
+46228,Indianapolis,Indiana ,MARION,18,097,IN 
+46229,Indianapolis,Indiana ,MARION,18,097,IN 
+46237,Indianapolis,Indiana ,MARION,18,097,IN 
+46231,Indianapolis,Indiana ,MARION,18,097,IN 
+46239,Indianapolis,Indiana ,MARION,18,097,IN 
+46230,Indianapolis,Indiana ,MARION,18,097,IN 
+46234,Indianapolis,Indiana ,MARION,18,097,IN 
+46235,Indianapolis,Indiana ,MARION,18,097,IN 
+46236,Indianapolis,Indiana ,MARION,18,097,IN 
+46240,Indianapolis,Indiana ,MARION,18,097,IN 
+46242,Indianapolis,Indiana ,MARION,18,097,IN 
+46247,Indianapolis,Indiana ,MARION,18,097,IN 
+46241,Indianapolis,Indiana ,MARION,18,097,IN 
+46251,Indianapolis,Indiana ,MARION,18,097,IN 
+46244,Indianapolis,Indiana ,MARION,18,097,IN 
+46249,Indianapolis,Indiana ,MARION,18,097,IN 
+46250,Indianapolis,Indiana ,MARION,18,097,IN 
+46253,Indianapolis,Indiana ,MARION,18,097,IN 
+46268,Indianapolis,Indiana ,MARION,18,097,IN 
+46256,Indianapolis,Indiana ,MARION,18,097,IN 
+46255,Indianapolis,Indiana ,MARION,18,097,IN 
+46260,Indianapolis,Indiana ,MARION,18,097,IN 
+46262,Indianapolis,Indiana ,MARION,18,097,IN 
+46259,Indianapolis,Indiana ,MARION,18,097,IN 
+46254,Indianapolis,Indiana ,MARION,18,097,IN 
+46277,Indianapolis,Indiana ,MARION,18,097,IN 
+46278,Indianapolis,Indiana ,MARION,18,097,IN 
+46280,Indianapolis,Indiana ,HAMILTON,18,057,IN 
+46290,Indianapolis,Indiana ,HAMILTON,18,057,IN 
+46298,Indianapolis,Indiana ,MARION,18,097,IN 
+46285,Indianapolis,Indiana ,MARION,18,097,IN 
+46283,Indianapolis,Indiana ,MARION,18,097,IN 
+46282,Indianapolis,Indiana ,MARION,18,097,IN 
+46288,Indianapolis,Indiana ,MARION,18,097,IN 
+46301,Beverly Shores,Indiana ,PORTER,18,127,IN 
+46302,Boone Grove,Indiana ,PORTER,18,127,IN 
+46308,Crown Point,Indiana ,LAKE,18,089,IN 
+46311,Dyer,Indiana ,LAKE,18,089,IN 
+46310,Demotte,Indiana ,JASPER,18,073,IN 
+46304,Chesterton,Indiana ,PORTER,18,127,IN 
+46307,Crown Point,Indiana ,LAKE,18,089,IN 
+46303,Cedar Lake,Indiana ,LAKE,18,089,IN 
+46312,East Chicago,Indiana ,LAKE,18,089,IN 
+46319,Griffith,Indiana ,LAKE,18,089,IN 
+46320,Hammond,Indiana ,LAKE,18,089,IN 
+46323,Hammond,Indiana ,LAKE,18,089,IN 
+46321,Munster,Indiana ,LAKE,18,089,IN 
+46324,Hammond,Indiana ,LAKE,18,089,IN 
+46325,Hammond,Indiana ,LAKE,18,089,IN 
+46322,Highland,Indiana ,LAKE,18,089,IN 
+46327,Hammond,Indiana ,LAKE,18,089,IN 
+46340,Hanna,Indiana ,LA PORTE,18,091,IN 
+46341,Hebron,Indiana ,PORTER,18,127,IN 
+46345,Kingsbury,Indiana ,LA PORTE,18,091,IN 
+46346,Kingsford Heights,Indiana ,LA PORTE,18,091,IN 
+46342,Hobart,Indiana ,LAKE,18,089,IN 
+46349,Lake Village,Indiana ,NEWTON,18,111,IN 
+46347,Kouts,Indiana ,PORTER,18,127,IN 
+46348,La Crosse,Indiana ,LA PORTE,18,091,IN 
+46350,La Porte,Indiana ,LA PORTE,18,091,IN 
+46352,La Porte,Indiana ,LA PORTE,18,091,IN 
+46355,Leroy,Indiana ,LAKE,18,089,IN 
+46365,Mill Creek,Indiana ,LA PORTE,18,091,IN 
+46361,Michigan City,Indiana ,LA PORTE,18,091,IN 
+46368,Portage,Indiana ,PORTER,18,127,IN 
+46366,North Judson,Indiana ,STARKE,18,149,IN 
+46356,Lowell,Indiana ,LAKE,18,089,IN 
+46360,Michigan City,Indiana ,LA PORTE,18,091,IN 
+46371,Rolling Prairie,Indiana ,LA PORTE,18,091,IN 
+46372,Roselawn,Indiana ,NEWTON,18,111,IN 
+46373,Saint John,Indiana ,LAKE,18,089,IN 
+46377,Shelby,Indiana ,LAKE,18,089,IN 
+46379,Sumava Resorts,Indiana ,NEWTON,18,111,IN 
+46374,San Pierre,Indiana ,STARKE,18,149,IN 
+46375,Schererville,Indiana ,LAKE,18,089,IN 
+46380,Tefft,Indiana ,JASPER,18,073,IN 
+46376,Schneider,Indiana ,LAKE,18,089,IN 
+46381,Thayer,Indiana ,NEWTON,18,111,IN 
+46382,Union Mills,Indiana ,LA PORTE,18,091,IN 
+46384,Valparaiso,Indiana ,PORTER,18,127,IN 
+46383,Valparaiso,Indiana ,PORTER,18,127,IN 
+46390,Wanatah,Indiana ,LA PORTE,18,091,IN 
+46385,Valparaiso,Indiana ,PORTER,18,127,IN 
+46391,Westville,Indiana ,LA PORTE,18,091,IN 
+46392,Wheatfield,Indiana ,JASPER,18,073,IN 
+46393,Wheeler,Indiana ,PORTER,18,127,IN 
+46394,Whiting,Indiana ,LAKE,18,089,IN 
+46402,Gary,Indiana ,LAKE,18,089,IN 
+46406,Gary,Indiana ,LAKE,18,089,IN 
+46403,Gary,Indiana ,LAKE,18,089,IN 
+46405,Lake Station,Indiana ,LAKE,18,089,IN 
+46401,Gary,Indiana ,LAKE,18,089,IN 
+46404,Gary,Indiana ,LAKE,18,089,IN 
+46407,Gary,Indiana ,LAKE,18,089,IN 
+46408,Gary,Indiana ,LAKE,18,089,IN 
+46409,Gary,Indiana ,LAKE,18,089,IN 
+46410,Merrillville,Indiana ,LAKE,18,089,IN 
+46502,Atwood,Indiana ,KOSCIUSKO,18,085,IN 
+46504,Bourbon,Indiana ,MARSHALL,18,099,IN 
+46501,Argos,Indiana ,MARSHALL,18,099,IN 
+46506,Bremen,Indiana ,MARSHALL,18,099,IN 
+46411,Merrillville,Indiana ,LAKE,18,089,IN 
+46507,Bristol,Indiana ,ELKHART,18,039,IN 
+46510,Claypool,Indiana ,KOSCIUSKO,18,085,IN 
+46508,Burket,Indiana ,KOSCIUSKO,18,085,IN 
+46514,Elkhart,Indiana ,ELKHART,18,039,IN 
+46513,Donaldson,Indiana ,MARSHALL,18,099,IN 
+46515,Elkhart,Indiana ,ELKHART,18,039,IN 
+46511,Culver,Indiana ,MARSHALL,18,099,IN 
+46516,Elkhart,Indiana ,ELKHART,18,039,IN 
+46517,Elkhart,Indiana ,ELKHART,18,039,IN 
+46526,Goshen,Indiana ,ELKHART,18,039,IN 
+46524,Etna Green,Indiana ,KOSCIUSKO,18,085,IN 
+46531,Grovertown,Indiana ,STARKE,18,149,IN 
+46527,Goshen,Indiana ,ELKHART,18,039,IN 
+46532,Hamlet,Indiana ,STARKE,18,149,IN 
+46530,Granger,Indiana ,ST JOSEPH,18,141,IN 
+46534,Knox,Indiana ,STARKE,18,149,IN 
+46528,Goshen,Indiana ,ELKHART,18,039,IN 
+46536,Lakeville,Indiana ,ST JOSEPH,18,141,IN 
+46537,Lapaz,Indiana ,MARSHALL,18,099,IN 
+46540,Middlebury,Indiana ,ELKHART,18,039,IN 
+46543,Millersburg,Indiana ,ELKHART,18,039,IN 
+46538,Leesburg,Indiana ,KOSCIUSKO,18,085,IN 
+46542,Milford,Indiana ,KOSCIUSKO,18,085,IN 
+46544,Mishawaka,Indiana ,ST JOSEPH,18,141,IN 
+46539,Mentone,Indiana ,KOSCIUSKO,18,085,IN 
+46545,Mishawaka,Indiana ,ST JOSEPH,18,141,IN 
+46546,Mishawaka,Indiana ,ST JOSEPH,18,141,IN 
+46550,Nappanee,Indiana ,ELKHART,18,039,IN 
+46556,Notre Dame,Indiana ,ST JOSEPH,18,141,IN 
+46553,New Paris,Indiana ,ELKHART,18,039,IN 
+46552,New Carlisle,Indiana ,ST JOSEPH,18,141,IN 
+46554,North Liberty,Indiana ,ST JOSEPH,18,141,IN 
+46555,North Webster,Indiana ,KOSCIUSKO,18,085,IN 
+46561,Osceola,Indiana ,ST JOSEPH,18,141,IN 
+46562,Pierceton,Indiana ,KOSCIUSKO,18,085,IN 
+46565,Shipshewana,Indiana ,LAGRANGE,18,087,IN 
+46570,Tippecanoe,Indiana ,MARSHALL,18,099,IN 
+46567,Syracuse,Indiana ,KOSCIUSKO,18,085,IN 
+46573,Wakarusa,Indiana ,ELKHART,18,039,IN 
+46574,Walkerton,Indiana ,ST JOSEPH,18,141,IN 
+46563,Plymouth,Indiana ,MARSHALL,18,099,IN 
+46572,Tyner,Indiana ,MARSHALL,18,099,IN 
+46571,Topeka,Indiana ,LAGRANGE,18,087,IN 
+46581,Warsaw,Indiana ,KOSCIUSKO,18,085,IN 
+46580,Warsaw,Indiana ,KOSCIUSKO,18,085,IN 
+46595,Wyatt,Indiana ,ST JOSEPH,18,141,IN 
+46590,Winona Lake,Indiana ,KOSCIUSKO,18,085,IN 
+46601,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46613,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46582,Warsaw,Indiana ,KOSCIUSKO,18,085,IN 
+46615,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46616,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46624,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46617,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46626,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46619,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46628,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46634,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46637,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46635,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46699,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46660,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46680,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46701,Albion,Indiana ,NOBLE,18,113,IN 
+46702,Andrews,Indiana ,HUNTINGTON,18,069,IN 
+46703,Angola,Indiana ,STEUBEN,18,151,IN 
+46704,Arcola,Indiana ,ALLEN,18,003,IN 
+46710,Avilla,Indiana ,NOBLE,18,113,IN 
+46706,Auburn,Indiana ,DEKALB,18,033,IN 
+46711,Berne,Indiana ,ADAMS,18,001,IN 
+46705,Ashley,Indiana ,DEKALB,18,033,IN 
+46713,Bippus,Indiana ,HUNTINGTON,18,069,IN 
+46714,Bluffton,Indiana ,WELLS,18,179,IN 
+46725,Columbia City,Indiana ,WHITLEY,18,183,IN 
+46721,Butler,Indiana ,DEKALB,18,033,IN 
+46730,Corunna,Indiana ,DEKALB,18,033,IN 
+46732,Cromwell,Indiana ,NOBLE,18,113,IN 
+46723,Churubusco,Indiana ,WHITLEY,18,183,IN 
+46731,Craigville,Indiana ,WELLS,18,179,IN 
+46733,Decatur,Indiana ,ADAMS,18,001,IN 
+46738,Garrett,Indiana ,DEKALB,18,033,IN 
+46740,Geneva,Indiana ,ADAMS,18,001,IN 
+46742,Hamilton,Indiana ,STEUBEN,18,151,IN 
+46741,Grabill,Indiana ,ALLEN,18,003,IN 
+46737,Fremont,Indiana ,STEUBEN,18,151,IN 
+46743,Harlan,Indiana ,ALLEN,18,003,IN 
+46745,Hoagland,Indiana ,ALLEN,18,003,IN 
+46746,Howe,Indiana ,LAGRANGE,18,087,IN 
+46747,Hudson,Indiana ,STEUBEN,18,151,IN 
+46759,Keystone,Indiana ,WELLS,18,179,IN 
+46755,Kendallville,Indiana ,NOBLE,18,113,IN 
+46748,Huntertown,Indiana ,ALLEN,18,003,IN 
+46750,Huntington,Indiana ,HUNTINGTON,18,069,IN 
+46760,Kimmell,Indiana ,NOBLE,18,113,IN 
+46761,Lagrange,Indiana ,LAGRANGE,18,087,IN 
+46763,Laotto,Indiana ,NOBLE,18,113,IN 
+46766,Liberty Center,Indiana ,WELLS,18,179,IN 
+46764,Larwill,Indiana ,WHITLEY,18,183,IN 
+46767,Ligonier,Indiana ,NOBLE,18,113,IN 
+46765,Leo,Indiana ,ALLEN,18,003,IN 
+46769,Linn Grove,Indiana ,ADAMS,18,001,IN 
+46769,Linn Grove,Indiana ,ADAMS,18,001,IN 
+46770,Markle,Indiana ,WELLS,18,179,IN 
+46774,New Haven,Indiana ,ALLEN,18,003,IN 
+46771,Mongo,Indiana ,LAGRANGE,18,087,IN 
+46772,Monroe,Indiana ,ADAMS,18,001,IN 
+46773,Monroeville,Indiana ,ALLEN,18,003,IN 
+46776,Orland,Indiana ,STEUBEN,18,151,IN 
+46777,Ossian,Indiana ,WELLS,18,179,IN 
+46780,Pleasant Mills,Indiana ,ADAMS,18,001,IN 
+46778,Petroleum,Indiana ,WELLS,18,179,IN 
+46781,Poneto,Indiana ,WELLS,18,179,IN 
+46782,Preble,Indiana ,ADAMS,18,001,IN 
+46779,Pleasant Lake,Indiana ,STEUBEN,18,151,IN 
+46783,Roanoke,Indiana ,HUNTINGTON,18,069,IN 
+46784,Rome City,Indiana ,NOBLE,18,113,IN 
+46785,Saint Joe,Indiana ,DEKALB,18,033,IN 
+46786,South Milford,Indiana ,LAGRANGE,18,087,IN 
+46788,Spencerville,Indiana ,ALLEN,18,003,IN 
+46787,South Whitley,Indiana ,WHITLEY,18,183,IN 
+46791,Uniondale,Indiana ,WELLS,18,179,IN 
+46789,Stroh,Indiana ,LAGRANGE,18,087,IN 
+46797,Woodburn,Indiana ,ALLEN,18,003,IN 
+46792,Warren,Indiana ,HUNTINGTON,18,069,IN 
+46795,Wolcottville,Indiana ,LAGRANGE,18,087,IN 
+46798,Yoder,Indiana ,ALLEN,18,003,IN 
+46794,Wawaka,Indiana ,NOBLE,18,113,IN 
+46793,Waterloo,Indiana ,DEKALB,18,033,IN 
+46796,Wolflake,Indiana ,NOBLE,18,113,IN 
+46801,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46805,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46799,Zanesville,Indiana ,ALLEN,18,003,IN 
+46803,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46804,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46802,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46806,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46807,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46808,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46818,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46814,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46815,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46809,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46816,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46614,South Bend,Indiana ,ST JOSEPH,18,141,IN 
+46850,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46819,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46852,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46851,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46825,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46835,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46853,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46845,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46861,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46856,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46854,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46855,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46857,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46859,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46858,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46860,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46862,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46864,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46867,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46868,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46869,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46863,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46865,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46866,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46885,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46896,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46895,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46901,Kokomo,Indiana ,HOWARD,18,067,IN 
+46899,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46902,Kokomo,Indiana ,HOWARD,18,067,IN 
+46897,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46898,Fort Wayne,Indiana ,ALLEN,18,003,IN 
+46904,Kokomo,Indiana ,HOWARD,18,067,IN 
+46903,Kokomo,Indiana ,HOWARD,18,067,IN 
+46913,Bringhurst,Indiana ,CARROLL,18,015,IN 
+46915,Burlington,Indiana ,CARROLL,18,015,IN 
+46912,Athens,Indiana ,FULTON,18,049,IN 
+46914,Bunker Hill,Indiana ,MIAMI,18,103,IN 
+46910,Akron,Indiana ,FULTON,18,049,IN 
+46911,Amboy,Indiana ,MIAMI,18,103,IN 
+46916,Burrows,Indiana ,CARROLL,18,015,IN 
+46917,Camden,Indiana ,CARROLL,18,015,IN 
+46919,Converse,Indiana ,MIAMI,18,103,IN 
+46921,Deedsville,Indiana ,MIAMI,18,103,IN 
+46920,Cutler,Indiana ,CARROLL,18,015,IN 
+46923,Delphi,Indiana ,CARROLL,18,015,IN 
+46922,Delong,Indiana ,FULTON,18,049,IN 
+46928,Fairmount,Indiana ,GRANT,18,053,IN 
+46929,Flora,Indiana ,CARROLL,18,015,IN 
+46926,Denver,Indiana ,MIAMI,18,103,IN 
+46931,Fulton,Indiana ,FULTON,18,049,IN 
+46930,Fowlerton,Indiana ,GRANT,18,053,IN 
+46933,Gas City,Indiana ,GRANT,18,053,IN 
+46932,Galveston,Indiana ,CASS,18,017,IN 
+46936,Greentown,Indiana ,HOWARD,18,067,IN 
+46938,Jonesboro,Indiana ,GRANT,18,053,IN 
+46935,Grass Creek,Indiana ,FULTON,18,049,IN 
+46937,Hemlock,Indiana ,HOWARD,18,067,IN 
+46939,Kewanna,Indiana ,FULTON,18,049,IN 
+46941,Lagro,Indiana ,WABASH,18,169,IN 
+46943,Laketon,Indiana ,WABASH,18,169,IN 
+46940,La Fontaine,Indiana ,WABASH,18,169,IN 
+46945,Leiters Ford,Indiana ,FULTON,18,049,IN 
+46942,Lake Cicott,Indiana ,CASS,18,017,IN 
+46947,Logansport,Indiana ,CASS,18,017,IN 
+46946,Liberty Mills,Indiana ,WABASH,18,169,IN 
+46950,Lucerne,Indiana ,CASS,18,017,IN 
+46951,Macy,Indiana ,MIAMI,18,103,IN 
+46957,Matthews,Indiana ,GRANT,18,053,IN 
+46952,Marion,Indiana ,GRANT,18,053,IN 
+46953,Marion,Indiana ,GRANT,18,053,IN 
+46960,Monterey,Indiana ,PULASKI,18,131,IN 
+46959,Miami,Indiana ,MIAMI,18,103,IN 
+46958,Mexico,Indiana ,MIAMI,18,103,IN 
+46961,New Waverly,Indiana ,CASS,18,017,IN 
+46962,North Manchester,Indiana ,WABASH,18,169,IN 
+46965,Oakford,Indiana ,HOWARD,18,067,IN 
+46967,Onward,Indiana ,CASS,18,017,IN 
+46974,Roann,Indiana ,WABASH,18,169,IN 
+46971,Grissom ARB,Indiana ,MIAMI,18,103,IN 
+46968,Ora,Indiana ,STARKE,18,149,IN 
+46977,Rockfield,Indiana ,CARROLL,18,015,IN 
+46975,Rochester,Indiana ,FULTON,18,049,IN 
+46970,Peru,Indiana ,MIAMI,18,103,IN 
+46978,Royal Center,Indiana ,CASS,18,017,IN 
+46979,Russiaville,Indiana ,HOWARD,18,067,IN 
+46986,Swayzee,Indiana ,GRANT,18,053,IN 
+46980,Servia,Indiana ,WABASH,18,169,IN 
+46988,Twelve Mile,Indiana ,CASS,18,017,IN 
+46982,Silver Lake,Indiana ,KOSCIUSKO,18,085,IN 
+46984,Somerset,Indiana ,WABASH,18,169,IN 
+46985,Star City,Indiana ,PULASKI,18,131,IN 
+46987,Sweetser,Indiana ,GRANT,18,053,IN 
+46989,Upland,Indiana ,GRANT,18,053,IN 
+46990,Urbana,Indiana ,WABASH,18,169,IN 
+46991,Van Buren,Indiana ,GRANT,18,053,IN 
+46992,Wabash,Indiana ,WABASH,18,169,IN 
+46994,Walton,Indiana ,CASS,18,017,IN 
+47001,Aurora,Indiana ,DEARBORN,18,029,IN 
+46998,Young America,Indiana ,CASS,18,017,IN 
+46995,West Middleton,Indiana ,HOWARD,18,067,IN 
+46996,Winamac,Indiana ,PULASKI,18,131,IN 
+47006,Batesville,Indiana ,RIPLEY,18,137,IN 
+47003,West College Corner,Indiana ,UNION,18,161,IN 
+47010,Bath,Indiana ,FRANKLIN,18,047,IN 
+47012,Brookville,Indiana ,FRANKLIN,18,047,IN 
+47011,Bennington,Indiana ,SWITZERLAND,18,155,IN 
+47018,Dillsboro,Indiana ,DEARBORN,18,029,IN 
+47016,Cedar Grove,Indiana ,FRANKLIN,18,047,IN 
+47017,Cross Plains,Indiana ,RIPLEY,18,137,IN 
+47019,East Enterprise,Indiana ,SWITZERLAND,18,155,IN 
+47020,Florence,Indiana ,SWITZERLAND,18,155,IN 
+47021,Friendship,Indiana ,RIPLEY,18,137,IN 
+47022,Guilford,Indiana ,DEARBORN,18,029,IN 
+47023,Holton,Indiana ,RIPLEY,18,137,IN 
+47025,Lawrenceburg,Indiana ,DEARBORN,18,029,IN 
+47024,Laurel,Indiana ,FRANKLIN,18,047,IN 
+47030,Metamora,Indiana ,FRANKLIN,18,047,IN 
+47031,Milan,Indiana ,RIPLEY,18,137,IN 
+47033,Morris,Indiana ,RIPLEY,18,137,IN 
+47032,Moores Hill,Indiana ,DEARBORN,18,029,IN 
+47034,Napoleon,Indiana ,RIPLEY,18,137,IN 
+47035,New Trenton,Indiana ,FRANKLIN,18,047,IN 
+47036,Oldenburg,Indiana ,FRANKLIN,18,047,IN 
+47037,Osgood,Indiana ,RIPLEY,18,137,IN 
+47038,Patriot,Indiana ,SWITZERLAND,18,155,IN 
+47040,Rising Sun,Indiana ,OHIO,18,115,IN 
+47039,Pierceville,Indiana ,RIPLEY,18,137,IN 
+47042,Versailles,Indiana ,RIPLEY,18,137,IN 
+47041,Sunman,Indiana ,RIPLEY,18,137,IN 
+47043,Vevay,Indiana ,SWITZERLAND,18,155,IN 
+47060,West Harrison,Indiana ,DEARBORN,18,029,IN 
+47104,Bethlehem,Indiana ,CLARK,18,019,IN 
+47102,Austin,Indiana ,SCOTT,18,143,IN 
+47110,Central,Indiana ,HARRISON,18,061,IN 
+47107,Bradford,Indiana ,HARRISON,18,061,IN 
+47106,Borden,Indiana ,CLARK,18,019,IN 
+47112,Corydon,Indiana ,HARRISON,18,061,IN 
+47111,Charlestown,Indiana ,CLARK,18,019,IN 
+47114,Crandall,Indiana ,HARRISON,18,061,IN 
+47115,Depauw,Indiana ,HARRISON,18,061,IN 
+47116,Eckerty,Indiana ,CRAWFORD,18,025,IN 
+47118,English,Indiana ,CRAWFORD,18,025,IN 
+47117,Elizabeth,Indiana ,HARRISON,18,061,IN 
+47108,Campbellsburg,Indiana ,WASHINGTON,18,175,IN 
+47119,Floyds Knobs,Indiana ,FLOYD,18,043,IN 
+47120,Fredericksburg,Indiana ,WASHINGTON,18,175,IN 
+47122,Georgetown,Indiana ,FLOYD,18,043,IN 
+47123,Grantsburg,Indiana ,CRAWFORD,18,025,IN 
+47129,Clarksville,Indiana ,CLARK,18,019,IN 
+47125,Hardinsburg,Indiana ,WASHINGTON,18,175,IN 
+47126,Henryville,Indiana ,CLARK,18,019,IN 
+47130,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47124,Greenville,Indiana ,FLOYD,18,043,IN 
+47131,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47132,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47133,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47136,Lanesville,Indiana ,HARRISON,18,061,IN 
+47135,Laconia,Indiana ,HARRISON,18,061,IN 
+47137,Leavenworth,Indiana ,CRAWFORD,18,025,IN 
+47134,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47140,Marengo,Indiana ,CRAWFORD,18,025,IN 
+47138,Lexington,Indiana ,SCOTT,18,143,IN 
+47141,Marysville,Indiana ,CLARK,18,019,IN 
+47143,Memphis,Indiana ,CLARK,18,019,IN 
+47142,Mauckport,Indiana ,HARRISON,18,061,IN 
+47144,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47147,Nabb,Indiana ,CLARK,18,019,IN 
+47145,Milltown,Indiana ,CRAWFORD,18,025,IN 
+47151,New Albany,Indiana ,FLOYD,18,043,IN 
+47150,New Albany,Indiana ,FLOYD,18,043,IN 
+47146,Mount Saint Francis,Indiana ,FLOYD,18,043,IN 
+47161,New Salisbury,Indiana ,HARRISON,18,061,IN 
+47160,New Middletown,Indiana ,HARRISON,18,061,IN 
+47163,Otisco,Indiana ,CLARK,18,019,IN 
+47162,New Washington,Indiana ,CLARK,18,019,IN 
+47164,Palmyra,Indiana ,HARRISON,18,061,IN 
+47165,Pekin,Indiana ,WASHINGTON,18,175,IN 
+47166,Ramsey,Indiana ,HARRISON,18,061,IN 
+47172,Sellersburg,Indiana ,CLARK,18,019,IN 
+47167,Salem,Indiana ,WASHINGTON,18,175,IN 
+47170,Scottsburg,Indiana ,SCOTT,18,143,IN 
+47174,Sulphur,Indiana ,CRAWFORD,18,025,IN 
+47175,Taswell,Indiana ,CRAWFORD,18,025,IN 
+47177,Underwood,Indiana ,SCOTT,18,143,IN 
+47199,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47190,Jeffersonville,Indiana ,CLARK,18,019,IN 
+47203,Columbus,Indiana ,BARTHOLOMEW,18,005,IN 
+47201,Columbus,Indiana ,BARTHOLOMEW,18,005,IN 
+47202,Columbus,Indiana ,BARTHOLOMEW,18,005,IN 
+47220,Brownstown,Indiana ,JACKSON,18,071,IN 
+47223,Butlerville,Indiana ,JENNINGS,18,079,IN 
+47227,Commiskey,Indiana ,JENNINGS,18,079,IN 
+47226,Clifford,Indiana ,BARTHOLOMEW,18,005,IN 
+47225,Clarksburg,Indiana ,DECATUR,18,031,IN 
+47224,Canaan,Indiana ,JEFFERSON,18,077,IN 
+47229,Crothersville,Indiana ,JACKSON,18,071,IN 
+47228,Cortland,Indiana ,JACKSON,18,071,IN 
+47231,Dupont,Indiana ,JEFFERSON,18,077,IN 
+47230,Deputy,Indiana ,JEFFERSON,18,077,IN 
+47235,Freetown,Indiana ,JACKSON,18,071,IN 
+47243,Hanover,Indiana ,JEFFERSON,18,077,IN 
+47240,Greensburg,Indiana ,DECATUR,18,031,IN 
+47232,Elizabethtown,Indiana ,BARTHOLOMEW,18,005,IN 
+47244,Hartsville,Indiana ,BARTHOLOMEW,18,005,IN 
+47236,Grammer,Indiana ,BARTHOLOMEW,18,005,IN 
+47234,Flat Rock,Indiana ,SHELBY,18,145,IN 
+47245,Hayden,Indiana ,JENNINGS,18,079,IN 
+47246,Hope,Indiana ,BARTHOLOMEW,18,005,IN 
+47263,New Point,Indiana ,DECATUR,18,031,IN 
+47249,Kurtz,Indiana ,JACKSON,18,071,IN 
+47260,Medora,Indiana ,JACKSON,18,071,IN 
+47247,Jonesville,Indiana ,BARTHOLOMEW,18,005,IN 
+47250,Madison,Indiana ,JEFFERSON,18,077,IN 
+47264,Norman,Indiana ,JACKSON,18,071,IN 
+47265,North Vernon,Indiana ,JENNINGS,18,079,IN 
+47270,Paris Crossing,Indiana ,JENNINGS,18,079,IN 
+47273,Scipio,Indiana ,JENNINGS,18,079,IN 
+47280,Taylorsville,Indiana ,BARTHOLOMEW,18,005,IN 
+47282,Vernon,Indiana ,JENNINGS,18,079,IN 
+47272,Saint Paul,Indiana ,DECATUR,18,031,IN 
+47283,Westport,Indiana ,DECATUR,18,031,IN 
+47281,Vallonia,Indiana ,JACKSON,18,071,IN 
+47274,Seymour,Indiana ,JACKSON,18,071,IN 
+47303,Muncie,Indiana ,DELAWARE,18,035,IN 
+47305,Muncie,Indiana ,DELAWARE,18,035,IN 
+47302,Muncie,Indiana ,DELAWARE,18,035,IN 
+47307,Muncie,Indiana ,DELAWARE,18,035,IN 
+47304,Muncie,Indiana ,DELAWARE,18,035,IN 
+47320,Albany,Indiana ,DELAWARE,18,035,IN 
+47308,Muncie,Indiana ,DELAWARE,18,035,IN 
+47306,Muncie,Indiana ,DELAWARE,18,035,IN 
+47324,Boston,Indiana ,WAYNE,18,177,IN 
+47325,Brownsville,Indiana ,UNION,18,161,IN 
+47330,Centerville,Indiana ,WAYNE,18,177,IN 
+47331,Connersville,Indiana ,FAYETTE,18,041,IN 
+47327,Cambridge City,Indiana ,WAYNE,18,177,IN 
+47334,Daleville,Indiana ,DELAWARE,18,035,IN 
+47326,Bryant,Indiana ,JAY,18,075,IN 
+47322,Bentonville,Indiana ,FAYETTE,18,041,IN 
+47335,Dublin,Indiana ,WAYNE,18,177,IN 
+47337,Dunreith,Indiana ,HENRY,18,065,IN 
+47338,Eaton,Indiana ,DELAWARE,18,035,IN 
+47342,Gaston,Indiana ,DELAWARE,18,035,IN 
+47336,Dunkirk,Indiana ,JAY,18,075,IN 
+47340,Farmland,Indiana ,RANDOLPH,18,135,IN 
+47341,Fountain City,Indiana ,WAYNE,18,177,IN 
+47339,Economy,Indiana ,WAYNE,18,177,IN 
+47344,Greensboro,Indiana ,HENRY,18,065,IN 
+47345,Greens Fork,Indiana ,WAYNE,18,177,IN 
+47354,Losantville,Indiana ,RANDOLPH,18,135,IN 
+47346,Hagerstown,Indiana ,WAYNE,18,177,IN 
+47348,Hartford City,Indiana ,BLACKFORD,18,009,IN 
+47353,Liberty,Indiana ,UNION,18,161,IN 
+47351,Kennard,Indiana ,HENRY,18,065,IN 
+47352,Lewisville,Indiana ,HENRY,18,065,IN 
+47356,Middletown,Indiana ,HENRY,18,065,IN 
+47355,Lynn,Indiana ,RANDOLPH,18,135,IN 
+47358,Modoc,Indiana ,RANDOLPH,18,135,IN 
+47357,Milton,Indiana ,WAYNE,18,177,IN 
+47360,Mooreland,Indiana ,HENRY,18,065,IN 
+47362,New Castle,Indiana ,HENRY,18,065,IN 
+47361,Mount Summit,Indiana ,HENRY,18,065,IN 
+47359,Montpelier,Indiana ,BLACKFORD,18,009,IN 
+47366,New Lisbon,Indiana ,HENRY,18,065,IN 
+47367,Oakville,Indiana ,DELAWARE,18,035,IN 
+47368,Parker City,Indiana ,RANDOLPH,18,135,IN 
+47369,Pennville,Indiana ,JAY,18,075,IN 
+47370,Pershing,Indiana ,WAYNE,18,177,IN 
+47373,Redkey,Indiana ,JAY,18,075,IN 
+47371,Portland,Indiana ,JAY,18,075,IN 
+47374,Richmond,Indiana ,WAYNE,18,177,IN 
+47380,Ridgeville,Indiana ,RANDOLPH,18,135,IN 
+47375,Richmond,Indiana ,WAYNE,18,177,IN 
+47382,Saratoga,Indiana ,RANDOLPH,18,135,IN 
+47381,Salamonia,Indiana ,JAY,18,075,IN 
+47386,Springport,Indiana ,HENRY,18,065,IN 
+47385,Spiceland,Indiana ,HENRY,18,065,IN 
+47388,Sulphur Springs,Indiana ,HENRY,18,065,IN 
+47384,Shirley,Indiana ,HENRY,18,065,IN 
+47383,Selma,Indiana ,DELAWARE,18,035,IN 
+47387,Straughn,Indiana ,HENRY,18,065,IN 
+47390,Union City,Indiana ,RANDOLPH,18,135,IN 
+47402,Bloomington,Indiana ,MONROE,18,105,IN 
+47392,Webster,Indiana ,WAYNE,18,177,IN 
+47394,Winchester,Indiana ,RANDOLPH,18,135,IN 
+47401,Bloomington,Indiana ,MONROE,18,105,IN 
+47393,Williamsburg,Indiana ,WAYNE,18,177,IN 
+47396,Yorktown,Indiana ,DELAWARE,18,035,IN 
+47403,Bloomington,Indiana ,MONROE,18,105,IN 
+47404,Bloomington,Indiana ,MONROE,18,105,IN 
+47407,Bloomington,Indiana ,MONROE,18,105,IN 
+47420,Avoca,Indiana ,LAWRENCE,18,093,IN 
+47406,Bloomington,Indiana ,MONROE,18,105,IN 
+47405,Bloomington,Indiana ,MONROE,18,105,IN 
+47408,Bloomington,Indiana ,MONROE,18,105,IN 
+47421,Bedford,Indiana ,LAWRENCE,18,093,IN 
+47424,Bloomfield,Indiana ,GREENE,18,055,IN 
+47426,Clear Creek,Indiana ,MONROE,18,105,IN 
+47427,Coal City,Indiana ,OWEN,18,119,IN 
+47433,Gosport,Indiana ,OWEN,18,119,IN 
+47431,Freedom,Indiana ,OWEN,18,119,IN 
+47435,Helmsburg,Indiana ,BROWN,18,013,IN 
+47429,Ellettsville,Indiana ,MONROE,18,105,IN 
+47434,Harrodsburg,Indiana ,MONROE,18,105,IN 
+47432,French Lick,Indiana ,ORANGE,18,117,IN 
+47436,Heltonville,Indiana ,LAWRENCE,18,093,IN 
+47437,Huron,Indiana ,LAWRENCE,18,093,IN 
+47445,Midland,Indiana ,GREENE,18,055,IN 
+47438,Jasonville,Indiana ,GREENE,18,055,IN 
+47443,Lyons,Indiana ,GREENE,18,055,IN 
+47446,Mitchell,Indiana ,LAWRENCE,18,093,IN 
+47441,Linton,Indiana ,GREENE,18,055,IN 
+47449,Newberry,Indiana ,GREENE,18,055,IN 
+47448,Nashville,Indiana ,BROWN,18,013,IN 
+47451,Oolitic,Indiana ,LAWRENCE,18,093,IN 
+47454,Paoli,Indiana ,ORANGE,18,117,IN 
+47452,Orleans,Indiana ,ORANGE,18,117,IN 
+47456,Quincy,Indiana ,OWEN,18,119,IN 
+47455,Patricksburg,Indiana ,OWEN,18,119,IN 
+47458,Smithville,Indiana ,MONROE,18,105,IN 
+47453,Owensburg,Indiana ,GREENE,18,055,IN 
+47457,Scotland,Indiana ,GREENE,18,055,IN 
+47459,Solsberry,Indiana ,GREENE,18,055,IN 
+47463,Stanford,Indiana ,MONROE,18,105,IN 
+47465,Switz City,Indiana ,GREENE,18,055,IN 
+47460,Spencer,Indiana ,OWEN,18,119,IN 
+47464,Stinesville,Indiana ,MONROE,18,105,IN 
+47468,Unionville,Indiana ,MONROE,18,105,IN 
+47462,Springville,Indiana ,LAWRENCE,18,093,IN 
+47467,Tunnelton,Indiana ,LAWRENCE,18,093,IN 
+47469,West Baden Springs,Indiana ,ORANGE,18,117,IN 
+47470,Williams,Indiana ,LAWRENCE,18,093,IN 
+47501,Washington,Indiana ,DAVIESS,18,027,IN 
+47471,Worthington,Indiana ,GREENE,18,055,IN 
+47513,Birdseye,Indiana ,DUBOIS,18,037,IN 
+47516,Bruceville,Indiana ,KNOX,18,083,IN 
+47514,Branchville,Indiana ,PERRY,18,123,IN 
+47512,Bicknell,Indiana ,KNOX,18,083,IN 
+47515,Bristow,Indiana ,PERRY,18,123,IN 
+47519,Cannelburg,Indiana ,DAVIESS,18,027,IN 
+47520,Cannelton,Indiana ,PERRY,18,123,IN 
+47525,Derby,Indiana ,PERRY,18,123,IN 
+47522,Crane,Indiana ,MARTIN,18,101,IN 
+47521,Celestine,Indiana ,DUBOIS,18,037,IN 
+47527,Dubois,Indiana ,DUBOIS,18,037,IN 
+47523,Dale,Indiana ,SPENCER,18,147,IN 
+47524,Decker,Indiana ,KNOX,18,083,IN 
+47528,Edwardsport,Indiana ,KNOX,18,083,IN 
+47531,Evanston,Indiana ,SPENCER,18,147,IN 
+47529,Elnora,Indiana ,DAVIESS,18,027,IN 
+47537,Gentryville,Indiana ,SPENCER,18,147,IN 
+47536,Fulda,Indiana ,SPENCER,18,147,IN 
+47532,Ferdinand,Indiana ,DUBOIS,18,037,IN 
+47535,Freelandville,Indiana ,KNOX,18,083,IN 
+47542,Huntingburg,Indiana ,DUBOIS,18,037,IN 
+47541,Holland,Indiana ,DUBOIS,18,037,IN 
+47545,Ireland,Indiana ,DUBOIS,18,037,IN 
+47546,Jasper,Indiana ,DUBOIS,18,037,IN 
+47553,Loogootee,Indiana ,MARTIN,18,101,IN 
+47547,Jasper,Indiana ,DUBOIS,18,037,IN 
+47549,Jasper,Indiana ,DUBOIS,18,037,IN 
+47552,Lincoln City,Indiana ,SPENCER,18,147,IN 
+47551,Leopold,Indiana ,PERRY,18,123,IN 
+47550,Lamar,Indiana ,SPENCER,18,147,IN 
+47556,Mariah Hill,Indiana ,SPENCER,18,147,IN 
+47564,Otwell,Indiana ,PIKE,18,125,IN 
+47561,Oaktown,Indiana ,KNOX,18,083,IN 
+47557,Monroe City,Indiana ,KNOX,18,083,IN 
+47568,Plainville,Indiana ,DAVIESS,18,027,IN 
+47562,Odon,Indiana ,DAVIESS,18,027,IN 
+47558,Montgomery,Indiana ,DAVIESS,18,027,IN 
+47567,Petersburg,Indiana ,PIKE,18,125,IN 
+47573,Ragsdale,Indiana ,KNOX,18,083,IN 
+47579,Santa Claus,Indiana ,SPENCER,18,147,IN 
+47574,Rome,Indiana ,PERRY,18,123,IN 
+47577,Saint Meinrad,Indiana ,SPENCER,18,147,IN 
+47576,Saint Croix,Indiana ,PERRY,18,123,IN 
+47580,Schnellville,Indiana ,DUBOIS,18,037,IN 
+47575,Saint Anthony,Indiana ,DUBOIS,18,037,IN 
+47581,Shoals,Indiana ,MARTIN,18,101,IN 
+47578,Sandborn,Indiana ,KNOX,18,083,IN 
+47588,Troy,Indiana ,SPENCER,18,147,IN 
+47584,Spurgeon,Indiana ,PIKE,18,125,IN 
+47591,Vincennes,Indiana ,KNOX,18,083,IN 
+47585,Stendal,Indiana ,PIKE,18,125,IN 
+47596,Westphalia,Indiana ,KNOX,18,083,IN 
+47586,Tell City,Indiana ,PERRY,18,123,IN 
+47590,Velpen,Indiana ,PIKE,18,125,IN 
+47597,Wheatland,Indiana ,KNOX,18,083,IN 
+47598,Winslow,Indiana ,PIKE,18,125,IN 
+47611,Chrisney,Indiana ,SPENCER,18,147,IN 
+47601,Boonville,Indiana ,WARRICK,18,173,IN 
+47612,Cynthiana,Indiana ,POSEY,18,129,IN 
+47610,Chandler,Indiana ,WARRICK,18,173,IN 
+47616,Griffin,Indiana ,POSEY,18,129,IN 
+47615,Grandview,Indiana ,SPENCER,18,147,IN 
+47613,Elberfeld,Indiana ,WARRICK,18,173,IN 
+47617,Hatfield,Indiana ,SPENCER,18,147,IN 
+47618,Inglefield,Indiana ,VANDERBURGH,18,163,IN 
+47630,Newburgh,Indiana ,WARRICK,18,173,IN 
+47629,Newburgh,Indiana ,WARRICK,18,173,IN 
+47633,Poseyville,Indiana ,POSEY,18,129,IN 
+47619,Lynnville,Indiana ,WARRICK,18,173,IN 
+47620,Mount Vernon,Indiana ,POSEY,18,129,IN 
+47631,New Harmony,Indiana ,POSEY,18,129,IN 
+47634,Richland,Indiana ,SPENCER,18,147,IN 
+47635,Rockport,Indiana ,SPENCER,18,147,IN 
+47637,Tennyson,Indiana ,WARRICK,18,173,IN 
+47638,Wadesville,Indiana ,POSEY,18,129,IN 
+47647,Buckskin,Indiana ,GIBSON,18,051,IN 
+47639,Haubstadt,Indiana ,GIBSON,18,051,IN 
+47648,Fort Branch,Indiana ,GIBSON,18,051,IN 
+47640,Hazleton,Indiana ,GIBSON,18,051,IN 
+47649,Francisco,Indiana ,GIBSON,18,051,IN 
+47654,Mackey,Indiana ,GIBSON,18,051,IN 
+47660,Oakland City,Indiana ,GIBSON,18,051,IN 
+47665,Owensville,Indiana ,GIBSON,18,051,IN 
+47666,Patoka,Indiana ,GIBSON,18,051,IN 
+47670,Princeton,Indiana ,GIBSON,18,051,IN 
+47683,Somerville,Indiana ,GIBSON,18,051,IN 
+47701,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47702,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47704,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47703,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47705,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47708,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47706,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47713,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47712,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47715,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47714,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47711,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47710,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47720,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47719,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47716,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47728,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47725,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47721,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47722,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47724,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47730,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47731,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47732,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47734,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47737,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47733,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47736,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47735,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47750,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47740,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47747,Evansville,Indiana ,VANDERBURGH,18,163,IN 
+47805,Terre Haute,Indiana ,VIGO,18,167,IN 
+47801,Terre Haute,Indiana ,VIGO,18,167,IN 
+47803,Terre Haute,Indiana ,VIGO,18,167,IN 
+47802,Terre Haute,Indiana ,VIGO,18,167,IN 
+47804,Terre Haute,Indiana ,VIGO,18,167,IN 
+47809,Terre Haute,Indiana ,VIGO,18,167,IN 
+47808,Terre Haute,Indiana ,VIGO,18,167,IN 
+47807,Terre Haute,Indiana ,VIGO,18,167,IN 
+47831,Blanford,Indiana ,VERMILLION,18,165,IN 
+47836,Bridgeton,Indiana ,PARKE,18,121,IN 
+47834,Brazil,Indiana ,CLAY,18,021,IN 
+47832,Bloomingdale,Indiana ,PARKE,18,121,IN 
+47833,Bowling Green,Indiana ,CLAY,18,021,IN 
+47840,Centerpoint,Indiana ,CLAY,18,021,IN 
+47838,Carlisle,Indiana ,SULLIVAN,18,153,IN 
+47837,Carbon,Indiana ,CLAY,18,021,IN 
+47846,Cory,Indiana ,CLAY,18,021,IN 
+47841,Clay City,Indiana ,CLAY,18,021,IN 
+47845,Coalmont,Indiana ,CLAY,18,021,IN 
+47847,Dana,Indiana ,VERMILLION,18,165,IN 
+47842,Clinton,Indiana ,VERMILLION,18,165,IN 
+47848,Dugger,Indiana ,SULLIVAN,18,153,IN 
+47849,Fairbanks,Indiana ,SULLIVAN,18,153,IN 
+47850,Farmersburg,Indiana ,SULLIVAN,18,153,IN 
+47851,Fontanet,Indiana ,VIGO,18,167,IN 
+47855,Hymera,Indiana ,SULLIVAN,18,153,IN 
+47854,Hillsdale,Indiana ,VERMILLION,18,165,IN 
+47852,Graysville,Indiana ,SULLIVAN,18,153,IN 
+47857,Knightsville,Indiana ,CLAY,18,021,IN 
+47853,Harmony,Indiana ,CLAY,18,021,IN 
+47858,Lewis,Indiana ,VIGO,18,167,IN 
+47859,Marshall,Indiana ,PARKE,18,121,IN 
+47860,Mecca,Indiana ,PARKE,18,121,IN 
+47863,New Goshen,Indiana ,VIGO,18,167,IN 
+47862,Montezuma,Indiana ,PARKE,18,121,IN 
+47866,Pimento,Indiana ,VIGO,18,167,IN 
+47865,Paxton,Indiana ,SULLIVAN,18,153,IN 
+47861,Merom,Indiana ,SULLIVAN,18,153,IN 
+47868,Poland,Indiana ,OWEN,18,119,IN 
+47869,Prairie Creek,Indiana ,VIGO,18,167,IN 
+47870,Prairieton,Indiana ,VIGO,18,167,IN 
+47872,Rockville,Indiana ,PARKE,18,121,IN 
+47874,Rosedale,Indiana ,PARKE,18,121,IN 
+47875,Saint Bernice,Indiana ,VERMILLION,18,165,IN 
+47878,Seelyville,Indiana ,VIGO,18,167,IN 
+47879,Shelburn,Indiana ,SULLIVAN,18,153,IN 
+47876,Saint Mary Of The Woods,Indiana ,VIGO,18,167,IN 
+47871,Riley,Indiana ,VIGO,18,167,IN 
+47880,Shepardsville,Indiana ,VIGO,18,167,IN 
+47881,Staunton,Indiana ,CLAY,18,021,IN 
+47882,Sullivan,Indiana ,SULLIVAN,18,153,IN 
+47885,West Terre Haute,Indiana ,VIGO,18,167,IN 
+47902,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47903,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47884,Universal,Indiana ,VERMILLION,18,165,IN 
+47901,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47904,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47906,West Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47905,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47907,West Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47909,Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47920,Battle Ground,Indiana ,TIPPECANOE,18,157,IN 
+47917,Ambia,Indiana ,BENTON,18,007,IN 
+47916,Alamo,Indiana ,MONTGOMERY,18,107,IN 
+47918,Attica,Indiana ,FOUNTAIN,18,045,IN 
+47921,Boswell,Indiana ,BENTON,18,007,IN 
+47922,Brook,Indiana ,NEWTON,18,111,IN 
+47924,Buck Creek,Indiana ,TIPPECANOE,18,157,IN 
+47925,Buffalo,Indiana ,WHITE,18,181,IN 
+47926,Burnettsville,Indiana ,WHITE,18,181,IN 
+47928,Cayuga,Indiana ,VERMILLION,18,165,IN 
+47929,Chalmers,Indiana ,WHITE,18,181,IN 
+47930,Clarks Hill,Indiana ,TIPPECANOE,18,157,IN 
+47932,Covington,Indiana ,FOUNTAIN,18,045,IN 
+47933,Crawfordsville,Indiana ,MONTGOMERY,18,107,IN 
+47923,Brookston,Indiana ,WHITE,18,181,IN 
+47942,Earl Park,Indiana ,BENTON,18,007,IN 
+47944,Fowler,Indiana ,BENTON,18,007,IN 
+47941,Dayton,Indiana ,TIPPECANOE,18,157,IN 
+47943,Fair Oaks,Indiana ,JASPER,18,073,IN 
+47946,Francesville,Indiana ,PULASKI,18,131,IN 
+47948,Goodland,Indiana ,NEWTON,18,111,IN 
+47949,Hillsboro,Indiana ,FOUNTAIN,18,045,IN 
+47951,Kentland,Indiana ,NEWTON,18,111,IN 
+47940,Darlington,Indiana ,MONTGOMERY,18,107,IN 
+47950,Idaville,Indiana ,WHITE,18,181,IN 
+47955,Linden,Indiana ,MONTGOMERY,18,107,IN 
+47952,Kingman,Indiana ,FOUNTAIN,18,045,IN 
+47954,Ladoga,Indiana ,MONTGOMERY,18,107,IN 
+47957,Medaryville,Indiana ,PULASKI,18,131,IN 
+47958,Mellott,Indiana ,FOUNTAIN,18,045,IN 
+47963,Morocco,Indiana ,NEWTON,18,111,IN 
+47960,Monticello,Indiana ,WHITE,18,181,IN 
+47966,Newport,Indiana ,VERMILLION,18,165,IN 
+47965,New Market,Indiana ,MONTGOMERY,18,107,IN 
+47967,New Richmond,Indiana ,MONTGOMERY,18,107,IN 
+47962,Montmorenci,Indiana ,TIPPECANOE,18,157,IN 
+47964,Mount Ayr,Indiana ,NEWTON,18,111,IN 
+47959,Monon,Indiana ,WHITE,18,181,IN 
+47968,New Ross,Indiana ,MONTGOMERY,18,107,IN 
+47970,Otterbein,Indiana ,BENTON,18,007,IN 
+47971,Oxford,Indiana ,BENTON,18,007,IN 
+47977,Remington,Indiana ,JASPER,18,073,IN 
+47975,Pine Village,Indiana ,WARREN,18,171,IN 
+47969,Newtown,Indiana ,FOUNTAIN,18,045,IN 
+47974,Perrysville,Indiana ,VERMILLION,18,165,IN 
+47978,Rensselaer,Indiana ,JASPER,18,073,IN 
+47980,Reynolds,Indiana ,WHITE,18,181,IN 
+47981,Romney,Indiana ,TIPPECANOE,18,157,IN 
+47988,Wallace,Indiana ,FOUNTAIN,18,045,IN 
+47982,State Line,Indiana ,WARREN,18,171,IN 
+47989,Waveland,Indiana ,MONTGOMERY,18,107,IN 
+47986,Templeton,Indiana ,BENTON,18,007,IN 
+47983,Stockwell,Indiana ,TIPPECANOE,18,157,IN 
+47987,Veedersburg,Indiana ,FOUNTAIN,18,045,IN 
+47990,Waynetown,Indiana ,MONTGOMERY,18,107,IN 
+47991,West Lebanon,Indiana ,WARREN,18,171,IN 
+47996,West Lafayette,Indiana ,TIPPECANOE,18,157,IN 
+47992,Westpoint,Indiana ,TIPPECANOE,18,157,IN 
+47993,Williamsport,Indiana ,WARREN,18,171,IN 
+47995,Wolcott,Indiana ,WHITE,18,181,IN 
+47994,Wingate,Indiana ,MONTGOMERY,18,107,IN 
+47997,Yeoman,Indiana ,CARROLL,18,015,IN 

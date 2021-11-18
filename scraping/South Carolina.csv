@@ -1,0 +1,534 @@
+29003,Bamberg,South Carolina ,BAMBERG,45,009,SC 
+29006,Batesburg,South Carolina ,LEXINGTON,45,063,SC 
+29002,Ballentine,South Carolina ,RICHLAND,45,079,SC 
+29001,Alcolu,South Carolina ,CLARENDON,45,027,SC 
+29009,Bethune,South Carolina ,KERSHAW,45,055,SC 
+29010,Bishopville,South Carolina ,LEE,45,061,SC 
+29014,Blackstock,South Carolina ,CHESTER,45,023,SC 
+29015,Blair,South Carolina ,FAIRFIELD,45,039,SC 
+29018,Bowman,South Carolina ,ORANGEBURG,45,075,SC 
+29030,Cameron,South Carolina ,CALHOUN,45,017,SC 
+29032,Cassatt,South Carolina ,KERSHAW,45,055,SC 
+29020,Camden,South Carolina ,KERSHAW,45,055,SC 
+29016,Blythewood,South Carolina ,RICHLAND,45,079,SC 
+29021,Camden,South Carolina ,KERSHAW,45,055,SC 
+29033,Cayce,South Carolina ,LEXINGTON,45,063,SC 
+29031,Carlisle,South Carolina ,UNION,45,087,SC 
+29041,Davis Station,South Carolina ,CLARENDON,45,027,SC 
+29038,Cope,South Carolina ,ORANGEBURG,45,075,SC 
+29037,Chappells,South Carolina ,NEWBERRY,45,071,SC 
+29039,Cordova,South Carolina ,ORANGEBURG,45,075,SC 
+29040,Dalzell,South Carolina ,SUMTER,45,085,SC 
+29044,Eastover,South Carolina ,RICHLAND,45,079,SC 
+29036,Chapin,South Carolina ,LEXINGTON,45,063,SC 
+29042,Denmark,South Carolina ,BAMBERG,45,009,SC 
+29045,Elgin,South Carolina ,KERSHAW,45,055,SC 
+29051,Gable,South Carolina ,CLARENDON,45,027,SC 
+29047,Elloree,South Carolina ,ORANGEBURG,45,075,SC 
+29048,Eutawville,South Carolina ,ORANGEBURG,45,075,SC 
+29052,Gadsden,South Carolina ,RICHLAND,45,079,SC 
+29054,Gilbert,South Carolina ,LEXINGTON,45,063,SC 
+29046,Elliott,South Carolina ,LEE,45,061,SC 
+29053,Gaston,South Carolina ,LEXINGTON,45,063,SC 
+29055,Great Falls,South Carolina ,CHESTER,45,023,SC 
+29065,Jenkinsville,South Carolina ,FAIRFIELD,45,039,SC 
+29058,Heath Springs,South Carolina ,LANCASTER,45,057,SC 
+29056,Greeleyville,South Carolina ,WILLIAMSBURG,45,089,SC 
+29061,Hopkins,South Carolina ,RICHLAND,45,079,SC 
+29062,Horatio,South Carolina ,SUMTER,45,085,SC 
+29059,Holly Hill,South Carolina ,ORANGEBURG,45,075,SC 
+29063,Irmo,South Carolina ,RICHLAND,45,079,SC 
+29067,Kershaw,South Carolina ,LANCASTER,45,057,SC 
+29071,Lexington,South Carolina ,LEXINGTON,45,063,SC 
+29074,Liberty Hill,South Carolina ,KERSHAW,45,055,SC 
+29070,Leesville,South Carolina ,LEXINGTON,45,063,SC 
+29073,Lexington,South Carolina ,LEXINGTON,45,063,SC 
+29069,Lamar,South Carolina ,DARLINGTON,45,031,SC 
+29075,Little Mountain,South Carolina ,NEWBERRY,45,071,SC 
+29072,Lexington,South Carolina ,LEXINGTON,45,063,SC 
+29078,Lugoff,South Carolina ,KERSHAW,45,055,SC 
+29079,Lydia,South Carolina ,DARLINGTON,45,031,SC 
+29080,Lynchburg,South Carolina ,LEE,45,061,SC 
+29082,Lodge,South Carolina ,COLLETON,45,029,SC 
+29102,Manning,South Carolina ,CLARENDON,45,027,SC 
+29104,Mayesville,South Carolina ,SUMTER,45,085,SC 
+29101,Mc Bee,South Carolina ,CHESTERFIELD,45,025,SC 
+29081,Ehrhardt,South Carolina ,BAMBERG,45,009,SC 
+29105,Monetta,South Carolina ,AIKEN,45,003,SC 
+29107,Neeses,South Carolina ,ORANGEBURG,45,075,SC 
+29113,Norway,South Carolina ,ORANGEBURG,45,075,SC 
+29108,Newberry,South Carolina ,NEWBERRY,45,071,SC 
+29112,North,South Carolina ,ORANGEBURG,45,075,SC 
+29114,Olanta,South Carolina ,FLORENCE,45,041,SC 
+29111,New Zion,South Carolina ,CLARENDON,45,027,SC 
+29115,Orangeburg,South Carolina ,ORANGEBURG,45,075,SC 
+29116,Orangeburg,South Carolina ,ORANGEBURG,45,075,SC 
+29117,Orangeburg,South Carolina ,ORANGEBURG,45,075,SC 
+29123,Pelion,South Carolina ,LEXINGTON,45,063,SC 
+29125,Pinewood,South Carolina ,SUMTER,45,085,SC 
+29118,Orangeburg,South Carolina ,ORANGEBURG,45,075,SC 
+29122,Peak,South Carolina ,NEWBERRY,45,071,SC 
+29126,Pomaria,South Carolina ,NEWBERRY,45,071,SC 
+29128,Rembert,South Carolina ,SUMTER,45,085,SC 
+29129,Ridge Spring,South Carolina ,SALUDA,45,081,SC 
+29127,Prosperity,South Carolina ,NEWBERRY,45,071,SC 
+29130,Ridgeway,South Carolina ,FAIRFIELD,45,039,SC 
+29133,Rowesville,South Carolina ,ORANGEBURG,45,075,SC 
+29132,Rion,South Carolina ,FAIRFIELD,45,039,SC 
+29135,Saint Matthews,South Carolina ,CALHOUN,45,017,SC 
+29137,Salley,South Carolina ,AIKEN,45,003,SC 
+29138,Saluda,South Carolina ,SALUDA,45,081,SC 
+29142,Santee,South Carolina ,ORANGEBURG,45,075,SC 
+29143,Sardinia,South Carolina ,CLARENDON,45,027,SC 
+29145,Silverstreet,South Carolina ,NEWBERRY,45,071,SC 
+29148,Summerton,South Carolina ,CLARENDON,45,027,SC 
+29147,State Park,South Carolina ,RICHLAND,45,079,SC 
+29150,Sumter,South Carolina ,SUMTER,45,085,SC 
+29146,Springfield,South Carolina ,ORANGEBURG,45,075,SC 
+29152,Shaw AFB,South Carolina ,SUMTER,45,085,SC 
+29151,Sumter,South Carolina ,SUMTER,45,085,SC 
+29153,Sumter,South Carolina ,SUMTER,45,085,SC 
+29154,Sumter,South Carolina ,SUMTER,45,085,SC 
+29160,Swansea,South Carolina ,LEXINGTON,45,063,SC 
+29161,Timmonsville,South Carolina ,FLORENCE,45,041,SC 
+29162,Turbeville,South Carolina ,CLARENDON,45,027,SC 
+29163,Vance,South Carolina ,ORANGEBURG,45,075,SC 
+29166,Ward,South Carolina ,SALUDA,45,081,SC 
+29168,Wedgefield,South Carolina ,SUMTER,45,085,SC 
+29164,Wagener,South Carolina ,AIKEN,45,003,SC 
+29169,West Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29171,West Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29170,West Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29177,White Rock,South Carolina ,RICHLAND,45,079,SC 
+29172,West Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29178,Whitmire,South Carolina ,NEWBERRY,45,071,SC 
+29180,Winnsboro,South Carolina ,FAIRFIELD,45,039,SC 
+29175,Westville,South Carolina ,KERSHAW,45,055,SC 
+29201,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29202,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29208,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29203,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29205,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29207,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29206,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29209,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29204,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29218,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29214,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29216,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29210,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29212,Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29211,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29215,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29217,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29220,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29222,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29221,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29224,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29226,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29219,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29225,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29223,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29227,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29229,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29228,Columbia,South Carolina ,LEXINGTON,45,063,SC 
+29230,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29290,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29240,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29260,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29250,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29292,Columbia,South Carolina ,RICHLAND,45,079,SC 
+29302,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29301,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29304,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29305,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29303,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29307,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29306,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29316,Boiling Springs,South Carolina ,SPARTANBURG,45,083,SC 
+29320,Arcadia,South Carolina ,SPARTANBURG,45,083,SC 
+29319,Spartanburg,South Carolina ,SPARTANBURG,45,083,SC 
+29321,Buffalo,South Carolina ,UNION,45,087,SC 
+29323,Chesnee,South Carolina ,SPARTANBURG,45,083,SC 
+29324,Clifton,South Carolina ,SPARTANBURG,45,083,SC 
+29322,Campobello,South Carolina ,SPARTANBURG,45,083,SC 
+29325,Clinton,South Carolina ,LAURENS,45,059,SC 
+29329,Converse,South Carolina ,SPARTANBURG,45,083,SC 
+29330,Cowpens,South Carolina ,SPARTANBURG,45,083,SC 
+29331,Cross Anchor,South Carolina ,SPARTANBURG,45,083,SC 
+29334,Duncan,South Carolina ,SPARTANBURG,45,083,SC 
+29335,Enoree,South Carolina ,SPARTANBURG,45,083,SC 
+29333,Drayton,South Carolina ,SPARTANBURG,45,083,SC 
+29332,Cross Hill,South Carolina ,LAURENS,45,059,SC 
+29338,Fingerville,South Carolina ,SPARTANBURG,45,083,SC 
+29336,Fairforest,South Carolina ,SPARTANBURG,45,083,SC 
+29340,Gaffney,South Carolina ,CHEROKEE,45,021,SC 
+29341,Gaffney,South Carolina ,CHEROKEE,45,021,SC 
+29342,Gaffney,South Carolina ,CHEROKEE,45,021,SC 
+29349,Inman,South Carolina ,SPARTANBURG,45,083,SC 
+29346,Glendale,South Carolina ,SPARTANBURG,45,083,SC 
+29348,Gramling,South Carolina ,SPARTANBURG,45,083,SC 
+29353,Jonesville,South Carolina ,UNION,45,087,SC 
+29351,Joanna,South Carolina ,LAURENS,45,059,SC 
+29355,Kinards,South Carolina ,NEWBERRY,45,071,SC 
+29356,Landrum,South Carolina ,SPARTANBURG,45,083,SC 
+29360,Laurens,South Carolina ,LAURENS,45,059,SC 
+29365,Lyman,South Carolina ,SPARTANBURG,45,083,SC 
+29364,Lockhart,South Carolina ,UNION,45,087,SC 
+29369,Moore,South Carolina ,SPARTANBURG,45,083,SC 
+29370,Mountville,South Carolina ,LAURENS,45,059,SC 
+29368,Mayo,South Carolina ,SPARTANBURG,45,083,SC 
+29372,Pacolet,South Carolina ,SPARTANBURG,45,083,SC 
+29373,Pacolet Mills,South Carolina ,SPARTANBURG,45,083,SC 
+29374,Pauline,South Carolina ,SPARTANBURG,45,083,SC 
+29375,Reidville,South Carolina ,SPARTANBURG,45,083,SC 
+29378,Una,South Carolina ,SPARTANBURG,45,083,SC 
+29379,Union,South Carolina ,UNION,45,087,SC 
+29376,Roebuck,South Carolina ,SPARTANBURG,45,083,SC 
+29377,Startex,South Carolina ,SPARTANBURG,45,083,SC 
+29384,Waterloo,South Carolina ,LAURENS,45,059,SC 
+29385,Wellford,South Carolina ,SPARTANBURG,45,083,SC 
+29386,White Stone,South Carolina ,SPARTANBURG,45,083,SC 
+29403,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29388,Woodruff,South Carolina ,SPARTANBURG,45,083,SC 
+29402,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29395,Jonesville,South Carolina ,UNION,45,087,SC 
+29401,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29405,North Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29404,Charleston AFB,South Carolina ,CHARLESTON,45,019,SC 
+29406,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29409,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29407,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29412,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29410,Hanahan,South Carolina ,BERKELEY,45,015,SC 
+29413,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29414,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29416,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29415,North Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29417,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29420,North Charleston,South Carolina ,DORCHESTER,45,035,SC 
+29422,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29418,North Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29419,North Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29425,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29424,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29423,Charleston,South Carolina ,CHARLESTON,45,019,SC 
+29432,Branchville,South Carolina ,ORANGEBURG,45,075,SC 
+29429,Awendaw,South Carolina ,CHARLESTON,45,019,SC 
+29426,Adams Run,South Carolina ,CHARLESTON,45,019,SC 
+29436,Cross,South Carolina ,BERKELEY,45,015,SC 
+29431,Bonneau,South Carolina ,BERKELEY,45,015,SC 
+29433,Canadys,South Carolina ,COLLETON,45,029,SC 
+29435,Cottageville,South Carolina ,COLLETON,45,029,SC 
+29434,Cordesville,South Carolina ,BERKELEY,45,015,SC 
+29438,Edisto Island,South Carolina ,COLLETON,45,029,SC 
+29437,Dorchester,South Carolina ,DORCHESTER,45,035,SC 
+29445,Goose Creek,South Carolina ,BERKELEY,45,015,SC 
+29446,Green Pond,South Carolina ,COLLETON,45,029,SC 
+29447,Grover,South Carolina ,DORCHESTER,45,035,SC 
+29442,Georgetown,South Carolina ,GEORGETOWN,45,043,SC 
+29439,Folly Beach,South Carolina ,CHARLESTON,45,019,SC 
+29440,Georgetown,South Carolina ,GEORGETOWN,45,043,SC 
+29448,Harleyville,South Carolina ,DORCHESTER,45,035,SC 
+29456,Ladson,South Carolina ,BERKELEY,45,015,SC 
+29455,Johns Island,South Carolina ,CHARLESTON,45,019,SC 
+29452,Jacksonboro,South Carolina ,COLLETON,45,029,SC 
+29450,Huger,South Carolina ,BERKELEY,45,015,SC 
+29449,Hollywood,South Carolina ,CHARLESTON,45,019,SC 
+29451,Isle Of Palms,South Carolina ,CHARLESTON,45,019,SC 
+29453,Jamestown,South Carolina ,BERKELEY,45,015,SC 
+29457,Johns Island,South Carolina ,CHARLESTON,45,019,SC 
+29458,Mc Clellanville,South Carolina ,CHARLESTON,45,019,SC 
+29469,Pinopolis,South Carolina ,BERKELEY,45,015,SC 
+29461,Moncks Corner,South Carolina ,BERKELEY,45,015,SC 
+29464,Mount Pleasant,South Carolina ,CHARLESTON,45,019,SC 
+29466,Mount Pleasant,South Carolina ,CHARLESTON,45,019,SC 
+29468,Pineville,South Carolina ,BERKELEY,45,015,SC 
+29465,Mount Pleasant,South Carolina ,CHARLESTON,45,019,SC 
+29470,Ravenel,South Carolina ,CHARLESTON,45,019,SC 
+29471,Reevesville,South Carolina ,DORCHESTER,45,035,SC 
+29476,Russellville,South Carolina ,BERKELEY,45,015,SC 
+29475,Ruffin,South Carolina ,COLLETON,45,029,SC 
+29481,Smoaks,South Carolina ,COLLETON,45,029,SC 
+29479,Saint Stephen,South Carolina ,BERKELEY,45,015,SC 
+29472,Ridgeville,South Carolina ,DORCHESTER,45,035,SC 
+29474,Round O,South Carolina ,COLLETON,45,029,SC 
+29477,Saint George,South Carolina ,DORCHESTER,45,035,SC 
+29492,Charleston,South Carolina ,BERKELEY,45,015,SC 
+29484,Summerville,South Carolina ,DORCHESTER,45,035,SC 
+29485,Summerville,South Carolina ,DORCHESTER,45,035,SC 
+29486,Summerville,South Carolina ,BERKELEY,45,015,SC 
+29482,Sullivans Island,South Carolina ,CHARLESTON,45,019,SC 
+29483,Summerville,South Carolina ,DORCHESTER,45,035,SC 
+29487,Wadmalaw Island,South Carolina ,CHARLESTON,45,019,SC 
+29488,Walterboro,South Carolina ,COLLETON,45,029,SC 
+29510,Andrews,South Carolina ,GEORGETOWN,45,043,SC 
+29501,Florence,South Carolina ,FLORENCE,45,041,SC 
+29505,Florence,South Carolina ,FLORENCE,45,041,SC 
+29502,Florence,South Carolina ,FLORENCE,45,041,SC 
+29493,Williams,South Carolina ,COLLETON,45,029,SC 
+29503,Florence,South Carolina ,FLORENCE,45,041,SC 
+29506,Florence,South Carolina ,FLORENCE,45,041,SC 
+29504,Florence,South Carolina ,FLORENCE,45,041,SC 
+29511,Aynor,South Carolina ,HORRY,45,051,SC 
+29520,Cheraw,South Carolina ,CHESTERFIELD,45,025,SC 
+29512,Bennettsville,South Carolina ,MARLBORO,45,069,SC 
+29518,Cades,South Carolina ,WILLIAMSBURG,45,089,SC 
+29519,Centenary,South Carolina ,MARION,45,067,SC 
+29526,Conway,South Carolina ,HORRY,45,051,SC 
+29516,Blenheim,South Carolina ,MARLBORO,45,069,SC 
+29525,Clio,South Carolina ,MARLBORO,45,069,SC 
+29527,Conway,South Carolina ,HORRY,45,051,SC 
+29532,Darlington,South Carolina ,DARLINGTON,45,031,SC 
+29530,Coward,South Carolina ,FLORENCE,45,041,SC 
+29528,Conway,South Carolina ,HORRY,45,051,SC 
+29541,Effingham,South Carolina ,FLORENCE,45,041,SC 
+29536,Dillon,South Carolina ,DILLON,45,033,SC 
+29540,Darlington,South Carolina ,DARLINGTON,45,031,SC 
+29543,Fork,South Carolina ,DILLON,45,033,SC 
+29544,Galivants Ferry,South Carolina ,HORRY,45,051,SC 
+29547,Hamer,South Carolina ,DILLON,45,033,SC 
+29550,Hartsville,South Carolina ,DARLINGTON,45,031,SC 
+29551,Hartsville,South Carolina ,DARLINGTON,45,031,SC 
+29555,Johnsonville,South Carolina ,FLORENCE,45,041,SC 
+29546,Gresham,South Carolina ,MARION,45,067,SC 
+29554,Hemingway,South Carolina ,WILLIAMSBURG,45,089,SC 
+29545,Green Sea,South Carolina ,HORRY,45,051,SC 
+29556,Kingstree,South Carolina ,WILLIAMSBURG,45,089,SC 
+29560,Lake City,South Carolina ,FLORENCE,45,041,SC 
+29568,Longs,South Carolina ,HORRY,45,051,SC 
+29564,Lane,South Carolina ,WILLIAMSBURG,45,089,SC 
+29563,Lake View,South Carolina ,DILLON,45,033,SC 
+29565,Latta,South Carolina ,DILLON,45,033,SC 
+29569,Loris,South Carolina ,HORRY,45,051,SC 
+29567,Little Rock,South Carolina ,DILLON,45,033,SC 
+29566,Little River,South Carolina ,HORRY,45,051,SC 
+29570,Mc Coll,South Carolina ,MARLBORO,45,069,SC 
+29578,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29575,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29576,Murrells Inlet,South Carolina ,HORRY,45,051,SC 
+29572,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29577,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29574,Mullins,South Carolina ,MARION,45,067,SC 
+29571,Marion,South Carolina ,MARION,45,067,SC 
+29579,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29580,Nesmith,South Carolina ,WILLIAMSBURG,45,089,SC 
+29581,Nichols,South Carolina ,HORRY,45,051,SC 
+29584,Patrick,South Carolina ,CHESTERFIELD,45,025,SC 
+29583,Pamplico,South Carolina ,FLORENCE,45,041,SC 
+29588,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29582,North Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29585,Pawleys Island,South Carolina ,GEORGETOWN,45,043,SC 
+29587,Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29589,Rains,South Carolina ,MARION,45,067,SC 
+29590,Salters,South Carolina ,WILLIAMSBURG,45,089,SC 
+29592,Sellers,South Carolina ,MARION,45,067,SC 
+29594,Tatum,South Carolina ,MARLBORO,45,069,SC 
+29591,Scranton,South Carolina ,FLORENCE,45,041,SC 
+29597,North Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29596,Wallace,South Carolina ,MARLBORO,45,069,SC 
+29593,Society Hill,South Carolina ,DARLINGTON,45,031,SC 
+29598,North Myrtle Beach,South Carolina ,HORRY,45,051,SC 
+29601,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29606,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29604,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29602,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29605,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29607,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29603,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29608,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29609,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29610,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29612,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29615,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29611,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29616,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29614,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29613,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29617,Greenville,South Carolina ,GREENVILLE,45,045,SC 
+29620,Abbeville,South Carolina ,ABBEVILLE,45,001,SC 
+29621,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29623,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29626,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29622,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29625,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29627,Belton,South Carolina ,ANDERSON,45,007,SC 
+29624,Anderson,South Carolina ,ANDERSON,45,007,SC 
+29630,Central,South Carolina ,PICKENS,45,077,SC 
+29628,Calhoun Falls,South Carolina ,ABBEVILLE,45,001,SC 
+29631,Clemson,South Carolina ,PICKENS,45,077,SC 
+29636,Conestee,South Carolina ,GREENVILLE,45,045,SC 
+29632,Clemson,South Carolina ,PICKENS,45,077,SC 
+29635,Cleveland,South Carolina ,GREENVILLE,45,045,SC 
+29634,Clemson,South Carolina ,PICKENS,45,077,SC 
+29638,Donalds,South Carolina ,ABBEVILLE,45,001,SC 
+29633,Clemson,South Carolina ,PICKENS,45,077,SC 
+29639,Due West,South Carolina ,ABBEVILLE,45,001,SC 
+29640,Easley,South Carolina ,PICKENS,45,077,SC 
+29642,Easley,South Carolina ,PICKENS,45,077,SC 
+29643,Fair Play,South Carolina ,OCONEE,45,073,SC 
+29646,Greenwood,South Carolina ,GREENWOOD,45,047,SC 
+29641,Easley,South Carolina ,PICKENS,45,077,SC 
+29647,Greenwood,South Carolina ,GREENWOOD,45,047,SC 
+29644,Fountain Inn,South Carolina ,GREENVILLE,45,045,SC 
+29645,Gray Court,South Carolina ,LAURENS,45,059,SC 
+29648,Greenwood,South Carolina ,GREENWOOD,45,047,SC 
+29649,Greenwood,South Carolina ,GREENWOOD,45,047,SC 
+29653,Hodges,South Carolina ,GREENWOOD,45,047,SC 
+29654,Honea Path,South Carolina ,ANDERSON,45,007,SC 
+29650,Greer,South Carolina ,GREENVILLE,45,045,SC 
+29651,Greer,South Carolina ,GREENVILLE,45,045,SC 
+29652,Greer,South Carolina ,GREENVILLE,45,045,SC 
+29656,La France,South Carolina ,ANDERSON,45,007,SC 
+29655,Iva,South Carolina ,ANDERSON,45,007,SC 
+29659,Lowndesville,South Carolina ,ABBEVILLE,45,001,SC 
+29658,Long Creek,South Carolina ,OCONEE,45,073,SC 
+29657,Liberty,South Carolina ,PICKENS,45,077,SC 
+29665,Newry,South Carolina ,OCONEE,45,073,SC 
+29662,Mauldin,South Carolina ,GREENVILLE,45,045,SC 
+29666,Ninety Six,South Carolina ,GREENWOOD,45,047,SC 
+29661,Marietta,South Carolina ,GREENVILLE,45,045,SC 
+29664,Mountain Rest,South Carolina ,OCONEE,45,073,SC 
+29671,Pickens,South Carolina ,PICKENS,45,077,SC 
+29670,Pendleton,South Carolina ,ANDERSON,45,007,SC 
+29669,Pelzer,South Carolina ,ANDERSON,45,007,SC 
+29673,Piedmont,South Carolina ,GREENVILLE,45,045,SC 
+29667,Norris,South Carolina ,PICKENS,45,077,SC 
+29675,Richland,South Carolina ,OCONEE,45,073,SC 
+29672,Seneca,South Carolina ,OCONEE,45,073,SC 
+29676,Salem,South Carolina ,OCONEE,45,073,SC 
+29677,Sandy Springs,South Carolina ,ANDERSON,45,007,SC 
+29679,Seneca,South Carolina ,OCONEE,45,073,SC 
+29683,Slater,South Carolina ,GREENVILLE,45,045,SC 
+29678,Seneca,South Carolina ,OCONEE,45,073,SC 
+29680,Simpsonville,South Carolina ,GREENVILLE,45,045,SC 
+29684,Starr,South Carolina ,ANDERSON,45,007,SC 
+29682,Six Mile,South Carolina ,PICKENS,45,077,SC 
+29681,Simpsonville,South Carolina ,GREENVILLE,45,045,SC 
+29685,Sunset,South Carolina ,PICKENS,45,077,SC 
+29686,Tamassee,South Carolina ,OCONEE,45,073,SC 
+29687,Taylors,South Carolina ,GREENVILLE,45,045,SC 
+29690,Travelers Rest,South Carolina ,GREENVILLE,45,045,SC 
+29692,Ware Shoals,South Carolina ,GREENWOOD,45,047,SC 
+29688,Tigerville,South Carolina ,GREENVILLE,45,045,SC 
+29689,Townville,South Carolina ,ANDERSON,45,007,SC 
+29691,Walhalla,South Carolina ,OCONEE,45,073,SC 
+29693,Westminster,South Carolina ,OCONEE,45,073,SC 
+29696,West Union,South Carolina ,OCONEE,45,073,SC 
+29695,Hodges,South Carolina ,GREENWOOD,45,047,SC 
+29703,Bowling Green,South Carolina ,YORK,45,091,SC 
+29702,Blacksburg,South Carolina ,CHEROKEE,45,021,SC 
+29706,Chester,South Carolina ,CHESTER,45,023,SC 
+29697,Williamston,South Carolina ,ANDERSON,45,007,SC 
+29707,Fort Mill,South Carolina ,LANCASTER,45,057,SC 
+29704,Catawba,South Carolina ,YORK,45,091,SC 
+29708,Fort Mill,South Carolina ,YORK,45,091,SC 
+29715,Fort Mill,South Carolina ,YORK,45,091,SC 
+29717,Hickory Grove,South Carolina ,YORK,45,091,SC 
+29712,Edgemoor,South Carolina ,CHESTER,45,023,SC 
+29709,Chesterfield,South Carolina ,CHESTERFIELD,45,025,SC 
+29710,Clover,South Carolina ,YORK,45,091,SC 
+29716,Fort Mill,South Carolina ,YORK,45,091,SC 
+29714,Fort Lawn,South Carolina ,CHESTER,45,023,SC 
+29722,Lancaster,South Carolina ,LANCASTER,45,057,SC 
+29726,Mc Connells,South Carolina ,YORK,45,091,SC 
+29718,Jefferson,South Carolina ,CHESTERFIELD,45,025,SC 
+29720,Lancaster,South Carolina ,LANCASTER,45,057,SC 
+29724,Lando,South Carolina ,CHESTER,45,023,SC 
+29727,Mount Croghan,South Carolina ,CHESTERFIELD,45,025,SC 
+29728,Pageland,South Carolina ,CHESTERFIELD,45,025,SC 
+29721,Lancaster,South Carolina ,LANCASTER,45,057,SC 
+29732,Rock Hill,South Carolina ,YORK,45,091,SC 
+29731,Rock Hill,South Carolina ,YORK,45,091,SC 
+29733,Rock Hill,South Carolina ,YORK,45,091,SC 
+29730,Rock Hill,South Carolina ,YORK,45,091,SC 
+29741,Ruby,South Carolina ,CHESTERFIELD,45,025,SC 
+29734,Rock Hill,South Carolina ,YORK,45,091,SC 
+29729,Richburg,South Carolina ,CHESTER,45,023,SC 
+29742,Sharon,South Carolina ,YORK,45,091,SC 
+29803,Aiken,South Carolina ,AIKEN,45,003,SC 
+29743,Smyrna,South Carolina ,YORK,45,091,SC 
+29744,Van Wyck,South Carolina ,LANCASTER,45,057,SC 
+29805,Aiken,South Carolina ,AIKEN,45,003,SC 
+29801,Aiken,South Carolina ,AIKEN,45,003,SC 
+29804,Aiken,South Carolina ,AIKEN,45,003,SC 
+29802,Aiken,South Carolina ,AIKEN,45,003,SC 
+29745,York,South Carolina ,YORK,45,091,SC 
+29810,Allendale,South Carolina ,ALLENDALE,45,005,SC 
+29808,Aiken,South Carolina ,AIKEN,45,003,SC 
+29816,Bath,South Carolina ,AIKEN,45,003,SC 
+29812,Barnwell,South Carolina ,BARNWELL,45,011,SC 
+29817,Blackville,South Carolina ,BARNWELL,45,011,SC 
+29819,Bradley,South Carolina ,GREENWOOD,45,047,SC 
+29809,New Ellenton,South Carolina ,AIKEN,45,003,SC 
+29813,Hilda,South Carolina ,BARNWELL,45,011,SC 
+29821,Clarks Hill,South Carolina ,MCCORMICK,45,065,SC 
+29824,Edgefield,South Carolina ,EDGEFIELD,45,037,SC 
+29826,Elko,South Carolina ,BARNWELL,45,011,SC 
+29822,Clearwater,South Carolina ,AIKEN,45,003,SC 
+29829,Graniteville,South Carolina ,AIKEN,45,003,SC 
+29827,Fairfax,South Carolina ,ALLENDALE,45,005,SC 
+29831,Jackson,South Carolina ,AIKEN,45,003,SC 
+29828,Gloverville,South Carolina ,AIKEN,45,003,SC 
+29832,Johnston,South Carolina ,EDGEFIELD,45,037,SC 
+29834,Langley,South Carolina ,AIKEN,45,003,SC 
+29835,Mc Cormick,South Carolina ,MCCORMICK,45,065,SC 
+29840,Mount Carmel,South Carolina ,MCCORMICK,45,065,SC 
+29836,Martin,South Carolina ,ALLENDALE,45,005,SC 
+29838,Modoc,South Carolina ,MCCORMICK,45,065,SC 
+29841,North Augusta,South Carolina ,AIKEN,45,003,SC 
+29839,Montmorenci,South Carolina ,AIKEN,45,003,SC 
+29842,Beech Island,South Carolina ,AIKEN,45,003,SC 
+29843,Olar,South Carolina ,BAMBERG,45,009,SC 
+29849,Ulmer,South Carolina ,ALLENDALE,45,005,SC 
+29845,Plum Branch,South Carolina ,MCCORMICK,45,065,SC 
+29847,Trenton,South Carolina ,EDGEFIELD,45,037,SC 
+29846,Sycamore,South Carolina ,ALLENDALE,45,005,SC 
+29844,Parksville,South Carolina ,MCCORMICK,45,065,SC 
+29848,Troy,South Carolina ,GREENWOOD,45,047,SC 
+29850,Vaucluse,South Carolina ,AIKEN,45,003,SC 
+29851,Warrenville,South Carolina ,AIKEN,45,003,SC 
+29861,North Augusta,South Carolina ,AIKEN,45,003,SC 
+29856,Windsor,South Carolina ,AIKEN,45,003,SC 
+29901,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29860,North Augusta,South Carolina ,EDGEFIELD,45,037,SC 
+29899,Mc Cormick,South Carolina ,MCCORMICK,45,065,SC 
+29853,Williston,South Carolina ,BARNWELL,45,011,SC 
+29902,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29907,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29903,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29909,Okatie,South Carolina ,BEAUFORT,45,013,SC 
+29905,Parris Island,South Carolina ,BEAUFORT,45,013,SC 
+29906,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29904,Beaufort,South Carolina ,BEAUFORT,45,013,SC 
+29910,Bluffton,South Carolina ,BEAUFORT,45,013,SC 
+29911,Brunson,South Carolina ,HAMPTON,45,049,SC 
+29912,Coosawhatchie,South Carolina ,JASPER,45,053,SC 
+29913,Crocketville,South Carolina ,HAMPTON,45,049,SC 
+29914,Dale,South Carolina ,BEAUFORT,45,013,SC 
+29920,Saint Helena Island,South Carolina ,BEAUFORT,45,013,SC 
+29918,Estill,South Carolina ,HAMPTON,45,049,SC 
+29916,Early Branch,South Carolina ,HAMPTON,45,049,SC 
+29915,Daufuskie Island,South Carolina ,BEAUFORT,45,013,SC 
+29921,Furman,South Carolina ,HAMPTON,45,049,SC 
+29922,Garnett,South Carolina ,HAMPTON,45,049,SC 
+29924,Hampton,South Carolina ,HAMPTON,45,049,SC 
+29927,Hardeeville,South Carolina ,JASPER,45,053,SC 
+29923,Gifford,South Carolina ,HAMPTON,45,049,SC 
+29928,Hilton Head Island,South Carolina ,BEAUFORT,45,013,SC 
+29925,Hilton Head Island,South Carolina ,BEAUFORT,45,013,SC 
+29926,Hilton Head Island,South Carolina ,BEAUFORT,45,013,SC 
+29929,Islandton,South Carolina ,COLLETON,45,029,SC 
+29931,Lobeco,South Carolina ,BEAUFORT,45,013,SC 
+29932,Luray,South Carolina ,HAMPTON,45,049,SC 
+29936,Ridgeland,South Carolina ,JASPER,45,053,SC 
+29933,Miley,South Carolina ,HAMPTON,45,049,SC 
+29938,Hilton Head Island,South Carolina ,BEAUFORT,45,013,SC 
+29934,Pineland,South Carolina ,JASPER,45,053,SC 
+29939,Scotia,South Carolina ,HAMPTON,45,049,SC 
+29940,Seabrook,South Carolina ,BEAUFORT,45,013,SC 
+29935,Port Royal,South Carolina ,BEAUFORT,45,013,SC 
+29941,Sheldon,South Carolina ,BEAUFORT,45,013,SC 
+29944,Varnville,South Carolina ,HAMPTON,45,049,SC 
+29945,Yemassee,South Carolina ,HAMPTON,45,049,SC 
+29943,Tillman,South Carolina ,JASPER,45,053,SC 

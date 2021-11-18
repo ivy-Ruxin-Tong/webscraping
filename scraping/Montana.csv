@@ -1,0 +1,404 @@
+59006,Ballantine,Montana ,YELLOWSTONE,30,111,MT 
+59002,Acton,Montana ,YELLOWSTONE,30,111,MT 
+59004,Ashland,Montana ,ROSEBUD,30,087,MT 
+59001,Absarokee,Montana ,STILLWATER,30,095,MT 
+59008,Belfry,Montana ,CARBON,30,009,MT 
+59010,Bighorn,Montana ,TREASURE,30,103,MT 
+59003,Ashland,Montana ,ROSEBUD,30,087,MT 
+59007,Bearcreek,Montana ,CARBON,30,009,MT 
+59013,Boyd,Montana ,CARBON,30,009,MT 
+59014,Bridger,Montana ,CARBON,30,009,MT 
+59011,Big Timber,Montana ,SWEET GRASS,30,097,MT 
+59012,Birney,Montana ,ROSEBUD,30,087,MT 
+59019,Columbus,Montana ,STILLWATER,30,095,MT 
+59015,Broadview,Montana ,YELLOWSTONE,30,111,MT 
+59018,Clyde Park,Montana ,PARK,30,067,MT 
+59016,Busby,Montana ,BIG HORN,30,003,MT 
+59020,Cooke City,Montana ,PARK,30,067,MT 
+59026,Edgar,Montana ,CARBON,30,009,MT 
+59022,Crow Agency,Montana ,BIG HORN,30,003,MT 
+59029,Fromberg,Montana ,CARBON,30,009,MT 
+59024,Custer,Montana ,YELLOWSTONE,30,111,MT 
+59028,Fishtail,Montana ,STILLWATER,30,095,MT 
+59027,Emigrant,Montana ,PARK,30,067,MT 
+59025,Decker,Montana ,BIG HORN,30,003,MT 
+59030,Gardiner,Montana ,PARK,30,067,MT 
+59031,Garryowen,Montana ,BIG HORN,30,003,MT 
+59032,Grass Range,Montana ,FERGUS,30,027,MT 
+59033,Greycliff,Montana ,SWEET GRASS,30,097,MT 
+59037,Huntley,Montana ,YELLOWSTONE,30,111,MT 
+59034,Hardin,Montana ,BIG HORN,30,003,MT 
+59035,Fort Smith,Montana ,BIG HORN,30,003,MT 
+59036,Harlowton,Montana ,WHEATLAND,30,107,MT 
+59038,Hysham,Montana ,TREASURE,30,103,MT 
+59039,Ingomar,Montana ,ROSEBUD,30,087,MT 
+59041,Joliet,Montana ,CARBON,30,009,MT 
+59044,Laurel,Montana ,YELLOWSTONE,30,111,MT 
+59043,Lame Deer,Montana ,ROSEBUD,30,087,MT 
+59050,Lodge Grass,Montana ,BIG HORN,30,003,MT 
+59046,Lavina,Montana ,GOLDEN VALLEY,30,037,MT 
+59047,Livingston,Montana ,PARK,30,067,MT 
+59052,Mc Leod,Montana ,SWEET GRASS,30,097,MT 
+59053,Martinsdale,Montana ,MEAGHER,30,059,MT 
+59054,Melstone,Montana ,MUSSELSHELL,30,065,MT 
+59057,Molt,Montana ,YELLOWSTONE,30,111,MT 
+59059,Musselshell,Montana ,MUSSELSHELL,30,065,MT 
+59061,Nye,Montana ,STILLWATER,30,095,MT 
+59058,Mosby,Montana ,GARFIELD,30,033,MT 
+59055,Melville,Montana ,SWEET GRASS,30,097,MT 
+59062,Otter,Montana ,POWDER RIVER,30,075,MT 
+59063,Park City,Montana ,STILLWATER,30,095,MT 
+59064,Pompeys Pillar,Montana ,YELLOWSTONE,30,111,MT 
+59065,Pray,Montana ,PARK,30,067,MT 
+59069,Reed Point,Montana ,STILLWATER,30,095,MT 
+59067,Rapelje,Montana ,STILLWATER,30,095,MT 
+59068,Red Lodge,Montana ,CARBON,30,009,MT 
+59070,Roberts,Montana ,CARBON,30,009,MT 
+59066,Pryor,Montana ,BIG HORN,30,003,MT 
+59074,Ryegate,Montana ,GOLDEN VALLEY,30,037,MT 
+59071,Roscoe,Montana ,CARBON,30,009,MT 
+59072,Roundup,Montana ,MUSSELSHELL,30,065,MT 
+59075,Saint Xavier,Montana ,BIG HORN,30,003,MT 
+59073,Roundup,Montana ,MUSSELSHELL,30,065,MT 
+59077,Sand Springs,Montana ,GARFIELD,30,033,MT 
+59078,Shawmut,Montana ,WHEATLAND,30,107,MT 
+59076,Sanders,Montana ,TREASURE,30,103,MT 
+59079,Shepherd,Montana ,YELLOWSTONE,30,111,MT 
+59083,Sumatra,Montana ,ROSEBUD,30,087,MT 
+59081,Silver Gate,Montana ,PARK,30,067,MT 
+59082,Springdale,Montana ,PARK,30,067,MT 
+59086,Wilsall,Montana ,PARK,30,067,MT 
+59085,Two Dot,Montana ,WHEATLAND,30,107,MT 
+59084,Teigen,Montana ,PETROLEUM,30,069,MT 
+59087,Winnett,Montana ,PETROLEUM,30,069,MT 
+59101,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59089,Wyola,Montana ,BIG HORN,30,003,MT 
+59105,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59088,Worden,Montana ,YELLOWSTONE,30,111,MT 
+59102,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59103,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59104,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59106,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59115,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59114,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59112,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59111,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59108,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59107,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59117,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59116,Billings,Montana ,YELLOWSTONE,30,111,MT 
+59201,Wolf Point,Montana ,ROOSEVELT,30,085,MT 
+59212,Bainville,Montana ,ROOSEVELT,30,085,MT 
+59217,Crane,Montana ,RICHLAND,30,083,MT 
+59213,Brockton,Montana ,ROOSEVELT,30,085,MT 
+59211,Antelope,Montana ,SHERIDAN,30,091,MT 
+59215,Circle,Montana ,MCCONE,30,055,MT 
+59218,Culbertson,Montana ,ROOSEVELT,30,085,MT 
+59214,Brockway,Montana ,MCCONE,30,055,MT 
+59219,Dagmar,Montana ,SHERIDAN,30,091,MT 
+59222,Flaxville,Montana ,DANIELS,30,019,MT 
+59226,Froid,Montana ,ROOSEVELT,30,085,MT 
+59230,Glasgow,Montana ,VALLEY,30,105,MT 
+59231,Saint Marie,Montana ,VALLEY,30,105,MT 
+59223,Fort Peck,Montana ,VALLEY,30,105,MT 
+59225,Frazer,Montana ,VALLEY,30,105,MT 
+59221,Fairview,Montana ,RICHLAND,30,083,MT 
+59240,Glentana,Montana ,VALLEY,30,105,MT 
+59241,Hinsdale,Montana ,VALLEY,30,105,MT 
+59243,Lambert,Montana ,RICHLAND,30,083,MT 
+59242,Homestead,Montana ,SHERIDAN,30,091,MT 
+59247,Medicine Lake,Montana ,SHERIDAN,30,091,MT 
+59248,Nashua,Montana ,VALLEY,30,105,MT 
+59250,Opheim,Montana ,VALLEY,30,105,MT 
+59244,Larslan,Montana ,VALLEY,30,105,MT 
+59252,Outlook,Montana ,SHERIDAN,30,091,MT 
+59254,Plentywood,Montana ,SHERIDAN,30,091,MT 
+59256,Raymond,Montana ,SHERIDAN,30,091,MT 
+59253,Peerless,Montana ,DANIELS,30,019,MT 
+59255,Poplar,Montana ,ROOSEVELT,30,085,MT 
+59257,Redstone,Montana ,SHERIDAN,30,091,MT 
+59258,Reserve,Montana ,SHERIDAN,30,091,MT 
+59259,Richey,Montana ,DAWSON,30,021,MT 
+59260,Richland,Montana ,VALLEY,30,105,MT 
+59261,Saco,Montana ,PHILLIPS,30,071,MT 
+59263,Scobey,Montana ,DANIELS,30,019,MT 
+59262,Savage,Montana ,RICHLAND,30,083,MT 
+59270,Sidney,Montana ,RICHLAND,30,083,MT 
+59274,Vida,Montana ,MCCONE,30,055,MT 
+59275,Westby,Montana ,SHERIDAN,30,091,MT 
+59276,Whitetail,Montana ,DANIELS,30,019,MT 
+59273,Vandalia,Montana ,VALLEY,30,105,MT 
+59311,Alzada,Montana ,CARTER,30,011,MT 
+59312,Angela,Montana ,ROSEBUD,30,087,MT 
+59301,Miles City,Montana ,CUSTER,30,017,MT 
+59313,Baker,Montana ,FALLON,30,025,MT 
+59315,Bloomfield,Montana ,DAWSON,30,021,MT 
+59316,Boyes,Montana ,CARTER,30,011,MT 
+59314,Biddle,Montana ,POWDER RIVER,30,075,MT 
+59317,Broadus,Montana ,POWDER RIVER,30,075,MT 
+59318,Brusett,Montana ,GARFIELD,30,033,MT 
+59322,Cohagen,Montana ,GARFIELD,30,033,MT 
+59319,Capitol,Montana ,CARTER,30,011,MT 
+59324,Ekalaka,Montana ,CARTER,30,011,MT 
+59323,Colstrip,Montana ,ROSEBUD,30,087,MT 
+59327,Forsyth,Montana ,ROSEBUD,30,087,MT 
+59326,Fallon,Montana ,PRAIRIE,30,079,MT 
+59332,Hammond,Montana ,CARTER,30,011,MT 
+59330,Glendive,Montana ,DAWSON,30,021,MT 
+59336,Ismay,Montana ,CUSTER,30,017,MT 
+59333,Hathaway,Montana ,ROSEBUD,30,087,MT 
+59337,Jordan,Montana ,GARFIELD,30,033,MT 
+59338,Kinsey,Montana ,CUSTER,30,017,MT 
+59339,Lindsay,Montana ,DAWSON,30,021,MT 
+59341,Mildred,Montana ,PRAIRIE,30,079,MT 
+59344,Plevna,Montana ,FALLON,30,025,MT 
+59343,Olive,Montana ,POWDER RIVER,30,075,MT 
+59345,Powderville,Montana ,POWDER RIVER,30,075,MT 
+59347,Rosebud,Montana ,ROSEBUD,30,087,MT 
+59349,Terry,Montana ,PRAIRIE,30,079,MT 
+59353,Wibaux,Montana ,WIBAUX,30,109,MT 
+59401,Great Falls,Montana ,CASCADE,30,013,MT 
+59402,Malmstrom AFB,Montana ,CASCADE,30,013,MT 
+59354,Willard,Montana ,FALLON,30,025,MT 
+59351,Volborg,Montana ,CUSTER,30,017,MT 
+59403,Great Falls,Montana ,CASCADE,30,013,MT 
+59404,Great Falls,Montana ,CASCADE,30,013,MT 
+59405,Great Falls,Montana ,CASCADE,30,013,MT 
+59410,Augusta,Montana ,LEWIS AND CLARK,30,049,MT 
+59406,Great Falls,Montana ,CASCADE,30,013,MT 
+59411,Babb,Montana ,GLACIER,30,035,MT 
+59417,Browning,Montana ,GLACIER,30,035,MT 
+59412,Belt,Montana ,CASCADE,30,013,MT 
+59414,Black Eagle,Montana ,CASCADE,30,013,MT 
+59416,Brady,Montana ,PONDERA,30,073,MT 
+59418,Buffalo,Montana ,FERGUS,30,027,MT 
+59420,Carter,Montana ,CHOUTEAU,30,015,MT 
+59424,Coffee Creek,Montana ,FERGUS,30,027,MT 
+59419,Bynum,Montana ,TETON,30,099,MT 
+59422,Choteau,Montana ,TETON,30,099,MT 
+59427,Cut Bank,Montana ,GLACIER,30,035,MT 
+59421,Cascade,Montana ,CASCADE,30,013,MT 
+59425,Conrad,Montana ,PONDERA,30,073,MT 
+59430,Denton,Montana ,FERGUS,30,027,MT 
+59435,Ethridge,Montana ,TOOLE,30,101,MT 
+59433,Dutton,Montana ,TETON,30,099,MT 
+59440,Floweree,Montana ,CHOUTEAU,30,015,MT 
+59434,East Glacier Park,Montana ,GLACIER,30,035,MT 
+59441,Forest Grove,Montana ,FERGUS,30,027,MT 
+59436,Fairfield,Montana ,TETON,30,099,MT 
+59432,Dupuyer,Montana ,PONDERA,30,073,MT 
+59442,Fort Benton,Montana ,CHOUTEAU,30,015,MT 
+59447,Geyser,Montana ,JUDITH BASIN,30,045,MT 
+59451,Hilger,Montana ,FERGUS,30,027,MT 
+59448,Heart Butte,Montana ,PONDERA,30,073,MT 
+59444,Galata,Montana ,TOOLE,30,101,MT 
+59446,Geraldine,Montana ,CHOUTEAU,30,015,MT 
+59443,Fort Shaw,Montana ,CASCADE,30,013,MT 
+59450,Highwood,Montana ,CHOUTEAU,30,015,MT 
+59452,Hobson,Montana ,JUDITH BASIN,30,045,MT 
+59454,Kevin,Montana ,TOOLE,30,101,MT 
+59456,Ledger,Montana ,PONDERA,30,073,MT 
+59461,Lothair,Montana ,LIBERTY,30,051,MT 
+59457,Lewistown,Montana ,FERGUS,30,027,MT 
+59462,Moccasin,Montana ,JUDITH BASIN,30,045,MT 
+59460,Loma,Montana ,CHOUTEAU,30,015,MT 
+59463,Monarch,Montana ,CASCADE,30,013,MT 
+59453,Judith Gap,Montana ,WHEATLAND,30,107,MT 
+59472,Sand Coulee,Montana ,CASCADE,30,013,MT 
+59469,Raynesford,Montana ,JUDITH BASIN,30,045,MT 
+59466,Oilmont,Montana ,TOOLE,30,101,MT 
+59471,Roy,Montana ,FERGUS,30,027,MT 
+59467,Pendroy,Montana ,TETON,30,099,MT 
+59468,Power,Montana ,TETON,30,099,MT 
+59465,Neihart,Montana ,CASCADE,30,013,MT 
+59464,Moore,Montana ,FERGUS,30,027,MT 
+59484,Sweet Grass,Montana ,TOOLE,30,101,MT 
+59479,Stanford,Montana ,JUDITH BASIN,30,045,MT 
+59474,Shelby,Montana ,TOOLE,30,101,MT 
+59480,Stockett,Montana ,CASCADE,30,013,MT 
+59482,Sunburst,Montana ,TOOLE,30,101,MT 
+59477,Simms,Montana ,CASCADE,30,013,MT 
+59483,Sun River,Montana ,CASCADE,30,013,MT 
+59485,Ulm,Montana ,CASCADE,30,013,MT 
+59486,Valier,Montana ,PONDERA,30,073,MT 
+59521,Box Elder,Montana ,HILL,30,041,MT 
+59487,Vaughn,Montana ,CASCADE,30,013,MT 
+59501,Havre,Montana ,HILL,30,041,MT 
+59522,Chester,Montana ,LIBERTY,30,051,MT 
+59520,Big Sandy,Montana ,CHOUTEAU,30,015,MT 
+59523,Chinook,Montana ,BLAINE,30,005,MT 
+59489,Winifred,Montana ,FERGUS,30,027,MT 
+59528,Hingham,Montana ,HILL,30,041,MT 
+59524,Dodson,Montana ,PHILLIPS,30,071,MT 
+59525,Gildford,Montana ,HILL,30,041,MT 
+59529,Hogeland,Montana ,BLAINE,30,005,MT 
+59526,Harlem,Montana ,BLAINE,30,005,MT 
+59527,Hays,Montana ,BLAINE,30,005,MT 
+59530,Inverness,Montana ,HILL,30,041,MT 
+59531,Joplin,Montana ,LIBERTY,30,051,MT 
+59542,Turner,Montana ,BLAINE,30,005,MT 
+59537,Loring,Montana ,PHILLIPS,30,071,MT 
+59545,Whitlash,Montana ,LIBERTY,30,051,MT 
+59544,Whitewater,Montana ,PHILLIPS,30,071,MT 
+59535,Lloyd,Montana ,BLAINE,30,005,MT 
+59532,Kremlin,Montana ,HILL,30,041,MT 
+59538,Malta,Montana ,PHILLIPS,30,071,MT 
+59540,Rudyard,Montana ,HILL,30,041,MT 
+59602,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59601,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59546,Zortman,Montana ,PHILLIPS,30,071,MT 
+59623,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59547,Zurich,Montana ,BLAINE,30,005,MT 
+59624,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59604,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59620,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59626,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59636,Fort Harrison,Montana ,LEWIS AND CLARK,30,049,MT 
+59634,Clancy,Montana ,JEFFERSON,30,043,MT 
+59625,Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59635,East Helena,Montana ,LEWIS AND CLARK,30,049,MT 
+59633,Canyon Creek,Montana ,LEWIS AND CLARK,30,049,MT 
+59631,Basin,Montana ,JEFFERSON,30,043,MT 
+59632,Boulder,Montana ,JEFFERSON,30,043,MT 
+59638,Jefferson City,Montana ,JEFFERSON,30,043,MT 
+59644,Townsend,Montana ,BROADWATER,30,007,MT 
+59643,Toston,Montana ,BROADWATER,30,007,MT 
+59641,Radersburg,Montana ,BROADWATER,30,007,MT 
+59645,White Sulphur Springs,Montana ,MEAGHER,30,059,MT 
+59639,Lincoln,Montana ,LEWIS AND CLARK,30,049,MT 
+59640,Marysville,Montana ,LEWIS AND CLARK,30,049,MT 
+59642,Ringling,Montana ,MEAGHER,30,059,MT 
+59647,Winston,Montana ,BROADWATER,30,007,MT 
+59648,Wolf Creek,Montana ,LEWIS AND CLARK,30,049,MT 
+59703,Butte,Montana ,SILVER BOW,30,093,MT 
+59702,Butte,Montana ,SILVER BOW,30,093,MT 
+59701,Butte,Montana ,SILVER BOW,30,093,MT 
+59707,Butte,Montana ,SILVER BOW,30,093,MT 
+59710,Alder,Montana ,MADISON,30,057,MT 
+59711,Anaconda,Montana ,DEER LODGE,30,023,MT 
+59713,Avon,Montana ,POWELL,30,077,MT 
+59714,Belgrade,Montana ,GALLATIN,30,031,MT 
+59715,Bozeman,Montana ,GALLATIN,30,031,MT 
+59716,Big Sky,Montana ,GALLATIN,30,031,MT 
+59718,Bozeman,Montana ,GALLATIN,30,031,MT 
+59719,Bozeman,Montana ,GALLATIN,30,031,MT 
+59717,Bozeman,Montana ,GALLATIN,30,031,MT 
+59720,Cameron,Montana ,MADISON,30,057,MT 
+59721,Cardwell,Montana ,JEFFERSON,30,043,MT 
+59722,Deer Lodge,Montana ,POWELL,30,077,MT 
+59724,Dell,Montana ,BEAVERHEAD,30,001,MT 
+59728,Elliston,Montana ,POWELL,30,077,MT 
+59729,Ennis,Montana ,MADISON,30,057,MT 
+59731,Garrison,Montana ,POWELL,30,077,MT 
+59727,Divide,Montana ,SILVER BOW,30,093,MT 
+59732,Glen,Montana ,BEAVERHEAD,30,001,MT 
+59730,Gallatin Gateway,Montana ,GALLATIN,30,031,MT 
+59725,Dillon,Montana ,BEAVERHEAD,30,001,MT 
+59733,Gold Creek,Montana ,POWELL,30,077,MT 
+59735,Harrison,Montana ,MADISON,30,057,MT 
+59741,Manhattan,Montana ,GALLATIN,30,031,MT 
+59740,Mc Allister,Montana ,MADISON,30,057,MT 
+59739,Lima,Montana ,BEAVERHEAD,30,001,MT 
+59743,Melrose,Montana ,SILVER BOW,30,093,MT 
+59736,Jackson,Montana ,BEAVERHEAD,30,001,MT 
+59745,Norris,Montana ,MADISON,30,057,MT 
+59746,Polaris,Montana ,BEAVERHEAD,30,001,MT 
+59751,Silver Star,Montana ,MADISON,30,057,MT 
+59754,Twin Bridges,Montana ,MADISON,30,057,MT 
+59749,Sheridan,Montana ,MADISON,30,057,MT 
+59747,Pony,Montana ,MADISON,30,057,MT 
+59752,Three Forks,Montana ,GALLATIN,30,031,MT 
+59750,Butte,Montana ,SILVER BOW,30,093,MT 
+59748,Ramsay,Montana ,SILVER BOW,30,093,MT 
+59755,Virginia City,Montana ,MADISON,30,057,MT 
+59760,Willow Creek,Montana ,GALLATIN,30,031,MT 
+59761,Wisdom,Montana ,BEAVERHEAD,30,001,MT 
+59762,Wise River,Montana ,BEAVERHEAD,30,001,MT 
+59758,West Yellowstone,Montana ,GALLATIN,30,031,MT 
+59756,Warm Springs,Montana ,DEER LODGE,30,023,MT 
+59759,Whitehall,Montana ,JEFFERSON,30,043,MT 
+59771,Bozeman,Montana ,GALLATIN,30,031,MT 
+59772,Bozeman,Montana ,GALLATIN,30,031,MT 
+59803,Missoula,Montana ,MISSOULA,30,063,MT 
+59801,Missoula,Montana ,MISSOULA,30,063,MT 
+59812,Missoula,Montana ,MISSOULA,30,063,MT 
+59802,Missoula,Montana ,MISSOULA,30,063,MT 
+59804,Missoula,Montana ,MISSOULA,30,063,MT 
+59806,Missoula,Montana ,MISSOULA,30,063,MT 
+59808,Missoula,Montana ,MISSOULA,30,063,MT 
+59807,Missoula,Montana ,MISSOULA,30,063,MT 
+59820,Alberton,Montana ,MINERAL,30,061,MT 
+59828,Corvallis,Montana ,RAVALLI,30,081,MT 
+59821,Arlee,Montana ,LAKE,30,047,MT 
+59827,Conner,Montana ,RAVALLI,30,081,MT 
+59824,Charlo,Montana ,LAKE,30,047,MT 
+59826,Condon,Montana ,MISSOULA,30,063,MT 
+59825,Clinton,Montana ,MISSOULA,30,063,MT 
+59823,Bonner,Montana ,MISSOULA,30,063,MT 
+59830,De Borgia,Montana ,MINERAL,30,061,MT 
+59835,Grantsdale,Montana ,RAVALLI,30,081,MT 
+59833,Florence,Montana ,RAVALLI,30,081,MT 
+59831,Dixon,Montana ,SANDERS,30,089,MT 
+59829,Darby,Montana ,RAVALLI,30,081,MT 
+59837,Hall,Montana ,GRANITE,30,039,MT 
+59834,Frenchtown,Montana ,MISSOULA,30,063,MT 
+59832,Drummond,Montana ,GRANITE,30,039,MT 
+59847,Lolo,Montana ,MISSOULA,30,063,MT 
+59841,Pinesdale,Montana ,RAVALLI,30,081,MT 
+59840,Hamilton,Montana ,RAVALLI,30,081,MT 
+59844,Heron,Montana ,SANDERS,30,089,MT 
+59845,Hot Springs,Montana ,SANDERS,30,089,MT 
+59842,Haugan,Montana ,MINERAL,30,061,MT 
+59843,Helmville,Montana ,POWELL,30,077,MT 
+59846,Huson,Montana ,MISSOULA,30,063,MT 
+59855,Pablo,Montana ,LAKE,30,047,MT 
+59848,Lonepine,Montana ,SANDERS,30,089,MT 
+59859,Plains,Montana ,SANDERS,30,089,MT 
+59856,Paradise,Montana ,SANDERS,30,089,MT 
+59851,Milltown,Montana ,MISSOULA,30,063,MT 
+59853,Noxon,Montana ,SANDERS,30,089,MT 
+59854,Ovando,Montana ,POWELL,30,077,MT 
+59858,Philipsburg,Montana ,GRANITE,30,039,MT 
+59860,Polson,Montana ,LAKE,30,047,MT 
+59865,Saint Ignatius,Montana ,LAKE,30,047,MT 
+59864,Ronan,Montana ,LAKE,30,047,MT 
+59863,Ravalli,Montana ,LAKE,30,047,MT 
+59866,Saint Regis,Montana ,MINERAL,30,061,MT 
+59867,Saltese,Montana ,MINERAL,30,061,MT 
+59870,Stevensville,Montana ,RAVALLI,30,081,MT 
+59868,Seeley Lake,Montana ,MISSOULA,30,063,MT 
+59871,Sula,Montana ,RAVALLI,30,081,MT 
+59901,Kalispell,Montana ,FLATHEAD,30,029,MT 
+59872,Superior,Montana ,MINERAL,30,061,MT 
+59904,Kalispell,Montana ,FLATHEAD,30,029,MT 
+59873,Thompson Falls,Montana ,SANDERS,30,089,MT 
+59875,Victor,Montana ,RAVALLI,30,081,MT 
+59903,Kalispell,Montana ,FLATHEAD,30,029,MT 
+59874,Trout Creek,Montana ,SANDERS,30,089,MT 
+59910,Big Arm,Montana ,LAKE,30,047,MT 
+59913,Coram,Montana ,FLATHEAD,30,029,MT 
+59915,Elmo,Montana ,LAKE,30,047,MT 
+59911,Bigfork,Montana ,FLATHEAD,30,029,MT 
+59914,Dayton,Montana ,LAKE,30,047,MT 
+59912,Columbia Falls,Montana ,FLATHEAD,30,029,MT 
+59916,Essex,Montana ,FLATHEAD,30,029,MT 
+59917,Eureka,Montana ,LINCOLN,30,053,MT 
+59918,Fortine,Montana ,LINCOLN,30,053,MT 
+59923,Libby,Montana ,LINCOLN,30,053,MT 
+59920,Kila,Montana ,FLATHEAD,30,029,MT 
+59927,Olney,Montana ,FLATHEAD,30,029,MT 
+59925,Marion,Montana ,FLATHEAD,30,029,MT 
+59926,Martin City,Montana ,FLATHEAD,30,029,MT 
+59921,Lake Mc Donald,Montana ,FLATHEAD,30,029,MT 
+59919,Hungry Horse,Montana ,FLATHEAD,30,029,MT 
+59922,Lakeside,Montana ,FLATHEAD,30,029,MT 
+59928,Polebridge,Montana ,FLATHEAD,30,029,MT 
+59931,Rollins,Montana ,LAKE,30,047,MT 
+59929,Proctor,Montana ,LAKE,30,047,MT 
+59933,Stryker,Montana ,LINCOLN,30,053,MT 
+59932,Somers,Montana ,FLATHEAD,30,029,MT 
+59930,Rexford,Montana ,LINCOLN,30,053,MT 
+59934,Trego,Montana ,LINCOLN,30,053,MT 
+59935,Troy,Montana ,LINCOLN,30,053,MT 
+59936,West Glacier,Montana ,FLATHEAD,30,029,MT 
+59937,Whitefish,Montana ,FLATHEAD,30,029,MT 

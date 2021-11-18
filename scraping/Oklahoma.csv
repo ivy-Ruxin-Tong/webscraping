@@ -1,0 +1,764 @@
+73005,Anadarko,Oklahoma ,CADDO,40,015,OK 
+73002,Alex,Oklahoma ,GRADY,40,051,OK 
+73001,Albert,Oklahoma ,CADDO,40,015,OK 
+73004,Amber,Oklahoma ,GRADY,40,051,OK 
+73007,Arcadia,Oklahoma ,OKLAHOMA,40,109,OK 
+73003,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73008,Bethany,Oklahoma ,OKLAHOMA,40,109,OK 
+73006,Apache,Oklahoma ,CADDO,40,015,OK 
+73009,Binger,Oklahoma ,CADDO,40,015,OK 
+73012,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73015,Carnegie,Oklahoma ,CADDO,40,015,OK 
+73013,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73010,Blanchard,Oklahoma ,MCCLAIN,40,087,OK 
+73011,Bradley,Oklahoma ,GRADY,40,051,OK 
+73014,Calumet,Oklahoma ,CANADIAN,40,017,OK 
+73016,Cashion,Oklahoma ,KINGFISHER,40,073,OK 
+73017,Cement,Oklahoma ,CADDO,40,015,OK 
+73018,Chickasha,Oklahoma ,GRADY,40,051,OK 
+73019,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73022,Concho,Oklahoma ,CANADIAN,40,017,OK 
+73021,Colony,Oklahoma ,WASHITA,40,149,OK 
+73024,Corn,Oklahoma ,WASHITA,40,149,OK 
+73023,Chickasha,Oklahoma ,GRADY,40,051,OK 
+73020,Choctaw,Oklahoma ,OKLAHOMA,40,109,OK 
+73029,Cyril,Oklahoma ,CADDO,40,015,OK 
+73026,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73025,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73032,Dougherty,Oklahoma ,MURRAY,40,099,OK 
+73027,Coyle,Oklahoma ,LOGAN,40,083,OK 
+73030,Davis,Oklahoma ,MURRAY,40,099,OK 
+73031,Dibble,Oklahoma ,MCCLAIN,40,087,OK 
+73028,Crescent,Oklahoma ,LOGAN,40,083,OK 
+73033,Eakly,Oklahoma ,CADDO,40,015,OK 
+73034,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73039,Davis,Oklahoma ,MURRAY,40,099,OK 
+73038,Fort Cobb,Oklahoma ,CADDO,40,015,OK 
+73042,Gracemont,Oklahoma ,CADDO,40,015,OK 
+73036,El Reno,Oklahoma ,CANADIAN,40,017,OK 
+73040,Geary,Oklahoma ,BLAINE,40,011,OK 
+73041,Gotebo,Oklahoma ,KIOWA,40,075,OK 
+73043,Greenfield,Oklahoma ,BLAINE,40,011,OK 
+73051,Lexington,Oklahoma ,CLEVELAND,40,027,OK 
+73044,Guthrie,Oklahoma ,LOGAN,40,083,OK 
+73049,Jones,Oklahoma ,OKLAHOMA,40,109,OK 
+73045,Harrah,Oklahoma ,OKLAHOMA,40,109,OK 
+73050,Langston,Oklahoma ,LOGAN,40,083,OK 
+73048,Hydro,Oklahoma ,CADDO,40,015,OK 
+73047,Hinton,Oklahoma ,CADDO,40,015,OK 
+73052,Lindsay,Oklahoma ,GARVIN,40,049,OK 
+73055,Marlow,Oklahoma ,STEPHENS,40,137,OK 
+73056,Marshall,Oklahoma ,LOGAN,40,083,OK 
+73058,Meridian,Oklahoma ,LOGAN,40,083,OK 
+73057,Maysville,Oklahoma ,GARVIN,40,049,OK 
+73053,Lookeba,Oklahoma ,CADDO,40,015,OK 
+73054,Luther,Oklahoma ,OKLAHOMA,40,109,OK 
+73059,Minco,Oklahoma ,GRADY,40,051,OK 
+73061,Morrison,Oklahoma ,NOBLE,40,103,OK 
+73063,Mulhall,Oklahoma ,LOGAN,40,083,OK 
+73068,Noble,Oklahoma ,CLEVELAND,40,027,OK 
+73064,Mustang,Oklahoma ,CANADIAN,40,017,OK 
+73065,Newcastle,Oklahoma ,MCCLAIN,40,087,OK 
+73069,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73062,Mountain View,Oklahoma ,KIOWA,40,075,OK 
+73067,Ninnekah,Oklahoma ,GRADY,40,051,OK 
+73066,Nicoma Park,Oklahoma ,OKLAHOMA,40,109,OK 
+73070,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73071,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73075,Pauls Valley,Oklahoma ,GARVIN,40,049,OK 
+73078,Piedmont,Oklahoma ,CANADIAN,40,017,OK 
+73074,Paoli,Oklahoma ,GARVIN,40,049,OK 
+73072,Norman,Oklahoma ,CLEVELAND,40,027,OK 
+73073,Orlando,Oklahoma ,LOGAN,40,083,OK 
+73077,Perry,Oklahoma ,NOBLE,40,103,OK 
+73079,Pocasset,Oklahoma ,GRADY,40,051,OK 
+73080,Purcell,Oklahoma ,MCCLAIN,40,087,OK 
+73082,Rush Springs,Oklahoma ,GRADY,40,051,OK 
+73086,Sulphur,Oklahoma ,MURRAY,40,099,OK 
+73083,Edmond,Oklahoma ,OKLAHOMA,40,109,OK 
+73085,Yukon,Oklahoma ,CANADIAN,40,017,OK 
+73089,Tuttle,Oklahoma ,GRADY,40,051,OK 
+73084,Spencer,Oklahoma ,OKLAHOMA,40,109,OK 
+73090,Union City,Oklahoma ,CANADIAN,40,017,OK 
+73097,Wheatland,Oklahoma ,OKLAHOMA,40,109,OK 
+73096,Weatherford,Oklahoma ,CUSTER,40,039,OK 
+73093,Washington,Oklahoma ,MCCLAIN,40,087,OK 
+73098,Wynnewood,Oklahoma ,GARVIN,40,049,OK 
+73092,Verden,Oklahoma ,GRADY,40,051,OK 
+73099,Yukon,Oklahoma ,CANADIAN,40,017,OK 
+73101,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73095,Wayne,Oklahoma ,MCCLAIN,40,087,OK 
+73107,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73104,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73108,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73109,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73102,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73105,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73103,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73106,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73111,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73117,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73115,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73110,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73116,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73114,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73113,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73112,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73118,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73123,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73125,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73119,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73124,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73122,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73120,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73121,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73126,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73129,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73132,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73131,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73134,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73128,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73127,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73130,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73135,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73143,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73140,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73141,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73137,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73139,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73136,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73142,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73144,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73145,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73145,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73148,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73150,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73146,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73147,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73149,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73151,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73152,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73153,Oklahoma City,Oklahoma ,CLEVELAND,40,027,OK 
+73155,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73157,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73159,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73154,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73156,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73160,Oklahoma City,Oklahoma ,CLEVELAND,40,027,OK 
+73162,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73169,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73164,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73170,Oklahoma City,Oklahoma ,CLEVELAND,40,027,OK 
+73172,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73165,Oklahoma City,Oklahoma ,CLEVELAND,40,027,OK 
+73163,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73167,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73173,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73178,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73195,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73179,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73190,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73194,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73184,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73196,Oklahoma City,Oklahoma ,OKLAHOMA,40,109,OK 
+73189,Oklahoma City,Oklahoma ,CLEVELAND,40,027,OK 
+73401,Ardmore,Oklahoma ,CARTER,40,019,OK 
+73403,Ardmore,Oklahoma ,CARTER,40,019,OK 
+73432,Coleman,Oklahoma ,JOHNSTON,40,069,OK 
+73402,Ardmore,Oklahoma ,CARTER,40,019,OK 
+73434,Foster,Oklahoma ,STEPHENS,40,137,OK 
+73430,Burneyville,Oklahoma ,LOVE,40,085,OK 
+73433,Elmore City,Oklahoma ,GARVIN,40,049,OK 
+73425,Countyline,Oklahoma ,STEPHENS,40,137,OK 
+73435,Fox,Oklahoma ,CARTER,40,019,OK 
+73441,Leon,Oklahoma ,LOVE,40,085,OK 
+73442,Loco,Oklahoma ,STEPHENS,40,137,OK 
+73439,Kingston,Oklahoma ,MARSHALL,40,095,OK 
+73436,Gene Autry,Oklahoma ,CARTER,40,019,OK 
+73440,Lebanon,Oklahoma ,MARSHALL,40,095,OK 
+73438,Healdton,Oklahoma ,CARTER,40,019,OK 
+73437,Graham,Oklahoma ,CARTER,40,019,OK 
+73443,Lone Grove,Oklahoma ,CARTER,40,019,OK 
+73446,Madill,Oklahoma ,MARSHALL,40,095,OK 
+73448,Marietta,Oklahoma ,LOVE,40,085,OK 
+73444,Hennepin,Oklahoma ,CARTER,40,019,OK 
+73447,Mannsville,Oklahoma ,JOHNSTON,40,069,OK 
+73449,Mead,Oklahoma ,BRYAN,40,013,OK 
+73450,Milburn,Oklahoma ,JOHNSTON,40,069,OK 
+73453,Overbrook,Oklahoma ,LOVE,40,085,OK 
+73455,Ravia,Oklahoma ,JOHNSTON,40,069,OK 
+73456,Ringling,Oklahoma ,JEFFERSON,40,067,OK 
+73458,Springer,Oklahoma ,CARTER,40,019,OK 
+73487,Tatums,Oklahoma ,CARTER,40,019,OK 
+73460,Tishomingo,Oklahoma ,JOHNSTON,40,069,OK 
+73459,Thackerville,Oklahoma ,LOVE,40,085,OK 
+73461,Wapanucka,Oklahoma ,JOHNSTON,40,069,OK 
+73481,Ratliff City,Oklahoma ,CARTER,40,019,OK 
+73463,Wilson,Oklahoma ,CARTER,40,019,OK 
+73488,Tussy,Oklahoma ,CARTER,40,019,OK 
+73491,Velma,Oklahoma ,STEPHENS,40,137,OK 
+73501,Lawton,Oklahoma ,COMANCHE,40,031,OK 
+73502,Lawton,Oklahoma ,COMANCHE,40,031,OK 
+73505,Lawton,Oklahoma ,COMANCHE,40,031,OK 
+73506,Lawton,Oklahoma ,COMANCHE,40,031,OK 
+73507,Lawton,Oklahoma ,COMANCHE,40,031,OK 
+73503,Fort Sill,Oklahoma ,COMANCHE,40,031,OK 
+73520,Addington,Oklahoma ,JEFFERSON,40,067,OK 
+73521,Altus,Oklahoma ,JACKSON,40,065,OK 
+73526,Blair,Oklahoma ,JACKSON,40,065,OK 
+73529,Comanche,Oklahoma ,STEPHENS,40,137,OK 
+73523,Altus AFB,Oklahoma ,JACKSON,40,065,OK 
+73527,Cache,Oklahoma ,COMANCHE,40,031,OK 
+73530,Davidson,Oklahoma ,TILLMAN,40,141,OK 
+73528,Chattanooga,Oklahoma ,COMANCHE,40,031,OK 
+73522,Altus,Oklahoma ,JACKSON,40,065,OK 
+73531,Devol,Oklahoma ,COTTON,40,033,OK 
+73538,Elgin,Oklahoma ,COMANCHE,40,031,OK 
+73532,Duke,Oklahoma ,JACKSON,40,065,OK 
+73534,Duncan,Oklahoma ,STEPHENS,40,137,OK 
+73536,Duncan,Oklahoma ,STEPHENS,40,137,OK 
+73539,Elmer,Oklahoma ,JACKSON,40,065,OK 
+73540,Faxon,Oklahoma ,COMANCHE,40,031,OK 
+73533,Duncan,Oklahoma ,STEPHENS,40,137,OK 
+73537,Eldorado,Oklahoma ,JACKSON,40,065,OK 
+73541,Fletcher,Oklahoma ,COMANCHE,40,031,OK 
+73543,Geronimo,Oklahoma ,COMANCHE,40,031,OK 
+73549,Headrick,Oklahoma ,JACKSON,40,065,OK 
+73547,Granite,Oklahoma ,GREER,40,055,OK 
+73542,Frederick,Oklahoma ,TILLMAN,40,141,OK 
+73546,Grandfield,Oklahoma ,TILLMAN,40,141,OK 
+73544,Gould,Oklahoma ,HARMON,40,057,OK 
+73548,Hastings,Oklahoma ,JEFFERSON,40,067,OK 
+73555,Manitou,Oklahoma ,TILLMAN,40,141,OK 
+73550,Hollis,Oklahoma ,HARMON,40,057,OK 
+73553,Loveland,Oklahoma ,TILLMAN,40,141,OK 
+73552,Indiahoma,Oklahoma ,COMANCHE,40,031,OK 
+73556,Martha,Oklahoma ,JACKSON,40,065,OK 
+73557,Medicine Park,Oklahoma ,COMANCHE,40,031,OK 
+73554,Mangum,Oklahoma ,GREER,40,055,OK 
+73551,Hollister,Oklahoma ,TILLMAN,40,141,OK 
+73561,Oscar,Oklahoma ,JEFFERSON,40,067,OK 
+73560,Olustee,Oklahoma ,JACKSON,40,065,OK 
+73558,Meers,Oklahoma ,COMANCHE,40,031,OK 
+73565,Ryan,Oklahoma ,JEFFERSON,40,067,OK 
+73566,Snyder,Oklahoma ,KIOWA,40,075,OK 
+73564,Roosevelt,Oklahoma ,KIOWA,40,075,OK 
+73562,Randlett,Oklahoma ,COTTON,40,033,OK 
+73559,Mountain Park,Oklahoma ,KIOWA,40,075,OK 
+73567,Sterling,Oklahoma ,COMANCHE,40,031,OK 
+73569,Terral,Oklahoma ,JEFFERSON,40,067,OK 
+73572,Walters,Oklahoma ,COTTON,40,033,OK 
+73570,Tipton,Oklahoma ,TILLMAN,40,141,OK 
+73601,Clinton,Oklahoma ,CUSTER,40,039,OK 
+73568,Temple,Oklahoma ,COTTON,40,033,OK 
+73571,Vinson,Oklahoma ,HARMON,40,057,OK 
+73573,Waurika,Oklahoma ,JEFFERSON,40,067,OK 
+73624,Burns Flat,Oklahoma ,WASHITA,40,149,OK 
+73622,Bessie,Oklahoma ,WASHITA,40,149,OK 
+73625,Butler,Oklahoma ,CUSTER,40,039,OK 
+73627,Carter,Oklahoma ,BECKHAM,40,009,OK 
+73632,Cordell,Oklahoma ,WASHITA,40,149,OK 
+73620,Arapaho,Oklahoma ,CUSTER,40,039,OK 
+73626,Canute,Oklahoma ,WASHITA,40,149,OK 
+73628,Cheyenne,Oklahoma ,ROGER MILLS,40,129,OK 
+73638,Crawford,Oklahoma ,ROGER MILLS,40,129,OK 
+73644,Elk City,Oklahoma ,BECKHAM,40,009,OK 
+73645,Erick,Oklahoma ,BECKHAM,40,009,OK 
+73642,Durham,Oklahoma ,ROGER MILLS,40,129,OK 
+73639,Custer City,Oklahoma ,CUSTER,40,039,OK 
+73646,Fay,Oklahoma ,DEWEY,40,043,OK 
+73647,Foss,Oklahoma ,WASHITA,40,149,OK 
+73641,Dill City,Oklahoma ,WASHITA,40,149,OK 
+73648,Elk City,Oklahoma ,BECKHAM,40,009,OK 
+73650,Hammon,Oklahoma ,ROGER MILLS,40,129,OK 
+73658,Oakwood,Oklahoma ,DEWEY,40,043,OK 
+73660,Reydon,Oklahoma ,ROGER MILLS,40,129,OK 
+73651,Hobart,Oklahoma ,KIOWA,40,075,OK 
+73654,Leedey,Oklahoma ,DEWEY,40,043,OK 
+73655,Lone Wolf,Oklahoma ,KIOWA,40,075,OK 
+73659,Putnam,Oklahoma ,DEWEY,40,043,OK 
+73661,Rocky,Oklahoma ,WASHITA,40,149,OK 
+73662,Sayre,Oklahoma ,BECKHAM,40,009,OK 
+73663,Seiling,Oklahoma ,DEWEY,40,043,OK 
+73668,Texola,Oklahoma ,BECKHAM,40,009,OK 
+73664,Sentinel,Oklahoma ,WASHITA,40,149,OK 
+73666,Sweetwater,Oklahoma ,ROGER MILLS,40,129,OK 
+73669,Thomas,Oklahoma ,CUSTER,40,039,OK 
+73667,Taloga,Oklahoma ,DEWEY,40,043,OK 
+73673,Willow,Oklahoma ,GREER,40,055,OK 
+73701,Enid,Oklahoma ,GARFIELD,40,047,OK 
+73702,Enid,Oklahoma ,GARFIELD,40,047,OK 
+73705,Enid,Oklahoma ,GARFIELD,40,047,OK 
+73717,Alva,Oklahoma ,WOODS,40,151,OK 
+73706,Enid,Oklahoma ,GARFIELD,40,047,OK 
+73703,Enid,Oklahoma ,GARFIELD,40,047,OK 
+73716,Aline,Oklahoma ,ALFALFA,40,003,OK 
+73718,Ames,Oklahoma ,MAJOR,40,093,OK 
+73719,Amorita,Oklahoma ,ALFALFA,40,003,OK 
+73722,Burlington,Oklahoma ,ALFALFA,40,003,OK 
+73727,Carrier,Oklahoma ,GARFIELD,40,047,OK 
+73720,Bison,Oklahoma ,GARFIELD,40,047,OK 
+73729,Cleo Springs,Oklahoma ,MAJOR,40,093,OK 
+73726,Carmen,Oklahoma ,ALFALFA,40,003,OK 
+73724,Canton,Oklahoma ,BLAINE,40,011,OK 
+73728,Cherokee,Oklahoma ,ALFALFA,40,003,OK 
+73730,Covington,Oklahoma ,GARFIELD,40,047,OK 
+73734,Dover,Oklahoma ,KINGFISHER,40,073,OK 
+73731,Dacoma,Oklahoma ,WOODS,40,151,OK 
+73737,Fairview,Oklahoma ,MAJOR,40,093,OK 
+73733,Douglas,Oklahoma ,GARFIELD,40,047,OK 
+73736,Fairmont,Oklahoma ,GARFIELD,40,047,OK 
+73738,Garber,Oklahoma ,GARFIELD,40,047,OK 
+73735,Drummond,Oklahoma ,GARFIELD,40,047,OK 
+73739,Goltry,Oklahoma ,ALFALFA,40,003,OK 
+73741,Helena,Oklahoma ,ALFALFA,40,003,OK 
+73743,Hillsdale,Oklahoma ,GARFIELD,40,047,OK 
+73742,Hennessey,Oklahoma ,KINGFISHER,40,073,OK 
+73749,Jet,Oklahoma ,ALFALFA,40,003,OK 
+73747,Isabella,Oklahoma ,MAJOR,40,093,OK 
+73744,Hitchcock,Oklahoma ,BLAINE,40,011,OK 
+73750,Kingfisher,Oklahoma ,KINGFISHER,40,073,OK 
+73746,Hopeton,Oklahoma ,WOODS,40,151,OK 
+73753,Kremlin,Oklahoma ,GARFIELD,40,047,OK 
+73755,Longdale,Oklahoma ,BLAINE,40,011,OK 
+73757,Lucien,Oklahoma ,NOBLE,40,103,OK 
+73754,Lahoma,Oklahoma ,GARFIELD,40,047,OK 
+73759,Medford,Oklahoma ,GRANT,40,053,OK 
+73758,Manchester,Oklahoma ,GRANT,40,053,OK 
+73760,Meno,Oklahoma ,MAJOR,40,093,OK 
+73756,Loyal,Oklahoma ,KINGFISHER,40,073,OK 
+73771,Wakita,Oklahoma ,GRANT,40,053,OK 
+73763,Okeene,Oklahoma ,BLAINE,40,011,OK 
+73761,Nash,Oklahoma ,GRANT,40,053,OK 
+73770,Southard,Oklahoma ,BLAINE,40,011,OK 
+73762,Okarche,Oklahoma ,KINGFISHER,40,073,OK 
+73768,Ringwood,Oklahoma ,MAJOR,40,093,OK 
+73764,Omega,Oklahoma ,KINGFISHER,40,073,OK 
+73766,Pond Creek,Oklahoma ,GRANT,40,053,OK 
+73802,Woodward,Oklahoma ,WOODWARD,40,153,OK 
+73834,Buffalo,Oklahoma ,HARPER,40,059,OK 
+73832,Arnett,Oklahoma ,ELLIS,40,045,OK 
+73835,Camargo,Oklahoma ,DEWEY,40,043,OK 
+73801,Woodward,Oklahoma ,WOODWARD,40,153,OK 
+73773,Waukomis,Oklahoma ,GARFIELD,40,047,OK 
+73838,Chester,Oklahoma ,MAJOR,40,093,OK 
+73772,Watonga,Oklahoma ,BLAINE,40,011,OK 
+73840,Fargo,Oklahoma ,ELLIS,40,045,OK 
+73844,Gate,Oklahoma ,BEAVER,40,007,OK 
+73842,Freedom,Oklahoma ,WOODS,40,151,OK 
+73851,May,Oklahoma ,HARPER,40,059,OK 
+73841,Fort Supply,Oklahoma ,WOODWARD,40,153,OK 
+73852,Mooreland,Oklahoma ,WOODWARD,40,153,OK 
+73848,Laverne,Oklahoma ,HARPER,40,059,OK 
+73843,Gage,Oklahoma ,ELLIS,40,045,OK 
+73853,Mutual,Oklahoma ,WOODWARD,40,153,OK 
+73858,Shattuck,Oklahoma ,ELLIS,40,045,OK 
+73855,Rosston,Oklahoma ,HARPER,40,059,OK 
+73931,Balko,Oklahoma ,BEAVER,40,007,OK 
+73857,Sharon,Oklahoma ,WOODWARD,40,153,OK 
+73860,Waynoka,Oklahoma ,WOODS,40,151,OK 
+73859,Vici,Oklahoma ,DEWEY,40,043,OK 
+73901,Adams,Oklahoma ,TEXAS,40,139,OK 
+73932,Beaver,Oklahoma ,BEAVER,40,007,OK 
+73933,Boise City,Oklahoma ,CIMARRON,40,025,OK 
+73937,Felt,Oklahoma ,CIMARRON,40,025,OK 
+73939,Goodwell,Oklahoma ,TEXAS,40,139,OK 
+73942,Guymon,Oklahoma ,TEXAS,40,139,OK 
+73944,Hardesty,Oklahoma ,TEXAS,40,139,OK 
+73945,Hooker,Oklahoma ,TEXAS,40,139,OK 
+73938,Forgan,Oklahoma ,BEAVER,40,007,OK 
+73946,Kenton,Oklahoma ,CIMARRON,40,025,OK 
+73947,Keyes,Oklahoma ,CIMARRON,40,025,OK 
+73949,Texhoma,Oklahoma ,TEXAS,40,139,OK 
+74003,Bartlesville,Oklahoma ,WASHINGTON,40,147,OK 
+74001,Avant,Oklahoma ,OSAGE,40,113,OK 
+74002,Barnsdall,Oklahoma ,OSAGE,40,113,OK 
+73950,Turpin,Oklahoma ,BEAVER,40,007,OK 
+73951,Tyrone,Oklahoma ,TEXAS,40,139,OK 
+74004,Bartlesville,Oklahoma ,WASHINGTON,40,147,OK 
+74005,Bartlesville,Oklahoma ,WASHINGTON,40,147,OK 
+74006,Bartlesville,Oklahoma ,WASHINGTON,40,147,OK 
+74011,Broken Arrow,Oklahoma ,TULSA,40,143,OK 
+74008,Bixby,Oklahoma ,TULSA,40,143,OK 
+74010,Bristow,Oklahoma ,CREEK,40,037,OK 
+74013,Broken Arrow,Oklahoma ,TULSA,40,143,OK 
+74012,Broken Arrow,Oklahoma ,TULSA,40,143,OK 
+74014,Broken Arrow,Oklahoma ,WAGONER,40,145,OK 
+74015,Catoosa,Oklahoma ,ROGERS,40,131,OK 
+74016,Chelsea,Oklahoma ,ROGERS,40,131,OK 
+74018,Claremore,Oklahoma ,ROGERS,40,131,OK 
+74019,Claremore,Oklahoma ,ROGERS,40,131,OK 
+74020,Cleveland,Oklahoma ,PAWNEE,40,117,OK 
+74023,Cushing,Oklahoma ,PAYNE,40,119,OK 
+74021,Collinsville,Oklahoma ,TULSA,40,143,OK 
+74017,Claremore,Oklahoma ,ROGERS,40,131,OK 
+74026,Davenport,Oklahoma ,LINCOLN,40,081,OK 
+74022,Copan,Oklahoma ,WASHINGTON,40,147,OK 
+74028,Depew,Oklahoma ,CREEK,40,037,OK 
+74027,Delaware,Oklahoma ,NOWATA,40,105,OK 
+74030,Drumright,Oklahoma ,CREEK,40,037,OK 
+74034,Hallett,Oklahoma ,PAWNEE,40,117,OK 
+74033,Glenpool,Oklahoma ,TULSA,40,143,OK 
+74029,Dewey,Oklahoma ,WASHINGTON,40,147,OK 
+74031,Foyil,Oklahoma ,ROGERS,40,131,OK 
+74032,Glencoe,Oklahoma ,PAYNE,40,119,OK 
+74035,Hominy,Oklahoma ,OSAGE,40,113,OK 
+74036,Inola,Oklahoma ,ROGERS,40,131,OK 
+74038,Jennings,Oklahoma ,PAWNEE,40,117,OK 
+74037,Jenks,Oklahoma ,TULSA,40,143,OK 
+74042,Lenapah,Oklahoma ,NOWATA,40,105,OK 
+74041,Kiefer,Oklahoma ,CREEK,40,037,OK 
+74043,Leonard,Oklahoma ,TULSA,40,143,OK 
+74039,Kellyville,Oklahoma ,CREEK,40,037,OK 
+74044,Mannford,Oklahoma ,CREEK,40,037,OK 
+74045,Maramec,Oklahoma ,PAWNEE,40,117,OK 
+74050,Oakhurst,Oklahoma ,TULSA,40,143,OK 
+74051,Ochelata,Oklahoma ,WASHINGTON,40,147,OK 
+74047,Mounds,Oklahoma ,CREEK,40,037,OK 
+74046,Milfay,Oklahoma ,CREEK,40,037,OK 
+74048,Nowata,Oklahoma ,NOWATA,40,105,OK 
+74052,Oilton,Oklahoma ,CREEK,40,037,OK 
+74054,Osage,Oklahoma ,OSAGE,40,113,OK 
+74053,Oologah,Oklahoma ,ROGERS,40,131,OK 
+74055,Owasso,Oklahoma ,TULSA,40,143,OK 
+74060,Prue,Oklahoma ,OSAGE,40,113,OK 
+74058,Pawnee,Oklahoma ,PAWNEE,40,117,OK 
+74056,Pawhuska,Oklahoma ,OSAGE,40,113,OK 
+74059,Perkins,Oklahoma ,PAYNE,40,119,OK 
+74061,Ramona,Oklahoma ,WASHINGTON,40,147,OK 
+74062,Ripley,Oklahoma ,PAYNE,40,119,OK 
+74063,Sand Springs,Oklahoma ,TULSA,40,143,OK 
+74066,Sapulpa,Oklahoma ,CREEK,40,037,OK 
+74067,Sapulpa,Oklahoma ,CREEK,40,037,OK 
+74068,Shamrock,Oklahoma ,CREEK,40,037,OK 
+74071,Slick,Oklahoma ,CREEK,40,037,OK 
+74074,Stillwater,Oklahoma ,PAYNE,40,119,OK 
+74072,S Coffeyville,Oklahoma ,NOWATA,40,105,OK 
+74073,Sperry,Oklahoma ,TULSA,40,143,OK 
+74070,Skiatook,Oklahoma ,TULSA,40,143,OK 
+74075,Stillwater,Oklahoma ,PAYNE,40,119,OK 
+74076,Stillwater,Oklahoma ,PAYNE,40,119,OK 
+74077,Stillwater,Oklahoma ,PAYNE,40,119,OK 
+74078,Stillwater,Oklahoma ,PAYNE,40,119,OK 
+74082,Vera,Oklahoma ,WASHINGTON,40,147,OK 
+74080,Talala,Oklahoma ,ROGERS,40,131,OK 
+74079,Stroud,Oklahoma ,LINCOLN,40,081,OK 
+74081,Terlton,Oklahoma ,PAWNEE,40,117,OK 
+74083,Wann,Oklahoma ,NOWATA,40,105,OK 
+74085,Yale,Oklahoma ,PAYNE,40,119,OK 
+74084,Wynona,Oklahoma ,OSAGE,40,113,OK 
+74106,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74103,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74102,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74105,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74101,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74104,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74107,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74108,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74115,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74110,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74112,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74117,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74116,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74114,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74120,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74119,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74121,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74128,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74131,Tulsa,Oklahoma ,CREEK,40,037,OK 
+74129,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74130,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74126,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74132,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74127,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74133,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74137,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74141,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74135,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74145,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74134,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74146,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74136,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74147,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74150,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74148,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74155,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74153,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74156,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74152,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74149,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74157,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74159,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74158,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74169,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74171,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74170,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74182,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74172,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74186,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74192,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74193,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74187,Tulsa,Oklahoma ,TULSA,40,143,OK 
+74331,Afton,Oklahoma ,OTTAWA,40,115,OK 
+74301,Vinita,Oklahoma ,CRAIG,40,035,OK 
+74332,Big Cabin,Oklahoma ,CRAIG,40,035,OK 
+74333,Bluejacket,Oklahoma ,CRAIG,40,035,OK 
+74330,Adair,Oklahoma ,MAYES,40,097,OK 
+74335,Cardin,Oklahoma ,OTTAWA,40,115,OK 
+74344,Grove,Oklahoma ,DELAWARE,40,041,OK 
+74339,Commerce,Oklahoma ,OTTAWA,40,115,OK 
+74337,Chouteau,Oklahoma ,MAYES,40,097,OK 
+74340,Disney,Oklahoma ,MAYES,40,097,OK 
+74342,Eucha,Oklahoma ,DELAWARE,40,041,OK 
+74338,Colcord,Oklahoma ,DELAWARE,40,041,OK 
+74343,Fairland,Oklahoma ,OTTAWA,40,115,OK 
+74345,Grove,Oklahoma ,DELAWARE,40,041,OK 
+74346,Jay,Oklahoma ,DELAWARE,40,041,OK 
+74350,Langley,Oklahoma ,MAYES,40,097,OK 
+74355,Miami,Oklahoma ,OTTAWA,40,115,OK 
+74354,Miami,Oklahoma ,OTTAWA,40,115,OK 
+74347,Kansas,Oklahoma ,DELAWARE,40,041,OK 
+74349,Ketchum,Oklahoma ,MAYES,40,097,OK 
+74352,Locust Grove,Oklahoma ,MAYES,40,097,OK 
+74358,North Miami,Oklahoma ,OTTAWA,40,115,OK 
+74360,Picher,Oklahoma ,OTTAWA,40,115,OK 
+74359,Oaks,Oklahoma ,DELAWARE,40,041,OK 
+74362,Pryor,Oklahoma ,MAYES,40,097,OK 
+74364,Rose,Oklahoma ,MAYES,40,097,OK 
+74361,Pryor,Oklahoma ,MAYES,40,097,OK 
+74363,Quapaw,Oklahoma ,OTTAWA,40,115,OK 
+74365,Salina,Oklahoma ,MAYES,40,097,OK 
+74366,Spavinaw,Oklahoma ,MAYES,40,097,OK 
+74403,Muskogee,Oklahoma ,MUSKOGEE,40,101,OK 
+74367,Strang,Oklahoma ,MAYES,40,097,OK 
+74401,Muskogee,Oklahoma ,MUSKOGEE,40,101,OK 
+74369,Welch,Oklahoma ,CRAIG,40,035,OK 
+74370,Wyandotte,Oklahoma ,OTTAWA,40,115,OK 
+74368,Twin Oaks,Oklahoma ,DELAWARE,40,041,OK 
+74402,Muskogee,Oklahoma ,MUSKOGEE,40,101,OK 
+74421,Beggs,Oklahoma ,OKMULGEE,40,111,OK 
+74425,Canadian,Oklahoma ,PITTSBURG,40,121,OK 
+74426,Checotah,Oklahoma ,MCINTOSH,40,091,OK 
+74430,Crowder,Oklahoma ,PITTSBURG,40,121,OK 
+74428,Council Hill,Oklahoma ,MUSKOGEE,40,101,OK 
+74422,Boynton,Oklahoma ,MUSKOGEE,40,101,OK 
+74423,Braggs,Oklahoma ,MUSKOGEE,40,101,OK 
+74429,Coweta,Oklahoma ,WAGONER,40,145,OK 
+74427,Cookson,Oklahoma ,CHEROKEE,40,021,OK 
+74431,Dewar,Oklahoma ,OKMULGEE,40,111,OK 
+74438,Hitchita,Oklahoma ,MCINTOSH,40,091,OK 
+74432,Eufaula,Oklahoma ,MCINTOSH,40,091,OK 
+74439,Braggs,Oklahoma ,MUSKOGEE,40,101,OK 
+74436,Haskell,Oklahoma ,MUSKOGEE,40,101,OK 
+74435,Gore,Oklahoma ,SEQUOYAH,40,135,OK 
+74434,Fort Gibson,Oklahoma ,MUSKOGEE,40,101,OK 
+74437,Henryetta,Oklahoma ,OKMULGEE,40,111,OK 
+74442,Indianola,Oklahoma ,PITTSBURG,40,121,OK 
+74441,Hulbert,Oklahoma ,CHEROKEE,40,021,OK 
+74447,Okmulgee,Oklahoma ,OKMULGEE,40,111,OK 
+74440,Hoyt,Oklahoma ,HASKELL,40,061,OK 
+74446,Okay,Oklahoma ,WAGONER,40,145,OK 
+74450,Oktaha,Oklahoma ,MUSKOGEE,40,101,OK 
+74444,Moodys,Oklahoma ,CHEROKEE,40,021,OK 
+74445,Morris,Oklahoma ,OKMULGEE,40,111,OK 
+74451,Park Hill,Oklahoma ,CHEROKEE,40,021,OK 
+74459,Rentiesville,Oklahoma ,MCINTOSH,40,091,OK 
+74457,Proctor,Oklahoma ,ADAIR,40,001,OK 
+74455,Porum,Oklahoma ,MUSKOGEE,40,101,OK 
+74452,Peggs,Oklahoma ,CHEROKEE,40,021,OK 
+74458,Redbird,Oklahoma ,WAGONER,40,145,OK 
+74454,Porter,Oklahoma ,WAGONER,40,145,OK 
+74456,Preston,Oklahoma ,OKMULGEE,40,111,OK 
+74461,Stidham,Oklahoma ,MCINTOSH,40,091,OK 
+74463,Taft,Oklahoma ,MUSKOGEE,40,101,OK 
+74468,Wainwright,Oklahoma ,MUSKOGEE,40,101,OK 
+74464,Tahlequah,Oklahoma ,CHEROKEE,40,021,OK 
+74465,Tahlequah,Oklahoma ,CHEROKEE,40,021,OK 
+74467,Wagoner,Oklahoma ,WAGONER,40,145,OK 
+74462,Stigler,Oklahoma ,HASKELL,40,061,OK 
+74460,Schulter,Oklahoma ,OKMULGEE,40,111,OK 
+74472,Whitefield,Oklahoma ,HASKELL,40,061,OK 
+74521,Albion,Oklahoma ,PUSHMATAHA,40,127,OK 
+74470,Webbers Falls,Oklahoma ,MUSKOGEE,40,101,OK 
+74477,Wagoner,Oklahoma ,WAGONER,40,145,OK 
+74471,Welling,Oklahoma ,CHEROKEE,40,021,OK 
+74469,Warner,Oklahoma ,MUSKOGEE,40,101,OK 
+74501,Mcalester,Oklahoma ,PITTSBURG,40,121,OK 
+74502,Mcalester,Oklahoma ,PITTSBURG,40,121,OK 
+74531,Calvin,Oklahoma ,HUGHES,40,063,OK 
+74525,Atoka,Oklahoma ,ATOKA,40,005,OK 
+74522,Alderson,Oklahoma ,PITTSBURG,40,121,OK 
+74529,Blocker,Oklahoma ,PITTSBURG,40,121,OK 
+74523,Antlers,Oklahoma ,PUSHMATAHA,40,127,OK 
+74530,Bromide,Oklahoma ,JOHNSTON,40,069,OK 
+74533,Caney,Oklahoma ,ATOKA,40,005,OK 
+74528,Blanco,Oklahoma ,PITTSBURG,40,121,OK 
+74546,Haileyville,Oklahoma ,PITTSBURG,40,121,OK 
+74535,Clarita,Oklahoma ,COAL,40,029,OK 
+74543,Finley,Oklahoma ,PUSHMATAHA,40,127,OK 
+74538,Coalgate,Oklahoma ,COAL,40,029,OK 
+74540,Daisy,Oklahoma ,ATOKA,40,005,OK 
+74536,Clayton,Oklahoma ,PUSHMATAHA,40,127,OK 
+74534,Centrahoma,Oklahoma ,COAL,40,029,OK 
+74545,Gowen,Oklahoma ,LATIMER,40,077,OK 
+74553,Kiowa,Oklahoma ,PITTSBURG,40,121,OK 
+74549,Honobia,Oklahoma ,LE FLORE,40,079,OK 
+74552,Kinta,Oklahoma ,HASKELL,40,061,OK 
+74555,Lane,Oklahoma ,ATOKA,40,005,OK 
+74554,Krebs,Oklahoma ,PITTSBURG,40,121,OK 
+74547,Hartshorne,Oklahoma ,PITTSBURG,40,121,OK 
+74557,Moyers,Oklahoma ,PUSHMATAHA,40,127,OK 
+74556,Lehigh,Oklahoma ,COAL,40,029,OK 
+74559,Panola,Oklahoma ,LATIMER,40,077,OK 
+74565,Savanna,Oklahoma ,PITTSBURG,40,121,OK 
+74562,Rattan,Oklahoma ,PUSHMATAHA,40,127,OK 
+74567,Snow,Oklahoma ,PUSHMATAHA,40,127,OK 
+74561,Quinton,Oklahoma ,PITTSBURG,40,121,OK 
+74560,Pittsburg,Oklahoma ,PITTSBURG,40,121,OK 
+74558,Nashoba,Oklahoma ,PUSHMATAHA,40,127,OK 
+74563,Red Oak,Oklahoma ,LATIMER,40,077,OK 
+74570,Stuart,Oklahoma ,HUGHES,40,063,OK 
+74569,Stringtown,Oklahoma ,ATOKA,40,005,OK 
+74571,Talihina,Oklahoma ,LATIMER,40,077,OK 
+74574,Tuskahoma,Oklahoma ,PUSHMATAHA,40,127,OK 
+74578,Wilburton,Oklahoma ,LATIMER,40,077,OK 
+74572,Tupelo,Oklahoma ,COAL,40,029,OK 
+74576,Wardville,Oklahoma ,PITTSBURG,40,121,OK 
+74577,Whitesboro,Oklahoma ,LE FLORE,40,079,OK 
+74601,Ponca City,Oklahoma ,KAY,40,071,OK 
+74602,Ponca City,Oklahoma ,KAY,40,071,OK 
+74632,Braman,Oklahoma ,KAY,40,071,OK 
+74631,Blackwell,Oklahoma ,KAY,40,071,OK 
+74604,Ponca City,Oklahoma ,KAY,40,071,OK 
+74633,Burbank,Oklahoma ,OSAGE,40,113,OK 
+74630,Billings,Oklahoma ,NOBLE,40,103,OK 
+74636,Deer Creek,Oklahoma ,GRANT,40,053,OK 
+74637,Fairfax,Oklahoma ,OSAGE,40,113,OK 
+74640,Hunter,Oklahoma ,GARFIELD,40,047,OK 
+74644,Marland,Oklahoma ,NOBLE,40,103,OK 
+74641,Kaw City,Oklahoma ,KAY,40,071,OK 
+74643,Lamont,Oklahoma ,GRANT,40,053,OK 
+74646,Nardin,Oklahoma ,KAY,40,071,OK 
+74647,Newkirk,Oklahoma ,KAY,40,071,OK 
+74650,Ralston,Oklahoma ,PAWNEE,40,117,OK 
+74651,Red Rock,Oklahoma ,NOBLE,40,103,OK 
+74702,Durant,Oklahoma ,BRYAN,40,013,OK 
+74652,Shidler,Oklahoma ,OSAGE,40,113,OK 
+74721,Albany,Oklahoma ,BRYAN,40,013,OK 
+74701,Durant,Oklahoma ,BRYAN,40,013,OK 
+74653,Tonkawa,Oklahoma ,KAY,40,071,OK 
+74722,Battiest,Oklahoma ,MCCURTAIN,40,089,OK 
+74720,Achille,Oklahoma ,BRYAN,40,013,OK 
+74723,Bennington,Oklahoma ,BRYAN,40,013,OK 
+74724,Bethel,Oklahoma ,MCCURTAIN,40,089,OK 
+74726,Bokchito,Oklahoma ,BRYAN,40,013,OK 
+74730,Calera,Oklahoma ,BRYAN,40,013,OK 
+74731,Cartwright,Oklahoma ,BRYAN,40,013,OK 
+74727,Boswell,Oklahoma ,CHOCTAW,40,023,OK 
+74728,Broken Bow,Oklahoma ,MCCURTAIN,40,089,OK 
+74733,Colbert,Oklahoma ,BRYAN,40,013,OK 
+74729,Caddo,Oklahoma ,BRYAN,40,013,OK 
+74734,Eagletown,Oklahoma ,MCCURTAIN,40,089,OK 
+74741,Hendrix,Oklahoma ,BRYAN,40,013,OK 
+74737,Golden,Oklahoma ,MCCURTAIN,40,089,OK 
+74735,Fort Towson,Oklahoma ,CHOCTAW,40,023,OK 
+74738,Grant,Oklahoma ,CHOCTAW,40,023,OK 
+74740,Haworth,Oklahoma ,MCCURTAIN,40,089,OK 
+74743,Hugo,Oklahoma ,CHOCTAW,40,023,OK 
+74736,Garvin,Oklahoma ,MCCURTAIN,40,089,OK 
+74745,Idabel,Oklahoma ,MCCURTAIN,40,089,OK 
+74747,Kemp,Oklahoma ,BRYAN,40,013,OK 
+74748,Kenefic,Oklahoma ,JOHNSTON,40,069,OK 
+74750,Millerton,Oklahoma ,MCCURTAIN,40,089,OK 
+74753,Platter,Oklahoma ,BRYAN,40,013,OK 
+74754,Ringold,Oklahoma ,MCCURTAIN,40,089,OK 
+74752,Pickens,Oklahoma ,MCCURTAIN,40,089,OK 
+74756,Sawyer,Oklahoma ,CHOCTAW,40,023,OK 
+74755,Rufe,Oklahoma ,MCCURTAIN,40,089,OK 
+74759,Soper,Oklahoma ,CHOCTAW,40,023,OK 
+74761,Swink,Oklahoma ,CHOCTAW,40,023,OK 
+74801,Shawnee,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74764,Valliant,Oklahoma ,MCCURTAIN,40,089,OK 
+74804,Shawnee,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74760,Spencerville,Oklahoma ,CHOCTAW,40,023,OK 
+74802,Shawnee,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74766,Wright City,Oklahoma ,MCCURTAIN,40,089,OK 
+74818,Seminole,Oklahoma ,SEMINOLE,40,133,OK 
+74820,Ada,Oklahoma ,PONTOTOC,40,123,OK 
+74821,Ada,Oklahoma ,PONTOTOC,40,123,OK 
+74825,Allen,Oklahoma ,PONTOTOC,40,123,OK 
+74827,Atwood,Oklahoma ,HUGHES,40,063,OK 
+74830,Bowlegs,Oklahoma ,SEMINOLE,40,133,OK 
+74829,Boley,Oklahoma ,OKFUSKEE,40,107,OK 
+74826,Asher,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74824,Agra,Oklahoma ,LINCOLN,40,081,OK 
+74831,Byars,Oklahoma ,MCCLAIN,40,087,OK 
+74836,Connerville,Oklahoma ,JOHNSTON,40,069,OK 
+74839,Dustin,Oklahoma ,HUGHES,40,063,OK 
+74833,Castle,Oklahoma ,OKFUSKEE,40,107,OK 
+74840,Earlsboro,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74834,Chandler,Oklahoma ,LINCOLN,40,081,OK 
+74832,Carney,Oklahoma ,LINCOLN,40,081,OK 
+74837,Cromwell,Oklahoma ,SEMINOLE,40,133,OK 
+74842,Fittstown,Oklahoma ,PONTOTOC,40,123,OK 
+74843,Fitzhugh,Oklahoma ,PONTOTOC,40,123,OK 
+74844,Francis,Oklahoma ,PONTOTOC,40,123,OK 
+74845,Hanna,Oklahoma ,MCINTOSH,40,091,OK 
+74849,Konawa,Oklahoma ,SEMINOLE,40,133,OK 
+74848,Holdenville,Oklahoma ,HUGHES,40,063,OK 
+74851,Mcloud,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74850,Lamar,Oklahoma ,HUGHES,40,063,OK 
+74852,Macomb,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74854,Maud,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74857,Newalla,Oklahoma ,CLEVELAND,40,027,OK 
+74855,Meeker,Oklahoma ,LINCOLN,40,081,OK 
+74859,Okemah,Oklahoma ,OKFUSKEE,40,107,OK 
+74860,Paden,Oklahoma ,OKFUSKEE,40,107,OK 
+74864,Prague,Oklahoma ,LINCOLN,40,081,OK 
+74856,Mill Creek,Oklahoma ,JOHNSTON,40,069,OK 
+74865,Roff,Oklahoma ,PONTOTOC,40,123,OK 
+74866,Saint Louis,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74867,Sasakwa,Oklahoma ,SEMINOLE,40,133,OK 
+74868,Seminole,Oklahoma ,SEMINOLE,40,133,OK 
+74878,Wanette,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74871,Stonewall,Oklahoma ,PONTOTOC,40,123,OK 
+74872,Stratford,Oklahoma ,GARVIN,40,049,OK 
+74873,Tecumseh,Oklahoma ,POTTAWATOMIE,40,125,OK 
+74875,Tryon,Oklahoma ,LINCOLN,40,081,OK 
+74869,Sparks,Oklahoma ,LINCOLN,40,081,OK 
+74880,Weleetka,Oklahoma ,OKFUSKEE,40,107,OK 
+74901,Arkoma,Oklahoma ,LE FLORE,40,079,OK 
+74931,Bunch,Oklahoma ,ADAIR,40,001,OK 
+74883,Wetumka,Oklahoma ,HUGHES,40,063,OK 
+74930,Bokoshe,Oklahoma ,LE FLORE,40,079,OK 
+74902,Pocola,Oklahoma ,LE FLORE,40,079,OK 
+74881,Wellston,Oklahoma ,LINCOLN,40,081,OK 
+74884,Wewoka,Oklahoma ,SEMINOLE,40,133,OK 
+74940,Howe,Oklahoma ,LE FLORE,40,079,OK 
+74932,Cameron,Oklahoma ,LE FLORE,40,079,OK 
+74942,Leflore,Oklahoma ,LE FLORE,40,079,OK 
+74941,Keota,Oklahoma ,HASKELL,40,061,OK 
+74937,Heavener,Oklahoma ,LE FLORE,40,079,OK 
+74936,Gans,Oklahoma ,SEQUOYAH,40,135,OK 
+74935,Fanshawe,Oklahoma ,LE FLORE,40,079,OK 
+74939,Hodgen,Oklahoma ,LE FLORE,40,079,OK 
+74943,Lequire,Oklahoma ,HASKELL,40,061,OK 
+74946,Moffett,Oklahoma ,SEQUOYAH,40,135,OK 
+74944,Mccurtain,Oklahoma ,HASKELL,40,061,OK 
+74949,Muse,Oklahoma ,LE FLORE,40,079,OK 
+74947,Monroe,Oklahoma ,LE FLORE,40,079,OK 
+74951,Panama,Oklahoma ,LE FLORE,40,079,OK 
+74948,Muldrow,Oklahoma ,SEQUOYAH,40,135,OK 
+74945,Marble City,Oklahoma ,SEQUOYAH,40,135,OK 
+74962,Vian,Oklahoma ,SEQUOYAH,40,135,OK 
+74960,Stilwell,Oklahoma ,ADAIR,40,001,OK 
+74955,Sallisaw,Oklahoma ,SEQUOYAH,40,135,OK 
+74953,Poteau,Oklahoma ,LE FLORE,40,079,OK 
+74954,Roland,Oklahoma ,SEQUOYAH,40,135,OK 
+74959,Spiro,Oklahoma ,LE FLORE,40,079,OK 
+74957,Smithville,Oklahoma ,MCCURTAIN,40,089,OK 
+74956,Shady Point,Oklahoma ,LE FLORE,40,079,OK 
+74965,Westville,Oklahoma ,ADAIR,40,001,OK 
+74963,Watson,Oklahoma ,MCCURTAIN,40,089,OK 
+74966,Wister,Oklahoma ,LE FLORE,40,079,OK 
+74964,Watts,Oklahoma ,ADAIR,40,001,OK 

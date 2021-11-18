@@ -1,0 +1,479 @@
+97003,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97008,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97001,Antelope,Oregon ,WASCO,41,065,OR 
+97006,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97002,Aurora,Oregon ,MARION,41,047,OR 
+97007,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97004,Beavercreek,Oregon ,CLACKAMAS,41,005,OR 
+97005,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97010,Bridal Veil,Oregon ,MULTNOMAH,41,051,OR 
+97011,Brightwood,Oregon ,CLACKAMAS,41,005,OR 
+97013,Canby,Oregon ,CLACKAMAS,41,005,OR 
+97016,Clatskanie,Oregon ,COLUMBIA,41,009,OR 
+97017,Colton,Oregon ,CLACKAMAS,41,005,OR 
+97009,Boring,Oregon ,CLACKAMAS,41,005,OR 
+97014,Cascade Locks,Oregon ,HOOD RIVER,41,027,OR 
+97015,Clackamas,Oregon ,CLACKAMAS,41,005,OR 
+97019,Corbett,Oregon ,MULTNOMAH,41,051,OR 
+97021,Dufur,Oregon ,WASCO,41,065,OR 
+97022,Eagle Creek,Oregon ,CLACKAMAS,41,005,OR 
+97024,Fairview,Oregon ,MULTNOMAH,41,051,OR 
+97018,Columbia City,Oregon ,COLUMBIA,41,009,OR 
+97020,Donald,Oregon ,MARION,41,047,OR 
+97023,Estacada,Oregon ,CLACKAMAS,41,005,OR 
+97026,Gervais,Oregon ,MARION,41,047,OR 
+97027,Gladstone,Oregon ,CLACKAMAS,41,005,OR 
+97028,Government Camp,Oregon ,CLACKAMAS,41,005,OR 
+97031,Hood River,Oregon ,HOOD RIVER,41,027,OR 
+97033,Kent,Oregon ,SHERMAN,41,055,OR 
+97032,Hubbard,Oregon ,MARION,41,047,OR 
+97034,Lake Oswego,Oregon ,CLACKAMAS,41,005,OR 
+97029,Grass Valley,Oregon ,SHERMAN,41,055,OR 
+97030,Gresham,Oregon ,MULTNOMAH,41,051,OR 
+97035,Lake Oswego,Oregon ,CLACKAMAS,41,005,OR 
+97038,Molalla,Oregon ,CLACKAMAS,41,005,OR 
+97036,Marylhurst,Oregon ,CLACKAMAS,41,005,OR 
+97041,Mount Hood Parkdale,Oregon ,HOOD RIVER,41,027,OR 
+97039,Moro,Oregon ,SHERMAN,41,055,OR 
+97040,Mosier,Oregon ,WASCO,41,065,OR 
+97037,Maupin,Oregon ,WASCO,41,065,OR 
+97042,Mulino,Oregon ,CLACKAMAS,41,005,OR 
+97044,Odell,Oregon ,HOOD RIVER,41,027,OR 
+97050,Rufus,Oregon ,SHERMAN,41,055,OR 
+97049,Rhododendron,Oregon ,CLACKAMAS,41,005,OR 
+97048,Rainier,Oregon ,COLUMBIA,41,009,OR 
+97051,Saint Helens,Oregon ,COLUMBIA,41,009,OR 
+97053,Warren,Oregon ,COLUMBIA,41,009,OR 
+97045,Oregon City,Oregon ,CLACKAMAS,41,005,OR 
+97054,Deer Island,Oregon ,COLUMBIA,41,009,OR 
+97055,Sandy,Oregon ,CLACKAMAS,41,005,OR 
+97056,Scappoose,Oregon ,COLUMBIA,41,009,OR 
+97057,Shaniko,Oregon ,WASCO,41,065,OR 
+97065,Wasco,Oregon ,SHERMAN,41,055,OR 
+97064,Vernonia,Oregon ,COLUMBIA,41,009,OR 
+97063,Tygh Valley,Oregon ,WASCO,41,065,OR 
+97062,Tualatin,Oregon ,WASHINGTON,41,067,OR 
+97058,The Dalles,Oregon ,WASCO,41,065,OR 
+97060,Troutdale,Oregon ,MULTNOMAH,41,051,OR 
+97068,West Linn,Oregon ,CLACKAMAS,41,005,OR 
+97070,Wilsonville,Oregon ,CLACKAMAS,41,005,OR 
+97076,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97067,Welches,Oregon ,CLACKAMAS,41,005,OR 
+97078,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97071,Woodburn,Oregon ,MARION,41,047,OR 
+97077,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97075,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97079,Beaverton,Oregon ,WASHINGTON,41,067,OR 
+97086,Happy Valley,Oregon ,CLACKAMAS,41,005,OR 
+97101,Amity,Oregon ,YAMHILL,41,071,OR 
+97103,Astoria,Oregon ,CLATSOP,41,007,OR 
+97089,Damascus,Oregon ,CLACKAMAS,41,005,OR 
+97102,Arch Cape,Oregon ,CLATSOP,41,007,OR 
+97106,Banks,Oregon ,WASHINGTON,41,067,OR 
+97080,Gresham,Oregon ,MULTNOMAH,41,051,OR 
+97107,Bay City,Oregon ,TILLAMOOK,41,057,OR 
+97109,Buxton,Oregon ,WASHINGTON,41,067,OR 
+97108,Beaver,Oregon ,TILLAMOOK,41,057,OR 
+97113,Cornelius,Oregon ,WASHINGTON,41,067,OR 
+97111,Carlton,Oregon ,YAMHILL,41,071,OR 
+97114,Dayton,Oregon ,YAMHILL,41,071,OR 
+97110,Cannon Beach,Oregon ,CLATSOP,41,007,OR 
+97112,Cloverdale,Oregon ,TILLAMOOK,41,057,OR 
+97115,Dundee,Oregon ,YAMHILL,41,071,OR 
+97118,Garibaldi,Oregon ,TILLAMOOK,41,057,OR 
+97116,Forest Grove,Oregon ,WASHINGTON,41,067,OR 
+97117,Gales Creek,Oregon ,WASHINGTON,41,067,OR 
+97119,Gaston,Oregon ,WASHINGTON,41,067,OR 
+97122,Hebo,Oregon ,TILLAMOOK,41,057,OR 
+97123,Hillsboro,Oregon ,WASHINGTON,41,067,OR 
+97121,Hammond,Oregon ,CLATSOP,41,007,OR 
+97124,Hillsboro,Oregon ,WASHINGTON,41,067,OR 
+97125,Manning,Oregon ,WASHINGTON,41,067,OR 
+97127,Lafayette,Oregon ,YAMHILL,41,071,OR 
+97130,Manzanita,Oregon ,TILLAMOOK,41,057,OR 
+97128,Mcminnville,Oregon ,YAMHILL,41,071,OR 
+97131,Nehalem,Oregon ,TILLAMOOK,41,057,OR 
+97129,Hillsboro,Oregon ,WASHINGTON,41,067,OR 
+97132,Newberg,Oregon ,YAMHILL,41,071,OR 
+97133,North Plains,Oregon ,WASHINGTON,41,067,OR 
+97134,Oceanside,Oregon ,TILLAMOOK,41,057,OR 
+97136,Rockaway Beach,Oregon ,TILLAMOOK,41,057,OR 
+97141,Tillamook,Oregon ,TILLAMOOK,41,057,OR 
+97137,Saint Paul,Oregon ,MARION,41,047,OR 
+97140,Sherwood,Oregon ,WASHINGTON,41,067,OR 
+97138,Seaside,Oregon ,CLATSOP,41,007,OR 
+97143,Netarts,Oregon ,TILLAMOOK,41,057,OR 
+97135,Pacific City,Oregon ,TILLAMOOK,41,057,OR 
+97144,Timber,Oregon ,WASHINGTON,41,067,OR 
+97147,Wheeler,Oregon ,TILLAMOOK,41,057,OR 
+97145,Tolovana Park,Oregon ,CLATSOP,41,007,OR 
+97148,Yamhill,Oregon ,YAMHILL,41,071,OR 
+97149,Neskowin,Oregon ,TILLAMOOK,41,057,OR 
+97201,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97202,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97146,Warrenton,Oregon ,CLATSOP,41,007,OR 
+97203,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97204,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97210,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97208,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97206,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97207,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97205,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97209,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97211,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97213,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97212,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97215,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97217,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97218,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97214,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97216,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97219,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97220,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97221,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97222,Portland,Oregon ,CLACKAMAS,41,005,OR 
+97228,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97224,Portland,Oregon ,WASHINGTON,41,067,OR 
+97227,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97223,Portland,Oregon ,WASHINGTON,41,067,OR 
+97225,Portland,Oregon ,WASHINGTON,41,067,OR 
+97233,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97236,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97238,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97230,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97229,Portland,Oregon ,WASHINGTON,41,067,OR 
+97239,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97232,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97231,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97240,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97254,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97242,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97251,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97253,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97256,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97252,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97250,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97283,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97269,Portland,Oregon ,CLACKAMAS,41,005,OR 
+97281,Portland,Oregon ,WASHINGTON,41,067,OR 
+97280,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97267,Portland,Oregon ,CLACKAMAS,41,005,OR 
+97268,Portland,Oregon ,CLACKAMAS,41,005,OR 
+97282,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97266,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97292,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97290,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97298,Portland,Oregon ,WASHINGTON,41,067,OR 
+97293,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97294,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97291,Portland,Oregon ,WASHINGTON,41,067,OR 
+97286,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97296,Portland,Oregon ,MULTNOMAH,41,051,OR 
+97301,Salem,Oregon ,MARION,41,047,OR 
+97304,Salem,Oregon ,POLK,41,053,OR 
+97303,Salem,Oregon ,MARION,41,047,OR 
+97308,Salem,Oregon ,MARION,41,047,OR 
+97305,Salem,Oregon ,MARION,41,047,OR 
+97306,Salem,Oregon ,MARION,41,047,OR 
+97302,Salem,Oregon ,MARION,41,047,OR 
+97307,Keizer,Oregon ,MARION,41,047,OR 
+97312,Salem,Oregon ,MARION,41,047,OR 
+97314,Salem,Oregon ,MARION,41,047,OR 
+97322,Albany,Oregon ,LINN,41,043,OR 
+97310,Salem,Oregon ,MARION,41,047,OR 
+97321,Albany,Oregon ,LINN,41,043,OR 
+97317,Salem,Oregon ,MARION,41,047,OR 
+97309,Salem,Oregon ,MARION,41,047,OR 
+97311,Salem,Oregon ,MARION,41,047,OR 
+97324,Alsea,Oregon ,BENTON,41,003,OR 
+97326,Blodgett,Oregon ,BENTON,41,003,OR 
+97325,Aumsville,Oregon ,MARION,41,047,OR 
+97331,Corvallis,Oregon ,BENTON,41,003,OR 
+97327,Brownsville,Oregon ,LINN,41,043,OR 
+97333,Corvallis,Oregon ,BENTON,41,003,OR 
+97330,Corvallis,Oregon ,BENTON,41,003,OR 
+97329,Cascadia,Oregon ,LINN,41,043,OR 
+97336,Crawfordsville,Oregon ,LINN,41,043,OR 
+97339,Corvallis,Oregon ,BENTON,41,003,OR 
+97344,Falls City,Oregon ,POLK,41,053,OR 
+97343,Eddyville,Oregon ,LINCOLN,41,041,OR 
+97342,Detroit,Oregon ,MARION,41,047,OR 
+97341,Depoe Bay,Oregon ,LINCOLN,41,041,OR 
+97335,Crabtree,Oregon ,LINN,41,043,OR 
+97338,Dallas,Oregon ,POLK,41,053,OR 
+97345,Foster,Oregon ,LINN,41,043,OR 
+97355,Lebanon,Oregon ,LINN,41,043,OR 
+97351,Independence,Oregon ,POLK,41,053,OR 
+97348,Halsey,Oregon ,LINN,41,043,OR 
+97346,Gates,Oregon ,MARION,41,047,OR 
+97347,Grand Ronde,Oregon ,POLK,41,053,OR 
+97350,Idanha,Oregon ,MARION,41,047,OR 
+97352,Jefferson,Oregon ,MARION,41,047,OR 
+97357,Logsden,Oregon ,LINCOLN,41,041,OR 
+97361,Monmouth,Oregon ,POLK,41,053,OR 
+97362,Mount Angel,Oregon ,MARION,41,047,OR 
+97365,Newport,Oregon ,LINCOLN,41,041,OR 
+97358,Lyons,Oregon ,LINN,41,043,OR 
+97366,South Beach,Oregon ,LINCOLN,41,041,OR 
+97360,Mill City,Oregon ,LINN,41,043,OR 
+97364,Neotsu,Oregon ,LINCOLN,41,041,OR 
+97367,Lincoln City,Oregon ,LINCOLN,41,041,OR 
+97368,Otis,Oregon ,LINCOLN,41,041,OR 
+97375,Scotts Mills,Oregon ,MARION,41,047,OR 
+97371,Rickreall,Oregon ,POLK,41,053,OR 
+97370,Philomath,Oregon ,BENTON,41,003,OR 
+97373,Saint Benedict,Oregon ,MARION,41,047,OR 
+97369,Otter Rock,Oregon ,LINCOLN,41,041,OR 
+97374,Scio,Oregon ,LINN,41,043,OR 
+97376,Seal Rock,Oregon ,LINCOLN,41,041,OR 
+97377,Shedd,Oregon ,LINN,41,043,OR 
+97381,Silverton,Oregon ,MARION,41,047,OR 
+97380,Siletz,Oregon ,LINCOLN,41,041,OR 
+97384,Mehama,Oregon ,MARION,41,047,OR 
+97378,Sheridan,Oregon ,YAMHILL,41,071,OR 
+97383,Stayton,Oregon ,MARION,41,047,OR 
+97386,Sweet Home,Oregon ,LINN,41,043,OR 
+97385,Sublimity,Oregon ,MARION,41,047,OR 
+97388,Gleneden Beach,Oregon ,LINCOLN,41,041,OR 
+97389,Tangent,Oregon ,LINN,41,043,OR 
+97396,Willamina,Oregon ,YAMHILL,41,071,OR 
+97392,Turner,Oregon ,MARION,41,047,OR 
+97401,Eugene,Oregon ,LANE,41,039,OR 
+97391,Toledo,Oregon ,LINCOLN,41,041,OR 
+97394,Waldport,Oregon ,LINCOLN,41,041,OR 
+97390,Tidewater,Oregon ,LINCOLN,41,041,OR 
+97402,Eugene,Oregon ,LANE,41,039,OR 
+97406,Agness,Oregon ,CURRY,41,015,OR 
+97409,Alvadore,Oregon ,LANE,41,039,OR 
+97405,Eugene,Oregon ,LANE,41,039,OR 
+97407,Allegany,Oregon ,COOS,41,011,OR 
+97403,Eugene,Oregon ,LANE,41,039,OR 
+97408,Eugene,Oregon ,LANE,41,039,OR 
+97410,Azalea,Oregon ,DOUGLAS,41,019,OR 
+97404,Eugene,Oregon ,LANE,41,039,OR 
+97411,Bandon,Oregon ,COOS,41,011,OR 
+97416,Camas Valley,Oregon ,DOUGLAS,41,019,OR 
+97415,Brookings,Oregon ,CURRY,41,015,OR 
+97414,Broadbent,Oregon ,COOS,41,011,OR 
+97412,Blachly,Oregon ,LANE,41,039,OR 
+97413,Blue River,Oregon ,LANE,41,039,OR 
+97417,Canyonville,Oregon ,DOUGLAS,41,019,OR 
+97419,Cheshire,Oregon ,LANE,41,039,OR 
+97420,Coos Bay,Oregon ,COOS,41,011,OR 
+97426,Creswell,Oregon ,LANE,41,039,OR 
+97423,Coquille,Oregon ,COOS,41,011,OR 
+97429,Days Creek,Oregon ,DOUGLAS,41,019,OR 
+97432,Dillard,Oregon ,DOUGLAS,41,019,OR 
+97434,Dorena,Oregon ,LANE,41,039,OR 
+97431,Dexter,Oregon ,LANE,41,039,OR 
+97430,Deadwood,Oregon ,LANE,41,039,OR 
+97424,Cottage Grove,Oregon ,LANE,41,039,OR 
+97436,Elkton,Oregon ,DOUGLAS,41,019,OR 
+97435,Drain,Oregon ,DOUGLAS,41,019,OR 
+97437,Elmira,Oregon ,LANE,41,039,OR 
+97439,Florence,Oregon ,LANE,41,039,OR 
+97440,Eugene,Oregon ,LANE,41,039,OR 
+97438,Fall Creek,Oregon ,LANE,41,039,OR 
+97441,Gardiner,Oregon ,DOUGLAS,41,019,OR 
+97442,Glendale,Oregon ,DOUGLAS,41,019,OR 
+97444,Gold Beach,Oregon ,CURRY,41,015,OR 
+97446,Harrisburg,Oregon ,LINN,41,043,OR 
+97447,Idleyld Park,Oregon ,DOUGLAS,41,019,OR 
+97448,Junction City,Oregon ,LANE,41,039,OR 
+97451,Lorane,Oregon ,LANE,41,039,OR 
+97443,Glide,Oregon ,DOUGLAS,41,019,OR 
+97449,Lakeside,Oregon ,COOS,41,011,OR 
+97450,Langlois,Oregon ,CURRY,41,015,OR 
+97452,Lowell,Oregon ,LANE,41,039,OR 
+97453,Mapleton,Oregon ,LANE,41,039,OR 
+97456,Monroe,Oregon ,BENTON,41,003,OR 
+97454,Marcola,Oregon ,LANE,41,039,OR 
+97458,Myrtle Point,Oregon ,COOS,41,011,OR 
+97455,Pleasant Hill,Oregon ,LANE,41,039,OR 
+97457,Myrtle Creek,Oregon ,DOUGLAS,41,019,OR 
+97459,North Bend,Oregon ,COOS,41,011,OR 
+97461,Noti,Oregon ,LANE,41,039,OR 
+97462,Oakland,Oregon ,DOUGLAS,41,019,OR 
+97464,Ophir,Oregon ,CURRY,41,015,OR 
+97463,Oakridge,Oregon ,LANE,41,039,OR 
+97466,Powers,Oregon ,COOS,41,011,OR 
+97465,Port Orford,Oregon ,CURRY,41,015,OR 
+97469,Riddle,Oregon ,DOUGLAS,41,019,OR 
+97467,Reedsport,Oregon ,DOUGLAS,41,019,OR 
+97470,Roseburg,Oregon ,DOUGLAS,41,019,OR 
+97471,Roseburg,Oregon ,DOUGLAS,41,019,OR 
+97473,Scottsburg,Oregon ,DOUGLAS,41,019,OR 
+97475,Springfield,Oregon ,LANE,41,039,OR 
+97476,Sixes,Oregon ,CURRY,41,015,OR 
+97478,Springfield,Oregon ,LANE,41,039,OR 
+97477,Springfield,Oregon ,LANE,41,039,OR 
+97479,Sutherlin,Oregon ,DOUGLAS,41,019,OR 
+97480,Swisshome,Oregon ,LANE,41,039,OR 
+97481,Tenmile,Oregon ,DOUGLAS,41,019,OR 
+97484,Tiller,Oregon ,DOUGLAS,41,019,OR 
+97487,Veneta,Oregon ,LANE,41,039,OR 
+97486,Umpqua,Oregon ,DOUGLAS,41,019,OR 
+97488,Vida,Oregon ,LANE,41,039,OR 
+97489,Walterville,Oregon ,LANE,41,039,OR 
+97491,Wedderburn,Oregon ,CURRY,41,015,OR 
+97490,Walton,Oregon ,LANE,41,039,OR 
+97492,Westfir,Oregon ,LANE,41,039,OR 
+97493,Westlake,Oregon ,LANE,41,039,OR 
+97495,Winchester,Oregon ,DOUGLAS,41,019,OR 
+97494,Wilbur,Oregon ,DOUGLAS,41,019,OR 
+97496,Winston,Oregon ,DOUGLAS,41,019,OR 
+97497,Wolf Creek,Oregon ,JOSEPHINE,41,033,OR 
+97499,Yoncalla,Oregon ,DOUGLAS,41,019,OR 
+97498,Yachats,Oregon ,LINCOLN,41,041,OR 
+97502,Central Point,Oregon ,JACKSON,41,029,OR 
+97501,Medford,Oregon ,JACKSON,41,029,OR 
+97520,Ashland,Oregon ,JACKSON,41,029,OR 
+97503,White City,Oregon ,JACKSON,41,029,OR 
+97504,Medford,Oregon ,JACKSON,41,029,OR 
+97523,Cave Junction,Oregon ,JOSEPHINE,41,033,OR 
+97522,Butte Falls,Oregon ,JACKSON,41,029,OR 
+97525,Gold Hill,Oregon ,JACKSON,41,029,OR 
+97524,Eagle Point,Oregon ,JACKSON,41,029,OR 
+97527,Grants Pass,Oregon ,JOSEPHINE,41,033,OR 
+97526,Grants Pass,Oregon ,JOSEPHINE,41,033,OR 
+97528,Grants Pass,Oregon ,JOSEPHINE,41,033,OR 
+97530,Jacksonville,Oregon ,JACKSON,41,029,OR 
+97531,Kerby,Oregon ,JOSEPHINE,41,033,OR 
+97532,Merlin,Oregon ,JOSEPHINE,41,033,OR 
+97533,Murphy,Oregon ,JOSEPHINE,41,033,OR 
+97536,Prospect,Oregon ,JACKSON,41,029,OR 
+97534,O Brien,Oregon ,JOSEPHINE,41,033,OR 
+97538,Selma,Oregon ,JOSEPHINE,41,033,OR 
+97535,Phoenix,Oregon ,JACKSON,41,029,OR 
+97537,Rogue River,Oregon ,JACKSON,41,029,OR 
+97539,Shady Cove,Oregon ,JACKSON,41,029,OR 
+97540,Talent,Oregon ,JACKSON,41,029,OR 
+97541,Trail,Oregon ,JACKSON,41,029,OR 
+97543,Wilderville,Oregon ,JOSEPHINE,41,033,OR 
+97544,Williams,Oregon ,JOSEPHINE,41,033,OR 
+97601,Klamath Falls,Oregon ,KLAMATH,41,035,OR 
+97602,Klamath Falls,Oregon ,KLAMATH,41,035,OR 
+97604,Crater Lake,Oregon ,KLAMATH,41,035,OR 
+97620,Adel,Oregon ,LAKE,41,037,OR 
+97603,Klamath Falls,Oregon ,KLAMATH,41,035,OR 
+97621,Beatty,Oregon ,KLAMATH,41,035,OR 
+97622,Bly,Oregon ,KLAMATH,41,035,OR 
+97625,Dairy,Oregon ,KLAMATH,41,035,OR 
+97630,Lakeview,Oregon ,LAKE,41,037,OR 
+97623,Bonanza,Oregon ,KLAMATH,41,035,OR 
+97627,Keno,Oregon ,KLAMATH,41,035,OR 
+97626,Fort Klamath,Oregon ,KLAMATH,41,035,OR 
+97624,Chiloquin,Oregon ,KLAMATH,41,035,OR 
+97632,Malin,Oregon ,KLAMATH,41,035,OR 
+97635,New Pine Creek,Oregon ,LAKE,41,037,OR 
+97637,Plush,Oregon ,LAKE,41,037,OR 
+97639,Sprague River,Oregon ,KLAMATH,41,035,OR 
+97636,Paisley,Oregon ,LAKE,41,037,OR 
+97633,Merrill,Oregon ,KLAMATH,41,035,OR 
+97634,Midland,Oregon ,KLAMATH,41,035,OR 
+97640,Summer Lake,Oregon ,LAKE,41,037,OR 
+97638,Silver Lake,Oregon ,LAKE,41,037,OR 
+97641,Christmas Valley,Oregon ,LAKE,41,037,OR 
+97710,Fields,Oregon ,HARNEY,41,025,OR 
+97703,Bend,Oregon ,DESCHUTES,41,017,OR 
+97708,Bend,Oregon ,DESCHUTES,41,017,OR 
+97701,Bend,Oregon ,DESCHUTES,41,017,OR 
+97702,Bend,Oregon ,DESCHUTES,41,017,OR 
+97707,Bend,Oregon ,DESCHUTES,41,017,OR 
+97709,Bend,Oregon ,DESCHUTES,41,017,OR 
+97711,Ashwood,Oregon ,JEFFERSON,41,031,OR 
+97731,Chemult,Oregon ,KLAMATH,41,035,OR 
+97720,Burns,Oregon ,HARNEY,41,025,OR 
+97721,Princeton,Oregon ,HARNEY,41,025,OR 
+97722,Diamond,Oregon ,HARNEY,41,025,OR 
+97732,Crane,Oregon ,HARNEY,41,025,OR 
+97730,Camp Sherman,Oregon ,JEFFERSON,41,031,OR 
+97712,Brothers,Oregon ,DESCHUTES,41,017,OR 
+97733,Crescent,Oregon ,KLAMATH,41,035,OR 
+97738,Hines,Oregon ,HARNEY,41,025,OR 
+97734,Culver,Oregon ,JEFFERSON,41,031,OR 
+97736,Frenchglen,Oregon ,HARNEY,41,025,OR 
+97737,Gilchrist,Oregon ,KLAMATH,41,035,OR 
+97735,Fort Rock,Oregon ,LAKE,41,037,OR 
+97739,La Pine,Oregon ,DESCHUTES,41,017,OR 
+97741,Madras,Oregon ,JEFFERSON,41,031,OR 
+97750,Mitchell,Oregon ,WHEELER,41,069,OR 
+97754,Prineville,Oregon ,CROOK,41,013,OR 
+97751,Paulina,Oregon ,CROOK,41,013,OR 
+97756,Redmond,Oregon ,DESCHUTES,41,017,OR 
+97752,Post,Oregon ,CROOK,41,013,OR 
+97753,Powell Butte,Oregon ,CROOK,41,013,OR 
+97759,Sisters,Oregon ,DESCHUTES,41,017,OR 
+97760,Terrebonne,Oregon ,JEFFERSON,41,031,OR 
+97758,Riley,Oregon ,HARNEY,41,025,OR 
+97761,Warm Springs,Oregon ,JEFFERSON,41,031,OR 
+97814,Baker City,Oregon ,BAKER,41,001,OR 
+97817,Bates,Oregon ,GRANT,41,023,OR 
+97812,Arlington,Oregon ,GILLIAM,41,021,OR 
+97818,Boardman,Oregon ,MORROW,41,049,OR 
+97810,Adams,Oregon ,UMATILLA,41,059,OR 
+97801,Pendleton,Oregon ,UMATILLA,41,059,OR 
+97813,Athena,Oregon ,UMATILLA,41,059,OR 
+97819,Bridgeport,Oregon ,BAKER,41,001,OR 
+97820,Canyon City,Oregon ,GRANT,41,023,OR 
+97823,Condon,Oregon ,GILLIAM,41,021,OR 
+97825,Dayville,Oregon ,GRANT,41,023,OR 
+97826,Echo,Oregon ,UMATILLA,41,059,OR 
+97827,Elgin,Oregon ,UNION,41,061,OR 
+97824,Cove,Oregon ,UNION,41,061,OR 
+97828,Enterprise,Oregon ,WALLOWA,41,063,OR 
+97830,Fossil,Oregon ,WHEELER,41,069,OR 
+97833,Haines,Oregon ,BAKER,41,001,OR 
+97836,Heppner,Oregon ,MORROW,41,049,OR 
+97837,Hereford,Oregon ,BAKER,41,001,OR 
+97835,Helix,Oregon ,UMATILLA,41,059,OR 
+97839,Lexington,Oregon ,MORROW,41,049,OR 
+97838,Hermiston,Oregon ,UMATILLA,41,059,OR 
+97840,Oxbow,Oregon ,BAKER,41,001,OR 
+97834,Halfway,Oregon ,BAKER,41,001,OR 
+97841,Imbler,Oregon ,UNION,41,061,OR 
+97842,Imnaha,Oregon ,WALLOWA,41,063,OR 
+97843,Ione,Oregon ,MORROW,41,049,OR 
+97844,Irrigon,Oregon ,MORROW,41,049,OR 
+97846,Joseph,Oregon ,WALLOWA,41,063,OR 
+97845,John Day,Oregon ,GRANT,41,023,OR 
+97850,La Grande,Oregon ,UNION,41,061,OR 
+97848,Kimberly,Oregon ,GRANT,41,023,OR 
+97856,Long Creek,Oregon ,GRANT,41,023,OR 
+97857,Lostine,Oregon ,WALLOWA,41,063,OR 
+97859,Meacham,Oregon ,UMATILLA,41,059,OR 
+97861,Mikkalo,Oregon ,GILLIAM,41,021,OR 
+97862,Milton Freewater,Oregon ,UMATILLA,41,059,OR 
+97865,Mount Vernon,Oregon ,GRANT,41,023,OR 
+97864,Monument,Oregon ,GRANT,41,023,OR 
+97868,Pilot Rock,Oregon ,UMATILLA,41,059,OR 
+97867,North Powder,Oregon ,UNION,41,061,OR 
+97869,Prairie City,Oregon ,GRANT,41,023,OR 
+97870,Richland,Oregon ,BAKER,41,001,OR 
+97876,Summerville,Oregon ,UNION,41,061,OR 
+97875,Stanfield,Oregon ,UMATILLA,41,059,OR 
+97873,Seneca,Oregon ,GRANT,41,023,OR 
+97874,Spray,Oregon ,WHEELER,41,069,OR 
+97882,Umatilla,Oregon ,UMATILLA,41,059,OR 
+97880,Ukiah,Oregon ,UMATILLA,41,059,OR 
+97877,Sumpter,Oregon ,BAKER,41,001,OR 
+97883,Union,Oregon ,UNION,41,061,OR 
+97886,Weston,Oregon ,UMATILLA,41,059,OR 
+97885,Wallowa,Oregon ,WALLOWA,41,063,OR 
+97903,Brogan,Oregon ,MALHEUR,41,045,OR 
+97884,Unity,Oregon ,BAKER,41,001,OR 
+97901,Adrian,Oregon ,MALHEUR,41,045,OR 
+97904,Drewsey,Oregon ,HARNEY,41,025,OR 
+97902,Arock,Oregon ,MALHEUR,41,045,OR 
+97905,Durkee,Oregon ,BAKER,41,001,OR 
+97908,Ironside,Oregon ,MALHEUR,41,045,OR 
+97909,Jamieson,Oregon ,MALHEUR,41,045,OR 
+97911,Juntura,Oregon ,MALHEUR,41,045,OR 
+97913,Nyssa,Oregon ,MALHEUR,41,045,OR 
+97906,Harper,Oregon ,MALHEUR,41,045,OR 
+97907,Huntington,Oregon ,BAKER,41,001,OR 
+97910,Jordan Valley,Oregon ,MALHEUR,41,045,OR 
+97914,Ontario,Oregon ,MALHEUR,41,045,OR 
+97917,Riverside,Oregon ,MALHEUR,41,045,OR 
+97920,Westfall,Oregon ,MALHEUR,41,045,OR 
+97918,Vale,Oregon ,MALHEUR,41,045,OR 

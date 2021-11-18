@@ -1,0 +1,616 @@
+68001,Abie,Nebraska ,BUTLER,31,023,NE 
+68003,Ashland,Nebraska ,SAUNDERS,31,155,NE 
+68002,Arlington,Nebraska ,WASHINGTON,31,177,NE 
+68007,Bennington,Nebraska ,DOUGLAS,31,055,NE 
+68008,Blair,Nebraska ,WASHINGTON,31,177,NE 
+68004,Bancroft,Nebraska ,CUMING,31,039,NE 
+68005,Bellevue,Nebraska ,SARPY,31,153,NE 
+68010,Boys Town,Nebraska ,DOUGLAS,31,055,NE 
+68015,Cedar Bluffs,Nebraska ,SAUNDERS,31,155,NE 
+68016,Cedar Creek,Nebraska ,CASS,31,025,NE 
+68018,Colon,Nebraska ,SAUNDERS,31,155,NE 
+68014,Bruno,Nebraska ,BUTLER,31,023,NE 
+68019,Craig,Nebraska ,BURT,31,021,NE 
+68022,Elkhorn,Nebraska ,DOUGLAS,31,055,NE 
+68020,Decatur,Nebraska ,BURT,31,021,NE 
+68017,Ceresco,Nebraska ,SAUNDERS,31,155,NE 
+68023,Fort Calhoun,Nebraska ,WASHINGTON,31,177,NE 
+68029,Herman,Nebraska ,WASHINGTON,31,177,NE 
+68030,Homer,Nebraska ,DAKOTA,31,043,NE 
+68026,Fremont,Nebraska ,DODGE,31,053,NE 
+68025,Fremont,Nebraska ,DODGE,31,053,NE 
+68028,Gretna,Nebraska ,SARPY,31,153,NE 
+68031,Hooper,Nebraska ,DODGE,31,053,NE 
+68033,Ithaca,Nebraska ,SAUNDERS,31,155,NE 
+68034,Kennard,Nebraska ,WASHINGTON,31,177,NE 
+68036,Linwood,Nebraska ,BUTLER,31,023,NE 
+68039,Macy,Nebraska ,THURSTON,31,173,NE 
+68037,Louisville,Nebraska ,CASS,31,025,NE 
+68040,Malmo,Nebraska ,SAUNDERS,31,155,NE 
+68038,Lyons,Nebraska ,BURT,31,021,NE 
+68042,Memphis,Nebraska ,SAUNDERS,31,155,NE 
+68041,Mead,Nebraska ,SAUNDERS,31,155,NE 
+68044,Nickerson,Nebraska ,DODGE,31,053,NE 
+68047,Pender,Nebraska ,THURSTON,31,173,NE 
+68055,Rosalie,Nebraska ,THURSTON,31,173,NE 
+68046,Papillion,Nebraska ,SARPY,31,153,NE 
+68050,Prague,Nebraska ,SAUNDERS,31,155,NE 
+68045,Oakland,Nebraska ,BURT,31,021,NE 
+68048,Plattsmouth,Nebraska ,CASS,31,025,NE 
+68056,St Columbans,Nebraska ,SARPY,31,153,NE 
+68057,Scribner,Nebraska ,DODGE,31,053,NE 
+68063,Uehling,Nebraska ,DODGE,31,053,NE 
+68065,Valparaiso,Nebraska ,SAUNDERS,31,155,NE 
+68058,South Bend,Nebraska ,CASS,31,025,NE 
+68061,Tekamah,Nebraska ,BURT,31,021,NE 
+68059,Springfield,Nebraska ,SARPY,31,153,NE 
+68062,Thurston,Nebraska ,THURSTON,31,173,NE 
+68064,Valley,Nebraska ,DOUGLAS,31,055,NE 
+68066,Wahoo,Nebraska ,SAUNDERS,31,155,NE 
+68067,Walthill,Nebraska ,THURSTON,31,173,NE 
+68068,Washington,Nebraska ,WASHINGTON,31,177,NE 
+68070,Weston,Nebraska ,SAUNDERS,31,155,NE 
+68071,Winnebago,Nebraska ,THURSTON,31,173,NE 
+68069,Waterloo,Nebraska ,DOUGLAS,31,055,NE 
+68072,Winslow,Nebraska ,DODGE,31,053,NE 
+68073,Yutan,Nebraska ,SAUNDERS,31,155,NE 
+68101,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68103,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68104,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68106,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68105,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68108,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68107,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68102,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68109,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68110,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68111,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68113,Offutt AFB,Nebraska ,SARPY,31,153,NE 
+68112,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68116,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68118,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68114,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68117,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68119,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68122,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68124,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68123,Bellevue,Nebraska ,SARPY,31,153,NE 
+68127,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68128,La Vista,Nebraska ,SARPY,31,153,NE 
+68131,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68130,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68132,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68133,Papillion,Nebraska ,SARPY,31,153,NE 
+68137,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68136,Omaha,Nebraska ,SARPY,31,153,NE 
+68134,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68135,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68139,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68138,Omaha,Nebraska ,SARPY,31,153,NE 
+68142,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68144,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68154,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68147,Bellevue,Nebraska ,SARPY,31,153,NE 
+68145,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68164,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68152,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68157,Omaha,Nebraska ,SARPY,31,153,NE 
+68172,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68175,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68179,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68176,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68180,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68182,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68178,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68197,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68183,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68198,Omaha,Nebraska ,DOUGLAS,31,055,NE 
+68301,Adams,Nebraska ,GAGE,31,067,NE 
+68309,Barneston,Nebraska ,GAGE,31,067,NE 
+68303,Alexandria,Nebraska ,THAYER,31,169,NE 
+68304,Alvo,Nebraska ,CASS,31,025,NE 
+68310,Beatrice,Nebraska ,GAGE,31,067,NE 
+68305,Auburn,Nebraska ,NEMAHA,31,127,NE 
+68307,Avoca,Nebraska ,CASS,31,025,NE 
+68313,Beaver Crossing,Nebraska ,SEWARD,31,159,NE 
+68316,Benedict,Nebraska ,YORK,31,185,NE 
+68320,Brock,Nebraska ,NEMAHA,31,127,NE 
+68319,Bradshaw,Nebraska ,YORK,31,185,NE 
+68314,Bee,Nebraska ,SEWARD,31,159,NE 
+68318,Blue Springs,Nebraska ,GAGE,31,067,NE 
+68315,Belvidere,Nebraska ,THAYER,31,169,NE 
+68317,Bennet,Nebraska ,LANCASTER,31,109,NE 
+68321,Brownville,Nebraska ,NEMAHA,31,127,NE 
+68322,Bruning,Nebraska ,THAYER,31,169,NE 
+68324,Burr,Nebraska ,OTOE,31,131,NE 
+68328,Clatonia,Nebraska ,GAGE,31,067,NE 
+68326,Carleton,Nebraska ,THAYER,31,169,NE 
+68323,Burchard,Nebraska ,PAWNEE,31,133,NE 
+68325,Byron,Nebraska ,THAYER,31,169,NE 
+68327,Chester,Nebraska ,THAYER,31,169,NE 
+68329,Cook,Nebraska ,JOHNSON,31,097,NE 
+68331,Cortland,Nebraska ,GAGE,31,067,NE 
+68330,Cordova,Nebraska ,SEWARD,31,159,NE 
+68332,Crab Orchard,Nebraska ,JOHNSON,31,097,NE 
+68338,Daykin,Nebraska ,JEFFERSON,31,095,NE 
+68337,Dawson,Nebraska ,RICHARDSON,31,147,NE 
+68336,Davey,Nebraska ,LANCASTER,31,109,NE 
+68335,Davenport,Nebraska ,THAYER,31,169,NE 
+68333,Crete,Nebraska ,SALINE,31,151,NE 
+68339,Denton,Nebraska ,LANCASTER,31,109,NE 
+68343,Dorchester,Nebraska ,SALINE,31,151,NE 
+68340,Deshler,Nebraska ,THAYER,31,169,NE 
+68346,Dunbar,Nebraska ,OTOE,31,131,NE 
+68341,De Witt,Nebraska ,SALINE,31,151,NE 
+68345,Du Bois,Nebraska ,PAWNEE,31,133,NE 
+68344,Douglas,Nebraska ,OTOE,31,131,NE 
+68342,Diller,Nebraska ,JEFFERSON,31,095,NE 
+68348,Elk Creek,Nebraska ,JOHNSON,31,097,NE 
+68351,Exeter,Nebraska ,FILLMORE,31,059,NE 
+68349,Elmwood,Nebraska ,CASS,31,025,NE 
+68347,Eagle,Nebraska ,CASS,31,025,NE 
+68350,Endicott,Nebraska ,JEFFERSON,31,095,NE 
+68354,Fairmont,Nebraska ,FILLMORE,31,059,NE 
+68355,Falls City,Nebraska ,RICHARDSON,31,147,NE 
+68352,Fairbury,Nebraska ,JEFFERSON,31,095,NE 
+68357,Filley,Nebraska ,GAGE,31,067,NE 
+68360,Garland,Nebraska ,SEWARD,31,159,NE 
+68358,Firth,Nebraska ,LANCASTER,31,109,NE 
+68364,Goehner,Nebraska ,SEWARD,31,159,NE 
+68361,Geneva,Nebraska ,FILLMORE,31,059,NE 
+68362,Gilead,Nebraska ,THAYER,31,169,NE 
+68359,Friend,Nebraska ,SALINE,31,151,NE 
+68365,Grafton,Nebraska ,FILLMORE,31,059,NE 
+68366,Greenwood,Nebraska ,CASS,31,025,NE 
+68367,Gresham,Nebraska ,YORK,31,185,NE 
+68372,Hickman,Nebraska ,LANCASTER,31,109,NE 
+68368,Hallam,Nebraska ,LANCASTER,31,109,NE 
+68375,Hubbell,Nebraska ,THAYER,31,169,NE 
+68371,Henderson,Nebraska ,YORK,31,185,NE 
+68370,Hebron,Nebraska ,THAYER,31,169,NE 
+68376,Humboldt,Nebraska ,RICHARDSON,31,147,NE 
+68377,Jansen,Nebraska ,JEFFERSON,31,095,NE 
+68382,Lorton,Nebraska ,OTOE,31,131,NE 
+68401,Mc Cool Junction,Nebraska ,YORK,31,185,NE 
+68380,Lewiston,Nebraska ,PAWNEE,31,133,NE 
+68402,Malcolm,Nebraska ,LANCASTER,31,109,NE 
+68379,Julian,Nebraska ,NEMAHA,31,127,NE 
+68378,Johnson,Nebraska ,NEMAHA,31,127,NE 
+68403,Manley,Nebraska ,CASS,31,025,NE 
+68381,Liberty,Nebraska ,GAGE,31,067,NE 
+68405,Milford,Nebraska ,SEWARD,31,159,NE 
+68407,Murdock,Nebraska ,CASS,31,025,NE 
+68404,Martell,Nebraska ,LANCASTER,31,109,NE 
+68414,Nemaha,Nebraska ,NEMAHA,31,127,NE 
+68406,Milligan,Nebraska ,FILLMORE,31,059,NE 
+68410,Nebraska City,Nebraska ,OTOE,31,131,NE 
+68413,Nehawka,Nebraska ,CASS,31,025,NE 
+68409,Murray,Nebraska ,CASS,31,025,NE 
+68415,Odell,Nebraska ,GAGE,31,067,NE 
+68416,Ohiowa,Nebraska ,FILLMORE,31,059,NE 
+68418,Palmyra,Nebraska ,OTOE,31,131,NE 
+68419,Panama,Nebraska ,LANCASTER,31,109,NE 
+68420,Pawnee City,Nebraska ,PAWNEE,31,133,NE 
+68417,Otoe,Nebraska ,OTOE,31,131,NE 
+68422,Pickrell,Nebraska ,GAGE,31,067,NE 
+68421,Peru,Nebraska ,NEMAHA,31,127,NE 
+68424,Plymouth,Nebraska ,JEFFERSON,31,095,NE 
+68423,Pleasant Dale,Nebraska ,SEWARD,31,159,NE 
+68429,Reynolds,Nebraska ,THAYER,31,169,NE 
+68428,Raymond,Nebraska ,LANCASTER,31,109,NE 
+68434,Seward,Nebraska ,SEWARD,31,159,NE 
+68430,Roca,Nebraska ,LANCASTER,31,109,NE 
+68431,Rulo,Nebraska ,RICHARDSON,31,147,NE 
+68433,Salem,Nebraska ,RICHARDSON,31,147,NE 
+68436,Shickley,Nebraska ,FILLMORE,31,059,NE 
+68437,Shubert,Nebraska ,RICHARDSON,31,147,NE 
+68440,Steele City,Nebraska ,JEFFERSON,31,095,NE 
+68439,Staplehurst,Nebraska ,SEWARD,31,159,NE 
+68442,Stella,Nebraska ,RICHARDSON,31,147,NE 
+68443,Sterling,Nebraska ,JOHNSON,31,097,NE 
+68438,Sprague,Nebraska ,LANCASTER,31,109,NE 
+68441,Steinauer,Nebraska ,PAWNEE,31,133,NE 
+68444,Strang,Nebraska ,FILLMORE,31,059,NE 
+68445,Swanton,Nebraska ,SALINE,31,151,NE 
+68447,Table Rock,Nebraska ,PAWNEE,31,133,NE 
+68450,Tecumseh,Nebraska ,JOHNSON,31,097,NE 
+68446,Syracuse,Nebraska ,OTOE,31,131,NE 
+68452,Ong,Nebraska ,CLAY,31,035,NE 
+68448,Talmage,Nebraska ,OTOE,31,131,NE 
+68453,Tobias,Nebraska ,SALINE,31,151,NE 
+68455,Union,Nebraska ,CASS,31,025,NE 
+68454,Unadilla,Nebraska ,OTOE,31,131,NE 
+68457,Verdon,Nebraska ,RICHARDSON,31,147,NE 
+68458,Virginia,Nebraska ,GAGE,31,067,NE 
+68463,Weeping Water,Nebraska ,CASS,31,025,NE 
+68464,Western,Nebraska ,SALINE,31,151,NE 
+68456,Utica,Nebraska ,SEWARD,31,159,NE 
+68462,Waverly,Nebraska ,LANCASTER,31,109,NE 
+68460,Waco,Nebraska ,YORK,31,185,NE 
+68461,Walton,Nebraska ,LANCASTER,31,109,NE 
+68465,Wilber,Nebraska ,SALINE,31,151,NE 
+68466,Wymore,Nebraska ,GAGE,31,067,NE 
+68505,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68501,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68502,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68503,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68467,York,Nebraska ,YORK,31,185,NE 
+68504,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68506,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68510,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68507,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68509,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68516,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68508,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68512,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68514,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68517,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68521,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68524,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68527,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68523,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68526,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68522,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68520,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68542,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68529,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68544,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68532,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68583,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68588,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68528,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68531,Lincoln,Nebraska ,LANCASTER,31,109,NE 
+68601,Columbus,Nebraska ,PLATTE,31,141,NE 
+68622,Bartlett,Nebraska ,WHEELER,31,183,NE 
+68620,Albion,Nebraska ,BOONE,31,011,NE 
+68621,Ames,Nebraska ,DODGE,31,053,NE 
+68624,Bellwood,Nebraska ,BUTLER,31,023,NE 
+68626,Brainard,Nebraska ,BUTLER,31,023,NE 
+68623,Belgrade,Nebraska ,BOONE,31,011,NE 
+68602,Columbus,Nebraska ,PLATTE,31,141,NE 
+68627,Cedar Rapids,Nebraska ,BOONE,31,011,NE 
+68628,Clarks,Nebraska ,MERRICK,31,121,NE 
+68629,Clarkson,Nebraska ,COLFAX,31,037,NE 
+68631,Creston,Nebraska ,PLATTE,31,141,NE 
+68632,David City,Nebraska ,BUTLER,31,023,NE 
+68635,Dwight,Nebraska ,BUTLER,31,023,NE 
+68636,Elgin,Nebraska ,ANTELOPE,31,003,NE 
+68634,Duncan,Nebraska ,PLATTE,31,141,NE 
+68633,Dodge,Nebraska ,DODGE,31,053,NE 
+68637,Ericson,Nebraska ,WHEELER,31,183,NE 
+68642,Humphrey,Nebraska ,PLATTE,31,141,NE 
+68638,Fullerton,Nebraska ,NANCE,31,125,NE 
+68640,Genoa,Nebraska ,NANCE,31,125,NE 
+68643,Leigh,Nebraska ,COLFAX,31,037,NE 
+68641,Howells,Nebraska ,COLFAX,31,037,NE 
+68647,Monroe,Nebraska ,PLATTE,31,141,NE 
+68644,Lindsay,Nebraska ,PLATTE,31,141,NE 
+68648,Morse Bluff,Nebraska ,SAUNDERS,31,155,NE 
+68649,North Bend,Nebraska ,DODGE,31,053,NE 
+68651,Osceola,Nebraska ,POLK,31,143,NE 
+68655,Primrose,Nebraska ,BOONE,31,011,NE 
+68658,Rising City,Nebraska ,BUTLER,31,023,NE 
+68653,Platte Center,Nebraska ,PLATTE,31,141,NE 
+68652,Petersburg,Nebraska ,BOONE,31,011,NE 
+68654,Polk,Nebraska ,POLK,31,143,NE 
+68659,Rogers,Nebraska ,COLFAX,31,037,NE 
+68660,Saint Edward,Nebraska ,BOONE,31,011,NE 
+68665,Spalding,Nebraska ,GREELEY,31,077,NE 
+68664,Snyder,Nebraska ,DODGE,31,053,NE 
+68661,Schuyler,Nebraska ,COLFAX,31,037,NE 
+68663,Silver Creek,Nebraska ,MERRICK,31,121,NE 
+68662,Shelby,Nebraska ,POLK,31,143,NE 
+68666,Stromsburg,Nebraska ,POLK,31,143,NE 
+68667,Surprise,Nebraska ,BUTLER,31,023,NE 
+68669,Ulysses,Nebraska ,BUTLER,31,023,NE 
+68701,Norfolk,Nebraska ,MADISON,31,119,NE 
+68702,Norfolk,Nebraska ,MADISON,31,119,NE 
+68711,Amelia,Nebraska ,HOLT,31,089,NE 
+68714,Bassett,Nebraska ,ROCK,31,149,NE 
+68715,Battle Creek,Nebraska ,MADISON,31,119,NE 
+68713,Atkinson,Nebraska ,HOLT,31,089,NE 
+68716,Beemer,Nebraska ,CUMING,31,039,NE 
+68710,Allen,Nebraska ,DIXON,31,051,NE 
+68717,Belden,Nebraska ,CEDAR,31,027,NE 
+68723,Carroll,Nebraska ,WAYNE,31,179,NE 
+68724,Center,Nebraska ,KNOX,31,107,NE 
+68719,Bristow,Nebraska ,BOYD,31,015,NE 
+68720,Brunswick,Nebraska ,ANTELOPE,31,003,NE 
+68725,Chambers,Nebraska ,HOLT,31,089,NE 
+68718,Bloomfield,Nebraska ,KNOX,31,107,NE 
+68722,Butte,Nebraska ,BOYD,31,015,NE 
+68726,Clearwater,Nebraska ,ANTELOPE,31,003,NE 
+68729,Creighton,Nebraska ,KNOX,31,107,NE 
+68727,Coleridge,Nebraska ,CEDAR,31,027,NE 
+68734,Emmet,Nebraska ,HOLT,31,089,NE 
+68730,Crofton,Nebraska ,KNOX,31,107,NE 
+68733,Emerson,Nebraska ,DAKOTA,31,043,NE 
+68728,Concord,Nebraska ,DIXON,31,051,NE 
+68731,Dakota City,Nebraska ,DAKOTA,31,043,NE 
+68732,Dixon,Nebraska ,DIXON,31,051,NE 
+68738,Hadar,Nebraska ,PIERCE,31,139,NE 
+68735,Ewing,Nebraska ,HOLT,31,089,NE 
+68736,Fordyce,Nebraska ,CEDAR,31,027,NE 
+68741,Hubbard,Nebraska ,DAKOTA,31,043,NE 
+68739,Hartington,Nebraska ,CEDAR,31,027,NE 
+68743,Jackson,Nebraska ,DAKOTA,31,043,NE 
+68740,Hoskins,Nebraska ,WAYNE,31,179,NE 
+68742,Inman,Nebraska ,HOLT,31,089,NE 
+68745,Laurel,Nebraska ,CEDAR,31,027,NE 
+68746,Lynch,Nebraska ,BOYD,31,015,NE 
+68747,Mclean,Nebraska ,PIERCE,31,139,NE 
+68749,Magnet,Nebraska ,CEDAR,31,027,NE 
+68748,Madison,Nebraska ,MADISON,31,119,NE 
+68753,Mills,Nebraska ,KEYA PAHA,31,103,NE 
+68752,Meadow Grove,Nebraska ,MADISON,31,119,NE 
+68751,Maskell,Nebraska ,DIXON,31,051,NE 
+68755,Naper,Nebraska ,BOYD,31,015,NE 
+68757,Newcastle,Nebraska ,DIXON,31,051,NE 
+68756,Neligh,Nebraska ,ANTELOPE,31,003,NE 
+68759,Newport,Nebraska ,KEYA PAHA,31,103,NE 
+68761,Oakdale,Nebraska ,ANTELOPE,31,003,NE 
+68763,Oneill,Nebraska ,HOLT,31,089,NE 
+68758,Newman Grove,Nebraska ,MADISON,31,119,NE 
+68760,Niobrara,Nebraska ,KNOX,31,107,NE 
+68765,Osmond,Nebraska ,PIERCE,31,139,NE 
+68764,Orchard,Nebraska ,ANTELOPE,31,003,NE 
+68767,Pierce,Nebraska ,PIERCE,31,139,NE 
+68766,Page,Nebraska ,HOLT,31,089,NE 
+68768,Pilger,Nebraska ,STANTON,31,167,NE 
+68770,Ponca,Nebraska ,DIXON,31,051,NE 
+68769,Plainview,Nebraska ,PIERCE,31,139,NE 
+68771,Randolph,Nebraska ,CEDAR,31,027,NE 
+68774,Saint Helena,Nebraska ,CEDAR,31,027,NE 
+68773,Royal,Nebraska ,ANTELOPE,31,003,NE 
+68776,South Sioux City,Nebraska ,DAKOTA,31,043,NE 
+68777,Spencer,Nebraska ,BOYD,31,015,NE 
+68778,Springview,Nebraska ,KEYA PAHA,31,103,NE 
+68781,Tilden,Nebraska ,MADISON,31,119,NE 
+68780,Stuart,Nebraska ,HOLT,31,089,NE 
+68779,Stanton,Nebraska ,STANTON,31,167,NE 
+68784,Wakefield,Nebraska ,DIXON,31,051,NE 
+68783,Verdigre,Nebraska ,KNOX,31,107,NE 
+68785,Waterbury,Nebraska ,DIXON,31,051,NE 
+68786,Wausa,Nebraska ,KNOX,31,107,NE 
+68788,West Point,Nebraska ,CUMING,31,039,NE 
+68789,Winnetoon,Nebraska ,KNOX,31,107,NE 
+68787,Wayne,Nebraska ,WAYNE,31,179,NE 
+68790,Winside,Nebraska ,WAYNE,31,179,NE 
+68792,Wynot,Nebraska ,CEDAR,31,027,NE 
+68791,Wisner,Nebraska ,CUMING,31,039,NE 
+68801,Grand Island,Nebraska ,HALL,31,079,NE 
+68810,Alda,Nebraska ,HALL,31,079,NE 
+68802,Grand Island,Nebraska ,HALL,31,079,NE 
+68812,Amherst,Nebraska ,BUFFALO,31,019,NE 
+68803,Grand Island,Nebraska ,HALL,31,079,NE 
+68815,Arcadia,Nebraska ,VALLEY,31,175,NE 
+68813,Anselmo,Nebraska ,CUSTER,31,041,NE 
+68814,Ansley,Nebraska ,CUSTER,31,041,NE 
+68816,Archer,Nebraska ,MERRICK,31,121,NE 
+68821,Brewster,Nebraska ,BLAINE,31,009,NE 
+68824,Cairo,Nebraska ,HALL,31,079,NE 
+68823,Burwell,Nebraska ,GARFIELD,31,071,NE 
+68820,Boelus,Nebraska ,HOWARD,31,093,NE 
+68817,Ashton,Nebraska ,SHERMAN,31,163,NE 
+68818,Aurora,Nebraska ,HAMILTON,31,081,NE 
+68822,Broken Bow,Nebraska ,CUSTER,31,041,NE 
+68825,Callaway,Nebraska ,CUSTER,31,041,NE 
+68826,Central City,Nebraska ,MERRICK,31,121,NE 
+68827,Chapman,Nebraska ,MERRICK,31,121,NE 
+68833,Dunning,Nebraska ,BLAINE,31,009,NE 
+68835,Elba,Nebraska ,HOWARD,31,093,NE 
+68831,Dannebrog,Nebraska ,HOWARD,31,093,NE 
+68832,Doniphan,Nebraska ,HALL,31,079,NE 
+68828,Comstock,Nebraska ,CUSTER,31,041,NE 
+68834,Eddyville,Nebraska ,DAWSON,31,047,NE 
+68836,Elm Creek,Nebraska ,BUFFALO,31,019,NE 
+68837,Elyria,Nebraska ,VALLEY,31,175,NE 
+68844,Hazard,Nebraska ,SHERMAN,31,163,NE 
+68838,Farwell,Nebraska ,HOWARD,31,093,NE 
+68842,Greeley,Nebraska ,GREELEY,31,077,NE 
+68843,Hampton,Nebraska ,HAMILTON,31,081,NE 
+68840,Gibbon,Nebraska ,BUFFALO,31,019,NE 
+68841,Giltner,Nebraska ,HAMILTON,31,081,NE 
+68846,Hordville,Nebraska ,HAMILTON,31,081,NE 
+68849,Kearney,Nebraska ,BUFFALO,31,019,NE 
+68845,Kearney,Nebraska ,BUFFALO,31,019,NE 
+68847,Kearney,Nebraska ,BUFFALO,31,019,NE 
+68850,Lexington,Nebraska ,DAWSON,31,047,NE 
+68848,Kearney,Nebraska ,BUFFALO,31,019,NE 
+68853,Loup City,Nebraska ,SHERMAN,31,163,NE 
+68852,Litchfield,Nebraska ,SHERMAN,31,163,NE 
+68861,Odessa,Nebraska ,BUFFALO,31,019,NE 
+68858,Miller,Nebraska ,BUFFALO,31,019,NE 
+68862,Ord,Nebraska ,VALLEY,31,175,NE 
+68855,Mason City,Nebraska ,CUSTER,31,041,NE 
+68860,Oconto,Nebraska ,CUSTER,31,041,NE 
+68854,Marquette,Nebraska ,HAMILTON,31,081,NE 
+68859,North Loup,Nebraska ,VALLEY,31,175,NE 
+68856,Merna,Nebraska ,CUSTER,31,041,NE 
+68870,Riverdale,Nebraska ,BUFFALO,31,019,NE 
+68864,Palmer,Nebraska ,MERRICK,31,121,NE 
+68863,Overton,Nebraska ,DAWSON,31,047,NE 
+68871,Rockville,Nebraska ,SHERMAN,31,163,NE 
+68865,Phillips,Nebraska ,HAMILTON,31,081,NE 
+68872,Saint Libory,Nebraska ,HOWARD,31,093,NE 
+68866,Pleasanton,Nebraska ,BUFFALO,31,019,NE 
+68869,Ravenna,Nebraska ,BUFFALO,31,019,NE 
+68881,Westerville,Nebraska ,CUSTER,31,041,NE 
+68876,Shelton,Nebraska ,BUFFALO,31,019,NE 
+68882,Wolbach,Nebraska ,GREELEY,31,077,NE 
+68878,Sumner,Nebraska ,DAWSON,31,047,NE 
+68879,Taylor,Nebraska ,LOUP,31,115,NE 
+68873,Saint Paul,Nebraska ,HOWARD,31,093,NE 
+68874,Sargent,Nebraska ,CUSTER,31,041,NE 
+68875,Scotia,Nebraska ,GREELEY,31,077,NE 
+68922,Arapahoe,Nebraska ,FURNAS,31,065,NE 
+68902,Hastings,Nebraska ,ADAMS,31,001,NE 
+68920,Alma,Nebraska ,HARLAN,31,083,NE 
+68924,Axtell,Nebraska ,KEARNEY,31,099,NE 
+68925,Ayr,Nebraska ,ADAMS,31,001,NE 
+68883,Wood River,Nebraska ,HALL,31,079,NE 
+68923,Atlanta,Nebraska ,PHELPS,31,137,NE 
+68901,Hastings,Nebraska ,ADAMS,31,001,NE 
+68927,Bertrand,Nebraska ,PHELPS,31,137,NE 
+68929,Bloomington,Nebraska ,FRANKLIN,31,061,NE 
+68934,Deweese,Nebraska ,CLAY,31,035,NE 
+68926,Beaver City,Nebraska ,FURNAS,31,065,NE 
+68933,Clay Center,Nebraska ,CLAY,31,035,NE 
+68928,Bladen,Nebraska ,WEBSTER,31,181,NE 
+68932,Campbell,Nebraska ,FRANKLIN,31,061,NE 
+68930,Blue Hill,Nebraska ,WEBSTER,31,181,NE 
+68935,Edgar,Nebraska ,CLAY,31,035,NE 
+68937,Elwood,Nebraska ,GOSPER,31,073,NE 
+68940,Funk,Nebraska ,PHELPS,31,137,NE 
+68936,Edison,Nebraska ,FURNAS,31,065,NE 
+68938,Fairfield,Nebraska ,CLAY,31,035,NE 
+68941,Glenvil,Nebraska ,CLAY,31,035,NE 
+68942,Guide Rock,Nebraska ,WEBSTER,31,181,NE 
+68939,Franklin,Nebraska ,FRANKLIN,31,061,NE 
+68943,Hardy,Nebraska ,NUCKOLLS,31,129,NE 
+68949,Holdrege,Nebraska ,PHELPS,31,137,NE 
+68944,Harvard,Nebraska ,CLAY,31,035,NE 
+68945,Heartwell,Nebraska ,KEARNEY,31,099,NE 
+68947,Hildreth,Nebraska ,FRANKLIN,31,061,NE 
+68946,Hendley,Nebraska ,FURNAS,31,065,NE 
+68950,Holstein,Nebraska ,ADAMS,31,001,NE 
+68948,Holbrook,Nebraska ,FURNAS,31,065,NE 
+68952,Inavale,Nebraska ,WEBSTER,31,181,NE 
+68955,Juniata,Nebraska ,ADAMS,31,001,NE 
+68954,Inland,Nebraska ,CLAY,31,035,NE 
+68960,Naponee,Nebraska ,FRANKLIN,31,061,NE 
+68959,Minden,Nebraska ,KEARNEY,31,099,NE 
+68956,Kenesaw,Nebraska ,ADAMS,31,001,NE 
+68958,Loomis,Nebraska ,PHELPS,31,137,NE 
+68957,Lawrence,Nebraska ,NUCKOLLS,31,129,NE 
+68961,Nelson,Nebraska ,NUCKOLLS,31,129,NE 
+68966,Orleans,Nebraska ,HARLAN,31,083,NE 
+68967,Oxford,Nebraska ,FURNAS,31,065,NE 
+68964,Oak,Nebraska ,NUCKOLLS,31,129,NE 
+68970,Red Cloud,Nebraska ,WEBSTER,31,181,NE 
+68969,Ragan,Nebraska ,HARLAN,31,083,NE 
+68972,Riverton,Nebraska ,FRANKLIN,31,061,NE 
+68973,Roseland,Nebraska ,ADAMS,31,001,NE 
+68971,Republican City,Nebraska ,HARLAN,31,083,NE 
+68974,Ruskin,Nebraska ,NUCKOLLS,31,129,NE 
+68975,Saronville,Nebraska ,CLAY,31,035,NE 
+68976,Smithfield,Nebraska ,GOSPER,31,073,NE 
+68981,Upland,Nebraska ,FRANKLIN,31,061,NE 
+68979,Sutton,Nebraska ,CLAY,31,035,NE 
+68980,Trumbull,Nebraska ,CLAY,31,035,NE 
+68978,Superior,Nebraska ,NUCKOLLS,31,129,NE 
+68977,Stamford,Nebraska ,HARLAN,31,083,NE 
+68982,Wilcox,Nebraska ,KEARNEY,31,099,NE 
+69001,Mc Cook,Nebraska ,RED WILLOW,31,145,NE 
+69020,Bartley,Nebraska ,RED WILLOW,31,145,NE 
+69021,Benkelman,Nebraska ,DUNDY,31,057,NE 
+69023,Champion,Nebraska ,CHASE,31,029,NE 
+69022,Cambridge,Nebraska ,FURNAS,31,065,NE 
+69024,Culbertson,Nebraska ,HITCHCOCK,31,087,NE 
+69025,Curtis,Nebraska ,FRONTIER,31,063,NE 
+69026,Danbury,Nebraska ,RED WILLOW,31,145,NE 
+69027,Enders,Nebraska ,CHASE,31,029,NE 
+69028,Eustis,Nebraska ,FRONTIER,31,063,NE 
+69029,Farnam,Nebraska ,DAWSON,31,047,NE 
+69033,Imperial,Nebraska ,CHASE,31,029,NE 
+69030,Haigler,Nebraska ,DUNDY,31,057,NE 
+69036,Lebanon,Nebraska ,RED WILLOW,31,145,NE 
+69032,Hayes Center,Nebraska ,HAYES,31,085,NE 
+69034,Indianola,Nebraska ,RED WILLOW,31,145,NE 
+69037,Max,Nebraska ,DUNDY,31,057,NE 
+69043,Stratton,Nebraska ,HITCHCOCK,31,087,NE 
+69038,Maywood,Nebraska ,FRONTIER,31,063,NE 
+69042,Stockville,Nebraska ,FRONTIER,31,063,NE 
+69040,Palisade,Nebraska ,HITCHCOCK,31,087,NE 
+69041,Parks,Nebraska ,DUNDY,31,057,NE 
+69044,Trenton,Nebraska ,HITCHCOCK,31,087,NE 
+69039,Moorefield,Nebraska ,FRONTIER,31,063,NE 
+69045,Wauneta,Nebraska ,CHASE,31,029,NE 
+69101,North Platte,Nebraska ,LINCOLN,31,111,NE 
+69046,Wilsonville,Nebraska ,FURNAS,31,065,NE 
+69121,Arthur,Nebraska ,ARTHUR,31,005,NE 
+69123,Brady,Nebraska ,LINCOLN,31,111,NE 
+69122,Big Springs,Nebraska ,DEUEL,31,049,NE 
+69120,Arnold,Nebraska ,CUSTER,31,041,NE 
+69125,Broadwater,Nebraska ,MORRILL,31,123,NE 
+69103,North Platte,Nebraska ,LINCOLN,31,111,NE 
+69128,Bushnell,Nebraska ,KIMBALL,31,105,NE 
+69127,Brule,Nebraska ,KEITH,31,101,NE 
+69132,Dickens,Nebraska ,LINCOLN,31,111,NE 
+69131,Dalton,Nebraska ,CHEYENNE,31,033,NE 
+69133,Dix,Nebraska ,KIMBALL,31,105,NE 
+69134,Elsie,Nebraska ,PERKINS,31,135,NE 
+69130,Cozad,Nebraska ,DAWSON,31,047,NE 
+69129,Chappell,Nebraska ,DEUEL,31,049,NE 
+69135,Elsmere,Nebraska ,CHERRY,31,031,NE 
+69138,Gothenburg,Nebraska ,DAWSON,31,047,NE 
+69142,Halsey,Nebraska ,THOMAS,31,171,NE 
+69144,Keystone,Nebraska ,KEITH,31,101,NE 
+69141,Gurley,Nebraska ,CHEYENNE,31,033,NE 
+69145,Kimball,Nebraska ,KIMBALL,31,105,NE 
+69140,Grant,Nebraska ,PERKINS,31,135,NE 
+69143,Hershey,Nebraska ,LINCOLN,31,111,NE 
+69146,Lemoyne,Nebraska ,KEITH,31,101,NE 
+69147,Lewellen,Nebraska ,GARDEN,31,069,NE 
+69153,Ogallala,Nebraska ,KEITH,31,101,NE 
+69152,Mullen,Nebraska ,HOOKER,31,091,NE 
+69150,Madrid,Nebraska ,PERKINS,31,135,NE 
+69149,Lodgepole,Nebraska ,CHEYENNE,31,033,NE 
+69151,Maxwell,Nebraska ,LINCOLN,31,111,NE 
+69154,Oshkosh,Nebraska ,GARDEN,31,069,NE 
+69148,Lisco,Nebraska ,GARDEN,31,069,NE 
+69155,Paxton,Nebraska ,KEITH,31,101,NE 
+69160,Sidney,Nebraska ,CHEYENNE,31,033,NE 
+69156,Potter,Nebraska ,CHEYENNE,31,033,NE 
+69157,Purdum,Nebraska ,BLAINE,31,009,NE 
+69161,Seneca,Nebraska ,THOMAS,31,171,NE 
+69162,Sidney,Nebraska ,CHEYENNE,31,033,NE 
+69166,Thedford,Nebraska ,THOMAS,31,171,NE 
+69165,Sutherland,Nebraska ,LINCOLN,31,111,NE 
+69163,Stapleton,Nebraska ,LOGAN,31,113,NE 
+69167,Tryon,Nebraska ,MCPHERSON,31,117,NE 
+69168,Venango,Nebraska ,PERKINS,31,135,NE 
+69211,Cody,Nebraska ,CHERRY,31,031,NE 
+69170,Wellfleet,Nebraska ,LINCOLN,31,111,NE 
+69169,Wallace,Nebraska ,LINCOLN,31,111,NE 
+69201,Valentine,Nebraska ,CHERRY,31,031,NE 
+69171,Willow Island,Nebraska ,DAWSON,31,047,NE 
+69210,Ainsworth,Nebraska ,BROWN,31,017,NE 
+69220,Sparks,Nebraska ,CHERRY,31,031,NE 
+69216,Kilgore,Nebraska ,CHERRY,31,031,NE 
+69218,Merriman,Nebraska ,CHERRY,31,031,NE 
+69212,Crookston,Nebraska ,CHERRY,31,031,NE 
+69217,Long Pine,Nebraska ,BROWN,31,017,NE 
+69214,Johnstown,Nebraska ,BROWN,31,017,NE 
+69221,Wood Lake,Nebraska ,CHERRY,31,031,NE 
+69219,Nenzel,Nebraska ,CHERRY,31,031,NE 
+69301,Alliance,Nebraska ,BOX BUTTE,31,013,NE 
+69331,Angora,Nebraska ,MORRILL,31,123,NE 
+69333,Ashby,Nebraska ,GRANT,31,075,NE 
+69335,Bingham,Nebraska ,SHERIDAN,31,161,NE 
+69334,Bayard,Nebraska ,MORRILL,31,123,NE 
+69336,Bridgeport,Nebraska ,MORRILL,31,123,NE 
+69337,Chadron,Nebraska ,DAWES,31,045,NE 
+69339,Crawford,Nebraska ,DAWES,31,045,NE 
+69340,Ellsworth,Nebraska ,SHERIDAN,31,161,NE 
+69341,Gering,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69345,Harrisburg,Nebraska ,BANNER,31,007,NE 
+69343,Gordon,Nebraska ,SHERIDAN,31,161,NE 
+69348,Hemingford,Nebraska ,BOX BUTTE,31,013,NE 
+69346,Harrison,Nebraska ,SIOUX,31,165,NE 
+69347,Hay Springs,Nebraska ,SHERIDAN,31,161,NE 
+69350,Hyannis,Nebraska ,GRANT,31,075,NE 
+69351,Lakeside,Nebraska ,SHERIDAN,31,161,NE 
+69352,Lyman,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69355,Melbeta,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69353,Mcgrew,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69354,Marsland,Nebraska ,DAWES,31,045,NE 
+69357,Mitchell,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69356,Minatare,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69360,Rushville,Nebraska ,SHERIDAN,31,161,NE 
+69358,Morrill,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69361,Scottsbluff,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69365,Whiteclay,Nebraska ,SHERIDAN,31,161,NE 
+69366,Whitman,Nebraska ,GRANT,31,075,NE 
+69363,Scottsbluff,Nebraska ,SCOTTS BLUFF,31,157,NE 
+69367,Whitney,Nebraska ,DAWES,31,045,NE 

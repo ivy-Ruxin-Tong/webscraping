@@ -1,0 +1,810 @@
+35004,Moody,Alabama ,SAINT CLAIR,01,115,AL 
+35014,Alpine,Alabama ,TALLADEGA,01,121,AL 
+35005,Adamsville,Alabama ,JEFFERSON,01,073,AL 
+35007,Alabaster,Alabama ,SHELBY,01,117,AL 
+35011,Alexander City,Alabama ,TALLAPOOSA,01,123,AL 
+35006,Adger,Alabama ,JEFFERSON,01,073,AL 
+35013,Allgood,Alabama ,BLOUNT,01,009,AL 
+35010,Alexander City,Alabama ,TALLAPOOSA,01,123,AL 
+35015,Alton,Alabama ,JEFFERSON,01,073,AL 
+35031,Blountsville,Alabama ,BLOUNT,01,009,AL 
+35023,Bessemer,Alabama ,JEFFERSON,01,073,AL 
+35022,Bessemer,Alabama ,JEFFERSON,01,073,AL 
+35016,Arab,Alabama ,MARSHALL,01,095,AL 
+35019,Baileyton,Alabama ,CULLMAN,01,043,AL 
+35021,Bessemer,Alabama ,JEFFERSON,01,073,AL 
+35020,Bessemer,Alabama ,JEFFERSON,01,073,AL 
+35032,Bon Air,Alabama ,TALLADEGA,01,121,AL 
+35036,Brookside,Alabama ,JEFFERSON,01,073,AL 
+35038,Burnwell,Alabama ,WALKER,01,127,AL 
+35033,Bremen,Alabama ,CULLMAN,01,043,AL 
+35035,Brierfield,Alabama ,BIBB,01,007,AL 
+35034,Brent,Alabama ,BIBB,01,007,AL 
+35042,Centreville,Alabama ,BIBB,01,007,AL 
+35040,Calera,Alabama ,SHELBY,01,117,AL 
+35043,Chelsea,Alabama ,SHELBY,01,117,AL 
+35053,Crane Hill,Alabama ,CULLMAN,01,043,AL 
+35045,Clanton,Alabama ,CHILTON,01,021,AL 
+35046,Clanton,Alabama ,CHILTON,01,021,AL 
+35052,Cook Springs,Alabama ,SAINT CLAIR,01,115,AL 
+35048,Clay,Alabama ,JEFFERSON,01,073,AL 
+35044,Childersburg,Alabama ,TALLADEGA,01,121,AL 
+35049,Cleveland,Alabama ,BLOUNT,01,009,AL 
+35054,Cropwell,Alabama ,SAINT CLAIR,01,115,AL 
+35055,Cullman,Alabama ,CULLMAN,01,043,AL 
+35058,Cullman,Alabama ,CULLMAN,01,043,AL 
+35061,Dolomite,Alabama ,JEFFERSON,01,073,AL 
+35056,Cullman,Alabama ,CULLMAN,01,043,AL 
+35057,Cullman,Alabama ,CULLMAN,01,043,AL 
+35062,Dora,Alabama ,JEFFERSON,01,073,AL 
+35063,Empire,Alabama ,WALKER,01,127,AL 
+35060,Docena,Alabama ,JEFFERSON,01,073,AL 
+35064,Fairfield,Alabama ,JEFFERSON,01,073,AL 
+35072,Goodwater,Alabama ,COOSA,01,037,AL 
+35071,Gardendale,Alabama ,JEFFERSON,01,073,AL 
+35068,Fultondale,Alabama ,JEFFERSON,01,073,AL 
+35070,Garden City,Alabama ,CULLMAN,01,043,AL 
+35074,Green Pond,Alabama ,BIBB,01,007,AL 
+35073,Graysville,Alabama ,JEFFERSON,01,073,AL 
+35077,Hanceville,Alabama ,CULLMAN,01,043,AL 
+35078,Harpersville,Alabama ,SHELBY,01,117,AL 
+35080,Helena,Alabama ,SHELBY,01,117,AL 
+35079,Hayden,Alabama ,BLOUNT,01,009,AL 
+35083,Holly Pond,Alabama ,CULLMAN,01,043,AL 
+35082,Hollins,Alabama ,CLAY,01,027,AL 
+35087,Joppa,Alabama ,CULLMAN,01,043,AL 
+35089,Kellyton,Alabama ,COOSA,01,037,AL 
+35085,Jemison,Alabama ,CHILTON,01,021,AL 
+35091,Kimberly,Alabama ,JEFFERSON,01,073,AL 
+35098,Logan,Alabama ,CULLMAN,01,043,AL 
+35094,Leeds,Alabama ,JEFFERSON,01,073,AL 
+35111,Mc Calla,Alabama ,JEFFERSON,01,073,AL 
+35112,Margaret,Alabama ,SAINT CLAIR,01,115,AL 
+35096,Lincoln,Alabama ,TALLADEGA,01,121,AL 
+35097,Locust Fork,Alabama ,BLOUNT,01,009,AL 
+35114,Alabaster,Alabama ,SHELBY,01,117,AL 
+35116,Morris,Alabama ,JEFFERSON,01,073,AL 
+35117,Mount Olive,Alabama ,JEFFERSON,01,073,AL 
+35115,Montevallo,Alabama ,SHELBY,01,117,AL 
+35121,Oneonta,Alabama ,BLOUNT,01,009,AL 
+35118,Mulga,Alabama ,JEFFERSON,01,073,AL 
+35120,Odenville,Alabama ,SAINT CLAIR,01,115,AL 
+35119,New Castle,Alabama ,JEFFERSON,01,073,AL 
+35123,Palmerdale,Alabama ,JEFFERSON,01,073,AL 
+35126,Pinson,Alabama ,JEFFERSON,01,073,AL 
+35124,Pelham,Alabama ,SHELBY,01,117,AL 
+35125,Pell City,Alabama ,SAINT CLAIR,01,115,AL 
+35128,Pell City,Alabama ,SAINT CLAIR,01,115,AL 
+35127,Pleasant Grove,Alabama ,JEFFERSON,01,073,AL 
+35131,Ragland,Alabama ,SAINT CLAIR,01,115,AL 
+35130,Quinton,Alabama ,WALKER,01,127,AL 
+35133,Remlap,Alabama ,BLOUNT,01,009,AL 
+35135,Riverside,Alabama ,SAINT CLAIR,01,115,AL 
+35136,Rockford,Alabama ,COOSA,01,037,AL 
+35137,Saginaw,Alabama ,SHELBY,01,117,AL 
+35142,Shannon,Alabama ,JEFFERSON,01,073,AL 
+35143,Shelby,Alabama ,SHELBY,01,117,AL 
+35146,Springville,Alabama ,SAINT CLAIR,01,115,AL 
+35139,Sayre,Alabama ,JEFFERSON,01,073,AL 
+35144,Siluria,Alabama ,SHELBY,01,117,AL 
+35147,Sterrett,Alabama ,SHELBY,01,117,AL 
+35148,Sumiton,Alabama ,WALKER,01,127,AL 
+35149,Sycamore,Alabama ,TALLADEGA,01,121,AL 
+35151,Sylacauga,Alabama ,TALLADEGA,01,121,AL 
+35150,Sylacauga,Alabama ,TALLADEGA,01,121,AL 
+35171,Thorsby,Alabama ,CHILTON,01,021,AL 
+35160,Talladega,Alabama ,TALLADEGA,01,121,AL 
+35161,Talladega,Alabama ,TALLADEGA,01,121,AL 
+35172,Trafford,Alabama ,JEFFERSON,01,073,AL 
+35175,Union Grove,Alabama ,MARSHALL,01,095,AL 
+35173,Trussville,Alabama ,JEFFERSON,01,073,AL 
+35176,Vandiver,Alabama ,SHELBY,01,117,AL 
+35178,Vincent,Alabama ,SHELBY,01,117,AL 
+35179,Vinemont,Alabama ,CULLMAN,01,043,AL 
+35180,Warrior,Alabama ,JEFFERSON,01,073,AL 
+35181,Watson,Alabama ,JEFFERSON,01,073,AL 
+35184,West Blocton,Alabama ,BIBB,01,007,AL 
+35183,Weogufka,Alabama ,COOSA,01,037,AL 
+35182,Wattsville,Alabama ,SAINT CLAIR,01,115,AL 
+35186,Wilsonville,Alabama ,SHELBY,01,117,AL 
+35187,Wilton,Alabama ,SHELBY,01,117,AL 
+35185,Westover,Alabama ,SHELBY,01,117,AL 
+35202,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35188,Woodstock,Alabama ,BIBB,01,007,AL 
+35203,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35201,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35204,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35205,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35207,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35208,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35206,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35209,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35212,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35211,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35210,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35213,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35214,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35215,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35217,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35216,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35219,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35220,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35218,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35221,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35222,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35226,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35223,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35224,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35231,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35228,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35229,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35232,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35233,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35237,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35238,Birmingham,Alabama ,SHELBY,01,117,AL 
+35234,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35235,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35242,Birmingham,Alabama ,SHELBY,01,117,AL 
+35236,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35243,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35244,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35255,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35246,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35259,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35253,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35254,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35249,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35260,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35261,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35266,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35283,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35287,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35282,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35270,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35285,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35288,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35290,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35291,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35297,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35296,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35292,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35294,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35295,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35293,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35298,Birmingham,Alabama ,JEFFERSON,01,073,AL 
+35401,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35404,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35406,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35402,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35403,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35407,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35405,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35440,Abernant,Alabama ,TUSCALOOSA,01,125,AL 
+35441,Akron,Alabama ,HALE,01,065,AL 
+35443,Boligee,Alabama ,GREENE,01,063,AL 
+35442,Aliceville,Alabama ,PICKENS,01,107,AL 
+35446,Buhl,Alabama ,TUSCALOOSA,01,125,AL 
+35449,Coaling,Alabama ,TUSCALOOSA,01,125,AL 
+35444,Brookwood,Alabama ,TUSCALOOSA,01,125,AL 
+35448,Clinton,Alabama ,GREENE,01,063,AL 
+35447,Carrollton,Alabama ,PICKENS,01,107,AL 
+35452,Coker,Alabama ,TUSCALOOSA,01,125,AL 
+35458,Elrod,Alabama ,TUSCALOOSA,01,125,AL 
+35457,Echola,Alabama ,TUSCALOOSA,01,125,AL 
+35456,Duncanville,Alabama ,TUSCALOOSA,01,125,AL 
+35461,Ethelsville,Alabama ,PICKENS,01,107,AL 
+35459,Emelle,Alabama ,SUMTER,01,119,AL 
+35460,Epes,Alabama ,SUMTER,01,119,AL 
+35453,Cottondale,Alabama ,TUSCALOOSA,01,125,AL 
+35462,Eutaw,Alabama ,GREENE,01,063,AL 
+35470,Livingston,Alabama ,SUMTER,01,119,AL 
+35471,Mc Shan,Alabama ,PICKENS,01,107,AL 
+35469,Knoxville,Alabama ,GREENE,01,063,AL 
+35466,Gordo,Alabama ,PICKENS,01,107,AL 
+35474,Moundville,Alabama ,HALE,01,065,AL 
+35463,Fosters,Alabama ,TUSCALOOSA,01,125,AL 
+35464,Gainesville,Alabama ,SUMTER,01,119,AL 
+35473,Northport,Alabama ,TUSCALOOSA,01,125,AL 
+35486,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35482,Samantha,Alabama ,TUSCALOOSA,01,125,AL 
+35478,Peterson,Alabama ,TUSCALOOSA,01,125,AL 
+35475,Northport,Alabama ,TUSCALOOSA,01,125,AL 
+35481,Reform,Alabama ,PICKENS,01,107,AL 
+35476,Northport,Alabama ,TUSCALOOSA,01,125,AL 
+35477,Panola,Alabama ,SUMTER,01,119,AL 
+35480,Ralph,Alabama ,TUSCALOOSA,01,125,AL 
+35487,Tuscaloosa,Alabama ,TUSCALOOSA,01,125,AL 
+35501,Jasper,Alabama ,WALKER,01,127,AL 
+35540,Addison,Alabama ,WINSTON,01,133,AL 
+35491,West Greene,Alabama ,GREENE,01,063,AL 
+35503,Jasper,Alabama ,WALKER,01,127,AL 
+35490,Vance,Alabama ,TUSCALOOSA,01,125,AL 
+35502,Jasper,Alabama ,WALKER,01,127,AL 
+35504,Jasper,Alabama ,WALKER,01,127,AL 
+35542,Bankston,Alabama ,FAYETTE,01,057,AL 
+35541,Arley,Alabama ,WINSTON,01,133,AL 
+35544,Beaverton,Alabama ,LAMAR,01,075,AL 
+35545,Belk,Alabama ,FAYETTE,01,057,AL 
+35548,Brilliant,Alabama ,MARION,01,093,AL 
+35549,Carbon Hill,Alabama ,WALKER,01,127,AL 
+35546,Berry,Alabama ,FAYETTE,01,057,AL 
+35543,Bear Creek,Alabama ,MARION,01,093,AL 
+35550,Cordova,Alabama ,WALKER,01,127,AL 
+35552,Detroit,Alabama ,LAMAR,01,075,AL 
+35553,Double Springs,Alabama ,WINSTON,01,133,AL 
+35551,Delmar,Alabama ,WINSTON,01,133,AL 
+35559,Glen Allen,Alabama ,FAYETTE,01,057,AL 
+35555,Fayette,Alabama ,FAYETTE,01,057,AL 
+35554,Eldridge,Alabama ,WALKER,01,127,AL 
+35560,Goodsprings,Alabama ,WALKER,01,127,AL 
+35563,Guin,Alabama ,MARION,01,093,AL 
+35564,Hackleburg,Alabama ,MARION,01,093,AL 
+35565,Haleyville,Alabama ,WINSTON,01,133,AL 
+35573,Kansas,Alabama ,WALKER,01,127,AL 
+35571,Hodges,Alabama ,FRANKLIN,01,059,AL 
+35570,Hamilton,Alabama ,MARION,01,093,AL 
+35572,Houston,Alabama ,WINSTON,01,133,AL 
+35574,Kennedy,Alabama ,LAMAR,01,075,AL 
+35575,Lynn,Alabama ,WINSTON,01,133,AL 
+35580,Parrish,Alabama ,WALKER,01,127,AL 
+35578,Nauvoo,Alabama ,WALKER,01,127,AL 
+35579,Oakman,Alabama ,WALKER,01,127,AL 
+35576,Millport,Alabama ,LAMAR,01,075,AL 
+35577,Natural Bridge,Alabama ,WINSTON,01,133,AL 
+35581,Phil Campbell,Alabama ,FRANKLIN,01,059,AL 
+35582,Red Bay,Alabama ,FRANKLIN,01,059,AL 
+35584,Sipsey,Alabama ,WALKER,01,127,AL 
+35594,Winfield,Alabama ,MARION,01,093,AL 
+35586,Sulligent,Alabama ,LAMAR,01,075,AL 
+35593,Vina,Alabama ,FRANKLIN,01,059,AL 
+35585,Spruce Pine,Alabama ,FRANKLIN,01,059,AL 
+35592,Vernon,Alabama ,LAMAR,01,075,AL 
+35587,Townley,Alabama ,WALKER,01,127,AL 
+35601,Decatur,Alabama ,MORGAN,01,103,AL 
+35602,Decatur,Alabama ,MORGAN,01,103,AL 
+35609,Decatur,Alabama ,MORGAN,01,103,AL 
+35603,Decatur,Alabama ,MORGAN,01,103,AL 
+35611,Athens,Alabama ,LIMESTONE,01,083,AL 
+35612,Athens,Alabama ,LIMESTONE,01,083,AL 
+35614,Athens,Alabama ,LIMESTONE,01,083,AL 
+35610,Anderson,Alabama ,LAUDERDALE,01,077,AL 
+35613,Athens,Alabama ,LIMESTONE,01,083,AL 
+35615,Belle Mina,Alabama ,LIMESTONE,01,083,AL 
+35630,Florence,Alabama ,LAUDERDALE,01,077,AL 
+35621,Eva,Alabama ,MORGAN,01,103,AL 
+35620,Elkmont,Alabama ,LIMESTONE,01,083,AL 
+35616,Cherokee,Alabama ,COLBERT,01,033,AL 
+35618,Courtland,Alabama ,LAWRENCE,01,079,AL 
+35619,Danville,Alabama ,MORGAN,01,103,AL 
+35617,Cloverdale,Alabama ,LAUDERDALE,01,077,AL 
+35622,Falkville,Alabama ,MORGAN,01,103,AL 
+35631,Florence,Alabama ,LAUDERDALE,01,077,AL 
+35640,Hartselle,Alabama ,MORGAN,01,103,AL 
+35646,Leighton,Alabama ,COLBERT,01,033,AL 
+35633,Florence,Alabama ,LAUDERDALE,01,077,AL 
+35645,Killen,Alabama ,LAUDERDALE,01,077,AL 
+35632,Florence,Alabama ,LAUDERDALE,01,077,AL 
+35643,Hillsboro,Alabama ,LAWRENCE,01,079,AL 
+35634,Florence,Alabama ,LAUDERDALE,01,077,AL 
+35647,Lester,Alabama ,LIMESTONE,01,083,AL 
+35651,Mount Hope,Alabama ,LAWRENCE,01,079,AL 
+35648,Lexington,Alabama ,LAUDERDALE,01,077,AL 
+35652,Rogersville,Alabama ,LAUDERDALE,01,077,AL 
+35653,Russellville,Alabama ,FRANKLIN,01,059,AL 
+35649,Mooresville,Alabama ,LIMESTONE,01,083,AL 
+35650,Moulton,Alabama ,LAWRENCE,01,079,AL 
+35654,Russellville,Alabama ,FRANKLIN,01,059,AL 
+35662,Muscle Shoals,Alabama ,COLBERT,01,033,AL 
+35660,Sheffield,Alabama ,COLBERT,01,033,AL 
+35673,Trinity,Alabama ,MORGAN,01,103,AL 
+35674,Tuscumbia,Alabama ,COLBERT,01,033,AL 
+35672,Town Creek,Alabama ,LAWRENCE,01,079,AL 
+35671,Tanner,Alabama ,LIMESTONE,01,083,AL 
+35661,Muscle Shoals,Alabama ,COLBERT,01,033,AL 
+35670,Somerville,Alabama ,MORGAN,01,103,AL 
+35677,Waterloo,Alabama ,LAUDERDALE,01,077,AL 
+35699,Decatur,Alabama ,MORGAN,01,103,AL 
+35742,Capshaw,Alabama ,LIMESTONE,01,083,AL 
+35745,Estillfork,Alabama ,JACKSON,01,071,AL 
+35741,Brownsboro,Alabama ,MADISON,01,089,AL 
+35740,Bridgeport,Alabama ,JACKSON,01,071,AL 
+35744,Dutton,Alabama ,JACKSON,01,071,AL 
+35739,Ardmore,Alabama ,LIMESTONE,01,083,AL 
+35746,Fackler,Alabama ,JACKSON,01,071,AL 
+35747,Grant,Alabama ,MARSHALL,01,095,AL 
+35748,Gurley,Alabama ,MADISON,01,089,AL 
+35749,Harvest,Alabama ,MADISON,01,089,AL 
+35750,Hazel Green,Alabama ,MADISON,01,089,AL 
+35751,Hollytree,Alabama ,JACKSON,01,071,AL 
+35754,Laceys Spring,Alabama ,MORGAN,01,103,AL 
+35752,Hollywood,Alabama ,JACKSON,01,071,AL 
+35755,Langston,Alabama ,JACKSON,01,071,AL 
+35756,Madison,Alabama ,LIMESTONE,01,083,AL 
+35757,Madison,Alabama ,MADISON,01,089,AL 
+35758,Madison,Alabama ,MADISON,01,089,AL 
+35760,New Hope,Alabama ,MADISON,01,089,AL 
+35761,New Market,Alabama ,MADISON,01,089,AL 
+35759,Meridianville,Alabama ,MADISON,01,089,AL 
+35762,Normal,Alabama ,MADISON,01,089,AL 
+35764,Paint Rock,Alabama ,JACKSON,01,071,AL 
+35765,Pisgah,Alabama ,JACKSON,01,071,AL 
+35763,Owens Cross Roads,Alabama ,MADISON,01,089,AL 
+35767,Ryland,Alabama ,MADISON,01,089,AL 
+35766,Princeton,Alabama ,JACKSON,01,071,AL 
+35771,Section,Alabama ,JACKSON,01,071,AL 
+35769,Scottsboro,Alabama ,JACKSON,01,071,AL 
+35768,Scottsboro,Alabama ,JACKSON,01,071,AL 
+35772,Stevenson,Alabama ,JACKSON,01,071,AL 
+35773,Toney,Alabama ,MADISON,01,089,AL 
+35774,Trenton,Alabama ,JACKSON,01,071,AL 
+35776,Woodville,Alabama ,JACKSON,01,071,AL 
+35775,Valhermoso Springs,Alabama ,MORGAN,01,103,AL 
+35801,Huntsville,Alabama ,MADISON,01,089,AL 
+35802,Huntsville,Alabama ,MADISON,01,089,AL 
+35804,Huntsville,Alabama ,MADISON,01,089,AL 
+35805,Huntsville,Alabama ,MADISON,01,089,AL 
+35806,Huntsville,Alabama ,MADISON,01,089,AL 
+35803,Huntsville,Alabama ,MADISON,01,089,AL 
+35807,Huntsville,Alabama ,MADISON,01,089,AL 
+35808,Huntsville,Alabama ,MADISON,01,089,AL 
+35809,Huntsville,Alabama ,MADISON,01,089,AL 
+35811,Huntsville,Alabama ,MADISON,01,089,AL 
+35812,Huntsville,Alabama ,MADISON,01,089,AL 
+35810,Huntsville,Alabama ,MADISON,01,089,AL 
+35813,Huntsville,Alabama ,MADISON,01,089,AL 
+35814,Huntsville,Alabama ,MADISON,01,089,AL 
+35815,Huntsville,Alabama ,MADISON,01,089,AL 
+35816,Huntsville,Alabama ,MADISON,01,089,AL 
+35824,Huntsville,Alabama ,MADISON,01,089,AL 
+35895,Huntsville,Alabama ,MADISON,01,089,AL 
+35894,Huntsville,Alabama ,MADISON,01,089,AL 
+35896,Huntsville,Alabama ,MADISON,01,089,AL 
+35893,Huntsville,Alabama ,MADISON,01,089,AL 
+35898,Huntsville,Alabama ,MADISON,01,089,AL 
+35897,Huntsville,Alabama ,MADISON,01,089,AL 
+35899,Huntsville,Alabama ,MADISON,01,089,AL 
+35901,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35905,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35902,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35903,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35904,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35906,Rainbow City,Alabama ,ETOWAH,01,055,AL 
+35906,Rainbow City,Alabama ,ETOWAH,01,055,AL 
+35907,Gadsden,Alabama ,ETOWAH,01,055,AL 
+35950,Albertville,Alabama ,MARSHALL,01,095,AL 
+35951,Albertville,Alabama ,MARSHALL,01,095,AL 
+35953,Ashville,Alabama ,SAINT CLAIR,01,115,AL 
+35954,Attalla,Alabama ,ETOWAH,01,055,AL 
+35952,Altoona,Alabama ,ETOWAH,01,055,AL 
+35956,Boaz,Alabama ,ETOWAH,01,055,AL 
+35957,Boaz,Alabama ,MARSHALL,01,095,AL 
+35958,Bryant,Alabama ,JACKSON,01,071,AL 
+35959,Cedar Bluff,Alabama ,CHEROKEE,01,019,AL 
+35960,Centre,Alabama ,CHEROKEE,01,019,AL 
+35962,Crossville,Alabama ,DE KALB,01,049,AL 
+35961,Collinsville,Alabama ,DE KALB,01,049,AL 
+35963,Dawson,Alabama ,DE KALB,01,049,AL 
+35966,Flat Rock,Alabama ,JACKSON,01,071,AL 
+35964,Douglas,Alabama ,MARSHALL,01,095,AL 
+35967,Fort Payne,Alabama ,DE KALB,01,049,AL 
+35968,Fort Payne,Alabama ,DE KALB,01,049,AL 
+35971,Fyffe,Alabama ,DE KALB,01,049,AL 
+35974,Geraldine,Alabama ,DE KALB,01,049,AL 
+35973,Gaylesville,Alabama ,CHEROKEE,01,019,AL 
+35972,Gallant,Alabama ,ETOWAH,01,055,AL 
+35975,Groveoak,Alabama ,DE KALB,01,049,AL 
+35976,Guntersville,Alabama ,MARSHALL,01,095,AL 
+35978,Henagar,Alabama ,DE KALB,01,049,AL 
+35979,Higdon,Alabama ,JACKSON,01,071,AL 
+35980,Horton,Alabama ,MARSHALL,01,095,AL 
+35984,Mentone,Alabama ,DE KALB,01,049,AL 
+35983,Leesburg,Alabama ,CHEROKEE,01,019,AL 
+35986,Rainsville,Alabama ,DE KALB,01,049,AL 
+35981,Ider,Alabama ,DE KALB,01,049,AL 
+35987,Steele,Alabama ,SAINT CLAIR,01,115,AL 
+35988,Sylvania,Alabama ,DE KALB,01,049,AL 
+35989,Valley Head,Alabama ,DE KALB,01,049,AL 
+35990,Walnut Grove,Alabama ,ETOWAH,01,055,AL 
+36005,Banks,Alabama ,PIKE,01,109,AL 
+36008,Booth,Alabama ,AUTAUGA,01,001,AL 
+36006,Billingsley,Alabama ,AUTAUGA,01,001,AL 
+36003,Autaugaville,Alabama ,AUTAUGA,01,001,AL 
+36009,Brantley,Alabama ,CRENSHAW,01,041,AL 
+36013,Cecil,Alabama ,MONTGOMERY,01,101,AL 
+36010,Brundidge,Alabama ,PIKE,01,109,AL 
+36016,Clayton,Alabama ,BARBOUR,01,005,AL 
+36015,Chapman,Alabama ,BUTLER,01,013,AL 
+36022,Deatsville,Alabama ,ELMORE,01,051,AL 
+36020,Coosada,Alabama ,ELMORE,01,051,AL 
+36017,Clio,Alabama ,BARBOUR,01,005,AL 
+36023,East Tallassee,Alabama ,TALLAPOOSA,01,123,AL 
+36025,Elmore,Alabama ,ELMORE,01,051,AL 
+36024,Eclectic,Alabama ,ELMORE,01,051,AL 
+36026,Equality,Alabama ,COOSA,01,037,AL 
+36027,Eufaula,Alabama ,BARBOUR,01,005,AL 
+36028,Dozier,Alabama ,CRENSHAW,01,041,AL 
+36029,Fitzpatrick,Alabama ,BULLOCK,01,011,AL 
+36030,Forest Home,Alabama ,BUTLER,01,013,AL 
+36032,Fort Deposit,Alabama ,LOWNDES,01,085,AL 
+36031,Fort Davis,Alabama ,MACON,01,087,AL 
+36033,Georgiana,Alabama ,BUTLER,01,013,AL 
+36034,Glenwood,Alabama ,CRENSHAW,01,041,AL 
+36036,Grady,Alabama ,MONTGOMERY,01,101,AL 
+36037,Greenville,Alabama ,BUTLER,01,013,AL 
+36038,Gantt,Alabama ,COVINGTON,01,039,AL 
+36035,Goshen,Alabama ,PIKE,01,109,AL 
+36040,Hayneville,Alabama ,LOWNDES,01,085,AL 
+36041,Highland Home,Alabama ,CRENSHAW,01,041,AL 
+36039,Hardaway,Alabama ,MACON,01,087,AL 
+36042,Honoraville,Alabama ,CRENSHAW,01,041,AL 
+36043,Hope Hull,Alabama ,MONTGOMERY,01,101,AL 
+36045,Kent,Alabama ,ELMORE,01,051,AL 
+36051,Marbury,Alabama ,AUTAUGA,01,001,AL 
+36048,Louisville,Alabama ,BARBOUR,01,005,AL 
+36046,Lapine,Alabama ,MONTGOMERY,01,101,AL 
+36049,Luverne,Alabama ,CRENSHAW,01,041,AL 
+36047,Letohatchee,Alabama ,LOWNDES,01,085,AL 
+36052,Mathews,Alabama ,MONTGOMERY,01,101,AL 
+36054,Millbrook,Alabama ,ELMORE,01,051,AL 
+36053,Midway,Alabama ,BULLOCK,01,011,AL 
+36065,Pine Level,Alabama ,MONTGOMERY,01,101,AL 
+36057,Mount Meigs,Alabama ,MONTGOMERY,01,101,AL 
+36062,Petrey,Alabama ,CRENSHAW,01,041,AL 
+36061,Perote,Alabama ,BULLOCK,01,011,AL 
+36064,Pike Road,Alabama ,MONTGOMERY,01,101,AL 
+36066,Prattville,Alabama ,AUTAUGA,01,001,AL 
+36067,Prattville,Alabama ,AUTAUGA,01,001,AL 
+36068,Prattville,Alabama ,AUTAUGA,01,001,AL 
+36072,Eufaula,Alabama ,BARBOUR,01,005,AL 
+36078,Tallassee,Alabama ,ELMORE,01,051,AL 
+36071,Rutledge,Alabama ,CRENSHAW,01,041,AL 
+36069,Ramer,Alabama ,MONTGOMERY,01,101,AL 
+36075,Shorter,Alabama ,MACON,01,087,AL 
+36079,Troy,Alabama ,PIKE,01,109,AL 
+36080,Titus,Alabama ,ELMORE,01,051,AL 
+36081,Troy,Alabama ,PIKE,01,109,AL 
+36082,Troy,Alabama ,PIKE,01,109,AL 
+36087,Tuskegee Institute,Alabama ,MACON,01,087,AL 
+36089,Union Springs,Alabama ,BULLOCK,01,011,AL 
+36088,Tuskegee Institute,Alabama ,MACON,01,087,AL 
+36083,Tuskegee,Alabama ,MACON,01,087,AL 
+36091,Verbena,Alabama ,CHILTON,01,021,AL 
+36092,Wetumpka,Alabama ,ELMORE,01,051,AL 
+36093,Wetumpka,Alabama ,ELMORE,01,051,AL 
+36101,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36102,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36105,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36103,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36106,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36107,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36104,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36108,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36110,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36109,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36112,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36111,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36114,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36113,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36115,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36116,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36118,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36117,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36121,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36120,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36119,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36125,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36124,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36123,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36130,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36132,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36142,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36131,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36135,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36141,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36140,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36177,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36191,Montgomery,Alabama ,MONTGOMERY,01,101,AL 
+36203,Oxford,Alabama ,CALHOUN,01,015,AL 
+36205,Anniston,Alabama ,CALHOUN,01,015,AL 
+36204,Anniston,Alabama ,CALHOUN,01,015,AL 
+36206,Anniston,Alabama ,CALHOUN,01,015,AL 
+36207,Anniston,Alabama ,CALHOUN,01,015,AL 
+36201,Anniston,Alabama ,CALHOUN,01,015,AL 
+36202,Anniston,Alabama ,CALHOUN,01,015,AL 
+36250,Alexandria,Alabama ,CALHOUN,01,015,AL 
+36251,Ashland,Alabama ,CLAY,01,027,AL 
+36258,Delta,Alabama ,CLAY,01,027,AL 
+36256,Daviston,Alabama ,TALLAPOOSA,01,123,AL 
+36255,Cragford,Alabama ,CLAY,01,027,AL 
+36254,Choccolocco,Alabama ,CALHOUN,01,015,AL 
+36257,De Armanville,Alabama ,CALHOUN,01,015,AL 
+36253,Bynum,Alabama ,CALHOUN,01,015,AL 
+36260,Eastaboga,Alabama ,CALHOUN,01,015,AL 
+36261,Edwardsville,Alabama ,CLEBURNE,01,029,AL 
+36264,Heflin,Alabama ,CLEBURNE,01,029,AL 
+36265,Jacksonville,Alabama ,CALHOUN,01,015,AL 
+36262,Fruithurst,Alabama ,CLEBURNE,01,029,AL 
+36267,Millerville,Alabama ,CLAY,01,027,AL 
+36263,Graham,Alabama ,RANDOLPH,01,111,AL 
+36268,Munford,Alabama ,TALLADEGA,01,121,AL 
+36266,Lineville,Alabama ,CLAY,01,027,AL 
+36271,Ohatchee,Alabama ,CALHOUN,01,015,AL 
+36272,Piedmont,Alabama ,CALHOUN,01,015,AL 
+36277,Weaver,Alabama ,CALHOUN,01,015,AL 
+36273,Ranburne,Alabama ,CLEBURNE,01,029,AL 
+36269,Muscadine,Alabama ,CLEBURNE,01,029,AL 
+36275,Spring Garden,Alabama ,CHEROKEE,01,019,AL 
+36274,Roanoke,Alabama ,RANDOLPH,01,111,AL 
+36276,Wadley,Alabama ,RANDOLPH,01,111,AL 
+36278,Wedowee,Alabama ,RANDOLPH,01,111,AL 
+36280,Woodland,Alabama ,RANDOLPH,01,111,AL 
+36304,Dothan,Alabama ,HOUSTON,01,069,AL 
+36302,Dothan,Alabama ,HOUSTON,01,069,AL 
+36301,Dothan,Alabama ,HOUSTON,01,069,AL 
+36279,Wellington,Alabama ,CALHOUN,01,015,AL 
+36303,Dothan,Alabama ,HOUSTON,01,069,AL 
+36305,Dothan,Alabama ,HOUSTON,01,069,AL 
+36310,Abbeville,Alabama ,HENRY,01,067,AL 
+36313,Bellwood,Alabama ,GENEVA,01,061,AL 
+36312,Ashford,Alabama ,HOUSTON,01,069,AL 
+36318,Coffee Springs,Alabama ,GENEVA,01,061,AL 
+36316,Chancellor,Alabama ,GENEVA,01,061,AL 
+36311,Ariton,Alabama ,DALE,01,045,AL 
+36317,Clopton,Alabama ,HENRY,01,067,AL 
+36314,Black,Alabama ,GENEVA,01,061,AL 
+36319,Columbia,Alabama ,HOUSTON,01,069,AL 
+36320,Cottonwood,Alabama ,HOUSTON,01,069,AL 
+36331,Enterprise,Alabama ,COFFEE,01,031,AL 
+36330,Enterprise,Alabama ,COFFEE,01,031,AL 
+36323,Elba,Alabama ,COFFEE,01,031,AL 
+36322,Daleville,Alabama ,DALE,01,045,AL 
+36321,Cowarts,Alabama ,HOUSTON,01,069,AL 
+36340,Geneva,Alabama ,GENEVA,01,061,AL 
+36343,Gordon,Alabama ,HOUSTON,01,069,AL 
+36345,Headland,Alabama ,HENRY,01,067,AL 
+36344,Hartford,Alabama ,GENEVA,01,061,AL 
+36350,Midland City,Alabama ,DALE,01,045,AL 
+36351,New Brockton,Alabama ,COFFEE,01,031,AL 
+36352,Newton,Alabama ,DALE,01,045,AL 
+36346,Jack,Alabama ,COFFEE,01,031,AL 
+36353,Newville,Alabama ,HENRY,01,067,AL 
+36349,Malvern,Alabama ,GENEVA,01,061,AL 
+36361,Ozark,Alabama ,DALE,01,045,AL 
+36360,Ozark,Alabama ,DALE,01,045,AL 
+36371,Pinckard,Alabama ,DALE,01,045,AL 
+36370,Pansey,Alabama ,HOUSTON,01,069,AL 
+36362,Fort Rucker,Alabama ,DALE,01,045,AL 
+36373,Shorterville,Alabama ,HENRY,01,067,AL 
+36374,Skipperville,Alabama ,DALE,01,045,AL 
+36375,Slocomb,Alabama ,GENEVA,01,061,AL 
+36376,Webb,Alabama ,HOUSTON,01,069,AL 
+36401,Evergreen,Alabama ,CONECUH,01,035,AL 
+36421,Andalusia,Alabama ,COVINGTON,01,039,AL 
+36420,Andalusia,Alabama ,COVINGTON,01,039,AL 
+36426,Brewton,Alabama ,ESCAMBIA,01,053,AL 
+36425,Beatrice,Alabama ,MONROE,01,099,AL 
+36427,Brewton,Alabama ,ESCAMBIA,01,053,AL 
+36429,Brooklyn,Alabama ,CONECUH,01,035,AL 
+36432,Castleberry,Alabama ,CONECUH,01,035,AL 
+36436,Dickinson,Alabama ,CLARKE,01,025,AL 
+36439,Excel,Alabama ,MONROE,01,099,AL 
+36435,Coy,Alabama ,WILCOX,01,131,AL 
+36442,Florala,Alabama ,COVINGTON,01,039,AL 
+36441,Flomaton,Alabama ,ESCAMBIA,01,053,AL 
+36444,Franklin,Alabama ,MONROE,01,099,AL 
+36445,Frisco City,Alabama ,MONROE,01,099,AL 
+36446,Fulton,Alabama ,CLARKE,01,025,AL 
+36449,Uriah,Alabama ,MONROE,01,099,AL 
+36451,Grove Hill,Alabama ,CLARKE,01,025,AL 
+36453,Kinston,Alabama ,COFFEE,01,031,AL 
+36455,Lockhart,Alabama ,COVINGTON,01,039,AL 
+36454,Lenox,Alabama ,CONECUH,01,035,AL 
+36456,Mc Kenzie,Alabama ,BUTLER,01,013,AL 
+36458,Mexia,Alabama ,MONROE,01,099,AL 
+36457,Megargel,Alabama ,MONROE,01,099,AL 
+36461,Monroeville,Alabama ,MONROE,01,099,AL 
+36460,Monroeville,Alabama ,MONROE,01,099,AL 
+36471,Peterman,Alabama ,MONROE,01,099,AL 
+36470,Perdue Hill,Alabama ,MONROE,01,099,AL 
+36467,Opp,Alabama ,COVINGTON,01,039,AL 
+36474,Red Level,Alabama ,COVINGTON,01,039,AL 
+36473,Range,Alabama ,CONECUH,01,035,AL 
+36475,Repton,Alabama ,CONECUH,01,035,AL 
+36476,River Falls,Alabama ,COVINGTON,01,039,AL 
+36477,Samson,Alabama ,GENEVA,01,061,AL 
+36480,Uriah,Alabama ,MONROE,01,099,AL 
+36482,Whatley,Alabama ,CLARKE,01,025,AL 
+36502,Atmore,Alabama ,ESCAMBIA,01,053,AL 
+36481,Vredenburgh,Alabama ,MONROE,01,099,AL 
+36483,Wing,Alabama ,COVINGTON,01,039,AL 
+36504,Atmore,Alabama ,ESCAMBIA,01,053,AL 
+36503,Atmore,Alabama ,ESCAMBIA,01,053,AL 
+36505,Axis,Alabama ,MOBILE,01,097,AL 
+36507,Bay Minette,Alabama ,BALDWIN,01,003,AL 
+36509,Bayou La Batre,Alabama ,MOBILE,01,097,AL 
+36512,Bucks,Alabama ,MOBILE,01,097,AL 
+36513,Calvert,Alabama ,WASHINGTON,01,129,AL 
+36511,Bon Secour,Alabama ,BALDWIN,01,003,AL 
+36518,Chatom,Alabama ,WASHINGTON,01,129,AL 
+36521,Chunchula,Alabama ,MOBILE,01,097,AL 
+36522,Citronelle,Alabama ,MOBILE,01,097,AL 
+36523,Coden,Alabama ,MOBILE,01,097,AL 
+36524,Coffeeville,Alabama ,CLARKE,01,025,AL 
+36525,Creola,Alabama ,MOBILE,01,097,AL 
+36527,Daphne,Alabama ,BALDWIN,01,003,AL 
+36526,Daphne,Alabama ,BALDWIN,01,003,AL 
+36529,Deer Park,Alabama ,WASHINGTON,01,129,AL 
+36528,Dauphin Island,Alabama ,MOBILE,01,097,AL 
+36530,Elberta,Alabama ,BALDWIN,01,003,AL 
+36532,Fairhope,Alabama ,BALDWIN,01,003,AL 
+36533,Fairhope,Alabama ,BALDWIN,01,003,AL 
+36535,Foley,Alabama ,BALDWIN,01,003,AL 
+36540,Gainestown,Alabama ,CLARKE,01,025,AL 
+36538,Frankville,Alabama ,WASHINGTON,01,129,AL 
+36536,Foley,Alabama ,BALDWIN,01,003,AL 
+36539,Fruitdale,Alabama ,WASHINGTON,01,129,AL 
+36541,Grand Bay,Alabama ,MOBILE,01,097,AL 
+36542,Gulf Shores,Alabama ,BALDWIN,01,003,AL 
+36543,Huxford,Alabama ,ESCAMBIA,01,053,AL 
+36547,Gulf Shores,Alabama ,BALDWIN,01,003,AL 
+36548,Leroy,Alabama ,WASHINGTON,01,129,AL 
+36544,Irvington,Alabama ,MOBILE,01,097,AL 
+36545,Jackson,Alabama ,CLARKE,01,025,AL 
+36550,Little River,Alabama ,BALDWIN,01,003,AL 
+36551,Loxley,Alabama ,BALDWIN,01,003,AL 
+36549,Lillian,Alabama ,BALDWIN,01,003,AL 
+36553,Mc Intosh,Alabama ,WASHINGTON,01,129,AL 
+36555,Magnolia Springs,Alabama ,BALDWIN,01,003,AL 
+36556,Malcolm,Alabama ,WASHINGTON,01,129,AL 
+36559,Montrose,Alabama ,BALDWIN,01,003,AL 
+36558,Millry,Alabama ,WASHINGTON,01,129,AL 
+36560,Mount Vernon,Alabama ,MOBILE,01,097,AL 
+36561,Orange Beach,Alabama ,BALDWIN,01,003,AL 
+36564,Point Clear,Alabama ,BALDWIN,01,003,AL 
+36562,Perdido,Alabama ,BALDWIN,01,003,AL 
+36568,Saint Elmo,Alabama ,MOBILE,01,097,AL 
+36567,Robertsdale,Alabama ,BALDWIN,01,003,AL 
+36569,Saint Stephens,Alabama ,WASHINGTON,01,129,AL 
+36571,Saraland,Alabama ,MOBILE,01,097,AL 
+36572,Satsuma,Alabama ,MOBILE,01,097,AL 
+36574,Seminole,Alabama ,BALDWIN,01,003,AL 
+36575,Semmes,Alabama ,MOBILE,01,097,AL 
+36576,Silverhill,Alabama ,BALDWIN,01,003,AL 
+36577,Spanish Fort,Alabama ,BALDWIN,01,003,AL 
+36578,Stapleton,Alabama ,BALDWIN,01,003,AL 
+36579,Stockton,Alabama ,BALDWIN,01,003,AL 
+36580,Summerdale,Alabama ,BALDWIN,01,003,AL 
+36582,Theodore,Alabama ,MOBILE,01,097,AL 
+36581,Sunflower,Alabama ,WASHINGTON,01,129,AL 
+36584,Vinegar Bend,Alabama ,WASHINGTON,01,129,AL 
+36583,Tibbie,Alabama ,WASHINGTON,01,129,AL 
+36587,Wilmer,Alabama ,MOBILE,01,097,AL 
+36585,Wagarville,Alabama ,WASHINGTON,01,129,AL 
+36601,Mobile,Alabama ,MOBILE,01,097,AL 
+36590,Theodore,Alabama ,MOBILE,01,097,AL 
+36602,Mobile,Alabama ,MOBILE,01,097,AL 
+36603,Mobile,Alabama ,MOBILE,01,097,AL 
+36606,Mobile,Alabama ,MOBILE,01,097,AL 
+36604,Mobile,Alabama ,MOBILE,01,097,AL 
+36607,Mobile,Alabama ,MOBILE,01,097,AL 
+36605,Mobile,Alabama ,MOBILE,01,097,AL 
+36608,Mobile,Alabama ,MOBILE,01,097,AL 
+36609,Mobile,Alabama ,MOBILE,01,097,AL 
+36610,Mobile,Alabama ,MOBILE,01,097,AL 
+36611,Mobile,Alabama ,MOBILE,01,097,AL 
+36615,Mobile,Alabama ,MOBILE,01,097,AL 
+36612,Mobile,Alabama ,MOBILE,01,097,AL 
+36616,Mobile,Alabama ,MOBILE,01,097,AL 
+36613,Eight Mile,Alabama ,MOBILE,01,097,AL 
+36617,Mobile,Alabama ,MOBILE,01,097,AL 
+36619,Mobile,Alabama ,MOBILE,01,097,AL 
+36618,Mobile,Alabama ,MOBILE,01,097,AL 
+36628,Mobile,Alabama ,MOBILE,01,097,AL 
+36641,Mobile,Alabama ,MOBILE,01,097,AL 
+36640,Mobile,Alabama ,MOBILE,01,097,AL 
+36644,Mobile,Alabama ,MOBILE,01,097,AL 
+36633,Mobile,Alabama ,MOBILE,01,097,AL 
+36660,Mobile,Alabama ,MOBILE,01,097,AL 
+36652,Mobile,Alabama ,MOBILE,01,097,AL 
+36663,Mobile,Alabama ,MOBILE,01,097,AL 
+36670,Mobile,Alabama ,MOBILE,01,097,AL 
+36671,Mobile,Alabama ,MOBILE,01,097,AL 
+36675,Mobile,Alabama ,MOBILE,01,097,AL 
+36688,Mobile,Alabama ,MOBILE,01,097,AL 
+36685,Mobile,Alabama ,MOBILE,01,097,AL 
+36691,Mobile,Alabama ,MOBILE,01,097,AL 
+36689,Mobile,Alabama ,MOBILE,01,097,AL 
+36695,Mobile,Alabama ,MOBILE,01,097,AL 
+36693,Mobile,Alabama ,MOBILE,01,097,AL 
+36701,Selma,Alabama ,DALLAS,01,047,AL 
+36720,Alberta,Alabama ,WILCOX,01,131,AL 
+36703,Selma,Alabama ,DALLAS,01,047,AL 
+36702,Selma,Alabama ,DALLAS,01,047,AL 
+36723,Boykin,Alabama ,WILCOX,01,131,AL 
+36722,Arlington,Alabama ,WILCOX,01,131,AL 
+36726,Camden,Alabama ,WILCOX,01,131,AL 
+36732,Demopolis,Alabama ,MARENGO,01,091,AL 
+36728,Catherine,Alabama ,WILCOX,01,131,AL 
+36736,Dixons Mills,Alabama ,MARENGO,01,091,AL 
+36727,Campbell,Alabama ,CLARKE,01,025,AL 
+36738,Faunsdale,Alabama ,MARENGO,01,091,AL 
+36740,Forkland,Alabama ,GREENE,01,063,AL 
+36741,Furman,Alabama ,WILCOX,01,131,AL 
+36744,Greensboro,Alabama ,HALE,01,065,AL 
+36742,Gallion,Alabama ,HALE,01,065,AL 
+36749,Jones,Alabama ,AUTAUGA,01,001,AL 
+36745,Jefferson,Alabama ,MARENGO,01,091,AL 
+36748,Linden,Alabama ,MARENGO,01,091,AL 
+36750,Maplesville,Alabama ,CHILTON,01,021,AL 
+36751,Lower Peach Tree,Alabama ,WILCOX,01,131,AL 
+36752,Lowndesboro,Alabama ,LOWNDES,01,085,AL 
+36753,Mc Williams,Alabama ,WILCOX,01,131,AL 
+36756,Marion,Alabama ,PERRY,01,105,AL 
+36754,Magnolia,Alabama ,MARENGO,01,091,AL 
+36758,Plantersville,Alabama ,DALLAS,01,047,AL 
+36759,Marion Junction,Alabama ,DALLAS,01,047,AL 
+36761,Minter,Alabama ,DALLAS,01,047,AL 
+36763,Myrtlewood,Alabama ,MARENGO,01,091,AL 
+36764,Nanafalia,Alabama ,MARENGO,01,091,AL 
+36765,Newbern,Alabama ,HALE,01,065,AL 
+36767,Orrville,Alabama ,DALLAS,01,047,AL 
+36775,Sardis,Alabama ,DALLAS,01,047,AL 
+36776,Sawyerville,Alabama ,HALE,01,065,AL 
+36766,Oak Hill,Alabama ,WILCOX,01,131,AL 
+36769,Pine Hill,Alabama ,WILCOX,01,131,AL 
+36773,Safford,Alabama ,DALLAS,01,047,AL 
+36768,Pine Apple,Alabama ,WILCOX,01,131,AL 
+36782,Sweet Water,Alabama ,MARENGO,01,091,AL 
+36783,Thomaston,Alabama ,MARENGO,01,091,AL 
+36785,Tyler,Alabama ,LOWNDES,01,085,AL 
+36784,Thomasville,Alabama ,CLARKE,01,025,AL 
+36790,Stanton,Alabama ,CHILTON,01,021,AL 
+36786,Uniontown,Alabama ,PERRY,01,105,AL 
+36793,Lawley,Alabama ,BIBB,01,007,AL 
+36801,Opelika,Alabama ,LEE,01,081,AL 
+36792,Randolph,Alabama ,BIBB,01,007,AL 
+36802,Opelika,Alabama ,LEE,01,081,AL 
+36803,Opelika,Alabama ,LEE,01,081,AL 
+36804,Opelika,Alabama ,LEE,01,081,AL 
+36830,Auburn,Alabama ,LEE,01,081,AL 
+36831,Auburn,Alabama ,LEE,01,081,AL 
+36832,Auburn,Alabama ,LEE,01,081,AL 
+36850,Camp Hill,Alabama ,TALLAPOOSA,01,123,AL 
+36849,Auburn University,Alabama ,LEE,01,081,AL 
+36851,Cottonton,Alabama ,RUSSELL,01,113,AL 
+36853,Dadeville,Alabama ,TALLAPOOSA,01,123,AL 
+36852,Cusseta,Alabama ,LEE,01,081,AL 
+36854,Valley,Alabama ,CHAMBERS,01,017,AL 
+36855,Five Points,Alabama ,CHAMBERS,01,017,AL 
+36856,Fort Mitchell,Alabama ,RUSSELL,01,113,AL 
+36860,Hurtsboro,Alabama ,RUSSELL,01,113,AL 
+36858,Hatchechubbee,Alabama ,RUSSELL,01,113,AL 
+36859,Holy Trinity,Alabama ,RUSSELL,01,113,AL 
+36861,Jacksons Gap,Alabama ,TALLAPOOSA,01,123,AL 
+36862,Lafayette,Alabama ,CHAMBERS,01,017,AL 
+36865,Loachapoka,Alabama ,LEE,01,081,AL 
+36866,Notasulga,Alabama ,MACON,01,087,AL 
+36863,Lanett,Alabama ,CHAMBERS,01,017,AL 
+36869,Phenix City,Alabama ,RUSSELL,01,113,AL 
+36867,Phenix City,Alabama ,RUSSELL,01,113,AL 
+36868,Phenix City,Alabama ,RUSSELL,01,113,AL 
+36872,Valley,Alabama ,LEE,01,081,AL 
+36870,Phenix City,Alabama ,LEE,01,081,AL 
+36875,Seale,Alabama ,RUSSELL,01,113,AL 
+36871,Pittsview,Alabama ,RUSSELL,01,113,AL 
+36874,Salem,Alabama ,LEE,01,081,AL 
+36901,Bellamy,Alabama ,SUMTER,01,119,AL 
+36877,Smiths Station,Alabama ,LEE,01,081,AL 
+36879,Waverly,Alabama ,LEE,01,081,AL 
+36907,Cuba,Alabama ,SUMTER,01,119,AL 
+36904,Butler,Alabama ,CHOCTAW,01,023,AL 
+36910,Jachin,Alabama ,CHOCTAW,01,023,AL 
+36908,Gilbertown,Alabama ,CHOCTAW,01,023,AL 
+36915,Needham,Alabama ,CHOCTAW,01,023,AL 
+36913,Melvin,Alabama ,CHOCTAW,01,023,AL 
+36912,Lisman,Alabama ,CHOCTAW,01,023,AL 
+36916,Pennington,Alabama ,CHOCTAW,01,023,AL 
+36919,Silas,Alabama ,CHOCTAW,01,023,AL 
+36921,Toxey,Alabama ,CHOCTAW,01,023,AL 
+36925,York,Alabama ,SUMTER,01,119,AL 
+36922,Ward,Alabama ,CHOCTAW,01,023,AL 

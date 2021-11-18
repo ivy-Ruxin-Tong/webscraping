@@ -1,0 +1,531 @@
+38609,Marks,Mississippi ,QUITMAN,28,119,MS 
+38606,Batesville,Mississippi ,PANOLA,28,107,MS 
+38610,Blue Mountain,Mississippi ,TIPPAH,28,139,MS 
+38614,Clarksdale,Mississippi ,COAHOMA,28,027,MS 
+38611,Byhalia,Mississippi ,MARSHALL,28,093,MS 
+38602,Arkabutla,Mississippi ,TATE,28,137,MS 
+38601,Abbeville,Mississippi ,LAFAYETTE,28,071,MS 
+38603,Ashland,Mississippi ,BENTON,28,009,MS 
+38617,Coahoma,Mississippi ,COAHOMA,28,027,MS 
+38621,Crenshaw,Mississippi ,PANOLA,28,107,MS 
+38618,Coldwater,Mississippi ,TATE,28,137,MS 
+38622,Crowder,Mississippi ,QUITMAN,28,119,MS 
+38620,Courtland,Mississippi ,PANOLA,28,107,MS 
+38619,Como,Mississippi ,PANOLA,28,107,MS 
+38623,Darling,Mississippi ,QUITMAN,28,119,MS 
+38625,Dumas,Mississippi ,TIPPAH,28,139,MS 
+38626,Dundee,Mississippi ,TUNICA,28,143,MS 
+38628,Sledge,Mississippi ,QUITMAN,28,119,MS 
+38627,Etta,Mississippi ,UNION,28,145,MS 
+38629,Falkner,Mississippi ,TIPPAH,28,139,MS 
+38632,Hernando,Mississippi ,DESOTO,28,033,MS 
+38631,Friars Point,Mississippi ,COAHOMA,28,027,MS 
+38633,Hickory Flat,Mississippi ,BENTON,28,009,MS 
+38630,Farrell,Mississippi ,COAHOMA,28,027,MS 
+38634,Holly Springs,Mississippi ,MARSHALL,28,093,MS 
+38635,Holly Springs,Mississippi ,MARSHALL,28,093,MS 
+38638,Independence,Mississippi ,TATE,28,137,MS 
+38642,Lamar,Mississippi ,MARSHALL,28,093,MS 
+38639,Jonestown,Mississippi ,COAHOMA,28,027,MS 
+38637,Horn Lake,Mississippi ,DESOTO,28,033,MS 
+38644,Lula,Mississippi ,COAHOMA,28,027,MS 
+38643,Lambert,Mississippi ,QUITMAN,28,119,MS 
+38641,Lake Cormorant,Mississippi ,DESOTO,28,033,MS 
+38645,Lyon,Mississippi ,COAHOMA,28,027,MS 
+38646,Marks,Mississippi ,QUITMAN,28,119,MS 
+38654,Olive Branch,Mississippi ,DESOTO,28,033,MS 
+38649,Mount Pleasant,Mississippi ,MARSHALL,28,093,MS 
+38647,Michigan City,Mississippi ,BENTON,28,009,MS 
+38650,Myrtle,Mississippi ,UNION,28,145,MS 
+38652,New Albany,Mississippi ,UNION,28,145,MS 
+38651,Nesbit,Mississippi ,DESOTO,28,033,MS 
+38655,Oxford,Mississippi ,LAFAYETTE,28,071,MS 
+38658,Pope,Mississippi ,PANOLA,28,107,MS 
+38664,Robinsonville,Mississippi ,TUNICA,28,143,MS 
+38659,Potts Camp,Mississippi ,MARSHALL,28,093,MS 
+38663,Ripley,Mississippi ,TIPPAH,28,139,MS 
+38665,Sarah,Mississippi ,PANOLA,28,107,MS 
+38666,Sardis,Mississippi ,PANOLA,28,107,MS 
+38669,Sherard,Mississippi ,COAHOMA,28,027,MS 
+38661,Red Banks,Mississippi ,MARSHALL,28,093,MS 
+38668,Senatobia,Mississippi ,TATE,28,137,MS 
+38670,Sledge,Mississippi ,TUNICA,28,143,MS 
+38671,Southaven,Mississippi ,DESOTO,28,033,MS 
+38674,Tiplersville,Mississippi ,TIPPAH,28,139,MS 
+38673,Taylor,Mississippi ,LAFAYETTE,28,071,MS 
+38672,Southaven,Mississippi ,DESOTO,28,033,MS 
+38677,University,Mississippi ,LAFAYETTE,28,071,MS 
+38675,Memphis Stc,Mississippi ,LAFAYETTE,28,071,MS 
+38676,Tunica,Mississippi ,TUNICA,28,143,MS 
+38683,Walnut,Mississippi ,TIPPAH,28,139,MS 
+38680,Walls,Mississippi ,DESOTO,28,033,MS 
+38686,Walls,Mississippi ,DESOTO,28,033,MS 
+38679,Victoria,Mississippi ,MARSHALL,28,093,MS 
+38685,Waterford,Mississippi ,MARSHALL,28,093,MS 
+38701,Greenville,Mississippi ,WASHINGTON,28,151,MS 
+38703,Greenville,Mississippi ,WASHINGTON,28,151,MS 
+38702,Greenville,Mississippi ,WASHINGTON,28,151,MS 
+38722,Arcola,Mississippi ,WASHINGTON,28,151,MS 
+38723,Avon,Mississippi ,WASHINGTON,28,151,MS 
+38720,Alligator,Mississippi ,BOLIVAR,28,011,MS 
+38704,Greenville,Mississippi ,WASHINGTON,28,151,MS 
+38721,Anguilla,Mississippi ,SHARKEY,28,125,MS 
+38725,Benoit,Mississippi ,BOLIVAR,28,011,MS 
+38730,Boyle,Mississippi ,BOLIVAR,28,011,MS 
+38726,Beulah,Mississippi ,BOLIVAR,28,011,MS 
+38737,Drew,Mississippi ,SUNFLOWER,28,133,MS 
+38732,Cleveland,Mississippi ,BOLIVAR,28,011,MS 
+38738,Parchman,Mississippi ,SUNFLOWER,28,133,MS 
+38731,Chatham,Mississippi ,WASHINGTON,28,151,MS 
+38733,Cleveland,Mississippi ,BOLIVAR,28,011,MS 
+38736,Doddsville,Mississippi ,SUNFLOWER,28,133,MS 
+38739,Dublin,Mississippi ,COAHOMA,28,027,MS 
+38740,Duncan,Mississippi ,BOLIVAR,28,011,MS 
+38748,Hollandale,Mississippi ,WASHINGTON,28,151,MS 
+38749,Indianola,Mississippi ,SUNFLOWER,28,133,MS 
+38746,Gunnison,Mississippi ,BOLIVAR,28,011,MS 
+38745,Grace,Mississippi ,ISSAQUENA,28,055,MS 
+38744,Glen Allan,Mississippi ,WASHINGTON,28,151,MS 
+38751,Indianola,Mississippi ,SUNFLOWER,28,133,MS 
+38753,Inverness,Mississippi ,SUNFLOWER,28,133,MS 
+38754,Isola,Mississippi ,HUMPHREYS,28,053,MS 
+38756,Leland,Mississippi ,WASHINGTON,28,151,MS 
+38760,Metcalfe,Mississippi ,WASHINGTON,28,151,MS 
+38761,Moorhead,Mississippi ,SUNFLOWER,28,133,MS 
+38764,Pace,Mississippi ,BOLIVAR,28,011,MS 
+38759,Merigold,Mississippi ,BOLIVAR,28,011,MS 
+38767,Rena Lara,Mississippi ,COAHOMA,28,027,MS 
+38765,Panther Burn,Mississippi ,SHARKEY,28,125,MS 
+38762,Mound Bayou,Mississippi ,BOLIVAR,28,011,MS 
+38768,Rome,Mississippi ,SUNFLOWER,28,133,MS 
+38769,Rosedale,Mississippi ,BOLIVAR,28,011,MS 
+38772,Scott,Mississippi ,BOLIVAR,28,011,MS 
+38771,Ruleville,Mississippi ,SUNFLOWER,28,133,MS 
+38773,Shaw,Mississippi ,BOLIVAR,28,011,MS 
+38776,Stoneville,Mississippi ,WASHINGTON,28,151,MS 
+38774,Shelby,Mississippi ,BOLIVAR,28,011,MS 
+38778,Sunflower,Mississippi ,SUNFLOWER,28,133,MS 
+38780,Wayside,Mississippi ,WASHINGTON,28,151,MS 
+38782,Winterville,Mississippi ,WASHINGTON,28,151,MS 
+38781,Winstonville,Mississippi ,BOLIVAR,28,011,MS 
+38801,Tupelo,Mississippi ,LEE,28,081,MS 
+38802,Tupelo,Mississippi ,LEE,28,081,MS 
+38803,Tupelo,Mississippi ,LEE,28,081,MS 
+38804,Tupelo,Mississippi ,LEE,28,081,MS 
+38820,Algoma,Mississippi ,PONTOTOC,28,115,MS 
+38821,Amory,Mississippi ,MONROE,28,095,MS 
+38824,Baldwyn,Mississippi ,LEE,28,081,MS 
+38825,Becker,Mississippi ,MONROE,28,095,MS 
+38826,Belden,Mississippi ,LEE,28,081,MS 
+38827,Belmont,Mississippi ,TISHOMINGO,28,141,MS 
+38829,Booneville,Mississippi ,PRENTISS,28,117,MS 
+38828,Blue Springs,Mississippi ,UNION,28,145,MS 
+38834,Corinth,Mississippi ,ALCORN,28,003,MS 
+38833,Burnsville,Mississippi ,TISHOMINGO,28,141,MS 
+38841,Ecru,Mississippi ,PONTOTOC,28,115,MS 
+38835,Corinth,Mississippi ,ALCORN,28,003,MS 
+38838,Dennis,Mississippi ,TISHOMINGO,28,141,MS 
+38839,Derma,Mississippi ,CALHOUN,28,013,MS 
+38844,Gattman,Mississippi ,MONROE,28,095,MS 
+38843,Fulton,Mississippi ,ITAWAMBA,28,057,MS 
+38846,Glen,Mississippi ,ALCORN,28,003,MS 
+38847,Golden,Mississippi ,TISHOMINGO,28,141,MS 
+38848,Greenwood Springs,Mississippi ,MONROE,28,095,MS 
+38851,Houston,Mississippi ,CHICKASAW,28,017,MS 
+38849,Guntown,Mississippi ,LEE,28,081,MS 
+38850,Houlka,Mississippi ,CHICKASAW,28,017,MS 
+38857,Mooreville,Mississippi ,LEE,28,081,MS 
+38855,Mantachie,Mississippi ,ITAWAMBA,28,057,MS 
+38856,Marietta,Mississippi ,PRENTISS,28,117,MS 
+38852,Iuka,Mississippi ,TISHOMINGO,28,141,MS 
+38858,Nettleton,Mississippi ,ITAWAMBA,28,057,MS 
+38860,Okolona,Mississippi ,CHICKASAW,28,017,MS 
+38859,New Site,Mississippi ,PRENTISS,28,117,MS 
+38862,Plantersville,Mississippi ,LEE,28,081,MS 
+38863,Pontotoc,Mississippi ,PONTOTOC,28,115,MS 
+38865,Rienzi,Mississippi ,ALCORN,28,003,MS 
+38864,Randolph,Mississippi ,PONTOTOC,28,115,MS 
+38871,Thaxton,Mississippi ,PONTOTOC,28,115,MS 
+38868,Shannon,Mississippi ,LEE,28,081,MS 
+38866,Saltillo,Mississippi ,LEE,28,081,MS 
+38869,Sherman,Mississippi ,PONTOTOC,28,115,MS 
+38873,Tishomingo,Mississippi ,TISHOMINGO,28,141,MS 
+38874,Toccopola,Mississippi ,LAFAYETTE,28,071,MS 
+38875,Trebloc,Mississippi ,CHICKASAW,28,017,MS 
+38878,Vardaman,Mississippi ,CALHOUN,28,013,MS 
+38876,Tremont,Mississippi ,ITAWAMBA,28,057,MS 
+38877,Van Vleet,Mississippi ,CHICKASAW,28,017,MS 
+38879,Verona,Mississippi ,LEE,28,081,MS 
+38870,Smithville,Mississippi ,MONROE,28,095,MS 
+38880,Wheeler,Mississippi ,PRENTISS,28,117,MS 
+38901,Grenada,Mississippi ,GRENADA,28,043,MS 
+38914,Big Creek,Mississippi ,CALHOUN,28,013,MS 
+38913,Banner,Mississippi ,CALHOUN,28,013,MS 
+38917,Carrollton,Mississippi ,CARROLL,28,015,MS 
+38902,Grenada,Mississippi ,GRENADA,28,043,MS 
+38916,Calhoun City,Mississippi ,CALHOUN,28,013,MS 
+38915,Bruce,Mississippi ,CALHOUN,28,013,MS 
+38921,Charleston,Mississippi ,TALLAHATCHIE,28,135,MS 
+38920,Cascilla,Mississippi ,TALLAHATCHIE,28,135,MS 
+38922,Coffeeville,Mississippi ,YALOBUSHA,28,161,MS 
+38923,Coila,Mississippi ,CARROLL,28,015,MS 
+38924,Cruger,Mississippi ,HOLMES,28,051,MS 
+38926,Elliott,Mississippi ,GRENADA,28,043,MS 
+38928,Glendora,Mississippi ,TALLAHATCHIE,28,135,MS 
+38925,Duck Hill,Mississippi ,MONTGOMERY,28,097,MS 
+38927,Enid,Mississippi ,TALLAHATCHIE,28,135,MS 
+38929,Gore Springs,Mississippi ,GRENADA,28,043,MS 
+38930,Greenwood,Mississippi ,LEFLORE,28,083,MS 
+38940,Holcomb,Mississippi ,GRENADA,28,043,MS 
+38945,Greenwood,Mississippi ,LEFLORE,28,083,MS 
+38943,Mc Carley,Mississippi ,CARROLL,28,015,MS 
+38941,Itta Bena,Mississippi ,LEFLORE,28,083,MS 
+38944,Minter City,Mississippi ,LEFLORE,28,083,MS 
+38935,Greenwood,Mississippi ,LEFLORE,28,083,MS 
+38946,Morgan City,Mississippi ,LEFLORE,28,083,MS 
+38947,North Carrollton,Mississippi ,CARROLL,28,015,MS 
+38952,Schlater,Mississippi ,LEFLORE,28,083,MS 
+38951,Pittsboro,Mississippi ,CALHOUN,28,013,MS 
+38950,Philipp,Mississippi ,TALLAHATCHIE,28,135,MS 
+38948,Oakland,Mississippi ,YALOBUSHA,28,161,MS 
+38954,Sidon,Mississippi ,CARROLL,28,015,MS 
+38953,Scobey,Mississippi ,YALOBUSHA,28,161,MS 
+38949,Paris,Mississippi ,LAFAYETTE,28,071,MS 
+38955,Slate Spring,Mississippi ,CALHOUN,28,013,MS 
+38960,Tie Plant,Mississippi ,GRENADA,28,043,MS 
+38961,Tillatoba,Mississippi ,YALOBUSHA,28,161,MS 
+38963,Tutwiler,Mississippi ,TALLAHATCHIE,28,135,MS 
+38964,Vance,Mississippi ,QUITMAN,28,119,MS 
+38959,Swiftown,Mississippi ,LEFLORE,28,083,MS 
+38962,Tippo,Mississippi ,TALLAHATCHIE,28,135,MS 
+38958,Swan Lake,Mississippi ,TALLAHATCHIE,28,135,MS 
+38957,Sumner,Mississippi ,TALLAHATCHIE,28,135,MS 
+38965,Water Valley,Mississippi ,YALOBUSHA,28,161,MS 
+38966,Webb,Mississippi ,TALLAHATCHIE,28,135,MS 
+38967,Winona,Mississippi ,MONTGOMERY,28,097,MS 
+39039,Benton,Mississippi ,YAZOO,28,163,MS 
+39038,Belzoni,Mississippi ,HUMPHREYS,28,053,MS 
+39041,Bolton,Mississippi ,HINDS,28,049,MS 
+39040,Bentonia,Mississippi ,YAZOO,28,163,MS 
+39042,Brandon,Mississippi ,RANKIN,28,121,MS 
+39043,Brandon,Mississippi ,RANKIN,28,121,MS 
+39044,Braxton,Mississippi ,SIMPSON,28,127,MS 
+39045,Camden,Mississippi ,MADISON,28,089,MS 
+39047,Brandon,Mississippi ,RANKIN,28,121,MS 
+39046,Canton,Mississippi ,MADISON,28,089,MS 
+39051,Carthage,Mississippi ,LEAKE,28,079,MS 
+39054,Cary,Mississippi ,SHARKEY,28,125,MS 
+39057,Conehatta,Mississippi ,NEWTON,28,101,MS 
+39056,Clinton,Mississippi ,HINDS,28,049,MS 
+39058,Clinton,Mississippi ,HINDS,28,049,MS 
+39061,Delta City,Mississippi ,SHARKEY,28,125,MS 
+39062,D Lo,Mississippi ,SIMPSON,28,127,MS 
+39060,Clinton,Mississippi ,HINDS,28,049,MS 
+39059,Crystal Springs,Mississippi ,COPIAH,28,029,MS 
+39063,Durant,Mississippi ,HOLMES,28,051,MS 
+39067,Ethel,Mississippi ,ATTALA,28,007,MS 
+39066,Edwards,Mississippi ,HINDS,28,049,MS 
+39069,Fayette,Mississippi ,JEFFERSON,28,063,MS 
+39071,Flora,Mississippi ,MADISON,28,089,MS 
+39077,Gallman,Mississippi ,COPIAH,28,029,MS 
+39073,Florence,Mississippi ,RANKIN,28,121,MS 
+39074,Forest,Mississippi ,SCOTT,28,123,MS 
+39080,Harperville,Mississippi ,SCOTT,28,123,MS 
+39079,Goodman,Mississippi ,HOLMES,28,051,MS 
+39078,Georgetown,Mississippi ,COPIAH,28,029,MS 
+39081,Fayette,Mississippi ,JEFFERSON,28,063,MS 
+39090,Kosciusko,Mississippi ,ATTALA,28,007,MS 
+39082,Harrisville,Mississippi ,SIMPSON,28,127,MS 
+39083,Hazlehurst,Mississippi ,COPIAH,28,029,MS 
+39087,Hillsboro,Mississippi ,SCOTT,28,123,MS 
+39086,Hermanville,Mississippi ,CLAIBORNE,28,021,MS 
+39088,Holly Bluff,Mississippi ,YAZOO,28,163,MS 
+39092,Lake,Mississippi ,SCOTT,28,123,MS 
+39094,Lena,Mississippi ,LEAKE,28,079,MS 
+39096,Lorman,Mississippi ,JEFFERSON,28,063,MS 
+39095,Lexington,Mississippi ,HOLMES,28,051,MS 
+39108,Mc Cool,Mississippi ,ATTALA,28,007,MS 
+39107,Mc Adams,Mississippi ,ATTALA,28,007,MS 
+39098,Ludlow,Mississippi ,SCOTT,28,123,MS 
+39109,Madden,Mississippi ,LEAKE,28,079,MS 
+39097,Louise,Mississippi ,HUMPHREYS,28,053,MS 
+39110,Madison,Mississippi ,MADISON,28,089,MS 
+39111,Magee,Mississippi ,SIMPSON,28,127,MS 
+39114,Mendenhall,Mississippi ,SIMPSON,28,127,MS 
+39119,Mount Olive,Mississippi ,COVINGTON,28,031,MS 
+39117,Morton,Mississippi ,SCOTT,28,123,MS 
+39115,Midnight,Mississippi ,HUMPHREYS,28,053,MS 
+39116,Mize,Mississippi ,SMITH,28,129,MS 
+39113,Mayersville,Mississippi ,ISSAQUENA,28,055,MS 
+39120,Natchez,Mississippi ,ADAMS,28,001,MS 
+39121,Natchez,Mississippi ,ADAMS,28,001,MS 
+39122,Natchez,Mississippi ,ADAMS,28,001,MS 
+39140,Newhebron,Mississippi ,LAWRENCE,28,077,MS 
+39144,Pattison,Mississippi ,CLAIBORNE,28,021,MS 
+39130,Madison,Mississippi ,MADISON,28,089,MS 
+39146,Pickens,Mississippi ,HOLMES,28,051,MS 
+39145,Pelahatchie,Mississippi ,RANKIN,28,121,MS 
+39148,Piney Woods,Mississippi ,RANKIN,28,121,MS 
+39149,Pinola,Mississippi ,SIMPSON,28,127,MS 
+39150,Port Gibson,Mississippi ,CLAIBORNE,28,021,MS 
+39156,Redwood,Mississippi ,WARREN,28,149,MS 
+39153,Raleigh,Mississippi ,SMITH,28,129,MS 
+39157,Ridgeland,Mississippi ,MADISON,28,089,MS 
+39152,Pulaski,Mississippi ,SCOTT,28,123,MS 
+39154,Raymond,Mississippi ,HINDS,28,049,MS 
+39151,Puckett,Mississippi ,RANKIN,28,121,MS 
+39158,Ridgeland,Mississippi ,MADISON,28,089,MS 
+39159,Rolling Fork,Mississippi ,SHARKEY,28,125,MS 
+39160,Sallis,Mississippi ,ATTALA,28,007,MS 
+39163,Sharon,Mississippi ,MADISON,28,089,MS 
+39165,Sibley,Mississippi ,ADAMS,28,001,MS 
+39167,Star,Mississippi ,RANKIN,28,121,MS 
+39162,Satartia,Mississippi ,YAZOO,28,163,MS 
+39166,Silver City,Mississippi ,HUMPHREYS,28,053,MS 
+39161,Sandhill,Mississippi ,RANKIN,28,121,MS 
+39168,Taylorsville,Mississippi ,SMITH,28,129,MS 
+39169,Tchula,Mississippi ,HOLMES,28,051,MS 
+39170,Terry,Mississippi ,HINDS,28,049,MS 
+39171,Thomastown,Mississippi ,LEAKE,28,079,MS 
+39174,Tougaloo,Mississippi ,HINDS,28,049,MS 
+39176,Vaiden,Mississippi ,CARROLL,28,015,MS 
+39177,Valley Park,Mississippi ,ISSAQUENA,28,055,MS 
+39173,Tinsley,Mississippi ,YAZOO,28,163,MS 
+39175,Utica,Mississippi ,HINDS,28,049,MS 
+39179,Vaughan,Mississippi ,YAZOO,28,163,MS 
+39180,Vicksburg,Mississippi ,WARREN,28,149,MS 
+39182,Vicksburg,Mississippi ,WARREN,28,149,MS 
+39190,Washington,Mississippi ,ADAMS,28,001,MS 
+39183,Vicksburg,Mississippi ,WARREN,28,149,MS 
+39181,Vicksburg,Mississippi ,WARREN,28,149,MS 
+39189,Walnut Grove,Mississippi ,LEAKE,28,079,MS 
+39191,Wesson,Mississippi ,COPIAH,28,029,MS 
+39192,West,Mississippi ,HOLMES,28,051,MS 
+39193,Whitfield,Mississippi ,RANKIN,28,121,MS 
+39203,Jackson,Mississippi ,HINDS,28,049,MS 
+39194,Yazoo City,Mississippi ,YAZOO,28,163,MS 
+39202,Jackson,Mississippi ,HINDS,28,049,MS 
+39205,Jackson,Mississippi ,HINDS,28,049,MS 
+39206,Jackson,Mississippi ,HINDS,28,049,MS 
+39201,Jackson,Mississippi ,HINDS,28,049,MS 
+39204,Jackson,Mississippi ,HINDS,28,049,MS 
+39207,Jackson,Mississippi ,HINDS,28,049,MS 
+39209,Jackson,Mississippi ,HINDS,28,049,MS 
+39208,Pearl,Mississippi ,RANKIN,28,121,MS 
+39213,Jackson,Mississippi ,HINDS,28,049,MS 
+39210,Jackson,Mississippi ,HINDS,28,049,MS 
+39211,Jackson,Mississippi ,HINDS,28,049,MS 
+39215,Jackson,Mississippi ,HINDS,28,049,MS 
+39212,Jackson,Mississippi ,HINDS,28,049,MS 
+39216,Jackson,Mississippi ,HINDS,28,049,MS 
+39217,Jackson,Mississippi ,HINDS,28,049,MS 
+39225,Jackson,Mississippi ,HINDS,28,049,MS 
+39218,Richland,Mississippi ,RANKIN,28,121,MS 
+39232,Flowood,Mississippi ,RANKIN,28,121,MS 
+39236,Jackson,Mississippi ,HINDS,28,049,MS 
+39269,Jackson,Mississippi ,HINDS,28,049,MS 
+39250,Jackson,Mississippi ,HINDS,28,049,MS 
+39271,Jackson,Mississippi ,HINDS,28,049,MS 
+39272,Byram,Mississippi ,HINDS,28,049,MS 
+39282,Jackson,Mississippi ,HINDS,28,049,MS 
+39284,Jackson,Mississippi ,HINDS,28,049,MS 
+39283,Jackson,Mississippi ,HINDS,28,049,MS 
+39288,Pearl,Mississippi ,RANKIN,28,121,MS 
+39286,Jackson,Mississippi ,HINDS,28,049,MS 
+39289,Jackson,Mississippi ,HINDS,28,049,MS 
+39296,Jackson,Mississippi ,HINDS,28,049,MS 
+39298,Jackson,Mississippi ,RANKIN,28,121,MS 
+39302,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39303,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39305,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39301,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39304,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39307,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39309,Meridian,Mississippi ,LAUDERDALE,28,075,MS 
+39320,Bailey,Mississippi ,LAUDERDALE,28,075,MS 
+39323,Chunky,Mississippi ,NEWTON,28,101,MS 
+39322,Buckatunna,Mississippi ,WAYNE,28,153,MS 
+39325,Collinsville,Mississippi ,LAUDERDALE,28,075,MS 
+39324,Clara,Mississippi ,WAYNE,28,153,MS 
+39326,Daleville,Mississippi ,LAUDERDALE,28,075,MS 
+39327,Decatur,Mississippi ,NEWTON,28,101,MS 
+39328,De Kalb,Mississippi ,KEMPER,28,069,MS 
+39330,Enterprise,Mississippi ,CLARKE,28,023,MS 
+39332,Hickory,Mississippi ,NEWTON,28,101,MS 
+39336,Lawrence,Mississippi ,NEWTON,28,101,MS 
+39339,Louisville,Mississippi ,WINSTON,28,159,MS 
+39337,Little Rock,Mississippi ,NEWTON,28,101,MS 
+39338,Louin,Mississippi ,JASPER,28,061,MS 
+39341,Macon,Mississippi ,NOXUBEE,28,103,MS 
+39335,Lauderdale,Mississippi ,LAUDERDALE,28,075,MS 
+39345,Newton,Mississippi ,NEWTON,28,101,MS 
+39342,Marion,Mississippi ,LAUDERDALE,28,075,MS 
+39352,Porterville,Mississippi ,KEMPER,28,069,MS 
+39354,Preston,Mississippi ,KEMPER,28,069,MS 
+39347,Pachuta,Mississippi ,CLARKE,28,023,MS 
+39348,Paulding,Mississippi ,JASPER,28,061,MS 
+39350,Philadelphia,Mississippi ,NESHOBA,28,099,MS 
+39346,Noxapater,Mississippi ,WINSTON,28,159,MS 
+39356,Rose Hill,Mississippi ,JASPER,28,061,MS 
+39355,Quitman,Mississippi ,CLARKE,28,023,MS 
+39358,Scooba,Mississippi ,KEMPER,28,069,MS 
+39360,Shubuta,Mississippi ,CLARKE,28,023,MS 
+39361,Shuqualak,Mississippi ,NOXUBEE,28,103,MS 
+39364,Toomsuba,Mississippi ,LAUDERDALE,28,075,MS 
+39365,Union,Mississippi ,NESHOBA,28,099,MS 
+39359,Sebastopol,Mississippi ,SCOTT,28,123,MS 
+39363,Stonewall,Mississippi ,CLARKE,28,023,MS 
+39362,State Line,Mississippi ,GREENE,28,041,MS 
+39367,Waynesboro,Mississippi ,WAYNE,28,153,MS 
+39404,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39366,Vossburg,Mississippi ,JASPER,28,061,MS 
+39407,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39403,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39406,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39401,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39402,Hattiesburg,Mississippi ,FORREST,28,035,MS 
+39421,Bassfield,Mississippi ,JEFFERSON DAVIS,28,065,MS 
+39423,Beaumont,Mississippi ,PERRY,28,111,MS 
+39429,Columbia,Mississippi ,MARION,28,091,MS 
+39422,Bay Springs,Mississippi ,JASPER,28,061,MS 
+39426,Carriere,Mississippi ,PEARL RIVER,28,109,MS 
+39425,Brooklyn,Mississippi ,FORREST,28,035,MS 
+39428,Collins,Mississippi ,COVINGTON,28,031,MS 
+39427,Carson,Mississippi ,JEFFERSON DAVIS,28,065,MS 
+39439,Heidelberg,Mississippi ,JASPER,28,061,MS 
+39442,Laurel,Mississippi ,JONES,28,067,MS 
+39440,Laurel,Mississippi ,JONES,28,067,MS 
+39436,Eastabuchie,Mississippi ,JONES,28,067,MS 
+39451,Leakesville,Mississippi ,GREENE,28,041,MS 
+39441,Laurel,Mississippi ,JONES,28,067,MS 
+39443,Laurel,Mississippi ,JONES,28,067,MS 
+39437,Ellisville,Mississippi ,JONES,28,067,MS 
+39452,Lucedale,Mississippi ,GEORGE,28,039,MS 
+39462,New Augusta,Mississippi ,PERRY,28,111,MS 
+39455,Lumberton,Mississippi ,LAMAR,28,073,MS 
+39461,Neely,Mississippi ,GREENE,28,041,MS 
+39460,Moss,Mississippi ,JASPER,28,061,MS 
+39459,Moselle,Mississippi ,JONES,28,067,MS 
+39457,Mc Neill,Mississippi ,PEARL RIVER,28,109,MS 
+39456,Mc Lain,Mississippi ,GREENE,28,041,MS 
+39464,Ovett,Mississippi ,JONES,28,067,MS 
+39466,Picayune,Mississippi ,PEARL RIVER,28,109,MS 
+39474,Prentiss,Mississippi ,JEFFERSON DAVIS,28,065,MS 
+39475,Purvis,Mississippi ,LAMAR,28,073,MS 
+39476,Richton,Mississippi ,PERRY,28,111,MS 
+39470,Poplarville,Mississippi ,PEARL RIVER,28,109,MS 
+39463,Nicholson,Mississippi ,PEARL RIVER,28,109,MS 
+39465,Petal,Mississippi ,FORREST,28,035,MS 
+39477,Sandersville,Mississippi ,JONES,28,067,MS 
+39478,Sandy Hook,Mississippi ,MARION,28,091,MS 
+39479,Seminary,Mississippi ,COVINGTON,28,031,MS 
+39501,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39483,Foxworth,Mississippi ,MARION,28,091,MS 
+39480,Soso,Mississippi ,JONES,28,067,MS 
+39482,Sumrall,Mississippi ,LAMAR,28,073,MS 
+39481,Stringer,Mississippi ,JASPER,28,061,MS 
+39502,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39505,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39503,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39506,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39522,Stennis Space Center,Mississippi ,HANCOCK,28,045,MS 
+39521,Bay Saint Louis,Mississippi ,HANCOCK,28,045,MS 
+39525,Diamondhead,Mississippi ,HANCOCK,28,045,MS 
+39507,Gulfport,Mississippi ,HARRISON,28,047,MS 
+39520,Bay Saint Louis,Mississippi ,HANCOCK,28,045,MS 
+39529,Stennis Space Center,Mississippi ,HANCOCK,28,045,MS 
+39533,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39531,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39532,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39530,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39535,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39534,Biloxi,Mississippi ,HARRISON,28,047,MS 
+39540,Diberville,Mississippi ,HARRISON,28,047,MS 
+39552,Escatawpa,Mississippi ,JACKSON,28,059,MS 
+39553,Gautier,Mississippi ,JACKSON,28,059,MS 
+39556,Kiln,Mississippi ,HANCOCK,28,045,MS 
+39558,Lakeshore,Mississippi ,HANCOCK,28,045,MS 
+39561,Mc Henry,Mississippi ,STONE,28,131,MS 
+39555,Hurley,Mississippi ,JACKSON,28,059,MS 
+39560,Long Beach,Mississippi ,HARRISON,28,047,MS 
+39562,Moss Point,Mississippi ,JACKSON,28,059,MS 
+39563,Moss Point,Mississippi ,JACKSON,28,059,MS 
+39565,Vancleave,Mississippi ,JACKSON,28,059,MS 
+39568,Pascagoula,Mississippi ,JACKSON,28,059,MS 
+39564,Ocean Springs,Mississippi ,JACKSON,28,059,MS 
+39566,Ocean Springs,Mississippi ,JACKSON,28,059,MS 
+39569,Pascagoula,Mississippi ,JACKSON,28,059,MS 
+39567,Pascagoula,Mississippi ,JACKSON,28,059,MS 
+39571,Pass Christian,Mississippi ,HARRISON,28,047,MS 
+39572,Pearlington,Mississippi ,HANCOCK,28,045,MS 
+39573,Perkinston,Mississippi ,STONE,28,131,MS 
+39581,Pascagoula,Mississippi ,JACKSON,28,059,MS 
+39576,Waveland,Mississippi ,HANCOCK,28,045,MS 
+39595,Pascagoula,Mississippi ,JACKSON,28,059,MS 
+39574,Saucier,Mississippi ,HARRISON,28,047,MS 
+39577,Wiggins,Mississippi ,STONE,28,131,MS 
+39601,Brookhaven,Mississippi ,LINCOLN,28,085,MS 
+39602,Brookhaven,Mississippi ,LINCOLN,28,085,MS 
+39603,Brookhaven,Mississippi ,LINCOLN,28,085,MS 
+39631,Centreville,Mississippi ,WILKINSON,28,157,MS 
+39635,Fernwood,Mississippi ,PIKE,28,113,MS 
+39638,Gloster,Mississippi ,AMITE,28,005,MS 
+39633,Crosby,Mississippi ,AMITE,28,005,MS 
+39632,Chatawa,Mississippi ,PIKE,28,113,MS 
+39630,Bude,Mississippi ,FRANKLIN,28,037,MS 
+39629,Bogue Chitto,Mississippi ,LINCOLN,28,085,MS 
+39641,Jayess,Mississippi ,LAWRENCE,28,077,MS 
+39653,Meadville,Mississippi ,FRANKLIN,28,037,MS 
+39652,Magnolia,Mississippi ,PIKE,28,113,MS 
+39647,Mc Call Creek,Mississippi ,FRANKLIN,28,037,MS 
+39648,Mccomb,Mississippi ,PIKE,28,113,MS 
+39645,Liberty,Mississippi ,AMITE,28,005,MS 
+39649,Mccomb,Mississippi ,PIKE,28,113,MS 
+39643,Kokomo,Mississippi ,MARION,28,091,MS 
+39654,Monticello,Mississippi ,LAWRENCE,28,077,MS 
+39656,Oak Vale,Mississippi ,LAWRENCE,28,077,MS 
+39657,Osyka,Mississippi ,PIKE,28,113,MS 
+39664,Smithdale,Mississippi ,AMITE,28,005,MS 
+39663,Silver Creek,Mississippi ,LAWRENCE,28,077,MS 
+39661,Roxie,Mississippi ,FRANKLIN,28,037,MS 
+39666,Summit,Mississippi ,PIKE,28,113,MS 
+39665,Sontag,Mississippi ,LAWRENCE,28,077,MS 
+39662,Ruth,Mississippi ,LINCOLN,28,085,MS 
+39668,Union Church,Mississippi ,JEFFERSON,28,063,MS 
+39667,Tylertown,Mississippi ,WALTHALL,28,147,MS 
+39669,Woodville,Mississippi ,WILKINSON,28,157,MS 
+39701,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39704,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39705,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39702,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39703,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39730,Aberdeen,Mississippi ,MONROE,28,095,MS 
+39735,Ackerman,Mississippi ,CHOCTAW,28,019,MS 
+39736,Artesia,Mississippi ,LOWNDES,28,087,MS 
+39737,Bellefontaine,Mississippi ,WEBSTER,28,155,MS 
+39740,Caledonia,Mississippi ,LOWNDES,28,087,MS 
+39710,Columbus,Mississippi ,LOWNDES,28,087,MS 
+39739,Brooksville,Mississippi ,NOXUBEE,28,103,MS 
+39741,Cedarbluff,Mississippi ,CLAY,28,025,MS 
+39744,Eupora,Mississippi ,WEBSTER,28,155,MS 
+39746,Hamilton,Mississippi ,MONROE,28,095,MS 
+39745,French Camp,Mississippi ,CHOCTAW,28,019,MS 
+39743,Crawford,Mississippi ,LOWNDES,28,087,MS 
+39751,Mantee,Mississippi ,WEBSTER,28,155,MS 
+39750,Maben,Mississippi ,WEBSTER,28,155,MS 
+39752,Mathiston,Mississippi ,WEBSTER,28,155,MS 
+39747,Kilmichael,Mississippi ,MONTGOMERY,28,097,MS 
+39753,Mayhew,Mississippi ,LOWNDES,28,087,MS 
+39759,Starkville,Mississippi ,OKTIBBEHA,28,105,MS 
+39760,Starkville,Mississippi ,OKTIBBEHA,28,105,MS 
+39754,Montpelier,Mississippi ,CLAY,28,025,MS 
+39755,Pheba,Mississippi ,CLAY,28,025,MS 
+39762,Mississippi State,Mississippi ,OKTIBBEHA,28,105,MS 
+39756,Prairie,Mississippi ,MONROE,28,095,MS 
+39766,Steens,Mississippi ,LOWNDES,28,087,MS 
+39767,Stewart,Mississippi ,MONTGOMERY,28,097,MS 
+39769,Sturgis,Mississippi ,OKTIBBEHA,28,105,MS 
+39772,Weir,Mississippi ,CHOCTAW,28,019,MS 
+39773,West Point,Mississippi ,CLAY,28,025,MS 
+39776,Woodland,Mississippi ,CHICKASAW,28,017,MS 
+39771,Walthall,Mississippi ,WEBSTER,28,155,MS 

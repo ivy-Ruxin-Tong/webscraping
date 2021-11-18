@@ -1,0 +1,747 @@
+66002,Atchison,Kansas ,ATCHISON,20,005,KS 
+66012,Bonner Springs,Kansas ,WYANDOTTE,20,209,KS 
+66013,Bucyrus,Kansas ,MIAMI,20,121,KS 
+66010,Blue Mound,Kansas ,LINN,20,107,KS 
+66014,Centerville,Kansas ,ANDERSON,20,003,KS 
+66007,Basehor,Kansas ,LEAVENWORTH,20,103,KS 
+66006,Baldwin City,Kansas ,DOUGLAS,20,045,KS 
+66008,Bendena,Kansas ,DONIPHAN,20,043,KS 
+66015,Colony,Kansas ,ANDERSON,20,003,KS 
+66017,Denton,Kansas ,DONIPHAN,20,043,KS 
+66016,Cummings,Kansas ,ATCHISON,20,005,KS 
+66021,Edgerton,Kansas ,JOHNSON,20,091,KS 
+66020,Easton,Kansas ,LEAVENWORTH,20,103,KS 
+66018,De Soto,Kansas ,JOHNSON,20,091,KS 
+66023,Effingham,Kansas ,ATCHISON,20,005,KS 
+66024,Elwood,Kansas ,DONIPHAN,20,043,KS 
+66025,Eudora,Kansas ,DOUGLAS,20,045,KS 
+66031,New Century,Kansas ,JOHNSON,20,091,KS 
+66027,Fort Leavenworth,Kansas ,LEAVENWORTH,20,103,KS 
+66026,Fontana,Kansas ,MIAMI,20,121,KS 
+66033,Greeley,Kansas ,ANDERSON,20,003,KS 
+66030,Gardner,Kansas ,JOHNSON,20,091,KS 
+66035,Highland,Kansas ,DONIPHAN,20,043,KS 
+66032,Garnett,Kansas ,ANDERSON,20,003,KS 
+66036,Hillsdale,Kansas ,MIAMI,20,121,KS 
+66039,Kincaid,Kansas ,ANDERSON,20,003,KS 
+66041,Lancaster,Kansas ,ATCHISON,20,005,KS 
+66040,La Cygne,Kansas ,LINN,20,107,KS 
+66043,Lansing,Kansas ,LEAVENWORTH,20,103,KS 
+66042,Lane,Kansas ,FRANKLIN,20,059,KS 
+66044,Lawrence,Kansas ,DOUGLAS,20,045,KS 
+66045,Lawrence,Kansas ,DOUGLAS,20,045,KS 
+66046,Lawrence,Kansas ,DOUGLAS,20,045,KS 
+66048,Leavenworth,Kansas ,LEAVENWORTH,20,103,KS 
+66047,Lawrence,Kansas ,DOUGLAS,20,045,KS 
+66049,Lawrence,Kansas ,DOUGLAS,20,045,KS 
+66051,Olathe,Kansas ,JOHNSON,20,091,KS 
+66052,Linwood,Kansas ,LEAVENWORTH,20,103,KS 
+66050,Lecompton,Kansas ,DOUGLAS,20,045,KS 
+66053,Louisburg,Kansas ,MIAMI,20,121,KS 
+66054,Mc Louth,Kansas ,JEFFERSON,20,087,KS 
+66061,Olathe,Kansas ,JOHNSON,20,091,KS 
+66058,Muscotah,Kansas ,ATCHISON,20,005,KS 
+66063,Olathe,Kansas ,JOHNSON,20,091,KS 
+66060,Nortonville,Kansas ,JEFFERSON,20,087,KS 
+66062,Olathe,Kansas ,JOHNSON,20,091,KS 
+66066,Oskaloosa,Kansas ,JEFFERSON,20,087,KS 
+66064,Osawatomie,Kansas ,MIAMI,20,121,KS 
+66056,Mound City,Kansas ,LINN,20,107,KS 
+66067,Ottawa,Kansas ,FRANKLIN,20,059,KS 
+66071,Paola,Kansas ,MIAMI,20,121,KS 
+66070,Ozawkie,Kansas ,JEFFERSON,20,087,KS 
+66073,Perry,Kansas ,JEFFERSON,20,087,KS 
+66075,Pleasanton,Kansas ,LINN,20,107,KS 
+66072,Parker,Kansas ,LINN,20,107,KS 
+66076,Pomona,Kansas ,FRANKLIN,20,059,KS 
+66078,Princeton,Kansas ,FRANKLIN,20,059,KS 
+66080,Richmond,Kansas ,FRANKLIN,20,059,KS 
+66090,Wathena,Kansas ,DONIPHAN,20,043,KS 
+66086,Tonganoxie,Kansas ,LEAVENWORTH,20,103,KS 
+66088,Valley Falls,Kansas ,JEFFERSON,20,087,KS 
+66085,Stilwell,Kansas ,JOHNSON,20,091,KS 
+66079,Rantoul,Kansas ,FRANKLIN,20,059,KS 
+66083,Spring Hill,Kansas ,JOHNSON,20,091,KS 
+66087,Troy,Kansas ,DONIPHAN,20,043,KS 
+66092,Wellsville,Kansas ,FRANKLIN,20,059,KS 
+66091,Welda,Kansas ,ANDERSON,20,003,KS 
+66095,Williamsburg,Kansas ,FRANKLIN,20,059,KS 
+66097,Winchester,Kansas ,JEFFERSON,20,087,KS 
+66093,Westphalia,Kansas ,ANDERSON,20,003,KS 
+66101,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66094,White Cloud,Kansas ,DONIPHAN,20,043,KS 
+66102,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66111,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66105,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66103,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66110,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66106,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66109,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66104,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66112,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66113,Edwardsville,Kansas ,WYANDOTTE,20,209,KS 
+66117,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66201,Mission,Kansas ,JOHNSON,20,091,KS 
+66115,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66202,Mission,Kansas ,JOHNSON,20,091,KS 
+66160,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66118,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66119,Kansas City,Kansas ,WYANDOTTE,20,209,KS 
+66203,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66204,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66209,Leawood,Kansas ,JOHNSON,20,091,KS 
+66205,Mission,Kansas ,JOHNSON,20,091,KS 
+66206,Leawood,Kansas ,JOHNSON,20,091,KS 
+66208,Prairie Village,Kansas ,JOHNSON,20,091,KS 
+66207,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66210,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66214,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66218,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66212,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66215,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66217,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66216,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66211,Leawood,Kansas ,JOHNSON,20,091,KS 
+66213,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66219,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66224,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66220,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66223,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66221,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66225,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66222,Mission,Kansas ,JOHNSON,20,091,KS 
+66226,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66227,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66250,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66251,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66282,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66283,Overland Park,Kansas ,JOHNSON,20,091,KS 
+66276,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66285,Lenexa,Kansas ,JOHNSON,20,091,KS 
+66401,Alma,Kansas ,WABAUNSEE,20,197,KS 
+66286,Shawnee,Kansas ,JOHNSON,20,091,KS 
+66402,Auburn,Kansas ,SHAWNEE,20,177,KS 
+66403,Axtell,Kansas ,MARSHALL,20,117,KS 
+66408,Bern,Kansas ,NEMAHA,20,131,KS 
+66404,Baileyville,Kansas ,NEMAHA,20,131,KS 
+66407,Belvue,Kansas ,POTTAWATOMIE,20,149,KS 
+66406,Beattie,Kansas ,MARSHALL,20,117,KS 
+66409,Berryton,Kansas ,SHAWNEE,20,177,KS 
+66411,Blue Rapids,Kansas ,MARSHALL,20,117,KS 
+66412,Bremen,Kansas ,MARSHALL,20,117,KS 
+66415,Centralia,Kansas ,NEMAHA,20,131,KS 
+66418,Delia,Kansas ,JACKSON,20,085,KS 
+66414,Carbondale,Kansas ,OSAGE,20,139,KS 
+66413,Burlingame,Kansas ,OSAGE,20,139,KS 
+66420,Dover,Kansas ,SHAWNEE,20,177,KS 
+66417,Corning,Kansas ,NEMAHA,20,131,KS 
+66419,Denison,Kansas ,JACKSON,20,085,KS 
+66416,Circleville,Kansas ,JACKSON,20,085,KS 
+66422,Emmett,Kansas ,POTTAWATOMIE,20,149,KS 
+66424,Everest,Kansas ,BROWN,20,013,KS 
+66426,Fostoria,Kansas ,POTTAWATOMIE,20,149,KS 
+66423,Eskridge,Kansas ,WABAUNSEE,20,197,KS 
+66428,Goff,Kansas ,NEMAHA,20,131,KS 
+66425,Fairview,Kansas ,BROWN,20,013,KS 
+66427,Frankfort,Kansas ,MARSHALL,20,117,KS 
+66429,Grantville,Kansas ,JEFFERSON,20,087,KS 
+66431,Harveyville,Kansas ,WABAUNSEE,20,197,KS 
+66432,Havensville,Kansas ,POTTAWATOMIE,20,149,KS 
+66440,Hoyt,Kansas ,JACKSON,20,085,KS 
+66436,Holton,Kansas ,JACKSON,20,085,KS 
+66438,Home,Kansas ,MARSHALL,20,117,KS 
+66439,Horton,Kansas ,BROWN,20,013,KS 
+66434,Hiawatha,Kansas ,BROWN,20,013,KS 
+66441,Junction City,Kansas ,GEARY,20,061,KS 
+66449,Leonardville,Kansas ,RILEY,20,161,KS 
+66442,Fort Riley,Kansas ,GEARY,20,061,KS 
+66502,Manhattan,Kansas ,RILEY,20,161,KS 
+66503,Manhattan,Kansas ,RILEY,20,161,KS 
+66506,Manhattan,Kansas ,RILEY,20,161,KS 
+66451,Lyndon,Kansas ,OSAGE,20,139,KS 
+66501,Mc Farland,Kansas ,WABAUNSEE,20,197,KS 
+66505,Manhattan,Kansas ,RILEY,20,161,KS 
+66508,Marysville,Kansas ,MARSHALL,20,117,KS 
+66507,Maple Hill,Kansas ,WABAUNSEE,20,197,KS 
+66509,Mayetta,Kansas ,JACKSON,20,085,KS 
+66512,Meriden,Kansas ,JEFFERSON,20,087,KS 
+66515,Morrill,Kansas ,BROWN,20,013,KS 
+66517,Ogden,Kansas ,RILEY,20,161,KS 
+66510,Melvern,Kansas ,OSAGE,20,139,KS 
+66516,Netawaka,Kansas ,JACKSON,20,085,KS 
+66518,Oketo,Kansas ,MARSHALL,20,117,KS 
+66514,Milford,Kansas ,GEARY,20,061,KS 
+66520,Olsburg,Kansas ,POTTAWATOMIE,20,149,KS 
+66521,Onaga,Kansas ,POTTAWATOMIE,20,149,KS 
+66522,Oneida,Kansas ,NEMAHA,20,131,KS 
+66526,Paxico,Kansas ,WABAUNSEE,20,197,KS 
+66528,Quenemo,Kansas ,OSAGE,20,139,KS 
+66527,Powhattan,Kansas ,BROWN,20,013,KS 
+66524,Overbrook,Kansas ,OSAGE,20,139,KS 
+66523,Osage City,Kansas ,OSAGE,20,139,KS 
+66531,Riley,Kansas ,RILEY,20,161,KS 
+66532,Robinson,Kansas ,BROWN,20,013,KS 
+66533,Rossville,Kansas ,SHAWNEE,20,177,KS 
+66537,Scranton,Kansas ,OSAGE,20,139,KS 
+66535,Saint George,Kansas ,POTTAWATOMIE,20,149,KS 
+66536,Saint Marys,Kansas ,POTTAWATOMIE,20,149,KS 
+66538,Seneca,Kansas ,NEMAHA,20,131,KS 
+66539,Silver Lake,Kansas ,SHAWNEE,20,177,KS 
+66540,Soldier,Kansas ,JACKSON,20,085,KS 
+66541,Summerfield,Kansas ,MARSHALL,20,117,KS 
+66534,Sabetha,Kansas ,NEMAHA,20,131,KS 
+66542,Tecumseh,Kansas ,SHAWNEE,20,177,KS 
+66544,Vermillion,Kansas ,MARSHALL,20,117,KS 
+66547,Wamego,Kansas ,POTTAWATOMIE,20,149,KS 
+66546,Wakarusa,Kansas ,SHAWNEE,20,177,KS 
+66543,Vassar,Kansas ,OSAGE,20,139,KS 
+66549,Westmoreland,Kansas ,POTTAWATOMIE,20,149,KS 
+66548,Waterville,Kansas ,MARSHALL,20,117,KS 
+66550,Wetmore,Kansas ,NEMAHA,20,131,KS 
+66552,Whiting,Kansas ,JACKSON,20,085,KS 
+66601,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66604,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66603,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66554,Randolph,Kansas ,RILEY,20,161,KS 
+66606,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66607,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66605,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66610,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66608,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66609,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66611,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66612,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66614,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66616,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66615,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66620,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66622,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66621,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66617,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66619,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66618,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66625,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66624,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66636,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66626,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66647,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66629,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66667,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66630,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66675,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66683,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66699,Topeka,Kansas ,SHAWNEE,20,177,KS 
+66701,Fort Scott,Kansas ,BOURBON,20,011,KS 
+66716,Bronson,Kansas ,BOURBON,20,011,KS 
+66710,Altoona,Kansas ,WILSON,20,205,KS 
+66712,Arma,Kansas ,CRAWFORD,20,037,KS 
+66714,Benedict,Kansas ,WILSON,20,205,KS 
+66711,Arcadia,Kansas ,CRAWFORD,20,037,KS 
+66713,Baxter Springs,Kansas ,CHEROKEE,20,021,KS 
+66717,Buffalo,Kansas ,WILSON,20,205,KS 
+66720,Chanute,Kansas ,NEOSHO,20,133,KS 
+66724,Cherokee,Kansas ,CRAWFORD,20,037,KS 
+66732,Elsmore,Kansas ,ALLEN,20,001,KS 
+66725,Columbus,Kansas ,CHEROKEE,20,021,KS 
+66728,Crestline,Kansas ,CHEROKEE,20,021,KS 
+66734,Farlington,Kansas ,CRAWFORD,20,037,KS 
+66735,Franklin,Kansas ,CRAWFORD,20,037,KS 
+66736,Fredonia,Kansas ,WILSON,20,205,KS 
+66733,Erie,Kansas ,NEOSHO,20,133,KS 
+66738,Fulton,Kansas ,BOURBON,20,011,KS 
+66742,Gas,Kansas ,ALLEN,20,001,KS 
+66741,Garland,Kansas ,BOURBON,20,011,KS 
+66740,Galesburg,Kansas ,NEOSHO,20,133,KS 
+66743,Girard,Kansas ,CRAWFORD,20,037,KS 
+66746,Hepler,Kansas ,CRAWFORD,20,037,KS 
+66739,Galena,Kansas ,CHEROKEE,20,021,KS 
+66748,Humboldt,Kansas ,ALLEN,20,001,KS 
+66749,Iola,Kansas ,ALLEN,20,001,KS 
+66751,La Harpe,Kansas ,ALLEN,20,001,KS 
+66755,Moran,Kansas ,ALLEN,20,001,KS 
+66756,Mulberry,Kansas ,CRAWFORD,20,037,KS 
+66753,Mc Cune,Kansas ,CRAWFORD,20,037,KS 
+66754,Mapleton,Kansas ,BOURBON,20,011,KS 
+66757,Neodesha,Kansas ,WILSON,20,205,KS 
+66760,Opolis,Kansas ,CRAWFORD,20,037,KS 
+66758,Neosho Falls,Kansas ,COFFEY,20,031,KS 
+66762,Pittsburg,Kansas ,CRAWFORD,20,037,KS 
+66761,Piqua,Kansas ,WOODSON,20,207,KS 
+66772,Savonburg,Kansas ,ALLEN,20,001,KS 
+66770,Riverton,Kansas ,CHEROKEE,20,021,KS 
+66771,Saint Paul,Kansas ,NEOSHO,20,133,KS 
+66767,Prescott,Kansas ,LINN,20,107,KS 
+66769,Redfield,Kansas ,BOURBON,20,011,KS 
+66763,Frontenac,Kansas ,CRAWFORD,20,037,KS 
+66773,Scammon,Kansas ,CHEROKEE,20,021,KS 
+66778,Treece,Kansas ,CHEROKEE,20,021,KS 
+66776,Thayer,Kansas ,NEOSHO,20,133,KS 
+66775,Stark,Kansas ,NEOSHO,20,133,KS 
+66780,Walnut,Kansas ,CRAWFORD,20,037,KS 
+66779,Uniontown,Kansas ,BOURBON,20,011,KS 
+66781,Weir,Kansas ,CHEROKEE,20,021,KS 
+66777,Toronto,Kansas ,WOODSON,20,207,KS 
+66782,West Mineral,Kansas ,CHEROKEE,20,021,KS 
+66783,Yates Center,Kansas ,WOODSON,20,207,KS 
+66830,Admire,Kansas ,LYON,20,111,KS 
+66801,Emporia,Kansas ,LYON,20,111,KS 
+66834,Alta Vista,Kansas ,WABAUNSEE,20,197,KS 
+66835,Americus,Kansas ,LYON,20,111,KS 
+66838,Burdick,Kansas ,MORRIS,20,127,KS 
+66833,Allen,Kansas ,LYON,20,111,KS 
+66839,Burlington,Kansas ,COFFEY,20,031,KS 
+66840,Burns,Kansas ,MARION,20,115,KS 
+66842,Cassoday,Kansas ,BUTLER,20,015,KS 
+66843,Cedar Point,Kansas ,CHASE,20,017,KS 
+66849,Dwight,Kansas ,MORRIS,20,127,KS 
+66846,Council Grove,Kansas ,MORRIS,20,127,KS 
+66845,Cottonwood Falls,Kansas ,CHASE,20,017,KS 
+66851,Florence,Kansas ,MARION,20,115,KS 
+66850,Elmdale,Kansas ,CHASE,20,017,KS 
+66852,Gridley,Kansas ,COFFEY,20,031,KS 
+66853,Hamilton,Kansas ,GREENWOOD,20,073,KS 
+66854,Hartford,Kansas ,LYON,20,111,KS 
+66856,Lebo,Kansas ,COFFEY,20,031,KS 
+66855,Lamont,Kansas ,GREENWOOD,20,073,KS 
+66857,Le Roy,Kansas ,COFFEY,20,031,KS 
+66858,Lincolnville,Kansas ,MARION,20,115,KS 
+66860,Madison,Kansas ,GREENWOOD,20,073,KS 
+66859,Lost Springs,Kansas ,MARION,20,115,KS 
+66861,Marion,Kansas ,MARION,20,115,KS 
+66862,Matfield Green,Kansas ,CHASE,20,017,KS 
+66863,Neal,Kansas ,GREENWOOD,20,073,KS 
+66864,Neosho Rapids,Kansas ,LYON,20,111,KS 
+66865,Olpe,Kansas ,LYON,20,111,KS 
+66868,Reading,Kansas ,LYON,20,111,KS 
+66869,Strong City,Kansas ,CHASE,20,017,KS 
+66866,Peabody,Kansas ,MARION,20,115,KS 
+66870,Virgil,Kansas ,GREENWOOD,20,073,KS 
+66871,Waverly,Kansas ,COFFEY,20,031,KS 
+66872,White City,Kansas ,MORRIS,20,127,KS 
+66901,Concordia,Kansas ,CLOUD,20,029,KS 
+66873,Wilsey,Kansas ,MORRIS,20,127,KS 
+66930,Agenda,Kansas ,REPUBLIC,20,157,KS 
+66932,Athol,Kansas ,SMITH,20,183,KS 
+66933,Barnes,Kansas ,WASHINGTON,20,201,KS 
+66935,Belleville,Kansas ,REPUBLIC,20,157,KS 
+66936,Burr Oak,Kansas ,JEWELL,20,089,KS 
+66937,Clifton,Kansas ,WASHINGTON,20,201,KS 
+66939,Courtland,Kansas ,REPUBLIC,20,157,KS 
+66938,Clyde,Kansas ,CLOUD,20,029,KS 
+66942,Formoso,Kansas ,JEWELL,20,089,KS 
+66940,Cuba,Kansas ,REPUBLIC,20,157,KS 
+66941,Esbon,Kansas ,JEWELL,20,089,KS 
+66943,Greenleaf,Kansas ,WASHINGTON,20,201,KS 
+66944,Haddam,Kansas ,WASHINGTON,20,201,KS 
+66945,Hanover,Kansas ,WASHINGTON,20,201,KS 
+66948,Jamestown,Kansas ,CLOUD,20,029,KS 
+66946,Hollenberg,Kansas ,WASHINGTON,20,201,KS 
+66949,Jewell,Kansas ,JEWELL,20,089,KS 
+66951,Kensington,Kansas ,SMITH,20,183,KS 
+66952,Lebanon,Kansas ,SMITH,20,183,KS 
+66955,Mahaska,Kansas ,WASHINGTON,20,201,KS 
+66953,Linn,Kansas ,WASHINGTON,20,201,KS 
+66956,Mankato,Kansas ,JEWELL,20,089,KS 
+66958,Morrowville,Kansas ,WASHINGTON,20,201,KS 
+66959,Munden,Kansas ,REPUBLIC,20,157,KS 
+66962,Palmer,Kansas ,WASHINGTON,20,201,KS 
+66964,Republic,Kansas ,REPUBLIC,20,157,KS 
+66960,Narka,Kansas ,REPUBLIC,20,157,KS 
+66961,Norway,Kansas ,REPUBLIC,20,157,KS 
+66966,Scandia,Kansas ,REPUBLIC,20,157,KS 
+66963,Randall,Kansas ,JEWELL,20,089,KS 
+66967,Smith Center,Kansas ,SMITH,20,183,KS 
+66968,Washington,Kansas ,WASHINGTON,20,201,KS 
+66970,Webber,Kansas ,JEWELL,20,089,KS 
+67002,Andover,Kansas ,BUTLER,20,015,KS 
+67004,Argonia,Kansas ,SUMNER,20,191,KS 
+67005,Arkansas City,Kansas ,COWLEY,20,035,KS 
+67001,Andale,Kansas ,SEDGWICK,20,173,KS 
+67008,Atlanta,Kansas ,COWLEY,20,035,KS 
+67009,Attica,Kansas ,HARPER,20,077,KS 
+67003,Anthony,Kansas ,HARPER,20,077,KS 
+67017,Benton,Kansas ,BUTLER,20,015,KS 
+67012,Beaumont,Kansas ,BUTLER,20,015,KS 
+67010,Augusta,Kansas ,BUTLER,20,015,KS 
+67013,Belle Plaine,Kansas ,SUMNER,20,191,KS 
+67016,Bentley,Kansas ,SEDGWICK,20,173,KS 
+67018,Bluff City,Kansas ,HARPER,20,077,KS 
+67019,Burden,Kansas ,COWLEY,20,035,KS 
+67020,Burrton,Kansas ,HARVEY,20,079,KS 
+67022,Caldwell,Kansas ,SUMNER,20,191,KS 
+67021,Byers,Kansas ,PRATT,20,151,KS 
+67026,Clearwater,Kansas ,SEDGWICK,20,173,KS 
+67024,Cedar Vale,Kansas ,CHAUTAUQUA,20,019,KS 
+67023,Cambridge,Kansas ,COWLEY,20,035,KS 
+67025,Cheney,Kansas ,SEDGWICK,20,173,KS 
+67028,Coats,Kansas ,PRATT,20,151,KS 
+67029,Coldwater,Kansas ,COMANCHE,20,033,KS 
+67030,Colwich,Kansas ,SEDGWICK,20,173,KS 
+67031,Conway Springs,Kansas ,SUMNER,20,191,KS 
+67036,Danville,Kansas ,HARPER,20,077,KS 
+67037,Derby,Kansas ,SEDGWICK,20,173,KS 
+67035,Cunningham,Kansas ,KINGMAN,20,095,KS 
+67038,Dexter,Kansas ,COWLEY,20,035,KS 
+67042,El Dorado,Kansas ,BUTLER,20,015,KS 
+67039,Douglass,Kansas ,BUTLER,20,015,KS 
+67041,Elbing,Kansas ,BUTLER,20,015,KS 
+67045,Eureka,Kansas ,GREENWOOD,20,073,KS 
+67051,Geuda Springs,Kansas ,SUMNER,20,191,KS 
+67049,Freeport,Kansas ,HARPER,20,077,KS 
+67050,Garden Plain,Kansas ,SEDGWICK,20,173,KS 
+67047,Fall River,Kansas ,GREENWOOD,20,073,KS 
+67052,Goddard,Kansas ,SEDGWICK,20,173,KS 
+67054,Greensburg,Kansas ,KIOWA,20,097,KS 
+67053,Goessel,Kansas ,MARION,20,115,KS 
+67056,Halstead,Kansas ,HARVEY,20,079,KS 
+67055,Greenwich,Kansas ,SEDGWICK,20,173,KS 
+67057,Hardtner,Kansas ,BARBER,20,007,KS 
+67058,Harper,Kansas ,HARPER,20,077,KS 
+67060,Haysville,Kansas ,SEDGWICK,20,173,KS 
+67059,Haviland,Kansas ,KIOWA,20,097,KS 
+67061,Hazelton,Kansas ,BARBER,20,007,KS 
+67062,Hesston,Kansas ,HARVEY,20,079,KS 
+67071,Lake City,Kansas ,BARBER,20,007,KS 
+67063,Hillsboro,Kansas ,MARION,20,115,KS 
+67066,Iuka,Kansas ,PRATT,20,151,KS 
+67065,Isabel,Kansas ,BARBER,20,007,KS 
+67072,Latham,Kansas ,BUTLER,20,015,KS 
+67068,Kingman,Kansas ,KINGMAN,20,095,KS 
+67070,Kiowa,Kansas ,BARBER,20,007,KS 
+67067,Kechi,Kansas ,SEDGWICK,20,173,KS 
+67102,Maple City,Kansas ,COWLEY,20,035,KS 
+67074,Leon,Kansas ,BUTLER,20,015,KS 
+67073,Lehigh,Kansas ,MARION,20,115,KS 
+67106,Milton,Kansas ,SUMNER,20,191,KS 
+67101,Maize,Kansas ,SEDGWICK,20,173,KS 
+67103,Mayfield,Kansas ,SUMNER,20,191,KS 
+67105,Milan,Kansas ,SUMNER,20,191,KS 
+67104,Medicine Lodge,Kansas ,BARBER,20,007,KS 
+67109,Mullinville,Kansas ,KIOWA,20,097,KS 
+67107,Moundridge,Kansas ,MCPHERSON,20,113,KS 
+67108,Mount Hope,Kansas ,SEDGWICK,20,173,KS 
+67112,Nashville,Kansas ,KINGMAN,20,095,KS 
+67110,Mulvane,Kansas ,SEDGWICK,20,173,KS 
+67117,North Newton,Kansas ,HARVEY,20,079,KS 
+67114,Newton,Kansas ,HARVEY,20,079,KS 
+67111,Murdock,Kansas ,KINGMAN,20,095,KS 
+67118,Norwich,Kansas ,KINGMAN,20,095,KS 
+67120,Peck,Kansas ,SUMNER,20,191,KS 
+67122,Piedmont,Kansas ,GREENWOOD,20,073,KS 
+67119,Oxford,Kansas ,SUMNER,20,191,KS 
+67123,Potwin,Kansas ,BUTLER,20,015,KS 
+67124,Pratt,Kansas ,PRATT,20,151,KS 
+67127,Protection,Kansas ,COMANCHE,20,033,KS 
+67131,Rock,Kansas ,COWLEY,20,035,KS 
+67132,Rosalia,Kansas ,BUTLER,20,015,KS 
+67133,Rose Hill,Kansas ,BUTLER,20,015,KS 
+67134,Sawyer,Kansas ,PRATT,20,151,KS 
+67135,Sedgwick,Kansas ,HARVEY,20,079,KS 
+67137,Severy,Kansas ,GREENWOOD,20,073,KS 
+67138,Sharon,Kansas ,BARBER,20,007,KS 
+67142,Spivey,Kansas ,KINGMAN,20,095,KS 
+67140,South Haven,Kansas ,SUMNER,20,191,KS 
+67143,Sun City,Kansas ,BARBER,20,007,KS 
+67144,Towanda,Kansas ,BUTLER,20,015,KS 
+67146,Udall,Kansas ,COWLEY,20,035,KS 
+67147,Valley Center,Kansas ,SEDGWICK,20,173,KS 
+67149,Viola,Kansas ,SEDGWICK,20,173,KS 
+67154,Whitewater,Kansas ,BUTLER,20,015,KS 
+67150,Waldron,Kansas ,HARPER,20,077,KS 
+67151,Walton,Kansas ,HARVEY,20,079,KS 
+67152,Wellington,Kansas ,SUMNER,20,191,KS 
+67155,Wilmore,Kansas ,COMANCHE,20,033,KS 
+67156,Winfield,Kansas ,COWLEY,20,035,KS 
+67159,Zenda,Kansas ,KINGMAN,20,095,KS 
+67201,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67205,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67204,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67203,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67202,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67206,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67208,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67207,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67209,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67212,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67214,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67213,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67211,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67210,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67215,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67217,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67216,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67219,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67218,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67221,Mcconnell AFB,Kansas ,SEDGWICK,20,173,KS 
+67223,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67226,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67227,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67228,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67230,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67220,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67260,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67235,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67232,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67275,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67277,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67276,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67278,Wichita,Kansas ,SEDGWICK,20,173,KS 
+67301,Independence,Kansas ,MONTGOMERY,20,125,KS 
+67330,Altamont,Kansas ,LABETTE,20,099,KS 
+67332,Bartlett,Kansas ,LABETTE,20,099,KS 
+67333,Caney,Kansas ,MONTGOMERY,20,125,KS 
+67336,Chetopa,Kansas ,LABETTE,20,099,KS 
+67334,Chautauqua,Kansas ,CHAUTAUQUA,20,019,KS 
+67340,Dearing,Kansas ,MONTGOMERY,20,125,KS 
+67335,Cherryvale,Kansas ,MONTGOMERY,20,125,KS 
+67337,Coffeyville,Kansas ,MONTGOMERY,20,125,KS 
+67342,Edna,Kansas ,LABETTE,20,099,KS 
+67344,Elk City,Kansas ,MONTGOMERY,20,125,KS 
+67341,Dennis,Kansas ,LABETTE,20,099,KS 
+67347,Havana,Kansas ,MONTGOMERY,20,125,KS 
+67345,Elk Falls,Kansas ,ELK,20,049,KS 
+67349,Howard,Kansas ,ELK,20,049,KS 
+67346,Grenola,Kansas ,ELK,20,049,KS 
+67351,Liberty,Kansas ,MONTGOMERY,20,125,KS 
+67352,Longton,Kansas ,ELK,20,049,KS 
+67354,Mound Valley,Kansas ,LABETTE,20,099,KS 
+67353,Moline,Kansas ,ELK,20,049,KS 
+67355,Niotaze,Kansas ,CHAUTAUQUA,20,019,KS 
+67356,Oswego,Kansas ,LABETTE,20,099,KS 
+67357,Parsons,Kansas ,LABETTE,20,099,KS 
+67361,Sedan,Kansas ,CHAUTAUQUA,20,019,KS 
+67360,Peru,Kansas ,CHAUTAUQUA,20,019,KS 
+67364,Tyro,Kansas ,MONTGOMERY,20,125,KS 
+67363,Sycamore,Kansas ,MONTGOMERY,20,125,KS 
+67401,Salina,Kansas ,SALINE,20,169,KS 
+67402,Salina,Kansas ,SALINE,20,169,KS 
+67410,Abilene,Kansas ,DICKINSON,20,041,KS 
+67416,Assaria,Kansas ,SALINE,20,169,KS 
+67422,Bennington,Kansas ,OTTAWA,20,143,KS 
+67418,Barnard,Kansas ,LINCOLN,20,105,KS 
+67423,Beverly,Kansas ,LINCOLN,20,105,KS 
+67420,Beloit,Kansas ,MITCHELL,20,123,KS 
+67417,Aurora,Kansas ,CLOUD,20,029,KS 
+67425,Brookville,Kansas ,SALINE,20,169,KS 
+67427,Bushton,Kansas ,RICE,20,159,KS 
+67428,Canton,Kansas ,MCPHERSON,20,113,KS 
+67436,Delphos,Kansas ,OTTAWA,20,143,KS 
+67431,Chapman,Kansas ,DICKINSON,20,041,KS 
+67430,Cawker City,Kansas ,MITCHELL,20,123,KS 
+67437,Downs,Kansas ,OSBORNE,20,141,KS 
+67432,Clay Center,Kansas ,CLAY,20,027,KS 
+67438,Durham,Kansas ,MARION,20,115,KS 
+67441,Enterprise,Kansas ,DICKINSON,20,041,KS 
+67439,Ellsworth,Kansas ,ELLSWORTH,20,053,KS 
+67442,Falun,Kansas ,SALINE,20,169,KS 
+67444,Geneseo,Kansas ,RICE,20,159,KS 
+67445,Glasco,Kansas ,CLOUD,20,029,KS 
+67443,Galva,Kansas ,MCPHERSON,20,113,KS 
+67447,Green,Kansas ,CLAY,20,027,KS 
+67446,Glen Elder,Kansas ,MITCHELL,20,123,KS 
+67448,Gypsum,Kansas ,SALINE,20,169,KS 
+67449,Herington,Kansas ,DICKINSON,20,041,KS 
+67450,Holyrood,Kansas ,ELLSWORTH,20,053,KS 
+67452,Hunter,Kansas ,MITCHELL,20,123,KS 
+67451,Hope,Kansas ,DICKINSON,20,041,KS 
+67457,Little River,Kansas ,RICE,20,159,KS 
+67454,Kanopolis,Kansas ,ELLSWORTH,20,053,KS 
+67455,Lincoln,Kansas ,LINCOLN,20,105,KS 
+67456,Lindsborg,Kansas ,MCPHERSON,20,113,KS 
+67458,Longford,Kansas ,CLAY,20,027,KS 
+67459,Lorraine,Kansas ,ELLSWORTH,20,053,KS 
+67460,Mcpherson,Kansas ,MCPHERSON,20,113,KS 
+67467,Minneapolis,Kansas ,OTTAWA,20,143,KS 
+67466,Miltonvale,Kansas ,CLOUD,20,029,KS 
+67468,Morganville,Kansas ,CLAY,20,027,KS 
+67473,Osborne,Kansas ,OSBORNE,20,141,KS 
+67470,New Cambria,Kansas ,SALINE,20,169,KS 
+67464,Marquette,Kansas ,MCPHERSON,20,113,KS 
+67474,Portis,Kansas ,OSBORNE,20,141,KS 
+67475,Ramona,Kansas ,MARION,20,115,KS 
+67483,Tampa,Kansas ,MARION,20,115,KS 
+67476,Roxbury,Kansas ,MCPHERSON,20,113,KS 
+67480,Solomon,Kansas ,DICKINSON,20,041,KS 
+67484,Tescott,Kansas ,OTTAWA,20,143,KS 
+67481,Sylvan Grove,Kansas ,LINCOLN,20,105,KS 
+67482,Talmage,Kansas ,DICKINSON,20,041,KS 
+67478,Simpson,Kansas ,MITCHELL,20,123,KS 
+67485,Tipton,Kansas ,MITCHELL,20,123,KS 
+67487,Wakefield,Kansas ,CLAY,20,027,KS 
+67492,Woodbine,Kansas ,DICKINSON,20,041,KS 
+67502,Hutchinson,Kansas ,RENO,20,155,KS 
+67491,Windom,Kansas ,MCPHERSON,20,113,KS 
+67490,Wilson,Kansas ,ELLSWORTH,20,053,KS 
+67504,Hutchinson,Kansas ,RENO,20,155,KS 
+67501,Hutchinson,Kansas ,RENO,20,155,KS 
+67505,South Hutchinson,Kansas ,RENO,20,155,KS 
+67510,Abbyville,Kansas ,RENO,20,155,KS 
+67511,Albert,Kansas ,BARTON,20,009,KS 
+67512,Alden,Kansas ,RICE,20,159,KS 
+67513,Alexander,Kansas ,RUSH,20,165,KS 
+67514,Arlington,Kansas ,RENO,20,155,KS 
+67516,Bazine,Kansas ,NESS,20,135,KS 
+67515,Arnold,Kansas ,NESS,20,135,KS 
+67518,Beeler,Kansas ,NESS,20,135,KS 
+67519,Belpre,Kansas ,EDWARDS,20,047,KS 
+67520,Bison,Kansas ,RUSH,20,165,KS 
+67521,Brownell,Kansas ,NESS,20,135,KS 
+67525,Claflin,Kansas ,BARTON,20,009,KS 
+67522,Buhler,Kansas ,RENO,20,155,KS 
+67523,Burdett,Kansas ,PAWNEE,20,145,KS 
+67524,Chase,Kansas ,RICE,20,159,KS 
+67526,Ellinwood,Kansas ,BARTON,20,009,KS 
+67529,Garfield,Kansas ,PAWNEE,20,145,KS 
+67543,Haven,Kansas ,RENO,20,155,KS 
+67530,Great Bend,Kansas ,BARTON,20,009,KS 
+67544,Hoisington,Kansas ,BARTON,20,009,KS 
+67547,Kinsley,Kansas ,EDWARDS,20,047,KS 
+67545,Hudson,Kansas ,STAFFORD,20,185,KS 
+67546,Inman,Kansas ,MCPHERSON,20,113,KS 
+67552,Lewis,Kansas ,EDWARDS,20,047,KS 
+67548,La Crosse,Kansas ,RUSH,20,165,KS 
+67553,Liebenthal,Kansas ,RUSH,20,165,KS 
+67550,Larned,Kansas ,PAWNEE,20,145,KS 
+67556,Mc Cracken,Kansas ,RUSH,20,165,KS 
+67554,Lyons,Kansas ,RICE,20,159,KS 
+67557,Macksville,Kansas ,STAFFORD,20,185,KS 
+67559,Nekoma,Kansas ,RUSH,20,165,KS 
+67560,Ness City,Kansas ,NESS,20,135,KS 
+67561,Nickerson,Kansas ,RENO,20,155,KS 
+67564,Olmitz,Kansas ,BARTON,20,009,KS 
+67563,Offerle,Kansas ,EDWARDS,20,047,KS 
+67567,Pawnee Rock,Kansas ,BARTON,20,009,KS 
+67565,Otis,Kansas ,RUSH,20,165,KS 
+67568,Plevna,Kansas ,RENO,20,155,KS 
+67566,Partridge,Kansas ,RENO,20,155,KS 
+67574,Rozel,Kansas ,PAWNEE,20,145,KS 
+67573,Raymond,Kansas ,RICE,20,159,KS 
+67570,Pretty Prairie,Kansas ,RENO,20,155,KS 
+67572,Ransom,Kansas ,NESS,20,135,KS 
+67576,St John,Kansas ,STAFFORD,20,185,KS 
+67575,Rush Center,Kansas ,RUSH,20,165,KS 
+67579,Sterling,Kansas ,RICE,20,159,KS 
+67584,Utica,Kansas ,NESS,20,135,KS 
+67583,Turon,Kansas ,RENO,20,155,KS 
+67581,Sylvia,Kansas ,RENO,20,155,KS 
+67585,Yoder,Kansas ,RENO,20,155,KS 
+67601,Hays,Kansas ,ELLIS,20,051,KS 
+67621,Agra,Kansas ,PHILLIPS,20,147,KS 
+67578,Stafford,Kansas ,STAFFORD,20,185,KS 
+67622,Almena,Kansas ,NORTON,20,137,KS 
+67626,Bunker Hill,Kansas ,RUSSELL,20,167,KS 
+67627,Catharine,Kansas ,ELLIS,20,051,KS 
+67623,Alton,Kansas ,OSBORNE,20,141,KS 
+67625,Bogue,Kansas ,GRAHAM,20,065,KS 
+67632,Damar,Kansas ,ROOKS,20,163,KS 
+67628,Cedar,Kansas ,SMITH,20,183,KS 
+67631,Collyer,Kansas ,TREGO,20,195,KS 
+67629,Clayton,Kansas ,NORTON,20,137,KS 
+67634,Dorrance,Kansas ,RUSSELL,20,167,KS 
+67637,Ellis,Kansas ,ELLIS,20,051,KS 
+67642,Hill City,Kansas ,GRAHAM,20,065,KS 
+67640,Gorham,Kansas ,RUSSELL,20,167,KS 
+67639,Glade,Kansas ,PHILLIPS,20,147,KS 
+67638,Gaylord,Kansas ,SMITH,20,183,KS 
+67643,Jennings,Kansas ,DECATUR,20,039,KS 
+67635,Dresden,Kansas ,DECATUR,20,039,KS 
+67644,Kirwin,Kansas ,PHILLIPS,20,147,KS 
+67645,Lenora,Kansas ,NORTON,20,137,KS 
+67651,Natoma,Kansas ,OSBORNE,20,141,KS 
+67650,Morland,Kansas ,GRAHAM,20,065,KS 
+67648,Lucas,Kansas ,RUSSELL,20,167,KS 
+67649,Luray,Kansas ,RUSSELL,20,167,KS 
+67646,Logan,Kansas ,PHILLIPS,20,147,KS 
+67647,Long Island,Kansas ,PHILLIPS,20,147,KS 
+67653,Norcatur,Kansas ,DECATUR,20,039,KS 
+67654,Norton,Kansas ,NORTON,20,137,KS 
+67660,Pfeifer,Kansas ,ELLIS,20,051,KS 
+67657,Palco,Kansas ,ROOKS,20,163,KS 
+67659,Penokee,Kansas ,GRAHAM,20,065,KS 
+67658,Paradise,Kansas ,RUSSELL,20,167,KS 
+67661,Phillipsburg,Kansas ,PHILLIPS,20,147,KS 
+67656,Ogallah,Kansas ,TREGO,20,195,KS 
+67663,Plainville,Kansas ,ROOKS,20,163,KS 
+67664,Prairie View,Kansas ,PHILLIPS,20,147,KS 
+67665,Russell,Kansas ,RUSSELL,20,167,KS 
+67672,Wakeeney,Kansas ,TREGO,20,195,KS 
+67667,Schoenchen,Kansas ,ELLIS,20,051,KS 
+67674,Walker,Kansas ,ELLIS,20,051,KS 
+67671,Victoria,Kansas ,ELLIS,20,051,KS 
+67673,Waldo,Kansas ,RUSSELL,20,167,KS 
+67669,Stockton,Kansas ,ROOKS,20,163,KS 
+67675,Woodston,Kansas ,ROOKS,20,163,KS 
+67701,Colby,Kansas ,THOMAS,20,193,KS 
+67730,Atwood,Kansas ,RAWLINS,20,153,KS 
+67733,Edson,Kansas ,SHERMAN,20,181,KS 
+67731,Bird City,Kansas ,CHEYENNE,20,023,KS 
+67732,Brewster,Kansas ,THOMAS,20,193,KS 
+67735,Goodland,Kansas ,SHERMAN,20,181,KS 
+67734,Gem,Kansas ,THOMAS,20,193,KS 
+67736,Gove,Kansas ,GOVE,20,063,KS 
+67737,Grainfield,Kansas ,GOVE,20,063,KS 
+67741,Kanorado,Kansas ,SHERMAN,20,181,KS 
+67740,Hoxie,Kansas ,SHERIDAN,20,179,KS 
+67738,Grinnell,Kansas ,GOVE,20,063,KS 
+67744,Ludell,Kansas ,RAWLINS,20,153,KS 
+67743,Levant,Kansas ,THOMAS,20,193,KS 
+67739,Herndon,Kansas ,RAWLINS,20,153,KS 
+67745,Mc Donald,Kansas ,RAWLINS,20,153,KS 
+67747,Monument,Kansas ,LOGAN,20,109,KS 
+67752,Quinter,Kansas ,GOVE,20,063,KS 
+67757,Selden,Kansas ,SHERIDAN,20,179,KS 
+67749,Oberlin,Kansas ,DECATUR,20,039,KS 
+67756,Saint Francis,Kansas ,CHEYENNE,20,023,KS 
+67753,Rexford,Kansas ,THOMAS,20,193,KS 
+67751,Park,Kansas ,GOVE,20,063,KS 
+67748,Oakley,Kansas ,LOGAN,20,109,KS 
+67758,Sharon Springs,Kansas ,WALLACE,20,199,KS 
+67761,Wallace,Kansas ,WALLACE,20,199,KS 
+67762,Weskan,Kansas ,WALLACE,20,199,KS 
+67764,Winona,Kansas ,LOGAN,20,109,KS 
+67831,Ashland,Kansas ,CLARK,20,025,KS 
+67835,Cimarron,Kansas ,GRAY,20,069,KS 
+67834,Bucklin,Kansas ,FORD,20,057,KS 
+67801,Dodge City,Kansas ,FORD,20,057,KS 
+67836,Coolidge,Kansas ,HAMILTON,20,075,KS 
+67837,Copeland,Kansas ,GRAY,20,069,KS 
+67838,Deerfield,Kansas ,KEARNY,20,093,KS 
+67842,Ford,Kansas ,FORD,20,057,KS 
+67840,Englewood,Kansas ,CLARK,20,025,KS 
+67843,Fort Dodge,Kansas ,FORD,20,057,KS 
+67839,Dighton,Kansas ,LANE,20,101,KS 
+67844,Fowler,Kansas ,MEADE,20,119,KS 
+67841,Ensign,Kansas ,GRAY,20,069,KS 
+67846,Garden City,Kansas ,FINNEY,20,055,KS 
+67849,Hanston,Kansas ,HODGEMAN,20,083,KS 
+67850,Healy,Kansas ,LANE,20,101,KS 
+67853,Ingalls,Kansas ,GRAY,20,069,KS 
+67857,Kendall,Kansas ,HAMILTON,20,075,KS 
+67851,Holcomb,Kansas ,FINNEY,20,055,KS 
+67855,Johnson,Kansas ,STANTON,20,187,KS 
+67854,Jetmore,Kansas ,HODGEMAN,20,083,KS 
+67859,Kismet,Kansas ,SEWARD,20,175,KS 
+67860,Lakin,Kansas ,KEARNY,20,093,KS 
+67862,Manter,Kansas ,STANTON,20,187,KS 
+67867,Montezuma,Kansas ,GRAY,20,069,KS 
+67861,Leoti,Kansas ,WICHITA,20,203,KS 
+67863,Marienthal,Kansas ,WICHITA,20,203,KS 
+67864,Meade,Kansas ,MEADE,20,119,KS 
+67865,Minneola,Kansas ,CLARK,20,025,KS 
+67868,Pierceville,Kansas ,FINNEY,20,055,KS 
+67869,Plains,Kansas ,MEADE,20,119,KS 
+67870,Satanta,Kansas ,HASKELL,20,081,KS 
+67877,Sublette,Kansas ,HASKELL,20,081,KS 
+67879,Tribune,Kansas ,GREELEY,20,071,KS 
+67878,Syracuse,Kansas ,HAMILTON,20,075,KS 
+67871,Scott City,Kansas ,SCOTT,20,171,KS 
+67876,Spearville,Kansas ,FORD,20,057,KS 
+67880,Ulysses,Kansas ,GRANT,20,067,KS 
+67882,Wright,Kansas ,FORD,20,057,KS 
+67901,Liberal,Kansas ,SEWARD,20,175,KS 
+67953,Richfield,Kansas ,MORTON,20,129,KS 
+67905,Liberal,Kansas ,SEWARD,20,175,KS 
+67950,Elkhart,Kansas ,MORTON,20,129,KS 
+67951,Hugoton,Kansas ,STEVENS,20,189,KS 
+67952,Moscow,Kansas ,STEVENS,20,189,KS 
+67954,Rolla,Kansas ,MORTON,20,129,KS 

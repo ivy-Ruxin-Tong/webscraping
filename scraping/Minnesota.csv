@@ -1,0 +1,961 @@
+55001,Afton,Minnesota ,WASHINGTON,27,163,MN 
+55007,Brook Park,Minnesota ,PINE,27,115,MN 
+55005,Bethel,Minnesota ,ANOKA,27,003,MN 
+55003,Bayport,Minnesota ,WASHINGTON,27,163,MN 
+55010,Castle Rock,Minnesota ,DAKOTA,27,037,MN 
+55009,Cannon Falls,Minnesota ,GOODHUE,27,049,MN 
+55008,Cambridge,Minnesota ,ISANTI,27,059,MN 
+55006,Braham,Minnesota ,ISANTI,27,059,MN 
+55011,Cedar,Minnesota ,ANOKA,27,003,MN 
+55012,Center City,Minnesota ,CHISAGO,27,025,MN 
+55014,Circle Pines,Minnesota ,ANOKA,27,003,MN 
+55016,Cottage Grove,Minnesota ,WASHINGTON,27,163,MN 
+55019,Dundas,Minnesota ,RICE,27,131,MN 
+55013,Chisago City,Minnesota ,CHISAGO,27,025,MN 
+55018,Dennison,Minnesota ,GOODHUE,27,049,MN 
+55017,Dalbo,Minnesota ,ISANTI,27,059,MN 
+55029,Grandy,Minnesota ,ISANTI,27,059,MN 
+55025,Forest Lake,Minnesota ,WASHINGTON,27,163,MN 
+55026,Frontenac,Minnesota ,GOODHUE,27,049,MN 
+55024,Farmington,Minnesota ,DAKOTA,27,037,MN 
+55027,Goodhue,Minnesota ,GOODHUE,27,049,MN 
+55030,Grasston,Minnesota ,PINE,27,115,MN 
+55020,Elko New Market,Minnesota ,SCOTT,27,139,MN 
+55021,Faribault,Minnesota ,RICE,27,131,MN 
+55031,Hampton,Minnesota ,DAKOTA,27,037,MN 
+55032,Harris,Minnesota ,CHISAGO,27,025,MN 
+55040,Isanti,Minnesota ,ISANTI,27,059,MN 
+55041,Lake City,Minnesota ,WABASHA,27,157,MN 
+55036,Henriette,Minnesota ,PINE,27,115,MN 
+55033,Hastings,Minnesota ,DAKOTA,27,037,MN 
+55037,Hinckley,Minnesota ,PINE,27,115,MN 
+55038,Hugo,Minnesota ,WASHINGTON,27,163,MN 
+55042,Lake Elmo,Minnesota ,WASHINGTON,27,163,MN 
+55049,Medford,Minnesota ,STEELE,27,147,MN 
+55046,Lonsdale,Minnesota ,RICE,27,131,MN 
+55044,Lakeville,Minnesota ,DAKOTA,27,037,MN 
+55051,Mora,Minnesota ,KANABEC,27,065,MN 
+55045,Lindstrom,Minnesota ,CHISAGO,27,025,MN 
+55043,Lakeland,Minnesota ,WASHINGTON,27,163,MN 
+55052,Morristown,Minnesota ,RICE,27,131,MN 
+55047,Marine On Saint Croix,Minnesota ,WASHINGTON,27,163,MN 
+55055,Newport,Minnesota ,WASHINGTON,27,163,MN 
+55053,Nerstrand,Minnesota ,RICE,27,131,MN 
+55056,North Branch,Minnesota ,CHISAGO,27,025,MN 
+55060,Owatonna,Minnesota ,STEELE,27,147,MN 
+55054,Elko New Market,Minnesota ,SCOTT,27,139,MN 
+55065,Randolph,Minnesota ,DAKOTA,27,037,MN 
+55063,Pine City,Minnesota ,PINE,27,115,MN 
+55057,Northfield,Minnesota ,RICE,27,131,MN 
+55073,Scandia,Minnesota ,WASHINGTON,27,163,MN 
+55069,Rush City,Minnesota ,CHISAGO,27,025,MN 
+55066,Red Wing,Minnesota ,GOODHUE,27,049,MN 
+55070,Saint Francis,Minnesota ,ANOKA,27,003,MN 
+55067,Rock Creek,Minnesota ,PINE,27,115,MN 
+55068,Rosemount,Minnesota ,DAKOTA,27,037,MN 
+55072,Sandstone,Minnesota ,PINE,27,115,MN 
+55071,Saint Paul Park,Minnesota ,WASHINGTON,27,163,MN 
+55074,Shafer,Minnesota ,CHISAGO,27,025,MN 
+55075,South Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55076,Inver Grove Heights,Minnesota ,DAKOTA,27,037,MN 
+55079,Stacy,Minnesota ,CHISAGO,27,025,MN 
+55078,Stacy,Minnesota ,CHISAGO,27,025,MN 
+55082,Stillwater,Minnesota ,WASHINGTON,27,163,MN 
+55077,Inver Grove Heights,Minnesota ,DAKOTA,27,037,MN 
+55080,Stanchfield,Minnesota ,ISANTI,27,059,MN 
+55083,Stillwater,Minnesota ,WASHINGTON,27,163,MN 
+55085,Vermillion,Minnesota ,DAKOTA,27,037,MN 
+55084,Taylors Falls,Minnesota ,CHISAGO,27,025,MN 
+55088,Webster,Minnesota ,RICE,27,131,MN 
+55090,Willernie,Minnesota ,WASHINGTON,27,163,MN 
+55092,Wyoming,Minnesota ,CHISAGO,27,025,MN 
+55087,Warsaw,Minnesota ,RICE,27,131,MN 
+55089,Welch,Minnesota ,GOODHUE,27,049,MN 
+55101,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55102,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55106,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55107,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55103,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55108,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55105,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55104,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55109,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55110,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55111,Saint Paul,Minnesota ,HENNEPIN,27,053,MN 
+55112,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55115,Saint Paul,Minnesota ,WASHINGTON,27,163,MN 
+55113,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55114,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55116,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55117,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55118,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55120,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55119,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55121,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55125,Saint Paul,Minnesota ,WASHINGTON,27,163,MN 
+55122,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55124,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55123,Saint Paul,Minnesota ,DAKOTA,27,037,MN 
+55126,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55129,Saint Paul,Minnesota ,WASHINGTON,27,163,MN 
+55144,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55128,Saint Paul,Minnesota ,WASHINGTON,27,163,MN 
+55133,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55127,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55131,Saint Paul,Minnesota ,WASHINGTON,27,163,MN 
+55130,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55145,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55164,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55155,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55150,Mendota,Minnesota ,DAKOTA,27,037,MN 
+55303,Anoka,Minnesota ,ANOKA,27,003,MN 
+55146,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55302,Annandale,Minnesota ,WRIGHT,27,171,MN 
+55301,Albertville,Minnesota ,WRIGHT,27,171,MN 
+55304,Andover,Minnesota ,ANOKA,27,003,MN 
+55310,Bird Island,Minnesota ,RENVILLE,27,129,MN 
+55307,Arlington,Minnesota ,SIBLEY,27,143,MN 
+55309,Big Lake,Minnesota ,SHERBURNE,27,141,MN 
+55308,Becker,Minnesota ,SHERBURNE,27,141,MN 
+55306,Burnsville,Minnesota ,DAKOTA,27,037,MN 
+55305,Hopkins,Minnesota ,HENNEPIN,27,053,MN 
+55170,Saint Paul,Minnesota ,RAMSEY,27,123,MN 
+55311,Maple Grove,Minnesota ,HENNEPIN,27,053,MN 
+55313,Buffalo,Minnesota ,WRIGHT,27,171,MN 
+55312,Brownton,Minnesota ,MCLEOD,27,085,MN 
+55317,Chanhassen,Minnesota ,CARVER,27,019,MN 
+55315,Carver,Minnesota ,CARVER,27,019,MN 
+55314,Buffalo Lake,Minnesota ,RENVILLE,27,129,MN 
+55318,Chaska,Minnesota ,CARVER,27,019,MN 
+55319,Clear Lake,Minnesota ,SHERBURNE,27,141,MN 
+55321,Cokato,Minnesota ,WRIGHT,27,171,MN 
+55324,Darwin,Minnesota ,MEEKER,27,093,MN 
+55316,Champlin,Minnesota ,HENNEPIN,27,053,MN 
+55320,Clearwater,Minnesota ,WRIGHT,27,171,MN 
+55323,Crystal Bay,Minnesota ,HENNEPIN,27,053,MN 
+55322,Cologne,Minnesota ,CARVER,27,019,MN 
+55325,Dassel,Minnesota ,MEEKER,27,093,MN 
+55327,Dayton,Minnesota ,HENNEPIN,27,053,MN 
+55328,Delano,Minnesota ,WRIGHT,27,171,MN 
+55332,Fairfax,Minnesota ,RENVILLE,27,129,MN 
+55334,Gaylord,Minnesota ,SIBLEY,27,143,MN 
+55331,Excelsior,Minnesota ,HENNEPIN,27,053,MN 
+55329,Eden Valley,Minnesota ,MEEKER,27,093,MN 
+55335,Gibbon,Minnesota ,SIBLEY,27,143,MN 
+55333,Franklin,Minnesota ,RENVILLE,27,129,MN 
+55330,Elk River,Minnesota ,SHERBURNE,27,141,MN 
+55336,Glencoe,Minnesota ,MCLEOD,27,085,MN 
+55341,Hanover,Minnesota ,WRIGHT,27,171,MN 
+55338,Green Isle,Minnesota ,SIBLEY,27,143,MN 
+55339,Hamburg,Minnesota ,CARVER,27,019,MN 
+55343,Hopkins,Minnesota ,HENNEPIN,27,053,MN 
+55342,Hector,Minnesota ,RENVILLE,27,129,MN 
+55337,Burnsville,Minnesota ,DAKOTA,27,037,MN 
+55340,Hamel,Minnesota ,HENNEPIN,27,053,MN 
+55344,Eden Prairie,Minnesota ,HENNEPIN,27,053,MN 
+55347,Eden Prairie,Minnesota ,HENNEPIN,27,053,MN 
+55346,Eden Prairie,Minnesota ,HENNEPIN,27,053,MN 
+55352,Jordan,Minnesota ,SCOTT,27,139,MN 
+55350,Hutchinson,Minnesota ,MCLEOD,27,085,MN 
+55345,Minnetonka,Minnesota ,HENNEPIN,27,053,MN 
+55353,Kimball,Minnesota ,STEARNS,27,145,MN 
+55349,Howard Lake,Minnesota ,WRIGHT,27,171,MN 
+55354,Lester Prairie,Minnesota ,MCLEOD,27,085,MN 
+55355,Litchfield,Minnesota ,MEEKER,27,093,MN 
+55361,Minnetonka Beach,Minnesota ,HENNEPIN,27,053,MN 
+55362,Monticello,Minnesota ,WRIGHT,27,171,MN 
+55359,Maple Plain,Minnesota ,HENNEPIN,27,053,MN 
+55358,Maple Lake,Minnesota ,WRIGHT,27,171,MN 
+55360,Mayer,Minnesota ,CARVER,27,019,MN 
+55357,Loretto,Minnesota ,HENNEPIN,27,053,MN 
+55356,Long Lake,Minnesota ,HENNEPIN,27,053,MN 
+55366,New Auburn,Minnesota ,SIBLEY,27,143,MN 
+55364,Mound,Minnesota ,HENNEPIN,27,053,MN 
+55368,Norwood Young America,Minnesota ,CARVER,27,019,MN 
+55371,Princeton,Minnesota ,MILLE LACS,27,095,MN 
+55367,New Germany,Minnesota ,CARVER,27,019,MN 
+55370,Plato,Minnesota ,MCLEOD,27,085,MN 
+55369,Osseo,Minnesota ,HENNEPIN,27,053,MN 
+55363,Montrose,Minnesota ,WRIGHT,27,171,MN 
+55372,Prior Lake,Minnesota ,SCOTT,27,139,MN 
+55374,Rogers,Minnesota ,HENNEPIN,27,053,MN 
+55375,Saint Bonifacius,Minnesota ,HENNEPIN,27,053,MN 
+55378,Savage,Minnesota ,SCOTT,27,139,MN 
+55379,Shakopee,Minnesota ,SCOTT,27,139,MN 
+55377,Santiago,Minnesota ,SHERBURNE,27,141,MN 
+55376,Saint Michael,Minnesota ,WRIGHT,27,171,MN 
+55373,Rockford,Minnesota ,WRIGHT,27,171,MN 
+55381,Silver Lake,Minnesota ,MCLEOD,27,085,MN 
+55382,South Haven,Minnesota ,WRIGHT,27,171,MN 
+55388,Watertown,Minnesota ,CARVER,27,019,MN 
+55389,Watkins,Minnesota ,MEEKER,27,093,MN 
+55384,Spring Park,Minnesota ,HENNEPIN,27,053,MN 
+55385,Stewart,Minnesota ,MCLEOD,27,085,MN 
+55387,Waconia,Minnesota ,CARVER,27,019,MN 
+55386,Victoria,Minnesota ,CARVER,27,019,MN 
+55390,Waverly,Minnesota ,WRIGHT,27,171,MN 
+55391,Wayzata,Minnesota ,HENNEPIN,27,053,MN 
+55395,Winsted,Minnesota ,MCLEOD,27,085,MN 
+55396,Winthrop,Minnesota ,SIBLEY,27,143,MN 
+55397,Young America,Minnesota ,CARVER,27,019,MN 
+55398,Zimmerman,Minnesota ,SHERBURNE,27,141,MN 
+55401,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55402,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55403,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55404,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55405,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55406,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55407,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55409,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55412,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55410,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55411,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55408,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55413,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55414,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55420,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55416,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55419,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55415,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55417,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55418,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55421,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55425,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55422,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55424,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55423,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55428,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55426,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55427,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55429,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55432,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55434,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55430,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55433,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55436,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55431,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55436,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55435,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55437,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55440,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55438,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55444,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55441,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55439,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55442,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55443,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55445,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55446,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55447,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55454,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55448,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55449,Minneapolis,Minnesota ,ANOKA,27,003,MN 
+55450,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55455,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55458,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55459,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55472,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55474,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55480,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55478,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55470,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55467,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55479,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55483,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55484,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55485,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55487,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55569,Osseo,Minnesota ,HENNEPIN,27,053,MN 
+55572,Rockford,Minnesota ,HENNEPIN,27,053,MN 
+55554,Norwood,Minnesota ,CARVER,27,019,MN 
+55486,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55573,Young America,Minnesota ,HENNEPIN,27,053,MN 
+55488,Minneapolis,Minnesota ,HENNEPIN,27,053,MN 
+55575,Howard Lake,Minnesota ,HENNEPIN,27,053,MN 
+55592,Maple Plain,Minnesota ,WRIGHT,27,171,MN 
+55593,Maple Plain,Minnesota ,HENNEPIN,27,053,MN 
+55577,Rockford,Minnesota ,HENNEPIN,27,053,MN 
+55601,Beaver Bay,Minnesota ,LAKE,27,075,MN 
+55602,Brimson,Minnesota ,SAINT LOUIS,27,137,MN 
+55603,Finland,Minnesota ,LAKE,27,075,MN 
+55612,Lutsen,Minnesota ,COOK,27,031,MN 
+55607,Isabella,Minnesota ,LAKE,27,075,MN 
+55604,Grand Marais,Minnesota ,COOK,27,031,MN 
+55606,Hovland,Minnesota ,COOK,27,031,MN 
+55599,Loretto,Minnesota ,HENNEPIN,27,053,MN 
+55605,Grand Portage,Minnesota ,COOK,27,031,MN 
+55609,Knife River,Minnesota ,LAKE,27,075,MN 
+55613,Schroeder,Minnesota ,COOK,27,031,MN 
+55614,Silver Bay,Minnesota ,LAKE,27,075,MN 
+55703,Angora,Minnesota ,SAINT LOUIS,27,137,MN 
+55705,Aurora,Minnesota ,SAINT LOUIS,27,137,MN 
+55704,Askov,Minnesota ,PINE,27,115,MN 
+55702,Alborn,Minnesota ,SAINT LOUIS,27,137,MN 
+55615,Tofte,Minnesota ,COOK,27,031,MN 
+55616,Two Harbors,Minnesota ,LAKE,27,075,MN 
+55706,Babbitt,Minnesota ,SAINT LOUIS,27,137,MN 
+55707,Barnum,Minnesota ,CARLTON,27,017,MN 
+55709,Bovey,Minnesota ,ITASCA,27,061,MN 
+55708,Biwabik,Minnesota ,SAINT LOUIS,27,137,MN 
+55710,Britt,Minnesota ,SAINT LOUIS,27,137,MN 
+55711,Brookston,Minnesota ,SAINT LOUIS,27,137,MN 
+55712,Bruno,Minnesota ,PINE,27,115,MN 
+55716,Calumet,Minnesota ,ITASCA,27,061,MN 
+55713,Buhl,Minnesota ,SAINT LOUIS,27,137,MN 
+55717,Canyon,Minnesota ,SAINT LOUIS,27,137,MN 
+55718,Carlton,Minnesota ,CARLTON,27,017,MN 
+55720,Cloquet,Minnesota ,CARLTON,27,017,MN 
+55724,Cotton,Minnesota ,SAINT LOUIS,27,137,MN 
+55719,Chisholm,Minnesota ,SAINT LOUIS,27,137,MN 
+55721,Cohasset,Minnesota ,ITASCA,27,061,MN 
+55725,Crane Lake,Minnesota ,SAINT LOUIS,27,137,MN 
+55723,Cook,Minnesota ,SAINT LOUIS,27,137,MN 
+55722,Coleraine,Minnesota ,ITASCA,27,061,MN 
+55730,Grand Rapids,Minnesota ,ITASCA,27,061,MN 
+55726,Cromwell,Minnesota ,CARLTON,27,017,MN 
+55741,Gilbert,Minnesota ,SAINT LOUIS,27,137,MN 
+55732,Embarrass,Minnesota ,SAINT LOUIS,27,137,MN 
+55731,Ely,Minnesota ,SAINT LOUIS,27,137,MN 
+55735,Finlayson,Minnesota ,PINE,27,115,MN 
+55733,Esko,Minnesota ,CARLTON,27,017,MN 
+55738,Forbes,Minnesota ,SAINT LOUIS,27,137,MN 
+55736,Floodwood,Minnesota ,SAINT LOUIS,27,137,MN 
+55734,Eveleth,Minnesota ,SAINT LOUIS,27,137,MN 
+55742,Goodland,Minnesota ,ITASCA,27,061,MN 
+55746,Hibbing,Minnesota ,SAINT LOUIS,27,137,MN 
+55750,Hoyt Lakes,Minnesota ,SAINT LOUIS,27,137,MN 
+55751,Iron,Minnesota ,SAINT LOUIS,27,137,MN 
+55744,Grand Rapids,Minnesota ,ITASCA,27,061,MN 
+55745,Grand Rapids,Minnesota ,ITASCA,27,061,MN 
+55749,Holyoke,Minnesota ,CARLTON,27,017,MN 
+55748,Hill City,Minnesota ,AITKIN,27,001,MN 
+55756,Kerrick,Minnesota ,PINE,27,115,MN 
+55760,Mcgregor,Minnesota ,AITKIN,27,001,MN 
+55758,Kinney,Minnesota ,SAINT LOUIS,27,137,MN 
+55763,Makinen,Minnesota ,SAINT LOUIS,27,137,MN 
+55753,Keewatin,Minnesota ,ITASCA,27,061,MN 
+55752,Jacobson,Minnesota ,ITASCA,27,061,MN 
+55757,Kettle River,Minnesota ,CARLTON,27,017,MN 
+55764,Marble,Minnesota ,ITASCA,27,061,MN 
+55765,Meadowlands,Minnesota ,SAINT LOUIS,27,137,MN 
+55775,Pengilly,Minnesota ,ITASCA,27,061,MN 
+55768,Mountain Iron,Minnesota ,SAINT LOUIS,27,137,MN 
+55771,Orr,Minnesota ,SAINT LOUIS,27,137,MN 
+55772,Nett Lake,Minnesota ,SAINT LOUIS,27,137,MN 
+55769,Nashwauk,Minnesota ,ITASCA,27,061,MN 
+55767,Moose Lake,Minnesota ,CARLTON,27,017,MN 
+55766,Melrude,Minnesota ,SAINT LOUIS,27,137,MN 
+55777,Virginia,Minnesota ,SAINT LOUIS,27,137,MN 
+55782,Soudan,Minnesota ,SAINT LOUIS,27,137,MN 
+55781,Side Lake,Minnesota ,SAINT LOUIS,27,137,MN 
+55785,Swatara,Minnesota ,CASS,27,021,MN 
+55783,Sturgeon Lake,Minnesota ,PINE,27,115,MN 
+55779,Saginaw,Minnesota ,SAINT LOUIS,27,137,MN 
+55780,Sawyer,Minnesota ,CARLTON,27,017,MN 
+55784,Swan River,Minnesota ,ITASCA,27,061,MN 
+55786,Taconite,Minnesota ,ITASCA,27,061,MN 
+55793,Warba,Minnesota ,ITASCA,27,061,MN 
+55790,Tower,Minnesota ,SAINT LOUIS,27,137,MN 
+55792,Virginia,Minnesota ,SAINT LOUIS,27,137,MN 
+55796,Winton,Minnesota ,SAINT LOUIS,27,137,MN 
+55795,Willow River,Minnesota ,PINE,27,115,MN 
+55787,Tamarack,Minnesota ,AITKIN,27,001,MN 
+55791,Twig,Minnesota ,SAINT LOUIS,27,137,MN 
+55797,Wrenshall,Minnesota ,CARLTON,27,017,MN 
+55798,Wright,Minnesota ,CARLTON,27,017,MN 
+55804,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55802,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55801,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55805,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55806,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55803,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55807,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55810,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55808,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55811,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55816,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55815,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55812,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55814,Duluth,Minnesota ,SAINT LOUIS,27,137,MN 
+55901,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55902,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55904,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55909,Adams,Minnesota ,MOWER,27,099,MN 
+55905,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55906,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55912,Austin,Minnesota ,MOWER,27,099,MN 
+55910,Altura,Minnesota ,WINONA,27,169,MN 
+55917,Blooming Prairie,Minnesota ,STEELE,27,147,MN 
+55903,Rochester,Minnesota ,OLMSTED,27,109,MN 
+55919,Brownsville,Minnesota ,HOUSTON,27,055,MN 
+55918,Brownsdale,Minnesota ,MOWER,27,099,MN 
+55920,Byron,Minnesota ,OLMSTED,27,109,MN 
+55921,Caledonia,Minnesota ,HOUSTON,27,055,MN 
+55922,Canton,Minnesota ,FILLMORE,27,045,MN 
+55923,Chatfield,Minnesota ,FILLMORE,27,045,MN 
+55924,Claremont,Minnesota ,DODGE,27,039,MN 
+55925,Dakota,Minnesota ,WINONA,27,169,MN 
+55926,Dexter,Minnesota ,MOWER,27,099,MN 
+55927,Dodge Center,Minnesota ,DODGE,27,039,MN 
+55931,Eitzen,Minnesota ,HOUSTON,27,055,MN 
+55929,Dover,Minnesota ,OLMSTED,27,109,MN 
+55932,Elgin,Minnesota ,WABASHA,27,157,MN 
+55934,Eyota,Minnesota ,OLMSTED,27,109,MN 
+55933,Elkton,Minnesota ,MOWER,27,099,MN 
+55935,Fountain,Minnesota ,FILLMORE,27,045,MN 
+55939,Harmony,Minnesota ,FILLMORE,27,045,MN 
+55936,Grand Meadow,Minnesota ,MOWER,27,099,MN 
+55942,Homer,Minnesota ,WINONA,27,169,MN 
+55940,Hayfield,Minnesota ,DODGE,27,039,MN 
+55943,Houston,Minnesota ,HOUSTON,27,055,MN 
+55944,Kasson,Minnesota ,DODGE,27,039,MN 
+55941,Hokah,Minnesota ,HOUSTON,27,055,MN 
+55945,Kellogg,Minnesota ,WABASHA,27,157,MN 
+55947,La Crescent,Minnesota ,HOUSTON,27,055,MN 
+55946,Kenyon,Minnesota ,GOODHUE,27,049,MN 
+55949,Lanesboro,Minnesota ,FILLMORE,27,045,MN 
+55952,Lewiston,Minnesota ,WINONA,27,169,MN 
+55951,Le Roy,Minnesota ,MOWER,27,099,MN 
+55950,Lansing,Minnesota ,MOWER,27,099,MN 
+55954,Mabel,Minnesota ,FILLMORE,27,045,MN 
+55953,Lyle,Minnesota ,MOWER,27,099,MN 
+55956,Mazeppa,Minnesota ,WABASHA,27,157,MN 
+55955,Mantorville,Minnesota ,DODGE,27,039,MN 
+55957,Millville,Minnesota ,WABASHA,27,157,MN 
+55959,Minnesota City,Minnesota ,WINONA,27,169,MN 
+55961,Ostrander,Minnesota ,FILLMORE,27,045,MN 
+55960,Oronoco,Minnesota ,OLMSTED,27,109,MN 
+55963,Pine Island,Minnesota ,GOODHUE,27,049,MN 
+55964,Plainview,Minnesota ,WABASHA,27,157,MN 
+55962,Peterson,Minnesota ,FILLMORE,27,045,MN 
+55965,Preston,Minnesota ,FILLMORE,27,045,MN 
+55967,Racine,Minnesota ,MOWER,27,099,MN 
+55968,Reads Landing,Minnesota ,WABASHA,27,157,MN 
+55970,Rose Creek,Minnesota ,MOWER,27,099,MN 
+55969,Rollingstone,Minnesota ,WINONA,27,169,MN 
+55974,Spring Grove,Minnesota ,HOUSTON,27,055,MN 
+55971,Rushford,Minnesota ,FILLMORE,27,045,MN 
+55972,Saint Charles,Minnesota ,WINONA,27,169,MN 
+55976,Stewartville,Minnesota ,OLMSTED,27,109,MN 
+55975,Spring Valley,Minnesota ,FILLMORE,27,045,MN 
+55973,Sargeant,Minnesota ,MOWER,27,099,MN 
+55977,Taopi,Minnesota ,MOWER,27,099,MN 
+55981,Wabasha,Minnesota ,WABASHA,27,157,MN 
+55979,Utica,Minnesota ,WINONA,27,169,MN 
+55982,Waltham,Minnesota ,MOWER,27,099,MN 
+55983,Wanamingo,Minnesota ,GOODHUE,27,049,MN 
+55985,West Concord,Minnesota ,DODGE,27,039,MN 
+55987,Winona,Minnesota ,WINONA,27,169,MN 
+55988,Stockton,Minnesota ,WINONA,27,169,MN 
+55991,Zumbro Falls,Minnesota ,WABASHA,27,157,MN 
+55990,Wykoff,Minnesota ,FILLMORE,27,045,MN 
+55992,Zumbrota,Minnesota ,GOODHUE,27,049,MN 
+56002,Mankato,Minnesota ,BLUE EARTH,27,013,MN 
+56001,Mankato,Minnesota ,BLUE EARTH,27,013,MN 
+56003,Mankato,Minnesota ,NICOLLET,27,103,MN 
+56009,Alden,Minnesota ,FREEBORN,27,047,MN 
+56007,Albert Lea,Minnesota ,FREEBORN,27,047,MN 
+56011,Belle Plaine,Minnesota ,SCOTT,27,139,MN 
+56014,Bricelyn,Minnesota ,FARIBAULT,27,043,MN 
+56019,Comfrey,Minnesota ,BROWN,27,015,MN 
+56020,Conger,Minnesota ,FREEBORN,27,047,MN 
+56016,Clarks Grove,Minnesota ,FREEBORN,27,047,MN 
+56013,Blue Earth,Minnesota ,FARIBAULT,27,043,MN 
+56017,Cleveland,Minnesota ,LE SUEUR,27,079,MN 
+56010,Amboy,Minnesota ,BLUE EARTH,27,013,MN 
+56021,Courtland,Minnesota ,NICOLLET,27,103,MN 
+56022,Darfur,Minnesota ,WATONWAN,27,165,MN 
+56023,Delavan,Minnesota ,FARIBAULT,27,043,MN 
+56027,Elmore,Minnesota ,FARIBAULT,27,043,MN 
+56025,Easton,Minnesota ,FARIBAULT,27,043,MN 
+56024,Eagle Lake,Minnesota ,BLUE EARTH,27,013,MN 
+56026,Ellendale,Minnesota ,STEELE,27,147,MN 
+56028,Elysian,Minnesota ,LE SUEUR,27,079,MN 
+56029,Emmons,Minnesota ,FREEBORN,27,047,MN 
+56030,Essig,Minnesota ,BROWN,27,015,MN 
+56032,Freeborn,Minnesota ,FREEBORN,27,047,MN 
+56034,Garden City,Minnesota ,BLUE EARTH,27,013,MN 
+56035,Geneva,Minnesota ,FREEBORN,27,047,MN 
+56031,Fairmont,Minnesota ,MARTIN,27,091,MN 
+56033,Frost,Minnesota ,FARIBAULT,27,043,MN 
+56036,Glenville,Minnesota ,FREEBORN,27,047,MN 
+56037,Good Thunder,Minnesota ,BLUE EARTH,27,013,MN 
+56039,Granada,Minnesota ,MARTIN,27,091,MN 
+56041,Hanska,Minnesota ,BROWN,27,015,MN 
+56043,Hayward,Minnesota ,FREEBORN,27,047,MN 
+56047,Huntley,Minnesota ,FARIBAULT,27,043,MN 
+56044,Henderson,Minnesota ,SIBLEY,27,143,MN 
+56042,Hartland,Minnesota ,FREEBORN,27,047,MN 
+56046,Hope,Minnesota ,STEELE,27,147,MN 
+56045,Hollandale,Minnesota ,FREEBORN,27,047,MN 
+56048,Janesville,Minnesota ,WASECA,27,161,MN 
+56057,Le Center,Minnesota ,LE SUEUR,27,079,MN 
+56050,Kasota,Minnesota ,LE SUEUR,27,079,MN 
+56055,Lake Crystal,Minnesota ,BLUE EARTH,27,013,MN 
+56051,Kiester,Minnesota ,FARIBAULT,27,043,MN 
+56056,La Salle,Minnesota ,WATONWAN,27,165,MN 
+56052,Kilkenny,Minnesota ,RICE,27,131,MN 
+56054,Lafayette,Minnesota ,NICOLLET,27,103,MN 
+56058,Le Sueur,Minnesota ,LE SUEUR,27,079,MN 
+56071,New Prague,Minnesota ,SCOTT,27,139,MN 
+56063,Madison Lake,Minnesota ,BLUE EARTH,27,013,MN 
+56062,Madelia,Minnesota ,WATONWAN,27,165,MN 
+56068,Minnesota Lake,Minnesota ,FARIBAULT,27,043,MN 
+56060,Lewisville,Minnesota ,WATONWAN,27,165,MN 
+56065,Mapleton,Minnesota ,BLUE EARTH,27,013,MN 
+56069,Montgomery,Minnesota ,LE SUEUR,27,079,MN 
+56072,New Richland,Minnesota ,WASECA,27,161,MN 
+56073,New Ulm,Minnesota ,BROWN,27,015,MN 
+56075,Northrop,Minnesota ,MARTIN,27,091,MN 
+56080,Saint Clair,Minnesota ,BLUE EARTH,27,013,MN 
+56081,Saint James,Minnesota ,WATONWAN,27,165,MN 
+56078,Pemberton,Minnesota ,BLUE EARTH,27,013,MN 
+56074,Nicollet,Minnesota ,NICOLLET,27,103,MN 
+56082,Saint Peter,Minnesota ,NICOLLET,27,103,MN 
+56083,Sanborn,Minnesota ,REDWOOD,27,127,MN 
+56084,Searles,Minnesota ,BROWN,27,015,MN 
+56090,Vernon Center,Minnesota ,BLUE EARTH,27,013,MN 
+56088,Truman,Minnesota ,MARTIN,27,091,MN 
+56087,Springfield,Minnesota ,BROWN,27,015,MN 
+56085,Sleepy Eye,Minnesota ,BROWN,27,015,MN 
+56089,Twin Lakes,Minnesota ,FREEBORN,27,047,MN 
+56091,Waldorf,Minnesota ,WASECA,27,161,MN 
+56093,Waseca,Minnesota ,WASECA,27,161,MN 
+56096,Waterville,Minnesota ,LE SUEUR,27,079,MN 
+56111,Alpha,Minnesota ,JACKSON,27,063,MN 
+56114,Avoca,Minnesota ,MURRAY,27,101,MN 
+56097,Wells,Minnesota ,FARIBAULT,27,043,MN 
+56098,Winnebago,Minnesota ,FARIBAULT,27,043,MN 
+56110,Adrian,Minnesota ,NOBLES,27,105,MN 
+56101,Windom,Minnesota ,COTTONWOOD,27,033,MN 
+56113,Arco,Minnesota ,LINCOLN,27,081,MN 
+56115,Balaton,Minnesota ,LYON,27,083,MN 
+56122,Chandler,Minnesota ,MURRAY,27,101,MN 
+56120,Butterfield,Minnesota ,WATONWAN,27,165,MN 
+56119,Brewster,Minnesota ,NOBLES,27,105,MN 
+56117,Bigelow,Minnesota ,NOBLES,27,105,MN 
+56121,Ceylon,Minnesota ,MARTIN,27,091,MN 
+56118,Bingham Lake,Minnesota ,COTTONWOOD,27,033,MN 
+56116,Beaver Creek,Minnesota ,ROCK,27,133,MN 
+56123,Currie,Minnesota ,MURRAY,27,101,MN 
+56129,Ellsworth,Minnesota ,NOBLES,27,105,MN 
+56132,Garvin,Minnesota ,LYON,27,083,MN 
+56125,Dovray,Minnesota ,MURRAY,27,101,MN 
+56131,Fulda,Minnesota ,MURRAY,27,101,MN 
+56127,Dunnell,Minnesota ,MARTIN,27,091,MN 
+56128,Edgerton,Minnesota ,PIPESTONE,27,117,MN 
+56134,Hardwick,Minnesota ,ROCK,27,133,MN 
+56136,Hendricks,Minnesota ,LINCOLN,27,081,MN 
+56138,Hills,Minnesota ,ROCK,27,133,MN 
+56142,Ivanhoe,Minnesota ,LINCOLN,27,081,MN 
+56139,Holland,Minnesota ,PIPESTONE,27,117,MN 
+56141,Iona,Minnesota ,MURRAY,27,101,MN 
+56137,Heron Lake,Minnesota ,JACKSON,27,063,MN 
+56140,Ihlen,Minnesota ,PIPESTONE,27,117,MN 
+56143,Jackson,Minnesota ,JACKSON,27,063,MN 
+56144,Jasper,Minnesota ,ROCK,27,133,MN 
+56151,Lake Wilson,Minnesota ,MURRAY,27,101,MN 
+56149,Lake Benton,Minnesota ,LINCOLN,27,081,MN 
+56147,Kenneth,Minnesota ,ROCK,27,133,MN 
+56146,Kanaranzi,Minnesota ,NOBLES,27,105,MN 
+56152,Lamberton,Minnesota ,REDWOOD,27,127,MN 
+56150,Lakefield,Minnesota ,JACKSON,27,063,MN 
+56145,Jeffers,Minnesota ,COTTONWOOD,27,033,MN 
+56153,Leota,Minnesota ,NOBLES,27,105,MN 
+56155,Lismore,Minnesota ,NOBLES,27,105,MN 
+56159,Mountain Lake,Minnesota ,COTTONWOOD,27,033,MN 
+56160,Odin,Minnesota ,WATONWAN,27,165,MN 
+56158,Magnolia,Minnesota ,ROCK,27,133,MN 
+56161,Okabena,Minnesota ,JACKSON,27,063,MN 
+56156,Luverne,Minnesota ,ROCK,27,133,MN 
+56157,Lynd,Minnesota ,LYON,27,083,MN 
+56162,Ormsby,Minnesota ,MARTIN,27,091,MN 
+56166,Revere,Minnesota ,REDWOOD,27,127,MN 
+56167,Round Lake,Minnesota ,NOBLES,27,105,MN 
+56168,Rushmore,Minnesota ,NOBLES,27,105,MN 
+56164,Pipestone,Minnesota ,PIPESTONE,27,117,MN 
+56165,Reading,Minnesota ,NOBLES,27,105,MN 
+56169,Russell,Minnesota ,LYON,27,083,MN 
+56171,Sherburn,Minnesota ,MARTIN,27,091,MN 
+56170,Ruthton,Minnesota ,PIPESTONE,27,117,MN 
+56173,Steen,Minnesota ,ROCK,27,133,MN 
+56172,Slayton,Minnesota ,MURRAY,27,101,MN 
+56178,Tyler,Minnesota ,LINCOLN,27,081,MN 
+56176,Trimont,Minnesota ,MARTIN,27,091,MN 
+56175,Tracy,Minnesota ,LYON,27,083,MN 
+56180,Walnut Grove,Minnesota ,REDWOOD,27,127,MN 
+56181,Welcome,Minnesota ,MARTIN,27,091,MN 
+56174,Storden,Minnesota ,COTTONWOOD,27,033,MN 
+56185,Wilmont,Minnesota ,NOBLES,27,105,MN 
+56183,Westbrook,Minnesota ,COTTONWOOD,27,033,MN 
+56201,Willmar,Minnesota ,KANDIYOHI,27,067,MN 
+56187,Worthington,Minnesota ,NOBLES,27,105,MN 
+56207,Alberta,Minnesota ,STEVENS,27,149,MN 
+56186,Woodstock,Minnesota ,PIPESTONE,27,117,MN 
+56208,Appleton,Minnesota ,SWIFT,27,151,MN 
+56209,Atwater,Minnesota ,KANDIYOHI,27,067,MN 
+56210,Barry,Minnesota ,BIG STONE,27,011,MN 
+56211,Beardsley,Minnesota ,BIG STONE,27,011,MN 
+56212,Bellingham,Minnesota ,LAC QUI PARLE,27,073,MN 
+56216,Blomkest,Minnesota ,KANDIYOHI,27,067,MN 
+56218,Boyd,Minnesota ,LAC QUI PARLE,27,073,MN 
+56214,Belview,Minnesota ,REDWOOD,27,127,MN 
+56215,Benson,Minnesota ,SWIFT,27,151,MN 
+56219,Browns Valley,Minnesota ,TRAVERSE,27,155,MN 
+56220,Canby,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56221,Chokio,Minnesota ,STEVENS,27,149,MN 
+56225,Clinton,Minnesota ,BIG STONE,27,011,MN 
+56222,Clara City,Minnesota ,CHIPPEWA,27,023,MN 
+56226,Clontarf,Minnesota ,SWIFT,27,151,MN 
+56224,Clements,Minnesota ,REDWOOD,27,127,MN 
+56223,Clarkfield,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56227,Correll,Minnesota ,BIG STONE,27,011,MN 
+56228,Cosmos,Minnesota ,MEEKER,27,093,MN 
+56229,Cottonwood,Minnesota ,LYON,27,083,MN 
+56230,Danube,Minnesota ,RENVILLE,27,129,MN 
+56232,Dawson,Minnesota ,LAC QUI PARLE,27,073,MN 
+56231,Danvers,Minnesota ,SWIFT,27,151,MN 
+56235,Donnelly,Minnesota ,STEVENS,27,149,MN 
+56236,Dumont,Minnesota ,TRAVERSE,27,155,MN 
+56237,Echo,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56239,Ghent,Minnesota ,LYON,27,083,MN 
+56240,Graceville,Minnesota ,BIG STONE,27,011,MN 
+56249,Holloway,Minnesota ,SWIFT,27,151,MN 
+56241,Granite Falls,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56245,Hanley Falls,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56243,Grove City,Minnesota ,MEEKER,27,093,MN 
+56248,Herman,Minnesota ,GRANT,27,051,MN 
+56244,Hancock,Minnesota ,STEVENS,27,149,MN 
+56252,Kerkhoven,Minnesota ,SWIFT,27,151,MN 
+56257,Marietta,Minnesota ,LAC QUI PARLE,27,073,MN 
+56253,Lake Lillian,Minnesota ,KANDIYOHI,27,067,MN 
+56255,Lucan,Minnesota ,REDWOOD,27,127,MN 
+56258,Marshall,Minnesota ,LYON,27,083,MN 
+56256,Madison,Minnesota ,LAC QUI PARLE,27,073,MN 
+56260,Maynard,Minnesota ,CHIPPEWA,27,023,MN 
+56262,Milan,Minnesota ,CHIPPEWA,27,023,MN 
+56251,Kandiyohi,Minnesota ,KANDIYOHI,27,067,MN 
+56265,Montevideo,Minnesota ,CHIPPEWA,27,023,MN 
+56263,Milroy,Minnesota ,REDWOOD,27,127,MN 
+56264,Minneota,Minnesota ,LYON,27,083,MN 
+56266,Morgan,Minnesota ,REDWOOD,27,127,MN 
+56273,New London,Minnesota ,KANDIYOHI,27,067,MN 
+56271,Murdock,Minnesota ,SWIFT,27,151,MN 
+56270,Morton,Minnesota ,RENVILLE,27,129,MN 
+56267,Morris,Minnesota ,STEVENS,27,149,MN 
+56274,Norcross,Minnesota ,GRANT,27,051,MN 
+56278,Ortonville,Minnesota ,BIG STONE,27,011,MN 
+56276,Odessa,Minnesota ,BIG STONE,27,011,MN 
+56280,Porter,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56277,Olivia,Minnesota ,RENVILLE,27,129,MN 
+56281,Prinsburg,Minnesota ,KANDIYOHI,27,067,MN 
+56279,Pennock,Minnesota ,KANDIYOHI,27,067,MN 
+56282,Raymond,Minnesota ,KANDIYOHI,27,067,MN 
+56283,Redwood Falls,Minnesota ,REDWOOD,27,127,MN 
+56291,Taunton,Minnesota ,LYON,27,083,MN 
+56287,Seaforth,Minnesota ,REDWOOD,27,127,MN 
+56289,Sunburg,Minnesota ,KANDIYOHI,27,067,MN 
+56284,Renville,Minnesota ,RENVILLE,27,129,MN 
+56285,Sacred Heart,Minnesota ,RENVILLE,27,129,MN 
+56292,Vesta,Minnesota ,REDWOOD,27,127,MN 
+56293,Wabasso,Minnesota ,REDWOOD,27,127,MN 
+56288,Spicer,Minnesota ,KANDIYOHI,27,067,MN 
+56301,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56296,Wheaton,Minnesota ,TRAVERSE,27,155,MN 
+56297,Wood Lake,Minnesota ,YELLOW MEDICINE,27,173,MN 
+56295,Watson,Minnesota ,CHIPPEWA,27,023,MN 
+56294,Wanda,Minnesota ,REDWOOD,27,127,MN 
+56302,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56303,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56304,Saint Cloud,Minnesota ,SHERBURNE,27,141,MN 
+56307,Albany,Minnesota ,STEARNS,27,145,MN 
+56308,Alexandria,Minnesota ,DOUGLAS,27,041,MN 
+56309,Ashby,Minnesota ,GRANT,27,051,MN 
+56310,Avon,Minnesota ,STEARNS,27,145,MN 
+56311,Barrett,Minnesota ,GRANT,27,051,MN 
+56312,Belgrade,Minnesota ,STEARNS,27,145,MN 
+56316,Brooten,Minnesota ,STEARNS,27,145,MN 
+56313,Bock,Minnesota ,MILLE LACS,27,095,MN 
+56315,Brandon,Minnesota ,DOUGLAS,27,041,MN 
+56314,Bowlus,Minnesota ,MORRISON,27,097,MN 
+56320,Cold Spring,Minnesota ,STEARNS,27,145,MN 
+56318,Burtrum,Minnesota ,TODD,27,153,MN 
+56319,Carlos,Minnesota ,DOUGLAS,27,041,MN 
+56317,Buckman,Minnesota ,MORRISON,27,097,MN 
+56321,Collegeville,Minnesota ,STEARNS,27,145,MN 
+56325,Elrosa,Minnesota ,STEARNS,27,145,MN 
+56323,Cyrus,Minnesota ,POPE,27,121,MN 
+56324,Dalton,Minnesota ,OTTER TAIL,27,111,MN 
+56329,Foley,Minnesota ,BENTON,27,009,MN 
+56327,Farwell,Minnesota ,DOUGLAS,27,041,MN 
+56328,Flensburg,Minnesota ,MORRISON,27,097,MN 
+56326,Evansville,Minnesota ,DOUGLAS,27,041,MN 
+56330,Foreston,Minnesota ,MILLE LACS,27,095,MN 
+56331,Freeport,Minnesota ,STEARNS,27,145,MN 
+56333,Gilman,Minnesota ,BENTON,27,009,MN 
+56332,Garfield,Minnesota ,DOUGLAS,27,041,MN 
+56335,Greenwald,Minnesota ,STEARNS,27,145,MN 
+56338,Hillman,Minnesota ,MORRISON,27,097,MN 
+56334,Glenwood,Minnesota ,POPE,27,121,MN 
+56336,Grey Eagle,Minnesota ,TODD,27,153,MN 
+56339,Hoffman,Minnesota ,GRANT,27,051,MN 
+56340,Holdingford,Minnesota ,STEARNS,27,145,MN 
+56342,Isle,Minnesota ,MILLE LACS,27,095,MN 
+56341,Holmes City,Minnesota ,DOUGLAS,27,041,MN 
+56345,Little Falls,Minnesota ,MORRISON,27,097,MN 
+56347,Long Prairie,Minnesota ,TODD,27,153,MN 
+56344,Lastrup,Minnesota ,MORRISON,27,097,MN 
+56343,Kensington,Minnesota ,DOUGLAS,27,041,MN 
+56349,Lowry,Minnesota ,POPE,27,121,MN 
+56350,Mc Grath,Minnesota ,AITKIN,27,001,MN 
+56352,Melrose,Minnesota ,STEARNS,27,145,MN 
+56353,Milaca,Minnesota ,MILLE LACS,27,095,MN 
+56355,Nelson,Minnesota ,DOUGLAS,27,041,MN 
+56358,Ogilvie,Minnesota ,KANABEC,27,065,MN 
+56356,New Munich,Minnesota ,STEARNS,27,145,MN 
+56357,Oak Park,Minnesota ,BENTON,27,009,MN 
+56359,Onamia,Minnesota ,MILLE LACS,27,095,MN 
+56360,Osakis,Minnesota ,DOUGLAS,27,041,MN 
+56361,Parkers Prairie,Minnesota ,OTTER TAIL,27,111,MN 
+56362,Paynesville,Minnesota ,STEARNS,27,145,MN 
+56354,Miltona,Minnesota ,DOUGLAS,27,041,MN 
+56364,Pierz,Minnesota ,MORRISON,27,097,MN 
+56363,Pease,Minnesota ,MILLE LACS,27,095,MN 
+56367,Rice,Minnesota ,BENTON,27,009,MN 
+56368,Richmond,Minnesota ,STEARNS,27,145,MN 
+56371,Roscoe,Minnesota ,STEARNS,27,145,MN 
+56369,Rockville,Minnesota ,STEARNS,27,145,MN 
+56373,Royalton,Minnesota ,MORRISON,27,097,MN 
+56372,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56375,Saint Stephen,Minnesota ,STEARNS,27,145,MN 
+56377,Sartell,Minnesota ,STEARNS,27,145,MN 
+56376,Saint Martin,Minnesota ,STEARNS,27,145,MN 
+56374,Saint Joseph,Minnesota ,STEARNS,27,145,MN 
+56378,Sauk Centre,Minnesota ,STEARNS,27,145,MN 
+56379,Sauk Rapids,Minnesota ,BENTON,27,009,MN 
+56382,Swanville,Minnesota ,MORRISON,27,097,MN 
+56381,Starbuck,Minnesota ,POPE,27,121,MN 
+56384,Upsala,Minnesota ,MORRISON,27,097,MN 
+56385,Villard,Minnesota ,POPE,27,121,MN 
+56386,Wahkon,Minnesota ,MILLE LACS,27,095,MN 
+56388,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56387,Waite Park,Minnesota ,STEARNS,27,145,MN 
+56389,West Union,Minnesota ,TODD,27,153,MN 
+56393,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56397,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56396,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56395,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56401,Brainerd,Minnesota ,CROW WING,27,035,MN 
+56398,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56425,Baxter,Minnesota ,CROW WING,27,035,MN 
+56399,Saint Cloud,Minnesota ,STEARNS,27,145,MN 
+56431,Aitkin,Minnesota ,AITKIN,27,001,MN 
+56433,Akeley,Minnesota ,HUBBARD,27,057,MN 
+56435,Backus,Minnesota ,CASS,27,021,MN 
+56434,Aldrich,Minnesota ,WADENA,27,159,MN 
+56436,Benedict,Minnesota ,HUBBARD,27,057,MN 
+56440,Clarissa,Minnesota ,TODD,27,153,MN 
+56437,Bertha,Minnesota ,TODD,27,153,MN 
+56441,Crosby,Minnesota ,CROW WING,27,035,MN 
+56438,Browerville,Minnesota ,TODD,27,153,MN 
+56443,Cushing,Minnesota ,MORRISON,27,097,MN 
+56444,Deerwood,Minnesota ,CROW WING,27,035,MN 
+56442,Crosslake,Minnesota ,CROW WING,27,035,MN 
+56446,Eagle Bend,Minnesota ,TODD,27,153,MN 
+56447,Emily,Minnesota ,CROW WING,27,035,MN 
+56449,Fort Ripley,Minnesota ,CROW WING,27,035,MN 
+56450,Garrison,Minnesota ,CROW WING,27,035,MN 
+56448,Fifty Lakes,Minnesota ,CROW WING,27,035,MN 
+56452,Hackensack,Minnesota ,CASS,27,021,MN 
+56453,Hewitt,Minnesota ,TODD,27,153,MN 
+56455,Ironton,Minnesota ,CROW WING,27,035,MN 
+56456,Jenkins,Minnesota ,CROW WING,27,035,MN 
+56458,Lake George,Minnesota ,HUBBARD,27,057,MN 
+56465,Merrifield,Minnesota ,CROW WING,27,035,MN 
+56461,Laporte,Minnesota ,HUBBARD,27,057,MN 
+56459,Lake Hubert,Minnesota ,CROW WING,27,035,MN 
+56464,Menahga,Minnesota ,WADENA,27,159,MN 
+56467,Nevis,Minnesota ,HUBBARD,27,057,MN 
+56466,Motley,Minnesota ,MORRISON,27,097,MN 
+56469,Palisade,Minnesota ,AITKIN,27,001,MN 
+56468,Nisswa,Minnesota ,CROW WING,27,035,MN 
+56473,Pillager,Minnesota ,CASS,27,021,MN 
+56472,Pequot Lakes,Minnesota ,CROW WING,27,035,MN 
+56470,Park Rapids,Minnesota ,HUBBARD,27,057,MN 
+56477,Sebeka,Minnesota ,WADENA,27,159,MN 
+56475,Randall,Minnesota ,MORRISON,27,097,MN 
+56474,Pine River,Minnesota ,CASS,27,021,MN 
+56479,Staples,Minnesota ,WADENA,27,159,MN 
+56481,Verndale,Minnesota ,WADENA,27,159,MN 
+56484,Walker,Minnesota ,CASS,27,021,MN 
+56502,Detroit Lakes,Minnesota ,BECKER,27,005,MN 
+56511,Audubon,Minnesota ,BECKER,27,005,MN 
+56482,Wadena,Minnesota ,WADENA,27,159,MN 
+56510,Ada,Minnesota ,NORMAN,27,107,MN 
+56501,Detroit Lakes,Minnesota ,BECKER,27,005,MN 
+56514,Barnesville,Minnesota ,CLAY,27,027,MN 
+56518,Bluffton,Minnesota ,OTTER TAIL,27,111,MN 
+56521,Callaway,Minnesota ,BECKER,27,005,MN 
+56520,Breckenridge,Minnesota ,WILKIN,27,167,MN 
+56515,Battle Lake,Minnesota ,OTTER TAIL,27,111,MN 
+56516,Bejou,Minnesota ,MAHNOMEN,27,087,MN 
+56517,Beltrami,Minnesota ,POLK,27,119,MN 
+56519,Borup,Minnesota ,NORMAN,27,107,MN 
+56522,Campbell,Minnesota ,WILKIN,27,167,MN 
+56529,Dilworth,Minnesota ,CLAY,27,027,MN 
+56531,Elbow Lake,Minnesota ,GRANT,27,051,MN 
+56525,Comstock,Minnesota ,CLAY,27,027,MN 
+56524,Clitherall,Minnesota ,OTTER TAIL,27,111,MN 
+56523,Climax,Minnesota ,POLK,27,119,MN 
+56527,Deer Creek,Minnesota ,OTTER TAIL,27,111,MN 
+56528,Dent,Minnesota ,OTTER TAIL,27,111,MN 
+56533,Elizabeth,Minnesota ,OTTER TAIL,27,111,MN 
+56534,Erhard,Minnesota ,OTTER TAIL,27,111,MN 
+56538,Fergus Falls,Minnesota ,OTTER TAIL,27,111,MN 
+56535,Erskine,Minnesota ,POLK,27,119,MN 
+56536,Felton,Minnesota ,CLAY,27,027,MN 
+56540,Fertile,Minnesota ,POLK,27,119,MN 
+56542,Fosston,Minnesota ,POLK,27,119,MN 
+56541,Flom,Minnesota ,NORMAN,27,107,MN 
+56537,Fergus Falls,Minnesota ,OTTER TAIL,27,111,MN 
+56543,Foxhome,Minnesota ,WILKIN,27,167,MN 
+56547,Glyndon,Minnesota ,CLAY,27,027,MN 
+56544,Frazee,Minnesota ,BECKER,27,005,MN 
+56549,Hawley,Minnesota ,CLAY,27,027,MN 
+56546,Georgetown,Minnesota ,CLAY,27,027,MN 
+56550,Hendrum,Minnesota ,NORMAN,27,107,MN 
+56548,Halstad,Minnesota ,NORMAN,27,107,MN 
+56545,Gary,Minnesota ,NORMAN,27,107,MN 
+56554,Lake Park,Minnesota ,BECKER,27,005,MN 
+56552,Hitterdal,Minnesota ,CLAY,27,027,MN 
+56553,Kent,Minnesota ,WILKIN,27,167,MN 
+56557,Mahnomen,Minnesota ,MAHNOMEN,27,087,MN 
+56561,Moorhead,Minnesota ,CLAY,27,027,MN 
+56560,Moorhead,Minnesota ,CLAY,27,027,MN 
+56556,Mcintosh,Minnesota ,POLK,27,119,MN 
+56551,Henning,Minnesota ,OTTER TAIL,27,111,MN 
+56568,Nielsville,Minnesota ,POLK,27,119,MN 
+56562,Moorhead,Minnesota ,CLAY,27,027,MN 
+56566,Naytahwaush,Minnesota ,MAHNOMEN,27,087,MN 
+56567,New York Mills,Minnesota ,OTTER TAIL,27,111,MN 
+56569,Ogema,Minnesota ,BECKER,27,005,MN 
+56565,Nashua,Minnesota ,WILKIN,27,167,MN 
+56570,Osage,Minnesota ,BECKER,27,005,MN 
+56563,Moorhead,Minnesota ,CLAY,27,027,MN 
+56571,Ottertail,Minnesota ,OTTER TAIL,27,111,MN 
+56572,Pelican Rapids,Minnesota ,OTTER TAIL,27,111,MN 
+56574,Perley,Minnesota ,NORMAN,27,107,MN 
+56573,Perham,Minnesota ,OTTER TAIL,27,111,MN 
+56576,Richville,Minnesota ,OTTER TAIL,27,111,MN 
+56575,Ponsford,Minnesota ,BECKER,27,005,MN 
+56577,Richwood,Minnesota ,BECKER,27,005,MN 
+56578,Rochert,Minnesota ,BECKER,27,005,MN 
+56579,Rothsay,Minnesota ,WILKIN,27,167,MN 
+56580,Sabin,Minnesota ,CLAY,27,027,MN 
+56585,Ulen,Minnesota ,CLAY,27,027,MN 
+56583,Tintah,Minnesota ,TRAVERSE,27,155,MN 
+56581,Shelly,Minnesota ,NORMAN,27,107,MN 
+56584,Twin Valley,Minnesota ,NORMAN,27,107,MN 
+56587,Vergas,Minnesota ,OTTER TAIL,27,111,MN 
+56586,Underwood,Minnesota ,OTTER TAIL,27,111,MN 
+56588,Vining,Minnesota ,OTTER TAIL,27,111,MN 
+56589,Waubun,Minnesota ,BECKER,27,005,MN 
+56592,Winger,Minnesota ,POLK,27,119,MN 
+56601,Bemidji,Minnesota ,BELTRAMI,27,007,MN 
+56594,Wolverton,Minnesota ,WILKIN,27,167,MN 
+56593,Wolf Lake,Minnesota ,BECKER,27,005,MN 
+56590,Wendell,Minnesota ,GRANT,27,051,MN 
+56591,White Earth,Minnesota ,BECKER,27,005,MN 
+56619,Bemidji,Minnesota ,BELTRAMI,27,007,MN 
+56621,Bagley,Minnesota ,CLEARWATER,27,029,MN 
+56627,Big Falls,Minnesota ,KOOCHICHING,27,071,MN 
+56629,Birchdale,Minnesota ,KOOCHICHING,27,071,MN 
+56623,Baudette,Minnesota ,LAKE OF THE WOODS,27,077,MN 
+56626,Bena,Minnesota ,CASS,27,021,MN 
+56628,Bigfork,Minnesota ,ITASCA,27,061,MN 
+56630,Blackduck,Minnesota ,BELTRAMI,27,007,MN 
+56631,Bowstring,Minnesota ,ITASCA,27,061,MN 
+56633,Cass Lake,Minnesota ,CASS,27,021,MN 
+56646,Gully,Minnesota ,POLK,27,119,MN 
+56644,Gonvick,Minnesota ,CLEARWATER,27,029,MN 
+56641,Federal Dam,Minnesota ,CASS,27,021,MN 
+56639,Effie,Minnesota ,ITASCA,27,061,MN 
+56637,Talmoon,Minnesota ,ITASCA,27,061,MN 
+56636,Deer River,Minnesota ,ITASCA,27,061,MN 
+56634,Clearbrook,Minnesota ,CLEARWATER,27,029,MN 
+56647,Hines,Minnesota ,BELTRAMI,27,007,MN 
+56650,Kelliher,Minnesota ,BELTRAMI,27,007,MN 
+56649,International Falls,Minnesota ,KOOCHICHING,27,071,MN 
+56654,Loman,Minnesota ,KOOCHICHING,27,071,MN 
+56653,Littlefork,Minnesota ,KOOCHICHING,27,071,MN 
+56652,Leonard,Minnesota ,CLEARWATER,27,029,MN 
+56651,Lengby,Minnesota ,MAHNOMEN,27,087,MN 
+56657,Marcell,Minnesota ,ITASCA,27,061,MN 
+56655,Longville,Minnesota ,CASS,27,021,MN 
+56658,Margie,Minnesota ,KOOCHICHING,27,071,MN 
+56659,Max,Minnesota ,ITASCA,27,061,MN 
+56667,Puposky,Minnesota ,BELTRAMI,27,007,MN 
+56663,Pennington,Minnesota ,BELTRAMI,27,007,MN 
+56666,Ponemah,Minnesota ,BELTRAMI,27,007,MN 
+56662,Outing,Minnesota ,CASS,27,021,MN 
+56661,Northome,Minnesota ,KOOCHICHING,27,071,MN 
+56660,Mizpah,Minnesota ,KOOCHICHING,27,071,MN 
+56668,Ranier,Minnesota ,KOOCHICHING,27,071,MN 
+56669,Kabetogama,Minnesota ,KOOCHICHING,27,071,MN 
+56676,Shevlin,Minnesota ,CLEARWATER,27,029,MN 
+56678,Solway,Minnesota ,BELTRAMI,27,007,MN 
+56670,Redby,Minnesota ,BELTRAMI,27,007,MN 
+56671,Redlake,Minnesota ,BELTRAMI,27,007,MN 
+56672,Remer,Minnesota ,CASS,27,021,MN 
+56673,Roosevelt,Minnesota ,ROSEAU,27,135,MN 
+56679,South International Falls,Minnesota ,KOOCHICHING,27,071,MN 
+56684,Trail,Minnesota ,POLK,27,119,MN 
+56681,Squaw Lake,Minnesota ,ITASCA,27,061,MN 
+56680,Spring Lake,Minnesota ,ITASCA,27,061,MN 
+56687,Wilton,Minnesota ,BELTRAMI,27,007,MN 
+56683,Tenstrike,Minnesota ,BELTRAMI,27,007,MN 
+56686,Williams,Minnesota ,LAKE OF THE WOODS,27,077,MN 
+56685,Waskish,Minnesota ,BELTRAMI,27,007,MN 
+56688,Wirt,Minnesota ,ITASCA,27,061,MN 
+56715,Brooks,Minnesota ,RED LAKE,27,125,MN 
+56701,Thief River Falls,Minnesota ,PENNINGTON,27,113,MN 
+56711,Angle Inlet,Minnesota ,LAKE OF THE WOODS,27,077,MN 
+56710,Alvarado,Minnesota ,MARSHALL,27,089,MN 
+56714,Badger,Minnesota ,ROSEAU,27,135,MN 
+56713,Argyle,Minnesota ,MARSHALL,27,089,MN 
+56716,Crookston,Minnesota ,POLK,27,119,MN 
+56720,Donaldson,Minnesota ,KITTSON,27,069,MN 
+56724,Gatzke,Minnesota ,MARSHALL,27,089,MN 
+56726,Greenbush,Minnesota ,ROSEAU,27,135,MN 
+56725,Goodridge,Minnesota ,PENNINGTON,27,113,MN 
+56721,East Grand Forks,Minnesota ,POLK,27,119,MN 
+56722,Euclid,Minnesota ,POLK,27,119,MN 
+56728,Hallock,Minnesota ,KITTSON,27,069,MN 
+56727,Grygla,Minnesota ,MARSHALL,27,089,MN 
+56723,Fisher,Minnesota ,POLK,27,119,MN 
+56734,Lake Bronson,Minnesota ,KITTSON,27,069,MN 
+56735,Lancaster,Minnesota ,KITTSON,27,069,MN 
+56733,Kennedy,Minnesota ,KITTSON,27,069,MN 
+56737,Middle River,Minnesota ,MARSHALL,27,089,MN 
+56729,Halma,Minnesota ,KITTSON,27,069,MN 
+56732,Karlstad,Minnesota ,KITTSON,27,069,MN 
+56736,Mentor,Minnesota ,POLK,27,119,MN 
+56731,Humboldt,Minnesota ,KITTSON,27,069,MN 
+56738,Newfolden,Minnesota ,MARSHALL,27,089,MN 
+56740,Noyes,Minnesota ,KITTSON,27,069,MN 
+56744,Oslo,Minnesota ,MARSHALL,27,089,MN 
+56750,Red Lake Falls,Minnesota ,RED LAKE,27,125,MN 
+56742,Oklee,Minnesota ,RED LAKE,27,125,MN 
+56751,Roseau,Minnesota ,ROSEAU,27,135,MN 
+56748,Plummer,Minnesota ,RED LAKE,27,125,MN 
+56741,Oak Island,Minnesota ,LAKE OF THE WOODS,27,077,MN 
+56754,Saint Hilaire,Minnesota ,PENNINGTON,27,113,MN 
+56757,Stephen,Minnesota ,MARSHALL,27,089,MN 
+56756,Salol,Minnesota ,ROSEAU,27,135,MN 
+56758,Strandquist,Minnesota ,MARSHALL,27,089,MN 
+56760,Viking,Minnesota ,MARSHALL,27,089,MN 
+56759,Strathcona,Minnesota ,ROSEAU,27,135,MN 
+56755,Saint Vincent,Minnesota ,KITTSON,27,069,MN 
+56761,Wannaska,Minnesota ,ROSEAU,27,135,MN 
+56762,Warren,Minnesota ,MARSHALL,27,089,MN 
+56763,Warroad,Minnesota ,ROSEAU,27,135,MN 

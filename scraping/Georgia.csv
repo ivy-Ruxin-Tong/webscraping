@@ -1,0 +1,949 @@
+30005,Alpharetta,Georgia ,FULTON,13,121,GA 
+30006,Marietta,Georgia ,COBB,13,067,GA 
+30009,Alpharetta,Georgia ,FULTON,13,121,GA 
+30007,Marietta,Georgia ,COBB,13,067,GA 
+30002,Avondale Estates,Georgia ,DEKALB,13,089,GA 
+30008,Marietta,Georgia ,COBB,13,067,GA 
+30004,Alpharetta,Georgia ,FULTON,13,121,GA 
+30003,Norcross,Georgia ,GWINNETT,13,135,GA 
+30011,Auburn,Georgia ,BARROW,13,013,GA 
+30014,Covington,Georgia ,NEWTON,13,217,GA 
+30010,Norcross,Georgia ,GWINNETT,13,135,GA 
+30016,Covington,Georgia ,NEWTON,13,217,GA 
+30017,Grayson,Georgia ,GWINNETT,13,135,GA 
+30018,Jersey,Georgia ,WALTON,13,297,GA 
+30015,Covington,Georgia ,NEWTON,13,217,GA 
+30013,Conyers,Georgia ,ROCKDALE,13,247,GA 
+30019,Dacula,Georgia ,GWINNETT,13,135,GA 
+30021,Clarkston,Georgia ,DEKALB,13,089,GA 
+30028,Cumming,Georgia ,FORSYTH,13,117,GA 
+30022,Alpharetta,Georgia ,FULTON,13,121,GA 
+30023,Alpharetta,Georgia ,FULTON,13,121,GA 
+30024,Suwanee,Georgia ,GWINNETT,13,135,GA 
+30025,Social Circle,Georgia ,WALTON,13,297,GA 
+30026,North Metro,Georgia ,GWINNETT,13,135,GA 
+30029,North Metro,Georgia ,GWINNETT,13,135,GA 
+30031,Decatur,Georgia ,DEKALB,13,089,GA 
+30030,Decatur,Georgia ,DEKALB,13,089,GA 
+30035,Decatur,Georgia ,DEKALB,13,089,GA 
+30033,Decatur,Georgia ,DEKALB,13,089,GA 
+30036,Decatur,Georgia ,DEKALB,13,089,GA 
+30032,Decatur,Georgia ,DEKALB,13,089,GA 
+30034,Decatur,Georgia ,DEKALB,13,089,GA 
+30037,Decatur,Georgia ,DEKALB,13,089,GA 
+30042,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30044,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30040,Cumming,Georgia ,FORSYTH,13,117,GA 
+30043,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30038,Lithonia,Georgia ,DEKALB,13,089,GA 
+30039,Snellville,Georgia ,GWINNETT,13,135,GA 
+30041,Cumming,Georgia ,FORSYTH,13,117,GA 
+30045,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30054,Oxford,Georgia ,NEWTON,13,217,GA 
+30046,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30056,Newborn,Georgia ,NEWTON,13,217,GA 
+30047,Lilburn,Georgia ,GWINNETT,13,135,GA 
+30049,Lawrenceville,Georgia ,GWINNETT,13,135,GA 
+30055,Mansfield,Georgia ,NEWTON,13,217,GA 
+30052,Loganville,Georgia ,WALTON,13,297,GA 
+30048,Lilburn,Georgia ,GWINNETT,13,135,GA 
+30058,Lithonia,Georgia ,DEKALB,13,089,GA 
+30060,Marietta,Georgia ,COBB,13,067,GA 
+30065,Marietta,Georgia ,COBB,13,067,GA 
+30063,Marietta,Georgia ,COBB,13,067,GA 
+30066,Marietta,Georgia ,COBB,13,067,GA 
+30061,Marietta,Georgia ,COBB,13,067,GA 
+30062,Marietta,Georgia ,COBB,13,067,GA 
+30064,Marietta,Georgia ,COBB,13,067,GA 
+30075,Roswell,Georgia ,FULTON,13,121,GA 
+30067,Marietta,Georgia ,COBB,13,067,GA 
+30070,Porterdale,Georgia ,NEWTON,13,217,GA 
+30069,Marietta,Georgia ,COBB,13,067,GA 
+30072,Pine Lake,Georgia ,DEKALB,13,089,GA 
+30068,Marietta,Georgia ,COBB,13,067,GA 
+30074,Redan,Georgia ,DEKALB,13,089,GA 
+30071,Norcross,Georgia ,GWINNETT,13,135,GA 
+30076,Roswell,Georgia ,FULTON,13,121,GA 
+30078,Snellville,Georgia ,GWINNETT,13,135,GA 
+30083,Stone Mountain,Georgia ,DEKALB,13,089,GA 
+30077,Roswell,Georgia ,FULTON,13,121,GA 
+30079,Scottdale,Georgia ,DEKALB,13,089,GA 
+30080,Smyrna,Georgia ,COBB,13,067,GA 
+30081,Smyrna,Georgia ,COBB,13,067,GA 
+30082,Smyrna,Georgia ,COBB,13,067,GA 
+30086,Stone Mountain,Georgia ,DEKALB,13,089,GA 
+30085,Tucker,Georgia ,DEKALB,13,089,GA 
+30090,Marietta,Georgia ,COBB,13,067,GA 
+30091,Norcross,Georgia ,GWINNETT,13,135,GA 
+30092,Peachtree Corners,Georgia ,GWINNETT,13,135,GA 
+30084,Tucker,Georgia ,DEKALB,13,089,GA 
+30087,Stone Mountain,Georgia ,DEKALB,13,089,GA 
+30088,Stone Mountain,Georgia ,DEKALB,13,089,GA 
+30094,Conyers,Georgia ,ROCKDALE,13,247,GA 
+30096,Duluth,Georgia ,GWINNETT,13,135,GA 
+30099,Duluth,Georgia ,GWINNETT,13,135,GA 
+30095,Duluth,Georgia ,GWINNETT,13,135,GA 
+30098,Duluth,Georgia ,FULTON,13,121,GA 
+30093,Norcross,Georgia ,GWINNETT,13,135,GA 
+30097,Duluth,Georgia ,FULTON,13,121,GA 
+30101,Acworth,Georgia ,COBB,13,067,GA 
+30102,Acworth,Georgia ,CHEROKEE,13,057,GA 
+30105,Armuchee,Georgia ,FLOYD,13,115,GA 
+30104,Aragon,Georgia ,POLK,13,233,GA 
+30108,Bowdon,Georgia ,CARROLL,13,045,GA 
+30106,Austell,Georgia ,COBB,13,067,GA 
+30103,Adairsville,Georgia ,BARTOW,13,015,GA 
+30107,Ball Ground,Georgia ,CHEROKEE,13,057,GA 
+30109,Bowdon Junction,Georgia ,CARROLL,13,045,GA 
+30110,Bremen,Georgia ,HARALSON,13,143,GA 
+30112,Carrollton,Georgia ,CARROLL,13,045,GA 
+30114,Canton,Georgia ,CHEROKEE,13,057,GA 
+30117,Carrollton,Georgia ,CARROLL,13,045,GA 
+30116,Carrollton,Georgia ,CARROLL,13,045,GA 
+30115,Canton,Georgia ,CHEROKEE,13,057,GA 
+30113,Buchanan,Georgia ,HARALSON,13,143,GA 
+30111,Clarkdale,Georgia ,COBB,13,067,GA 
+30118,Carrollton,Georgia ,CARROLL,13,045,GA 
+30119,Carrollton,Georgia ,CARROLL,13,045,GA 
+30126,Mableton,Georgia ,COBB,13,067,GA 
+30120,Cartersville,Georgia ,BARTOW,13,015,GA 
+30124,Cave Spring,Georgia ,FLOYD,13,115,GA 
+30123,Cassville,Georgia ,BARTOW,13,015,GA 
+30125,Cedartown,Georgia ,POLK,13,233,GA 
+30121,Cartersville,Georgia ,BARTOW,13,015,GA 
+30122,Lithia Springs,Georgia ,DOUGLAS,13,097,GA 
+30127,Powder Springs,Georgia ,COBB,13,067,GA 
+30134,Douglasville,Georgia ,DOUGLAS,13,097,GA 
+30133,Douglasville,Georgia ,DOUGLAS,13,097,GA 
+30129,Coosa,Georgia ,FLOYD,13,115,GA 
+30138,Esom Hill,Georgia ,POLK,13,233,GA 
+30132,Dallas,Georgia ,PAULDING,13,223,GA 
+30139,Fairmount,Georgia ,GORDON,13,129,GA 
+30137,Emerson,Georgia ,BARTOW,13,015,GA 
+30135,Douglasville,Georgia ,DOUGLAS,13,097,GA 
+30140,Felton,Georgia ,HARALSON,13,143,GA 
+30141,Hiram,Georgia ,PAULDING,13,223,GA 
+30142,Holly Springs,Georgia ,CHEROKEE,13,057,GA 
+30143,Jasper,Georgia ,PICKENS,13,227,GA 
+30144,Kennesaw,Georgia ,COBB,13,067,GA 
+30147,Lindale,Georgia ,FLOYD,13,115,GA 
+30146,Lebanon,Georgia ,CHEROKEE,13,057,GA 
+30145,Kingston,Georgia ,BARTOW,13,015,GA 
+30148,Marble Hill,Georgia ,PICKENS,13,227,GA 
+30149,Mount Berry,Georgia ,FLOYD,13,115,GA 
+30150,Mount Zion,Georgia ,CARROLL,13,045,GA 
+30152,Kennesaw,Georgia ,COBB,13,067,GA 
+30151,Nelson,Georgia ,CHEROKEE,13,057,GA 
+30156,Kennesaw,Georgia ,COBB,13,067,GA 
+30154,Douglasville,Georgia ,DOUGLAS,13,097,GA 
+30157,Dallas,Georgia ,PAULDING,13,223,GA 
+30153,Rockmart,Georgia ,POLK,13,233,GA 
+30160,Kennesaw,Georgia ,COBB,13,067,GA 
+30161,Rome,Georgia ,FLOYD,13,115,GA 
+30162,Rome,Georgia ,FLOYD,13,115,GA 
+30165,Rome,Georgia ,FLOYD,13,115,GA 
+30168,Austell,Georgia ,COBB,13,067,GA 
+30169,Canton,Georgia ,CHEROKEE,13,057,GA 
+30164,Rome,Georgia ,FLOYD,13,115,GA 
+30171,Rydal,Georgia ,BARTOW,13,015,GA 
+30170,Roopville,Georgia ,CARROLL,13,045,GA 
+30172,Shannon,Georgia ,FLOYD,13,115,GA 
+30173,Silver Creek,Georgia ,FLOYD,13,115,GA 
+30182,Waco,Georgia ,HARALSON,13,143,GA 
+30175,Talking Rock,Georgia ,PICKENS,13,227,GA 
+30176,Tallapoosa,Georgia ,HARALSON,13,143,GA 
+30179,Temple,Georgia ,CARROLL,13,045,GA 
+30178,Taylorsville,Georgia ,BARTOW,13,015,GA 
+30177,Tate,Georgia ,PICKENS,13,227,GA 
+30180,Villa Rica,Georgia ,CARROLL,13,045,GA 
+30183,Waleska,Georgia ,CHEROKEE,13,057,GA 
+30187,Winston,Georgia ,DOUGLAS,13,097,GA 
+30185,Whitesburg,Georgia ,CARROLL,13,045,GA 
+30204,Barnesville,Georgia ,LAMAR,13,171,GA 
+30184,White,Georgia ,BARTOW,13,015,GA 
+30205,Brooks,Georgia ,FAYETTE,13,113,GA 
+30206,Concord,Georgia ,PIKE,13,231,GA 
+30188,Woodstock,Georgia ,CHEROKEE,13,057,GA 
+30189,Woodstock,Georgia ,CHEROKEE,13,057,GA 
+30212,Experiment,Georgia ,SPALDING,13,255,GA 
+30217,Franklin,Georgia ,HEARD,13,149,GA 
+30213,Fairburn,Georgia ,FULTON,13,121,GA 
+30218,Gay,Georgia ,MERIWETHER,13,199,GA 
+30214,Fayetteville,Georgia ,FAYETTE,13,113,GA 
+30216,Flovilla,Georgia ,BUTTS,13,035,GA 
+30220,Grantville,Georgia ,COWETA,13,077,GA 
+30215,Fayetteville,Georgia ,FAYETTE,13,113,GA 
+30233,Jackson,Georgia ,BUTTS,13,035,GA 
+30228,Hampton,Georgia ,HENRY,13,151,GA 
+30230,Hogansville,Georgia ,TROUP,13,285,GA 
+30222,Greenville,Georgia ,MERIWETHER,13,199,GA 
+30234,Jenkinsburg,Georgia ,BUTTS,13,035,GA 
+30224,Griffin,Georgia ,SPALDING,13,255,GA 
+30223,Griffin,Georgia ,SPALDING,13,255,GA 
+30229,Haralson,Georgia ,COWETA,13,077,GA 
+30236,Jonesboro,Georgia ,CLAYTON,13,063,GA 
+30237,Jonesboro,Georgia ,CLAYTON,13,063,GA 
+30248,Locust Grove,Georgia ,HENRY,13,151,GA 
+30241,Lagrange,Georgia ,TROUP,13,285,GA 
+30250,Lovejoy,Georgia ,CLAYTON,13,063,GA 
+30238,Jonesboro,Georgia ,CLAYTON,13,063,GA 
+30251,Luthersville,Georgia ,MERIWETHER,13,199,GA 
+30240,Lagrange,Georgia ,TROUP,13,285,GA 
+30252,Mcdonough,Georgia ,HENRY,13,151,GA 
+30253,Mcdonough,Georgia ,HENRY,13,151,GA 
+30257,Milner,Georgia ,LAMAR,13,171,GA 
+30261,Lagrange,Georgia ,TROUP,13,285,GA 
+30259,Moreland,Georgia ,COWETA,13,077,GA 
+30263,Newnan,Georgia ,COWETA,13,077,GA 
+30256,Meansville,Georgia ,PIKE,13,231,GA 
+30260,Morrow,Georgia ,CLAYTON,13,063,GA 
+30258,Molena,Georgia ,PIKE,13,231,GA 
+30264,Newnan,Georgia ,COWETA,13,077,GA 
+30266,Orchard Hill,Georgia ,SPALDING,13,255,GA 
+30265,Newnan,Georgia ,COWETA,13,077,GA 
+30269,Peachtree City,Georgia ,FAYETTE,13,113,GA 
+30270,Peachtree City,Georgia ,FAYETTE,13,113,GA 
+30268,Palmetto,Georgia ,FULTON,13,121,GA 
+30271,Newnan,Georgia ,COWETA,13,077,GA 
+30272,Red Oak,Georgia ,FULTON,13,121,GA 
+30273,Rex,Georgia ,CLAYTON,13,063,GA 
+30274,Riverdale,Georgia ,CLAYTON,13,063,GA 
+30277,Sharpsburg,Georgia ,COWETA,13,077,GA 
+30286,Thomaston,Georgia ,UPSON,13,293,GA 
+30281,Stockbridge,Georgia ,HENRY,13,151,GA 
+30276,Senoia,Georgia ,COWETA,13,077,GA 
+30285,The Rock,Georgia ,UPSON,13,293,GA 
+30284,Sunny Side,Georgia ,SPALDING,13,255,GA 
+30288,Conley,Georgia ,CLAYTON,13,063,GA 
+30292,Williamson,Georgia ,PIKE,13,231,GA 
+30287,Morrow,Georgia ,CLAYTON,13,063,GA 
+30289,Turin,Georgia ,COWETA,13,077,GA 
+30290,Tyrone,Georgia ,FAYETTE,13,113,GA 
+30293,Woodbury,Georgia ,MERIWETHER,13,199,GA 
+30291,Union City,Georgia ,FULTON,13,121,GA 
+30275,Sargent,Georgia ,COWETA,13,077,GA 
+30301,Atlanta,Georgia ,FULTON,13,121,GA 
+30298,Forest Park,Georgia ,CLAYTON,13,063,GA 
+30295,Zebulon,Georgia ,PIKE,13,231,GA 
+30302,Atlanta,Georgia ,FULTON,13,121,GA 
+30294,Ellenwood,Georgia ,DEKALB,13,089,GA 
+30296,Riverdale,Georgia ,CLAYTON,13,063,GA 
+30297,Forest Park,Georgia ,CLAYTON,13,063,GA 
+30303,Atlanta,Georgia ,FULTON,13,121,GA 
+30306,Atlanta,Georgia ,FULTON,13,121,GA 
+30308,Atlanta,Georgia ,FULTON,13,121,GA 
+30310,Atlanta,Georgia ,FULTON,13,121,GA 
+30305,Atlanta,Georgia ,FULTON,13,121,GA 
+30304,Atlanta,Georgia ,FULTON,13,121,GA 
+30309,Atlanta,Georgia ,FULTON,13,121,GA 
+30307,Atlanta,Georgia ,FULTON,13,121,GA 
+30311,Atlanta,Georgia ,FULTON,13,121,GA 
+30316,Atlanta,Georgia ,FULTON,13,121,GA 
+30312,Atlanta,Georgia ,FULTON,13,121,GA 
+30313,Atlanta,Georgia ,FULTON,13,121,GA 
+30314,Atlanta,Georgia ,FULTON,13,121,GA 
+30318,Atlanta,Georgia ,FULTON,13,121,GA 
+30315,Atlanta,Georgia ,FULTON,13,121,GA 
+30317,Atlanta,Georgia ,DEKALB,13,089,GA 
+30319,Atlanta,Georgia ,DEKALB,13,089,GA 
+30324,Atlanta,Georgia ,FULTON,13,121,GA 
+30322,Atlanta,Georgia ,DEKALB,13,089,GA 
+30321,Atlanta,Georgia ,FULTON,13,121,GA 
+30326,Atlanta,Georgia ,FULTON,13,121,GA 
+30320,Atlanta,Georgia ,FULTON,13,121,GA 
+30327,Atlanta,Georgia ,FULTON,13,121,GA 
+30325,Atlanta,Georgia ,FULTON,13,121,GA 
+30328,Atlanta,Georgia ,FULTON,13,121,GA 
+30329,Atlanta,Georgia ,DEKALB,13,089,GA 
+30332,Atlanta,Georgia ,FULTON,13,121,GA 
+30333,Atlanta,Georgia ,DEKALB,13,089,GA 
+30336,Atlanta,Georgia ,FULTON,13,121,GA 
+30337,Atlanta,Georgia ,FULTON,13,121,GA 
+30331,Atlanta,Georgia ,FULTON,13,121,GA 
+30334,Atlanta,Georgia ,FULTON,13,121,GA 
+30338,Atlanta,Georgia ,DEKALB,13,089,GA 
+30340,Atlanta,Georgia ,DEKALB,13,089,GA 
+30341,Atlanta,Georgia ,DEKALB,13,089,GA 
+30342,Atlanta,Georgia ,FULTON,13,121,GA 
+30344,Atlanta,Georgia ,FULTON,13,121,GA 
+30343,Atlanta,Georgia ,FULTON,13,121,GA 
+30339,Atlanta,Georgia ,COBB,13,067,GA 
+30345,Atlanta,Georgia ,DEKALB,13,089,GA 
+30346,Atlanta,Georgia ,DEKALB,13,089,GA 
+30348,Atlanta,Georgia ,FULTON,13,121,GA 
+30349,Atlanta,Georgia ,FULTON,13,121,GA 
+30350,Atlanta,Georgia ,FULTON,13,121,GA 
+30354,Atlanta,Georgia ,FULTON,13,121,GA 
+30353,Atlanta,Georgia ,FULTON,13,121,GA 
+30356,Atlanta,Georgia ,DEKALB,13,089,GA 
+30355,Atlanta,Georgia ,FULTON,13,121,GA 
+30357,Atlanta,Georgia ,FULTON,13,121,GA 
+30358,Atlanta,Georgia ,FULTON,13,121,GA 
+30359,Atlanta,Georgia ,DEKALB,13,089,GA 
+30360,Atlanta,Georgia ,DEKALB,13,089,GA 
+30361,Atlanta,Georgia ,FULTON,13,121,GA 
+30362,Atlanta,Georgia ,DEKALB,13,089,GA 
+30363,Atlanta,Georgia ,FULTON,13,121,GA 
+30364,Atlanta,Georgia ,FULTON,13,121,GA 
+30366,Atlanta,Georgia ,DEKALB,13,089,GA 
+30377,Atlanta,Georgia ,FULTON,13,121,GA 
+30370,Atlanta,Georgia ,FULTON,13,121,GA 
+30368,Atlanta,Georgia ,FULTON,13,121,GA 
+30369,Atlanta,Georgia ,FULTON,13,121,GA 
+30378,Atlanta,Georgia ,FULTON,13,121,GA 
+30371,Atlanta,Georgia ,FULTON,13,121,GA 
+30375,Atlanta,Georgia ,FULTON,13,121,GA 
+30374,Atlanta,Georgia ,FULTON,13,121,GA 
+30380,Atlanta,Georgia ,FULTON,13,121,GA 
+30385,Atlanta,Georgia ,FULTON,13,121,GA 
+30388,Atlanta,Georgia ,FULTON,13,121,GA 
+30398,Atlanta,Georgia ,FULTON,13,121,GA 
+30394,Atlanta,Georgia ,FULTON,13,121,GA 
+30384,Atlanta,Georgia ,FULTON,13,121,GA 
+30396,Atlanta,Georgia ,FULTON,13,121,GA 
+30392,Atlanta,Georgia ,FULTON,13,121,GA 
+30401,Swainsboro,Georgia ,EMANUEL,13,107,GA 
+30417,Claxton,Georgia ,EVANS,13,109,GA 
+30414,Bellville,Georgia ,EVANS,13,109,GA 
+30410,Ailey,Georgia ,MONTGOMERY,13,209,GA 
+30412,Alston,Georgia ,MONTGOMERY,13,209,GA 
+30413,Bartow,Georgia ,JEFFERSON,13,163,GA 
+30415,Brooklet,Georgia ,BULLOCH,13,031,GA 
+30411,Alamo,Georgia ,WHEELER,13,309,GA 
+30420,Cobbtown,Georgia ,TATTNALL,13,267,GA 
+30424,Dover,Georgia ,SCREVEN,13,251,GA 
+30425,Garfield,Georgia ,EMANUEL,13,107,GA 
+30426,Girard,Georgia ,BURKE,13,033,GA 
+30423,Daisy,Georgia ,EVANS,13,109,GA 
+30428,Glenwood,Georgia ,WHEELER,13,309,GA 
+30427,Glennville,Georgia ,TATTNALL,13,267,GA 
+30421,Collins,Georgia ,TATTNALL,13,267,GA 
+30429,Hagan,Georgia ,EVANS,13,109,GA 
+30434,Louisville,Georgia ,JEFFERSON,13,163,GA 
+30438,Manassas,Georgia ,TATTNALL,13,267,GA 
+30439,Metter,Georgia ,CANDLER,13,043,GA 
+30436,Lyons,Georgia ,TOOMBS,13,279,GA 
+30442,Millen,Georgia ,JENKINS,13,165,GA 
+30445,Mount Vernon,Georgia ,MONTGOMERY,13,209,GA 
+30441,Midville,Georgia ,BURKE,13,033,GA 
+30446,Newington,Georgia ,SCREVEN,13,251,GA 
+30447,Norristown,Georgia ,EMANUEL,13,107,GA 
+30453,Reidsville,Georgia ,TATTNALL,13,267,GA 
+30448,Nunez,Georgia ,EMANUEL,13,107,GA 
+30450,Portal,Georgia ,BULLOCH,13,031,GA 
+30449,Oliver,Georgia ,SCREVEN,13,251,GA 
+30451,Pulaski,Georgia ,CANDLER,13,043,GA 
+30452,Register,Georgia ,BULLOCH,13,031,GA 
+30454,Rockledge,Georgia ,LAURENS,13,175,GA 
+30455,Rocky Ford,Georgia ,SCREVEN,13,251,GA 
+30456,Sardis,Georgia ,BURKE,13,033,GA 
+30459,Statesboro,Georgia ,BULLOCH,13,031,GA 
+30457,Soperton,Georgia ,TREUTLEN,13,283,GA 
+30464,Stillmore,Georgia ,EMANUEL,13,107,GA 
+30458,Statesboro,Georgia ,BULLOCH,13,031,GA 
+30461,Statesboro,Georgia ,BULLOCH,13,031,GA 
+30460,Statesboro,Georgia ,BULLOCH,13,031,GA 
+30467,Sylvania,Georgia ,SCREVEN,13,251,GA 
+30474,Vidalia,Georgia ,TOOMBS,13,279,GA 
+30471,Twin City,Georgia ,EMANUEL,13,107,GA 
+30473,Uvalda,Georgia ,MONTGOMERY,13,209,GA 
+30470,Tarrytown,Georgia ,MONTGOMERY,13,209,GA 
+30499,Reidsville,Georgia ,TATTNALL,13,267,GA 
+30477,Wadley,Georgia ,JEFFERSON,13,163,GA 
+30475,Vidalia,Georgia ,TOOMBS,13,279,GA 
+30501,Gainesville,Georgia ,HALL,13,139,GA 
+30502,Chestnut Mountain,Georgia ,HALL,13,139,GA 
+30506,Gainesville,Georgia ,HALL,13,139,GA 
+30507,Gainesville,Georgia ,HALL,13,139,GA 
+30510,Alto,Georgia ,HABERSHAM,13,137,GA 
+30504,Gainesville,Georgia ,HALL,13,139,GA 
+30503,Gainesville,Georgia ,HALL,13,139,GA 
+30511,Baldwin,Georgia ,BANKS,13,011,GA 
+30512,Blairsville,Georgia ,UNION,13,291,GA 
+30513,Blue Ridge,Georgia ,FANNIN,13,111,GA 
+30516,Bowersville,Georgia ,HART,13,147,GA 
+30518,Buford,Georgia ,GWINNETT,13,135,GA 
+30519,Buford,Georgia ,GWINNETT,13,135,GA 
+30517,Braselton,Georgia ,JACKSON,13,157,GA 
+30515,Buford,Georgia ,GWINNETT,13,135,GA 
+30514,Blairsville,Georgia ,UNION,13,291,GA 
+30521,Carnesville,Georgia ,FRANKLIN,13,119,GA 
+30520,Canon,Georgia ,FRANKLIN,13,119,GA 
+30522,Cherry Log,Georgia ,GILMER,13,123,GA 
+30527,Clermont,Georgia ,HALL,13,139,GA 
+30525,Clayton,Georgia ,RABUN,13,241,GA 
+30529,Commerce,Georgia ,JACKSON,13,157,GA 
+30528,Cleveland,Georgia ,WHITE,13,311,GA 
+30523,Clarkesville,Georgia ,HABERSHAM,13,137,GA 
+30530,Commerce,Georgia ,BANKS,13,011,GA 
+30531,Cornelia,Georgia ,HABERSHAM,13,137,GA 
+30533,Dahlonega,Georgia ,LUMPKIN,13,187,GA 
+30536,Ellijay,Georgia ,GILMER,13,123,GA 
+30537,Dillard,Georgia ,RABUN,13,241,GA 
+30535,Demorest,Georgia ,HABERSHAM,13,137,GA 
+30534,Dawsonville,Georgia ,DAWSON,13,085,GA 
+30538,Eastanollee,Georgia ,STEPHENS,13,257,GA 
+30540,Ellijay,Georgia ,GILMER,13,123,GA 
+30539,East Ellijay,Georgia ,GILMER,13,123,GA 
+30541,Epworth,Georgia ,FANNIN,13,111,GA 
+30542,Flowery Branch,Georgia ,HALL,13,139,GA 
+30545,Helen,Georgia ,WHITE,13,311,GA 
+30543,Gillsville,Georgia ,HALL,13,139,GA 
+30548,Hoschton,Georgia ,JACKSON,13,157,GA 
+30549,Jefferson,Georgia ,JACKSON,13,157,GA 
+30546,Hiawassee,Georgia ,TOWNS,13,281,GA 
+30547,Homer,Georgia ,BANKS,13,011,GA 
+30553,Lavonia,Georgia ,FRANKLIN,13,119,GA 
+30554,Lula,Georgia ,HALL,13,139,GA 
+30555,Mc Caysville,Georgia ,FANNIN,13,111,GA 
+30557,Martin,Georgia ,STEPHENS,13,257,GA 
+30558,Maysville,Georgia ,BANKS,13,011,GA 
+30552,Lakemont,Georgia ,RABUN,13,241,GA 
+30559,Mineral Bluff,Georgia ,FANNIN,13,111,GA 
+30560,Morganton,Georgia ,FANNIN,13,111,GA 
+30562,Mountain City,Georgia ,RABUN,13,241,GA 
+30563,Mount Airy,Georgia ,HABERSHAM,13,137,GA 
+30564,Murrayville,Georgia ,HALL,13,139,GA 
+30567,Pendergrass,Georgia ,JACKSON,13,157,GA 
+30568,Rabun Gap,Georgia ,RABUN,13,241,GA 
+30566,Oakwood,Georgia ,HALL,13,139,GA 
+30572,Suches,Georgia ,UNION,13,291,GA 
+30571,Sautee Nacoochee,Georgia ,WHITE,13,311,GA 
+30565,Nicholson,Georgia ,JACKSON,13,157,GA 
+30575,Talmo,Georgia ,JACKSON,13,157,GA 
+30576,Tiger,Georgia ,RABUN,13,241,GA 
+30573,Tallulah Falls,Georgia ,RABUN,13,241,GA 
+30577,Toccoa,Georgia ,STEPHENS,13,257,GA 
+30582,Young Harris,Georgia ,TOWNS,13,281,GA 
+30580,Turnerville,Georgia ,HABERSHAM,13,137,GA 
+30597,Dahlonega,Georgia ,LUMPKIN,13,187,GA 
+30581,Wiley,Georgia ,RABUN,13,241,GA 
+30599,Commerce,Georgia ,JACKSON,13,157,GA 
+30601,Athens,Georgia ,CLARKE,13,059,GA 
+30598,Toccoa Falls,Georgia ,STEPHENS,13,257,GA 
+30602,Athens,Georgia ,CLARKE,13,059,GA 
+30606,Athens,Georgia ,CLARKE,13,059,GA 
+30603,Athens,Georgia ,CLARKE,13,059,GA 
+30605,Athens,Georgia ,CLARKE,13,059,GA 
+30604,Athens,Georgia ,CLARKE,13,059,GA 
+30607,Athens,Georgia ,CLARKE,13,059,GA 
+30608,Athens,Georgia ,CLARKE,13,059,GA 
+30609,Athens,Georgia ,CLARKE,13,059,GA 
+30612,Athens,Georgia ,CLARKE,13,059,GA 
+30620,Bethlehem,Georgia ,BARROW,13,013,GA 
+30619,Arnoldsville,Georgia ,OGLETHORPE,13,221,GA 
+30622,Bogart,Georgia ,OCONEE,13,219,GA 
+30621,Bishop,Georgia ,OCONEE,13,219,GA 
+30627,Carlton,Georgia ,MADISON,13,195,GA 
+30624,Bowman,Georgia ,ELBERT,13,105,GA 
+30625,Buckhead,Georgia ,MORGAN,13,211,GA 
+30623,Bostwick,Georgia ,MORGAN,13,211,GA 
+30628,Colbert,Georgia ,MADISON,13,195,GA 
+30629,Comer,Georgia ,MADISON,13,195,GA 
+30631,Crawfordville,Georgia ,TALIAFERRO,13,265,GA 
+30630,Crawford,Georgia ,OGLETHORPE,13,221,GA 
+30633,Danielsville,Georgia ,MADISON,13,195,GA 
+30634,Dewy Rose,Georgia ,ELBERT,13,105,GA 
+30635,Elberton,Georgia ,ELBERT,13,105,GA 
+30642,Greensboro,Georgia ,GREENE,13,133,GA 
+30638,Farmington,Georgia ,OCONEE,13,219,GA 
+30643,Hartwell,Georgia ,HART,13,147,GA 
+30639,Franklin Springs,Georgia ,FRANKLIN,13,119,GA 
+30641,Good Hope,Georgia ,WALTON,13,297,GA 
+30645,High Shoals,Georgia ,OCONEE,13,219,GA 
+30646,Hull,Georgia ,MADISON,13,195,GA 
+30647,Ila,Georgia ,MADISON,13,195,GA 
+30660,Rayle,Georgia ,WILKES,13,317,GA 
+30648,Lexington,Georgia ,OGLETHORPE,13,221,GA 
+30655,Monroe,Georgia ,WALTON,13,297,GA 
+30656,Monroe,Georgia ,WALTON,13,297,GA 
+30650,Madison,Georgia ,MORGAN,13,211,GA 
+30663,Rutledge,Georgia ,MORGAN,13,211,GA 
+30664,Sharon,Georgia ,TALIAFERRO,13,265,GA 
+30662,Royston,Georgia ,FRANKLIN,13,119,GA 
+30666,Statham,Georgia ,BARROW,13,013,GA 
+30667,Stephens,Georgia ,OGLETHORPE,13,221,GA 
+30665,Siloam,Georgia ,GREENE,13,133,GA 
+30668,Tignall,Georgia ,WILKES,13,317,GA 
+30669,Union Point,Georgia ,GREENE,13,133,GA 
+30673,Washington,Georgia ,WILKES,13,317,GA 
+30677,Watkinsville,Georgia ,OCONEE,13,219,GA 
+30671,Maxeys,Georgia ,OGLETHORPE,13,221,GA 
+30678,White Plains,Georgia ,GREENE,13,133,GA 
+30683,Winterville,Georgia ,CLARKE,13,059,GA 
+30701,Calhoun,Georgia ,GORDON,13,129,GA 
+30680,Winder,Georgia ,BARROW,13,013,GA 
+30703,Calhoun,Georgia ,GORDON,13,129,GA 
+30707,Chickamauga,Georgia ,WALKER,13,295,GA 
+30708,Cisco,Georgia ,MURRAY,13,213,GA 
+30705,Chatsworth,Georgia ,MURRAY,13,213,GA 
+30710,Cohutta,Georgia ,WHITFIELD,13,313,GA 
+30719,Dalton,Georgia ,WHITFIELD,13,313,GA 
+30721,Dalton,Georgia ,WHITFIELD,13,313,GA 
+30720,Dalton,Georgia ,WHITFIELD,13,313,GA 
+30722,Dalton,Georgia ,WHITFIELD,13,313,GA 
+30711,Crandall,Georgia ,MURRAY,13,213,GA 
+30725,Flintstone,Georgia ,WALKER,13,295,GA 
+30724,Eton,Georgia ,MURRAY,13,213,GA 
+30726,Graysville,Georgia ,CATOOSA,13,047,GA 
+30731,Menlo,Georgia ,CHATTOOGA,13,055,GA 
+30732,Oakman,Georgia ,GORDON,13,129,GA 
+30733,Plainville,Georgia ,GORDON,13,129,GA 
+30730,Lyerly,Georgia ,CHATTOOGA,13,055,GA 
+30736,Ringgold,Georgia ,CATOOSA,13,047,GA 
+30735,Resaca,Georgia ,GORDON,13,129,GA 
+30734,Ranger,Georgia ,GORDON,13,129,GA 
+30728,La Fayette,Georgia ,WALKER,13,295,GA 
+30738,Rising Fawn,Georgia ,DADE,13,083,GA 
+30740,Rocky Face,Georgia ,WHITFIELD,13,313,GA 
+30741,Rossville,Georgia ,WALKER,13,295,GA 
+30750,Lookout Mountain,Georgia ,WALKER,13,295,GA 
+30739,Rock Spring,Georgia ,WALKER,13,295,GA 
+30747,Summerville,Georgia ,CHATTOOGA,13,055,GA 
+30742,Fort Oglethorpe,Georgia ,CATOOSA,13,047,GA 
+30746,Sugar Valley,Georgia ,GORDON,13,129,GA 
+30751,Tennga,Georgia ,MURRAY,13,213,GA 
+30802,Appling,Georgia ,COLUMBIA,13,073,GA 
+30756,Varnell,Georgia ,WHITFIELD,13,313,GA 
+30752,Trenton,Georgia ,DADE,13,083,GA 
+30803,Avera,Georgia ,JEFFERSON,13,163,GA 
+30757,Wildwood,Georgia ,DADE,13,083,GA 
+30755,Tunnel Hill,Georgia ,WHITFIELD,13,313,GA 
+30753,Trion,Georgia ,CHATTOOGA,13,055,GA 
+30805,Blythe,Georgia ,RICHMOND,13,245,GA 
+30807,Camak,Georgia ,WARREN,13,301,GA 
+30810,Gibson,Georgia ,GLASCOCK,13,125,GA 
+30808,Dearing,Georgia ,MCDUFFIE,13,189,GA 
+30809,Evans,Georgia ,COLUMBIA,13,073,GA 
+30806,Boneville,Georgia ,MCDUFFIE,13,189,GA 
+30811,Gough,Georgia ,BURKE,13,033,GA 
+30812,Gracewood,Georgia ,RICHMOND,13,245,GA 
+30813,Grovetown,Georgia ,COLUMBIA,13,073,GA 
+30814,Harlem,Georgia ,COLUMBIA,13,073,GA 
+30817,Lincolnton,Georgia ,LINCOLN,13,181,GA 
+30819,Mesena,Georgia ,WARREN,13,301,GA 
+30815,Hephzibah,Georgia ,RICHMOND,13,245,GA 
+30821,Norwood,Georgia ,WARREN,13,301,GA 
+30818,Matthews,Georgia ,JEFFERSON,13,163,GA 
+30816,Keysville,Georgia ,BURKE,13,033,GA 
+30820,Mitchell,Georgia ,GLASCOCK,13,125,GA 
+30822,Perkins,Georgia ,JENKINS,13,165,GA 
+30824,Thomson,Georgia ,MCDUFFIE,13,189,GA 
+30823,Stapleton,Georgia ,JEFFERSON,13,163,GA 
+30830,Waynesboro,Georgia ,BURKE,13,033,GA 
+30833,Wrens,Georgia ,JEFFERSON,13,163,GA 
+30828,Warrenton,Georgia ,WARREN,13,301,GA 
+30903,Augusta,Georgia ,RICHMOND,13,245,GA 
+30901,Augusta,Georgia ,RICHMOND,13,245,GA 
+30904,Augusta,Georgia ,RICHMOND,13,245,GA 
+30914,Augusta,Georgia ,RICHMOND,13,245,GA 
+30909,Augusta,Georgia ,RICHMOND,13,245,GA 
+30907,Augusta,Georgia ,COLUMBIA,13,073,GA 
+30912,Augusta,Georgia ,RICHMOND,13,245,GA 
+30916,Augusta,Georgia ,RICHMOND,13,245,GA 
+30906,Augusta,Georgia ,RICHMOND,13,245,GA 
+30905,Augusta,Georgia ,RICHMOND,13,245,GA 
+30917,Augusta,Georgia ,COLUMBIA,13,073,GA 
+31003,Allentown,Georgia ,WILKINSON,13,319,GA 
+30919,Augusta,Georgia ,RICHMOND,13,245,GA 
+31006,Butler,Georgia ,TAYLOR,13,269,GA 
+31004,Bolingbroke,Georgia ,MONROE,13,207,GA 
+31001,Abbeville,Georgia ,WILCOX,13,315,GA 
+31002,Adrian,Georgia ,EMANUEL,13,107,GA 
+30999,Augusta,Georgia ,RICHMOND,13,245,GA 
+31005,Bonaire,Georgia ,HOUSTON,13,153,GA 
+31008,Byron,Georgia ,PEACH,13,225,GA 
+31009,Cadwell,Georgia ,LAURENS,13,175,GA 
+31010,Cordele,Georgia ,CRISP,13,081,GA 
+31013,Clinchfield,Georgia ,HOUSTON,13,153,GA 
+31012,Chester,Georgia ,DODGE,13,091,GA 
+31014,Cochran,Georgia ,BLECKLEY,13,023,GA 
+31011,Chauncey,Georgia ,DODGE,13,091,GA 
+31007,Byromville,Georgia ,DOOLY,13,093,GA 
+31015,Cordele,Georgia ,CRISP,13,081,GA 
+31020,Dry Branch,Georgia ,TWIGGS,13,289,GA 
+31016,Culloden,Georgia ,MONROE,13,207,GA 
+31018,Davisboro,Georgia ,WASHINGTON,13,303,GA 
+31019,Dexter,Georgia ,LAURENS,13,175,GA 
+31021,Dublin,Georgia ,LAURENS,13,175,GA 
+31017,Danville,Georgia ,TWIGGS,13,289,GA 
+31022,Dudley,Georgia ,LAURENS,13,175,GA 
+31024,Eatonton,Georgia ,PUTNAM,13,237,GA 
+31026,Eatonton,Georgia ,PUTNAM,13,237,GA 
+31023,Eastman,Georgia ,DODGE,13,091,GA 
+31029,Forsyth,Georgia ,MONROE,13,207,GA 
+31028,Centerville,Georgia ,HOUSTON,13,153,GA 
+31025,Elko,Georgia ,HOUSTON,13,153,GA 
+31027,East Dublin,Georgia ,LAURENS,13,175,GA 
+31030,Fort Valley,Georgia ,PEACH,13,225,GA 
+31032,Gray,Georgia ,JONES,13,169,GA 
+31033,Haddock,Georgia ,JONES,13,169,GA 
+31037,Mc Rae Helena,Georgia ,TELFAIR,13,271,GA 
+31034,Hardwick,Georgia ,BALDWIN,13,009,GA 
+31035,Harrison,Georgia ,WASHINGTON,13,303,GA 
+31031,Gordon,Georgia ,WILKINSON,13,319,GA 
+31036,Hawkinsville,Georgia ,PULASKI,13,235,GA 
+31039,Howard,Georgia ,TAYLOR,13,269,GA 
+31038,Hillsboro,Georgia ,JASPER,13,159,GA 
+31042,Irwinton,Georgia ,WILKINSON,13,319,GA 
+31046,Juliette,Georgia ,MONROE,13,207,GA 
+31044,Jeffersonville,Georgia ,TWIGGS,13,289,GA 
+31040,Dublin,Georgia ,LAURENS,13,175,GA 
+31045,Jewell,Georgia ,WARREN,13,301,GA 
+31041,Ideal,Georgia ,MACON,13,193,GA 
+31047,Kathleen,Georgia ,HOUSTON,13,153,GA 
+31049,Kite,Georgia ,JOHNSON,13,167,GA 
+31054,Mc Intyre,Georgia ,WILKINSON,13,319,GA 
+31051,Lilly,Georgia ,DOOLY,13,093,GA 
+31057,Marshallville,Georgia ,MACON,13,193,GA 
+31055,Mc Rae Helena,Georgia ,TELFAIR,13,271,GA 
+31052,Lizella,Georgia ,BIBB,13,021,GA 
+31050,Knoxville,Georgia ,CRAWFORD,13,079,GA 
+31058,Mauk,Georgia ,MARION,13,197,GA 
+31062,Milledgeville,Georgia ,BALDWIN,13,009,GA 
+31061,Milledgeville,Georgia ,BALDWIN,13,009,GA 
+31064,Monticello,Georgia ,JASPER,13,159,GA 
+31059,Milledgeville,Georgia ,BALDWIN,13,009,GA 
+31065,Montrose,Georgia ,LAURENS,13,175,GA 
+31060,Milan,Georgia ,DODGE,13,091,GA 
+31063,Montezuma,Georgia ,MACON,13,193,GA 
+31066,Musella,Georgia ,CRAWFORD,13,079,GA 
+31067,Oconee,Georgia ,WASHINGTON,13,303,GA 
+31069,Perry,Georgia ,HOUSTON,13,153,GA 
+31068,Oglethorpe,Georgia ,MACON,13,193,GA 
+31075,Rentz,Georgia ,LAURENS,13,175,GA 
+31071,Pineview,Georgia ,WILCOX,13,315,GA 
+31072,Pitts,Georgia ,WILCOX,13,315,GA 
+31070,Pinehurst,Georgia ,DOOLY,13,093,GA 
+31076,Reynolds,Georgia ,TAYLOR,13,269,GA 
+31079,Rochelle,Georgia ,WILCOX,13,315,GA 
+31077,Rhine,Georgia ,DODGE,13,091,GA 
+31078,Roberta,Georgia ,CRAWFORD,13,079,GA 
+31082,Sandersville,Georgia ,WASHINGTON,13,303,GA 
+31083,Scotland,Georgia ,TELFAIR,13,271,GA 
+31081,Rupert,Georgia ,TAYLOR,13,269,GA 
+31084,Seville,Georgia ,WILCOX,13,315,GA 
+31085,Shady Dale,Georgia ,JASPER,13,159,GA 
+31089,Tennille,Georgia ,WASHINGTON,13,303,GA 
+31092,Vienna,Georgia ,DOOLY,13,093,GA 
+31086,Smarr,Georgia ,MONROE,13,207,GA 
+31091,Unadilla,Georgia ,DOOLY,13,093,GA 
+31087,Sparta,Georgia ,HANCOCK,13,141,GA 
+31090,Toomsboro,Georgia ,WILKINSON,13,319,GA 
+31088,Warner Robins,Georgia ,HOUSTON,13,153,GA 
+31093,Warner Robins,Georgia ,HOUSTON,13,153,GA 
+31096,Wrightsville,Georgia ,JOHNSON,13,167,GA 
+31099,Warner Robins,Georgia ,HOUSTON,13,153,GA 
+31095,Warner Robins,Georgia ,HOUSTON,13,153,GA 
+31106,Atlanta,Georgia ,FULTON,13,121,GA 
+31107,Atlanta,Georgia ,DEKALB,13,089,GA 
+31097,Yatesville,Georgia ,UPSON,13,293,GA 
+31098,Warner Robins,Georgia ,HOUSTON,13,153,GA 
+31094,Warthen,Georgia ,WASHINGTON,13,303,GA 
+31119,Atlanta,Georgia ,DEKALB,13,089,GA 
+31136,Atlanta,Georgia ,FULTON,13,121,GA 
+31145,Atlanta,Georgia ,DEKALB,13,089,GA 
+31126,Atlanta,Georgia ,FULTON,13,121,GA 
+31139,Atlanta,Georgia ,FULTON,13,121,GA 
+31131,Atlanta,Georgia ,FULTON,13,121,GA 
+31141,Atlanta,Georgia ,DEKALB,13,089,GA 
+31146,Atlanta,Georgia ,DEKALB,13,089,GA 
+31150,Atlanta,Georgia ,FULTON,13,121,GA 
+31156,Atlanta,Georgia ,FULTON,13,121,GA 
+31169,Peachtree City,Georgia ,FAYETTE,13,113,GA 
+31201,Macon,Georgia ,BIBB,13,021,GA 
+31196,Atlanta,Georgia ,FULTON,13,121,GA 
+31192,Atlanta,Georgia ,FULTON,13,121,GA 
+31195,Atlanta,Georgia ,FULTON,13,121,GA 
+31202,Macon,Georgia ,BIBB,13,021,GA 
+31193,Atlanta,Georgia ,FULTON,13,121,GA 
+31203,Macon,Georgia ,BIBB,13,021,GA 
+31208,Macon,Georgia ,BIBB,13,021,GA 
+31205,Macon,Georgia ,BIBB,13,021,GA 
+31204,Macon,Georgia ,BIBB,13,021,GA 
+31206,Macon,Georgia ,BIBB,13,021,GA 
+31209,Macon,Georgia ,BIBB,13,021,GA 
+31207,Macon,Georgia ,BIBB,13,021,GA 
+31210,Macon,Georgia ,BIBB,13,021,GA 
+31211,Macon,Georgia ,BIBB,13,021,GA 
+31213,Macon,Georgia ,BIBB,13,021,GA 
+31221,Macon,Georgia ,BIBB,13,021,GA 
+31294,Macon,Georgia ,BIBB,13,021,GA 
+31220,Macon,Georgia ,BIBB,13,021,GA 
+31217,Macon,Georgia ,BIBB,13,021,GA 
+31295,Macon,Georgia ,BIBB,13,021,GA 
+31216,Macon,Georgia ,BIBB,13,021,GA 
+31296,Macon,Georgia ,BIBB,13,021,GA 
+31297,Macon,Georgia ,BIBB,13,021,GA 
+31305,Darien,Georgia ,MCINTOSH,13,191,GA 
+31303,Clyo,Georgia ,EFFINGHAM,13,103,GA 
+31302,Bloomingdale,Georgia ,CHATHAM,13,051,GA 
+31307,Eden,Georgia ,EFFINGHAM,13,103,GA 
+31304,Crescent,Georgia ,MCINTOSH,13,191,GA 
+31301,Allenhurst,Georgia ,LIBERTY,13,179,GA 
+31308,Ellabell,Georgia ,BRYAN,13,029,GA 
+31309,Fleming,Georgia ,LIBERTY,13,179,GA 
+31310,Hinesville,Georgia ,LIBERTY,13,179,GA 
+31316,Ludowici,Georgia ,LONG,13,183,GA 
+31313,Hinesville,Georgia ,LIBERTY,13,179,GA 
+31318,Meldrim,Georgia ,EFFINGHAM,13,103,GA 
+31315,Fort Stewart,Georgia ,LIBERTY,13,179,GA 
+31312,Guyton,Georgia ,EFFINGHAM,13,103,GA 
+31319,Meridian,Georgia ,MCINTOSH,13,191,GA 
+31314,Fort Stewart,Georgia ,LIBERTY,13,179,GA 
+31320,Midway,Georgia ,LIBERTY,13,179,GA 
+31321,Pembroke,Georgia ,BRYAN,13,029,GA 
+31322,Pooler,Georgia ,CHATHAM,13,051,GA 
+31326,Rincon,Georgia ,EFFINGHAM,13,103,GA 
+31323,Riceboro,Georgia ,LIBERTY,13,179,GA 
+31324,Richmond Hill,Georgia ,BRYAN,13,029,GA 
+31327,Sapelo Island,Georgia ,MCINTOSH,13,191,GA 
+31328,Tybee Island,Georgia ,CHATHAM,13,051,GA 
+31329,Springfield,Georgia ,EFFINGHAM,13,103,GA 
+31331,Townsend,Georgia ,MCINTOSH,13,191,GA 
+31333,Walthourville,Georgia ,LIBERTY,13,179,GA 
+31402,Savannah,Georgia ,CHATHAM,13,051,GA 
+31403,Savannah,Georgia ,CHATHAM,13,051,GA 
+31406,Savannah,Georgia ,CHATHAM,13,051,GA 
+31405,Savannah,Georgia ,CHATHAM,13,051,GA 
+31404,Savannah,Georgia ,CHATHAM,13,051,GA 
+31401,Savannah,Georgia ,CHATHAM,13,051,GA 
+31408,Savannah,Georgia ,CHATHAM,13,051,GA 
+31407,Port Wentworth,Georgia ,CHATHAM,13,051,GA 
+31409,Savannah,Georgia ,CHATHAM,13,051,GA 
+31414,Savannah,Georgia ,CHATHAM,13,051,GA 
+31412,Savannah,Georgia ,CHATHAM,13,051,GA 
+31410,Savannah,Georgia ,CHATHAM,13,051,GA 
+31415,Savannah,Georgia ,CHATHAM,13,051,GA 
+31411,Savannah,Georgia ,CHATHAM,13,051,GA 
+31416,Savannah,Georgia ,CHATHAM,13,051,GA 
+31418,Savannah,Georgia ,CHATHAM,13,051,GA 
+31419,Savannah,Georgia ,CHATHAM,13,051,GA 
+31503,Waycross,Georgia ,WARE,13,299,GA 
+31501,Waycross,Georgia ,WARE,13,299,GA 
+31420,Savannah,Georgia ,CHATHAM,13,051,GA 
+31502,Waycross,Georgia ,WARE,13,299,GA 
+31510,Alma,Georgia ,BACON,13,005,GA 
+31421,Savannah,Georgia ,CHATHAM,13,051,GA 
+31512,Ambrose,Georgia ,COFFEE,13,069,GA 
+31513,Baxley,Georgia ,APPLING,13,001,GA 
+31519,Broxton,Georgia ,COFFEE,13,069,GA 
+31515,Baxley,Georgia ,APPLING,13,001,GA 
+31518,Bristol,Georgia ,PIERCE,13,229,GA 
+31520,Brunswick,Georgia ,GLYNN,13,127,GA 
+31521,Brunswick,Georgia ,GLYNN,13,127,GA 
+31522,Saint Simons Island,Georgia ,GLYNN,13,127,GA 
+31516,Blackshear,Georgia ,PIERCE,13,229,GA 
+31523,Brunswick,Georgia ,GLYNN,13,127,GA 
+31525,Brunswick,Georgia ,GLYNN,13,127,GA 
+31527,Jekyll Island,Georgia ,GLYNN,13,127,GA 
+31532,Denton,Georgia ,JEFF DAVIS,13,161,GA 
+31534,Douglas,Georgia ,COFFEE,13,069,GA 
+31533,Douglas,Georgia ,COFFEE,13,069,GA 
+31535,Douglas,Georgia ,COFFEE,13,069,GA 
+31524,Brunswick,Georgia ,GLYNN,13,127,GA 
+31537,Folkston,Georgia ,CHARLTON,13,049,GA 
+31543,Hortense,Georgia ,BRANTLEY,13,025,GA 
+31546,Jesup,Georgia ,WAYNE,13,305,GA 
+31542,Hoboken,Georgia ,BRANTLEY,13,025,GA 
+31545,Jesup,Georgia ,WAYNE,13,305,GA 
+31548,Kingsland,Georgia ,CAMDEN,13,039,GA 
+31544,Jacksonville,Georgia ,TELFAIR,13,271,GA 
+31539,Hazlehurst,Georgia ,JEFF DAVIS,13,161,GA 
+31547,Kings Bay,Georgia ,CAMDEN,13,039,GA 
+31549,Lumber City,Georgia ,TELFAIR,13,271,GA 
+31550,Manor,Georgia ,WARE,13,299,GA 
+31552,Millwood,Georgia ,WARE,13,299,GA 
+31555,Odum,Georgia ,WAYNE,13,305,GA 
+31553,Nahunta,Georgia ,BRANTLEY,13,025,GA 
+31551,Mershon,Georgia ,PIERCE,13,229,GA 
+31554,Nicholls,Georgia ,COFFEE,13,069,GA 
+31556,Offerman,Georgia ,PIERCE,13,229,GA 
+31557,Patterson,Georgia ,PIERCE,13,229,GA 
+31564,Waresboro,Georgia ,WARE,13,299,GA 
+31563,Surrency,Georgia ,APPLING,13,001,GA 
+31562,Saint George,Georgia ,CHARLTON,13,049,GA 
+31560,Screven,Georgia ,WAYNE,13,305,GA 
+31561,Sea Island,Georgia ,GLYNN,13,127,GA 
+31558,Saint Marys,Georgia ,CAMDEN,13,039,GA 
+31565,Waverly,Georgia ,CAMDEN,13,039,GA 
+31566,Waynesville,Georgia ,BRANTLEY,13,025,GA 
+31567,West Green,Georgia ,COFFEE,13,069,GA 
+31602,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31568,White Oak,Georgia ,CAMDEN,13,039,GA 
+31601,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31598,Jesup,Georgia ,WAYNE,13,305,GA 
+31599,Jesup,Georgia ,WAYNE,13,305,GA 
+31569,Woodbine,Georgia ,CAMDEN,13,039,GA 
+31603,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31604,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31624,Axson,Georgia ,ATKINSON,13,003,GA 
+31620,Adel,Georgia ,COOK,13,075,GA 
+31622,Alapaha,Georgia ,BERRIEN,13,019,GA 
+31606,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31625,Barney,Georgia ,BROOKS,13,027,GA 
+31605,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31623,Argyle,Georgia ,CLINCH,13,065,GA 
+31627,Cecil,Georgia ,COOK,13,075,GA 
+31626,Boston,Georgia ,THOMAS,13,275,GA 
+31629,Dixie,Georgia ,BROOKS,13,027,GA 
+31632,Hahira,Georgia ,LOWNDES,13,185,GA 
+31631,Fargo,Georgia ,CLINCH,13,065,GA 
+31635,Lakeland,Georgia ,LANIER,13,173,GA 
+31630,Du Pont,Georgia ,CLINCH,13,065,GA 
+31634,Homerville,Georgia ,CLINCH,13,065,GA 
+31636,Lake Park,Georgia ,LOWNDES,13,185,GA 
+31638,Morven,Georgia ,BROOKS,13,027,GA 
+31637,Lenox,Georgia ,COOK,13,075,GA 
+31642,Pearson,Georgia ,ATKINSON,13,003,GA 
+31641,Naylor,Georgia ,LOWNDES,13,185,GA 
+31645,Ray City,Georgia ,BERRIEN,13,019,GA 
+31639,Nashville,Georgia ,BERRIEN,13,019,GA 
+31643,Quitman,Georgia ,BROOKS,13,027,GA 
+31648,Statenville,Georgia ,ECHOLS,13,101,GA 
+31647,Sparks,Georgia ,COOK,13,075,GA 
+31649,Stockton,Georgia ,LANIER,13,173,GA 
+31698,Valdosta,Georgia ,LOWNDES,13,185,GA 
+31650,Willacoochee,Georgia ,ATKINSON,13,003,GA 
+31699,Moody AFB,Georgia ,LOWNDES,13,185,GA 
+31701,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31702,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31703,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31704,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31705,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31708,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31709,Americus,Georgia ,SUMTER,13,261,GA 
+31711,Andersonville,Georgia ,SUMTER,13,261,GA 
+31706,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31707,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31712,Arabi,Georgia ,CRISP,13,081,GA 
+31714,Ashburn,Georgia ,TURNER,13,287,GA 
+31722,Berlin,Georgia ,COLQUITT,13,071,GA 
+31727,Brookfield,Georgia ,TIFT,13,277,GA 
+31720,Barwick,Georgia ,BROOKS,13,027,GA 
+31719,Americus,Georgia ,SUMTER,13,261,GA 
+31716,Baconton,Georgia ,MITCHELL,13,205,GA 
+31721,Albany,Georgia ,DOUGHERTY,13,095,GA 
+31730,Camilla,Georgia ,MITCHELL,13,205,GA 
+31733,Chula,Georgia ,TIFT,13,277,GA 
+31735,Cobb,Georgia ,SUMTER,13,261,GA 
+31747,Ellenton,Georgia ,COLQUITT,13,071,GA 
+31744,Doerun,Georgia ,COLQUITT,13,071,GA 
+31738,Coolidge,Georgia ,THOMAS,13,275,GA 
+31739,Cotton,Georgia ,MITCHELL,13,205,GA 
+31749,Enigma,Georgia ,BERRIEN,13,019,GA 
+31743,De Soto,Georgia ,SUMTER,13,261,GA 
+31750,Fitzgerald,Georgia ,BEN HILL,13,017,GA 
+31753,Funston,Georgia ,COLQUITT,13,071,GA 
+31756,Hartsfield,Georgia ,COLQUITT,13,071,GA 
+31758,Thomasville,Georgia ,THOMAS,13,275,GA 
+31757,Thomasville,Georgia ,THOMAS,13,275,GA 
+31760,Irwinville,Georgia ,IRWIN,13,155,GA 
+31763,Leesburg,Georgia ,LEE,13,177,GA 
+31764,Leslie,Georgia ,SUMTER,13,261,GA 
+31765,Meigs,Georgia ,THOMAS,13,275,GA 
+31768,Moultrie,Georgia ,COLQUITT,13,071,GA 
+31769,Mystic,Georgia ,IRWIN,13,155,GA 
+31771,Norman Park,Georgia ,COLQUITT,13,071,GA 
+31772,Oakfield,Georgia ,WORTH,13,321,GA 
+31773,Ochlocknee,Georgia ,THOMAS,13,275,GA 
+31774,Ocilla,Georgia ,IRWIN,13,155,GA 
+31775,Omega,Georgia ,TIFT,13,277,GA 
+31776,Moultrie,Georgia ,COLQUITT,13,071,GA 
+31778,Pavo,Georgia ,THOMAS,13,275,GA 
+31779,Pelham,Georgia ,MITCHELL,13,205,GA 
+31780,Plains,Georgia ,SUMTER,13,261,GA 
+31783,Rebecca,Georgia ,TURNER,13,287,GA 
+31787,Smithville,Georgia ,LEE,13,177,GA 
+31782,Putney,Georgia ,DOUGHERTY,13,095,GA 
+31781,Poulan,Georgia ,WORTH,13,321,GA 
+31788,Moultrie,Georgia ,COLQUITT,13,071,GA 
+31784,Sale City,Georgia ,MITCHELL,13,205,GA 
+31790,Sycamore,Georgia ,TURNER,13,287,GA 
+31789,Sumner,Georgia ,WORTH,13,321,GA 
+31791,Sylvester,Georgia ,WORTH,13,321,GA 
+31793,Tifton,Georgia ,TIFT,13,277,GA 
+31796,Warwick,Georgia ,WORTH,13,321,GA 
+31794,Tifton,Georgia ,TIFT,13,277,GA 
+31792,Thomasville,Georgia ,THOMAS,13,275,GA 
+31795,Ty Ty,Georgia ,TIFT,13,277,GA 
+31799,Thomasville,Georgia ,THOMAS,13,275,GA 
+31798,Wray,Georgia ,IRWIN,13,155,GA 
+31801,Box Springs,Georgia ,TALBOT,13,263,GA 
+31805,Cusseta,Georgia ,CHATTAHOOCHEE,13,053,GA 
+31803,Buena Vista,Georgia ,MARION,13,197,GA 
+31807,Ellerslie,Georgia ,HARRIS,13,145,GA 
+31806,Ellaville,Georgia ,SCHLEY,13,249,GA 
+31804,Cataula,Georgia ,HARRIS,13,145,GA 
+31808,Fortson,Georgia ,MUSCOGEE,13,215,GA 
+31810,Geneva,Georgia ,TALBOT,13,263,GA 
+31811,Hamilton,Georgia ,HARRIS,13,145,GA 
+31814,Louvale,Georgia ,STEWART,13,259,GA 
+31812,Junction City,Georgia ,TALBOT,13,263,GA 
+31822,Pine Mountain,Georgia ,HARRIS,13,145,GA 
+31816,Manchester,Georgia ,MERIWETHER,13,199,GA 
+31820,Midland,Georgia ,MUSCOGEE,13,215,GA 
+31815,Lumpkin,Georgia ,STEWART,13,259,GA 
+31821,Omaha,Georgia ,STEWART,13,259,GA 
+31823,Pine Mountain Valley,Georgia ,HARRIS,13,145,GA 
+31824,Preston,Georgia ,WEBSTER,13,307,GA 
+31826,Shiloh,Georgia ,HARRIS,13,145,GA 
+31831,Waverly Hall,Georgia ,HARRIS,13,145,GA 
+31827,Talbotton,Georgia ,TALBOT,13,263,GA 
+31830,Warm Springs,Georgia ,MERIWETHER,13,199,GA 
+31832,Weston,Georgia ,WEBSTER,13,307,GA 
+31825,Richland,Georgia ,STEWART,13,259,GA 
+31829,Upatoi,Georgia ,MUSCOGEE,13,215,GA 
+31833,West Point,Georgia ,TROUP,13,285,GA 
+31906,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31905,Fort Benning,Georgia ,MUSCOGEE,13,215,GA 
+31902,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31904,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31903,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31836,Woodland,Georgia ,TALBOT,13,263,GA 
+31901,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31907,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31908,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31993,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31917,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31997,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31914,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31909,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31995,Fort Benning,Georgia ,MUSCOGEE,13,215,GA 
+31998,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+31999,Columbus,Georgia ,MUSCOGEE,13,215,GA 
+39817,Bainbridge,Georgia ,DECATUR,13,087,GA 
+39818,Bainbridge,Georgia ,DECATUR,13,087,GA 
+39823,Blakely,Georgia ,EARLY,13,099,GA 
+39815,Attapulgus,Georgia ,DECATUR,13,087,GA 
+39824,Bluffton,Georgia ,CLAY,13,061,GA 
+39819,Bainbridge,Georgia ,DECATUR,13,087,GA 
+39813,Arlington,Georgia ,CALHOUN,13,037,GA 
+39827,Cairo,Georgia ,GRADY,13,131,GA 
+39828,Cairo,Georgia ,GRADY,13,131,GA 
+39832,Cedar Springs,Georgia ,EARLY,13,099,GA 
+39826,Bronwood,Georgia ,TERRELL,13,273,GA 
+39834,Climax,Georgia ,DECATUR,13,087,GA 
+39829,Calvary,Georgia ,GRADY,13,131,GA 
+39825,Brinson,Georgia ,DECATUR,13,087,GA 
+39836,Coleman,Georgia ,RANDOLPH,13,243,GA 
+39837,Colquitt,Georgia ,MILLER,13,201,GA 
+39845,Donalsonville,Georgia ,SEMINOLE,13,253,GA 
+39841,Damascus,Georgia ,EARLY,13,099,GA 
+39851,Fort Gaines,Georgia ,CLAY,13,061,GA 
+39846,Edison,Georgia ,CALHOUN,13,037,GA 
+39842,Dawson,Georgia ,TERRELL,13,273,GA 
+39840,Cuthbert,Georgia ,RANDOLPH,13,243,GA 
+39852,Fowlstown,Georgia ,DECATUR,13,087,GA 
+39854,Georgetown,Georgia ,QUITMAN,13,239,GA 
+39859,Iron City,Georgia ,SEMINOLE,13,253,GA 
+39862,Leary,Georgia ,CALHOUN,13,037,GA 
+39866,Morgan,Georgia ,CALHOUN,13,037,GA 
+39877,Parrott,Georgia ,TERRELL,13,273,GA 
+39867,Morris,Georgia ,QUITMAN,13,239,GA 
+39870,Newton,Georgia ,BAKER,13,007,GA 
+39861,Jakin,Georgia ,EARLY,13,099,GA 
+39886,Shellman,Georgia ,RANDOLPH,13,243,GA 
+39885,Sasser,Georgia ,TERRELL,13,273,GA 
+39897,Whigham,Georgia ,GRADY,13,131,GA 
+39901,Atlanta,Georgia ,DEKALB,13,089,GA 
