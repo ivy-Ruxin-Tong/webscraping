@@ -1,3 +1,3 @@
 # webscraping
 
-US Geodata - Zipcode/City/State/County/State FIPs/County FTIPS
+US Geodata - Zipcode/City/State/County/State FIPs/County FIPS
